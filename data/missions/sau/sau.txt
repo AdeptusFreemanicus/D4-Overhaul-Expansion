@@ -1,6 +1,6 @@
 [config]
 currency = "SA"
-population = 3418 # 34,218,169
+population = 18022
 economic_cycle_start = 0
 min_income = 0
 max_income = 1500000

@@ -1,6 +1,6 @@
 [config]
 currency = "€"
-population = 736 # ~1,900,000
+population = 951
 economic_cycle_start = 0.25
 min_income = 0
 max_income = 7777

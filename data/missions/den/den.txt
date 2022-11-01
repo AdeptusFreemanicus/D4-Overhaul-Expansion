@@ -1,6 +1,6 @@
 [config]
 currency = "Dkk"
-population = 2300
+population = 2897
 economic_cycle_start = 0
 min_income = 0
 max_income = 120000

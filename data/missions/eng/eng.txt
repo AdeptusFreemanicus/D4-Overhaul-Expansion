@@ -1,6 +1,6 @@
 [config]
 currency = "£"
-population = 1500 # 53,012,456
+population = 28143
 economic_cycle_start = 0.75
 min_income = 0
 max_income = 150000

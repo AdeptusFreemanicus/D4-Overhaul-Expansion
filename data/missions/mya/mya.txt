@@ -1,6 +1,6 @@
 [config]
 currency = "K"
-population = 53582 # 53,582,855
+population = 27101
 economic_cycle_start = 0
 min_income = 0
 max_income = 12000

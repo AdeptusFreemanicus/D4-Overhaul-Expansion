@@ -1,6 +1,6 @@
 [config]
 currency = "元"	
-population = 1741 # 7,413,070
+population = 3748
 economic_cycle_start = 0.25
 min_income = 0
 max_income = 122000

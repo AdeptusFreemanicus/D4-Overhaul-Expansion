@@ -1,6 +1,6 @@
 [config]
 currency = "PLN"
-population = 21523
+population = 18875
 economic_cycle_start = 0.38
 min_income = 0
 max_income = 150000

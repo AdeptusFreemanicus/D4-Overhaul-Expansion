@@ -1,6 +1,6 @@
 [config]
 currency = "BSD"
-population = 46 # 400,516
+population = 192
 economic_cycle_start = 0.25
 min_income = 0
 max_income = 12200

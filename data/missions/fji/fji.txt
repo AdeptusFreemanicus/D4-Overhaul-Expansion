@@ -1,6 +1,6 @@
 [config]
 currency = "FJ$"
-population = 90 # 926,276
+population = 448
 economic_cycle_start = 0.25
 min_income = 0
 max_income = 32000

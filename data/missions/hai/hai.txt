@@ -1,6 +1,6 @@
 [config]
 currency = "G"
-population = 1114 # 11,439,646
+population = 5701
 economic_cycle_start = 0.25
 min_income = 0
 max_income = 3200

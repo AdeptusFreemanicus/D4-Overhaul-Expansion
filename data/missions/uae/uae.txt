@@ -1,6 +1,6 @@
 [config]
 currency = "AED"
-population = 1282 # 9,282,410
+population = 5083
 economic_cycle_start = 0
 min_income = 0
 max_income = 1800000

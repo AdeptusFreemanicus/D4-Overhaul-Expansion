@@ -1,6 +1,6 @@
 [config]
 currency = "¥"
-population = 674000
+population = 726034
 economic_cycle_start = 0.2
 min_income = 0
 max_income = 195000

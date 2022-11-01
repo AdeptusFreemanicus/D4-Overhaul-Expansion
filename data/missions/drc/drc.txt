@@ -1,6 +1,6 @@
 [config]
 currency = "CDF"
-population = 45749 # ~92mil
+population = 25650
 economic_cycle_start = 0.25
 min_income = 0
 max_income = 1520

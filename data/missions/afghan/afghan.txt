@@ -1,6 +1,6 @@
 [config]
 currency = "AFN"
-population = 21749
+population = 18146
 economic_cycle_start = 0.25
 min_income = 0
 max_income = 122000

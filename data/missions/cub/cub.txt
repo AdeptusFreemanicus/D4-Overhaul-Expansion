@@ -1,6 +1,6 @@
 [config]
 currency = "CUP"
-population = 15749
+population = 5670
 economic_cycle_start = 0.25
 min_income = 0
 max_income = 152000

@@ -1,6 +1,6 @@
 [config]
 currency = "NZ$"
-population = 23377
+population = 2456
 economic_cycle_start = 0
 min_income = 0
 max_income = 15000

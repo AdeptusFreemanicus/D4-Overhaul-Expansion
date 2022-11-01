@@ -1,6 +1,6 @@
 [config]
 currency = "IS"
-population = 5638
+population = 4327
 economic_cycle_start = 0
 min_income = 0
 max_income = 300495

@@ -1,6 +1,6 @@
 [config]
 currency = "₺"
-population = 38071
+population = 43224
 economic_cycle_start = 0.2
 min_income = 0
 max_income = 150000

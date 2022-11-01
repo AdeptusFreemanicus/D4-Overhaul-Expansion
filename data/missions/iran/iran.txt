@@ -1,6 +1,6 @@
 [config]
 currency = "IRR"
-population = 42749
+population = 41996
 economic_cycle_start = 0.25
 min_income = 0
 max_income = 242000
