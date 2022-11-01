@@ -1,0 +1,20 @@
+[config]
+name  = sth
+guiname = "República da África do Sul"
+description = "A África do Sul, oficialmente República da África do Sul, é o país mais meridional da África. Com mais de 60 milhões de pessoas, é a 23ª nação mais populosa do mundo. A África do Sul tem três capitais: Pretória executiva, Bloemfontein judicial e Cidade do Cabo legislativa. A maior cidade é Joanesburgo. Cerca de 80% dos sul-africanos são de ascendência negra africana, divididos entre uma variedade de grupos étnicos que falam diferentes línguas africanas. A população restante consiste nas maiores comunidades africanas de ascendência europeia (sul-africanos brancos), asiáticos (sul-africanos indianos e sul-africanos chineses) e multirracial (sul-africanos de cor).
+
+jobtitle = "Presidente"
+
+[stats]
+Hino Nacional: = "Unidade na diversidade"
+População: = "66 milhões (2021)"
+Área: = "1.221.037 km2 (471.445 sq mi)"
+Moeda: = "Rand sul-africano R (ZAR)"
+PIB: = "US$ 748 bilhões"
+PIB per capita: = "$ 12.351"
+Índice de Democracia: = "7,05/10 (45º)"
+Maior Setor: = "Setor de Mineração"
+Capitais: = "Pretória (executivo) Cidade do Cabo (legislativo) Bloemfontein (judicial)"
+Maior cidade: = "Joanesburgo"
+Lado de condução: = "Esquerda"
+Código de chamada: = "+27"

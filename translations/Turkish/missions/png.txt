@@ -1,0 +1,20 @@
+[config]
+name  = png
+guiname = "Papua Yeni Gine Bağımsız Devleti"
+description = "Papua Yeni Gine, resmi olarak Bağımsız Papua Yeni Gine Devleti, Okyanusya'da, Yeni Gine adasının doğu yarısını ve Melanezya'daki açık deniz adalarını (Avustralya'nın kuzeyindeki güneybatı Pasifik Okyanusu bölgesi) içeren bir ülkedir. Güneydoğu kıyısı boyunca yer alan başkenti Port Moresby'dir. 462.840 km2 (178.700 sq mi) yüzölçümü ile dünyanın üçüncü büyük ada ülkesidir.
+jobtitle = "Başbakan"
+
+[stats]
+Slogan: = "Çeşitlilik içinde birlik"
+İstiklal Marşı: = "Ey Kalk, Hepiniz Oğullar"
+Kraliyet marşı = "Tanrı Kraliçeyi Korusun"
+Nüfus: = "8,9 milyon (2020)"
+Alan: = "462.840 km2 (178.700 sq mi)"
+Para Birimi: = "Kina (PGK)"
+GSYİH: = "32,382 milyar dolar"
+Kişi başına GSYİH: = "3.764 $"
+Demokrasi Endeksi: = "~6.10/10 (70.)"
+En Büyük Sanayi: = "Tarım"
+Başkent ve En Büyük Şehir: = "Port Moresby"
+Sürüş tarafı: = "Sol"
+Arama kodu: = "+675"

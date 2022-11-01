@@ -1,0 +1,171 @@
+[config]
+currency = "IS"
+population = 5638
+economic_cycle_start = 0
+min_income = 0
+max_income = 300495
+name  = israel
+names_file = "data/names/israelinames.txt"
+flag = "flag_israel.png"
+map = "map_israel.svg"
+GUID = 11
+fx_rate_to_pound = 2.0
+apathy = 0.33
+starting_debt = 755000
+min_gdp = 7000000
+max_gdp = 2500000
+wealth_mod = 4790
+
+
+[policies]
+_prereq_has_coast = 1
+_prereq_mining_industry = 1
+_prereq_land_border = 1
+_prereq_sovereign_currency = 1
+_prereq_nuclear_tech = 1
+
+AbortionLaw = 0.4
+AdultEducationSubsidies = 0.5
+AgricultureSubsidies = 0.7
+AlcoholLaw = 0.6
+AlcoholTax = 0.65
+AntibioticsBan = 0.5
+ArmedPolice = 0.2
+ArtsSubsidies = 0.85
+bantobacco = 0.29
+BiofuelSubsidies = 0.5
+BodyCameras = 0.1
+BorderControls = 0.55
+BusinessStartupCampaign = 0.8
+BusLanes = 0.3
+BusSubsidies = 0.4
+CapitalControls = 0.1
+CapitalGainsTax = 0.5
+CarEmmissionsLimits = 0.65
+CarTax = 0.1
+CCTVCameras = 0.5
+CharityTaxRelief = 0.5
+ChildBenefit = 0.1
+ChildcareProvision = 0.3
+CitizenshipTests = 1.0
+CleanFuelSubsidy = 0.5
+CompulsoryFoodLabelling = 0.25
+CongestionCharging = 0.5
+ConsumerRights = 0.25
+CorporationTax = 0.41
+Creationism = 0.8
+Cyberbullyingawarenesscampaign = 0.1
+CyclingCampaign = 0.2
+DeathPenalty = 0.05
+DiplomaticService = 0.5
+DisabilityBenefit = 0.5
+DivertedProfitsTax = 0.25
+DriverlessCarLaws = 0.2#
+DrugEnforcement = 0.5
+ElectricCarsInitiative = 0.3
+EnterpriseInvestmentScheme = 0.1
+ExecutiveTermLength = 0.5
+ExecutiveTermLimit = 0
+FoodStamps = 0.05
+FoodStandards = 0.4
+ForeignAid = 0.25
+ForeignInvestmentRestrictions = 0.2
+ForeignInvestorTaxBreaks = 0.2
+FreeSchoolMeals = 1.0
+GameHunting = 0.7
+GatedCommunities = 0.75
+GenderDiscriminationAct = 0.1
+GenderTransition = 0.1
+HandgunLaws = 0.9
+HybridCarsInitiative = 0.2
+IDCards = 0.5
+IncomeTax = 0.52
+InheritanceTax = 0.65
+ImmigrationRules = 0.125
+IntellectualPropertyRights = 0.95
+IntelligenceServices = 0.75
+InternationalFusionResearchProject = 0.1
+InternetCensorship = 0.25
+JudiciaryIndependence = 0.85
+JuryTrial = 0.45
+LaborDayBankHoliday = 0.5
+LabourLaws = 0.25
+LegalAid = 0.1
+LuxuryGoodsTax = 0.03
+MaternityLeave = 0.2
+MicrogenerationGrants = 0.2
+MilitarySpending = 0.56
+MinimumWage = 0.3
+Narcotics = 0
+NationalArmedForcesWeek = 0.1
+NationalBusinessCouncil = 0.55
+NationalService = 0.6
+NeedleExchangeProgram = 0.25
+NuclearFission = 0.38
+NuclearWeapons = 0.6
+OrganDonation = 0.8
+PayrollTax = 0.5
+PetrolTax = 0.1
+PhoneTapping = 0.75
+PlasticBagTax = 0.5
+PoliceDrones = 0.35
+PoliceForce = 0.69
+PollutionControls = 0.05
+PressFreedom = 0.75
+PrisonerTagging = 0.25
+PrisonRegime = 0.5
+Prisons = 0.4
+PrivatePrisons = 0.2
+PropertyTax = 0.32
+PublicLibraries = 0.3
+QuantitativeEasing = 0.1
+RacialProfiling = 0.1
+Recycling = 0.85
+Reforestation = 0.25
+RightToDie = 0.5
+RoadBuilding = 0.5
+RoboticsResearch = 0.5
+SalesTax = 0.15
+SchoolBuses = 0.5
+ScienceFunding = 0.73
+SelectiveSchooling = 0
+SmallBusinessGrants = 0.25
+SmartMeterProgram = 0.1
+SocialCare = 0.05
+SpeedCameras = 0.4
+StateBroadcaster = 0.4
+StateEnergy = 0.5
+StateHealthService = 0.4
+StateHousing = 0.65
+StatePensions = 0.40
+StatePostService = 0.5
+StateRail = 0.6
+StateSchools = 0.57
+StateWater = 0.5
+StemCells = 0.5
+SyntheticMeatResearchGrants = 0.2
+Tasers = 0.40
+TearGas = 0.2
+TechnologyColleges = 0.5
+TechnologyGrants = 0.5
+TobaccoTax = 0.1
+TollRoads = 0.55
+TourismAdCampaign = 0.5
+UnemployedBenefit = 0.4
+WaterCannon = 0.1
+WorkSafetyLaw = 0.35
+YoungEntrepreneurScheme = 1.0
+
+interest_rate= 0.06
+
+[options]
+
+
+
+
+
+
+
+
+
+

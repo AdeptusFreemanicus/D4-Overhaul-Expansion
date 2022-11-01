@@ -1,0 +1,19 @@
+[config]
+name  = est
+guiname = "República da Estônia"
+description = "A Estônia, oficialmente República da Estônia, é um país do norte da Europa. É limitado ao norte pelo Golfo da Finlândia em frente à Finlândia, a oeste pelo Mar Báltico em frente à Suécia, ao sul pela Letônia e a leste pelo Lago Peipus e pela Rússia. O território da Estônia é composto pelo continente, as ilhas maiores de Saaremaa e Hiiumaa e mais de 2.200 outras ilhas e ilhotas na costa leste do Mar Báltico, cobrindo uma área total de 47.549 km2. O tamanho do território sem o Lago Peipsi é de 43.432,31 km2. A capital Tallinn e Tartu são as duas maiores áreas urbanas do país. A língua estoniana é a língua autóctone e oficial da Estônia; é a primeira língua da maioria de seu povo, bem como a segunda língua finlandesa mais falada do mundo."
+
+jobtitle = "Presidente"
+
+[stats]
+Hino Nacional: = "Minha Pátria, Minha Felicidade e Alegria"
+População: = "1,328 milhão (2018)"
+Área: = "47.549 km2"
+Moeda: = "Euro (€) (EUR)"
+PIB: = "US$ 49 bilhões"
+PIB per capita: = "$44.853"
+Índice de Democracia: = "~7,74/10 (27º)"
+Maior Setor: = "Setor Industrial/Setor de Energia"
+Capital (e maior cidade): = "Tallin"
+Lado de condução: = "direito"
+Código de chamada: = "+372"

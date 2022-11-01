@@ -1,0 +1,19 @@
+[config]
+name  = eng
+guiname = "Inglaterra"
+description = "A Inglaterra é um país que faz parte do Reino Unido. Compartilha fronteiras terrestres com o País de Gales a oeste e a Escócia ao norte. O Mar da Irlanda fica a noroeste da Inglaterra e o Mar Céltico a sudoeste. A Inglaterra é separada da Europa continental pelo Mar do Norte a leste e pelo Canal da Mancha ao sul. O país cobre cinco oitavos da ilha da Grã-Bretanha, que fica no Atlântico Norte, e inclui mais de 100 ilhas menores, como as Ilhas Scilly e a Ilha de Wight.
+
+jobtitle = "Monarca"
+
+[stats]
+Hino Nacional: = "Deus Salve a Rainha"
+População: = "56.286.961 (2019 est)"
+Área: = "130.279 km2 (50.301 sq mi)"
+Moeda: = "Libra esterlina (GBP; £)"
+VAB: = "£ 1,9 trilhão"
+VAB per capita: = "£ 33.800"
+Índice de Democracia: = "~8,10/10 (18º)"
+Maior Indústria: = "Manufatura/Turismo"
+Capital (e maior cidade): = "Londres"
+Lado de condução: = "esquerdo"
+Código de chamada: = "+44"

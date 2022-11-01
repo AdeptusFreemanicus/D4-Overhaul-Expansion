@@ -1,0 +1,18 @@
+[config]
+name  = norway
+guiname = "Norveç Krallığı"
+description = "Resmi olarak Norveç Krallığı olan Norveç, anakara toprakları İskandinav Yarımadası'nın batı ve en kuzey bölümünü oluşturan Kuzey Avrupa'da bir İskandinav ülkesidir. Uzak Arktik adası Jan Mayen ve Svalbard takımadaları da Norveç'in bir parçasını oluşturur. Subantarktika'da bulunan Bouvet Adası, Norveç'e bağımlıdır; ayrıca I. Peter Adası ve Kraliçe Maud Ülkesi'nin Antarktika toprakları üzerinde hak iddia ediyor. Norveç'in toplam alanı 385.207 kilometrekare (148.729 sq mi) ve Kasım 2020 itibariyle 5.385.300 nüfusa sahip. Ülke, İsveç ile uzun bir doğu sınırını paylaşıyor (1.619 km veya 1.006 mil uzunluğunda)."
+jobtitle = "Başbakan"
+
+[stats]
+İstiklal Marşı: = "Evet, bu ülkeyi seviyoruz"
+Nüfus: = "5,3 milyon (2020)"
+Alan: = "385.207 km2 (148.729 sq mi)"
+Para birimi: = "Norveç kronu kr (NOK)"
+GSYİH: = "397 milyar dolar (~3,419,256,419,163,400,00 kron)"
+Kişi başına düşen GSYİH: = "79.638 $ (kr685.901.12 NOK)"
+Demokrasi Endeksi: = "~9.87/10 (1.)"
+En Büyük Sanayi: = "Petrol ve Gaz İhracatı"
+Başkent ve En Büyük Şehir: = "Oslo"
+Sürüş tarafı: = "sağ"
+Arama kodu: = "+47"

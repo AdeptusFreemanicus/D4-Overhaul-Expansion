@@ -1,0 +1,19 @@
+[config]
+name  = indo
+guiname = "República da Indonésia"
+description = "A Indonésia, oficialmente a República da Indonésia, é um país no sudeste da Ásia e Oceania, entre os oceanos Índico e Pacífico. Consiste em mais de dezessete mil ilhas, incluindo Sumatra, Java, Sulawesi e partes de Bornéu (Kalimantan) e Nova Guiné (Papua). A Indonésia é o maior país insular do mundo e o 14º maior país em área terrestre, com 1.904.569 quilômetros quadrados (735.358 milhas quadradas). Com 270 milhões de pessoas, é o quarto país mais populoso do mundo, bem como o país de maioria muçulmana mais populoso. Java, a ilha mais populosa do mundo, abriga mais da metade da população do país."
+
+jobtitle = "Presidente"
+
+[stats]
+Lema: = "Unidade na Diversidade"
+Hino Nacional: = "Grande Indonésia"
+População: = "270 milhões (2020)"
+Área: = "1.904.569 km2 (735.358 sq mi)"
+Moeda: = "Rúpia indonésia (Rp)"
+PIB: = "US$ 1,089 trilhão (14.027.944.154.499.000,00 Rp)"
+PIB per capita: = "$ 4.038 (56.111.003,76 rp)"
+Índice de Democracia: = "6,48/10 (64º)"
+Maior Indústria: = "Agricultura"
+Capital e maior cidade: = "Jacarta"
+Lado de condução: = "esquerdo"

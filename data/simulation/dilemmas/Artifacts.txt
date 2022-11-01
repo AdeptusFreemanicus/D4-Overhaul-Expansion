@@ -1,0 +1,14 @@
+[dilemma]
+name=Artifacts
+
+[influences]
+0 = _random_,0.1,0.4
+1 = Tourism,0+(0.50*x)
+2 = EthnicMinorities_freq,0+(0.50*x)
+
+[option0]
+OnImplement = CreateGrudge(EthnicMinorities,0.10,0.90);CreateGrudge(Patriot,-0.10,0.80);CreateGrudge(ForeignRelations,0.05,0.80);CreateGrudge(Tourism,-0.10,0.97);
+
+
+[option1]
+OnImplement = CreateGrudge(Patriot,0.10,0.80);CreateGrudge(EthnicMinorities,-0.10,0.90);CreateGrudge(ForeignRelations,-0.05,0.80);

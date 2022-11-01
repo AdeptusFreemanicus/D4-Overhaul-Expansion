@@ -1,0 +1,1 @@
+CreateGrudge(Indian Geography,India,Farmers_freq,0.035,1,0);

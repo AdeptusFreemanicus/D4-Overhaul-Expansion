@@ -1,0 +1,28 @@
+[config]
+name  = nth
+guiname = "Países Bajos"
+description = "Holanda, informalmente Holanda, es un país ubicado en Europa Occidental con territorios en el Caribe. Es el más grande de los cuatro países constituyentes del Reino de los Países Bajos. En Europa, los Países Bajos están formados por doce provincias, que limitan con Alemania al este, Bélgica al sur y el Mar del Norte al noroeste, con fronteras marítimas en el Mar del Norte con esos países y el Reino Unido. En el Caribe, consta de tres municipios especiales: las islas de Bonaire, Sint Eustatius y Saba."
+
+jobtitle = "Monarca"
+
+[stats]
+Himno Nacional: = "Mantendré"
+Población: = "17,4 millones (2020)"
+Área: = "41,865 km2 (16,164 millas cuadradas)"
+Moneda: = "Euro (EUR)"
+PIB: = "$ 1.012 (~ EUR844452000000.00 EUR)"
+PIB per cápita: = "$ 58,003 (~ EUR48980.75 EUR)"
+Índice de democracia: = "~ 9.66 / 10 (noveno)"
+Industria más grande: = "Agricultura e industria alimentaria"
+Capital y ciudad más grande: = "Amsterdam"
+Lado de conducción: = "Derecha"
+Código de llamada: = "+31"
+
+
+
+
+
+
+
+
+

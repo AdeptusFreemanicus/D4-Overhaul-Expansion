@@ -1,0 +1,19 @@
+[config]
+name  = norway
+guiname = "Reino da Noruega"
+description = "A Noruega, oficialmente o Reino da Noruega, é um país nórdico no norte da Europa, cujo território continental compreende a porção ocidental e setentrional da Península Escandinava. A remota ilha ártica de Jan Mayen, bem como o arquipélago de Svalbard, também fazem parte da Noruega. A Ilha Bouvet, localizada no Subantártico, é uma dependência da Noruega; também reivindica os territórios antárticos da Ilha de Pedro I e da Terra da Rainha Maud. A Noruega tem uma área total de 385.207 quilômetros quadrados (148.729 milhas quadradas) e uma população de 5.385.300 em novembro de 2020. O país compartilha uma longa fronteira oriental com a Suécia (1.619 km ou 1.006 milhas de comprimento)."
+
+jobtitle = "primeiro ministro"
+
+[stats]
+Hino Nacional: = "Sim, nós amamos este país"
+População: = "5,3 milhões (2020)"
+Área: = "385.207 km2 (148.729 sq mi)"
+Moeda: = "Coroa norueguesa kr (NOK)"
+PIB: = "$397 bilhões (~kr3.419.256.419.163.400,00 NOK)"
+PIB per capita: = "$ 79.638 (kr 685.901,12 NOK)"
+Índice de Democracia: = "~9,87/10 (1º)"
+Maior Indústria: = "Exportações de Petróleo e Gás"
+Capital e maior cidade: = "Oslo"
+Lado de condução: = "direito"
+Código de chamada: = "+47"

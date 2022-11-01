@@ -1,0 +1,20 @@
+[config]
+name  = bur
+guiname = "Brunei Darussalam"
+description = "Brunei, formalmente Brunei Darussalamt, é um país localizado na costa norte da ilha de Bornéu, no sudeste da Ásia. Além de sua costa do Mar da China Meridional, é completamente cercada pelo estado malaio de Sarawak. É separado em duas partes pelo distrito de Sarawak de Limbang. Brunei é o único estado soberano inteiramente em Bornéu; o restante da ilha é dividido entre Malásia e Indonésia. A partir de 2020, sua população era de 460.345, dos quais cerca de 100.000 vivem na capital e maior cidade, Bandar Seri Begawan. O governo é uma monarquia absoluta governada por seu sultão, intitulado Yang di-Pertuan, e implementa uma combinação de lei comum inglesa e lei sharia, bem como práticas islâmicas gerais".
+
+jobtitle = "Sultão"
+
+[stats]
+Lema: = "Sempre a serviço com a orientação de Deus"
+Hino Nacional: = "Deus abençoe o sultão"
+População: = "460.345 (2020 est)"
+Área: = "5.765 km2 (2.226 sq mi)"
+Moeda: = "Dólar Brunei (BND)"
+PIB: = "US$ 36,854 bilhões"
+PIB per capita: = "$ 85.011"
+Índice de democracia: = "Sem dados"
+Maior Indústria: = "Indústria de Petróleo e Gás"
+Capital e maior cidade: = "Bandar Seri Begawan"
+Lado de condução: = "Esquerda"
+Código de chamada: = "+673"

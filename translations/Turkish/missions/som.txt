@@ -1,0 +1,17 @@
+[config]
+name  = som
+guiname = "Federal Somali Cumhuriyeti"
+description = "Somali, resmen Somali Federal Cumhuriyeti, Afrika Boynuzu'nda bir ülkedir. Batıda Etiyopya, kuzeybatıda Cibuti, kuzeyde Aden Körfezi, doğuda Hint Okyanusu ve güneybatıda Kenya ile komşudur. Somali, Afrika anakarasındaki en uzun sahil şeridine sahiptir. Arazisi esas olarak yaylalar, ovalar ve yaylalardan oluşur. Yıl boyunca sıcak koşullar hüküm sürüyor, periyodik muson rüzgarları ve düzensiz yağışlarla, Somali'nin tahmini nüfusu 15 milyon civarında ve Afrika'nın kültürel olarak en homojen ülkesi olarak tanımlanıyor."
+jobtitle = "Devlet Başkanı"
+
+[stats]
+İstiklal Marşı: = "Qolobaa Calankeed"
+Nüfus: = "15 milyon kişi (2020)"
+Alan: = "637.657 km2 (246.201 sq mi)"
+Para birimi: = "Somali şilini (SOS)"
+GSYİH: = "5,218 milyar dolar"
+Kişi başına GSYİH: = "348$"
+Demokrasi Endeksi: = "?/10 (?th) Bilinmiyor"
+En Büyük Sanayi: = "Tarım"
+Başkent ve En Büyük Şehir: = "Mogadişu"
+Sürüş tarafı: = "sağ"

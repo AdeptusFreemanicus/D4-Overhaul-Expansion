@@ -1,0 +1,18 @@
+[config]
+name  = som
+guiname = "República Federal da Somália"
+description = "Somália, oficialmente a República Federal da Somália é um país no Chifre da África. Faz fronteira com a Etiópia a oeste, Djibuti a noroeste, o Golfo de Aden ao norte, o Oceano Índico a leste e o Quênia a sudoeste. A Somália tem o litoral mais longo do continente africano. Seu terreno consiste principalmente de planaltos, planícies e terras altas. As condições quentes prevalecem durante todo o ano, com ventos de monção periódicos e chuvas irregulares, a Somália tem uma população estimada em cerca de 15 milhões e foi descrita como o país mais culturalmente homogêneo da África."
+
+jobtitle = "Presidente"
+
+[stats]
+Hino Nacional: = "Qolobaa Calanked"
+População: = "15 milhões de pessoas (2020)"
+Área: = "637.657 km2 (246.201 sq mi)"
+Moeda: = "Xelim somali (SOS)"
+PIB: = "US$ 5,218 bilhões"
+PIB per capita: = "$348"
+Índice de Democracia: = "?/10 (?th) Desconhecido"
+Maior Indústria: = "Agricultura"
+Capital e maior cidade: = "Mogadíscio"
+Lado de condução: = "direito"

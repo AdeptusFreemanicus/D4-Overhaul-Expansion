@@ -1,0 +1,18 @@
+[config]
+name  = irl
+guiname = "irlanda Cumhuriyeti"
+description = "İrlanda, Resmi olarak İrlanda Cumhuriyeti, İrlanda adasının 32 ilçesinden 26'sını içeren kuzeybatı Avrupa'da bir ülkedir. Başkent ve en büyük şehir, adanın doğu tarafında bulunan Dublin'dir. Ülkenin 5 milyonluk nüfusunun yaklaşık %40'ı Büyük Dublin Bölgesi'nde yaşıyor. Egemen devlet, tek kara sınırını Birleşik Krallık'ın bir parçası olan Kuzey İrlanda ile paylaşıyor. Aksi takdirde, güneyde Kelt Denizi, güneydoğuda St George Kanalı ve doğuda İrlanda Denizi ile Atlantik Okyanusu ile çevrilidir. Üniter, parlamenter bir cumhuriyettir. Yasama organı, Oireachtas, bir alt meclis, Dáil Éireann, bir üst meclis, Seanad Éireann ve büyük ölçüde devlet başkanı olarak görev yapan, ancak bazı önemli yetki ve görevlere sahip seçilmiş bir Başkandan (Uachtarán) oluşur. Hükümet başkanı, Dáil tarafından seçilen ve Başkan tarafından atanan Taoiseach'dir (Başbakan, kelimenin tam anlamıyla 'Şef', İngilizce'de kullanılmayan bir unvan); Taoiseach sırayla diğer hükümet bakanlarını atar."
+jobtitle = "Devlet Başkanı"
+
+[stats]
+İstiklal Marşı: = "Askerlerin Şarkısı"
+Nüfus: = "5 milyon (2021 tahmini)"
+Alan: = "70,273 km2 (27,133 sq mi)"
+Para Birimi: = "Euro (€) (EUR)"
+GSYİH: = "500 milyar dolar"
+Kişi başına GSYİH: = "99.239$"
+Demokrasi Endeksi: = "~9.05/10 (8.)"
+En Büyük Sektör: = "İhracat ve Ticaret"
+Başkent ve En Büyük Şehir: = "Dublin"
+Sürüş tarafı: = "Sol"
+Arama kodu: = "+353"

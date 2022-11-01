@@ -1,0 +1,1 @@
+CreateGrudge(Indian Demography,USA,Retired_freq,0.08,1,0);

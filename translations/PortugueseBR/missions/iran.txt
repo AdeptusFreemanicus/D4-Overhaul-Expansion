@@ -1,0 +1,20 @@
+[config]
+name  = iran
+guiname = "República Islâmica do Irã"
+description = "O Irã, também chamado de Pérsia, e oficialmente República Islâmica do Irã, é um país da Ásia Ocidental; com 83 milhões de habitantes. É limitado a noroeste pela Armênia e pelo Azerbaijão, ao norte pelo Mar Cáspio, a nordeste pelo Turcomenistão, a leste pelo Afeganistão, a sudeste pelo Paquistão, ao sul pelo Golfo Pérsico e pelo Golfo de Omã. e a oeste pela Turquia e Iraque. Teerã é a capital e maior cidade, também é a cidade mais populosa da Ásia Ocidental, com mais de 8,8 milhões de habitantes e até 15 milhões, incluindo a área metropolitana. O Irã é o 17º país mais populoso do mundo. Abrangendo 1.648.195 km2 (636.372 sq mi), é o segundo maior país do Oriente Médio e o 17º maior do mundo."
+
+jobtitle = "Líder supremo"
+
+[stats]
+Lema: = "Independência, liberdade, a República Islâmica"
+Hino Nacional: = "Hino Nacional da República Islâmica do Irã"
+População: = "83 milhões (2019)"
+Área: = "1.648.195 km2 (636.372 MI quadrado)"
+Moeda: = "Rial (IRR)"
+PIB: = "US$ 1,007 trilhão (~42.254.256.202.146.760,00 TIR)"
+PIB per capita: = "$ 11.963 (502.130.255,38 TIR)"
+Índice de Democracia: = "~2,38/10 (151º)"
+Maior Indústria: = "Petróleo e Gás"
+Capital: = "Teerã"
+Lado de condução: = "direito"
+Código de chamada: = "+98"

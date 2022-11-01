@@ -1,0 +1,13 @@
+[dilemma]
+name=CartoonCrisis
+
+[influences]
+0 = _random_,0,0.25
+1 = RacialTension,0.0+(0.75*x)
+2 = InternationalTrade,0.0+(0.75*x)
+
+[option0]
+OnImplement = CreateGrudge(Liberal,-0.10,0.9f);CreateGrudge(Patriot,-0.10,0.9f);CreateGrudge(RacialTension,-0.10,0.9f);
+
+[option1]
+OnImplement = CreateGrudge(RacialTension,0.10,0.9f);CreateGrudge(Religious,-0.10,0.9f);CreateGrudge(ForeignRelations,-0.10,0.9f);CreateGrudge(Education,0.05,0.9f);

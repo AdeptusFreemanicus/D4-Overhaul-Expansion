@@ -1,0 +1,20 @@
+[config]
+name  = mya
+guiname = "União de Mianmar"
+description = "Mianmar, oficialmente a República da União de Mianmar, também chamada de Birmânia, é um país do Sudeste Asiático. É o maior país do Sudeste Asiático continental e tem uma população de cerca de 54 milhões em 2017. Mianmar faz fronteira com Bangladesh e Índia a noroeste, China a nordeste, Laos e Tailândia a leste e sudeste, e Andaman Mar e a Baía de Bengala ao sul e sudoeste. A capital do país é Naypyidaw, e sua maior cidade é Yangon (Rangoon)."
+
+jobtitle = "Presidente"
+
+[stats]
+Hino Nacional: = "Até o Fim do Mundo"
+População: = "53.582.855 milhões de pessoas (2017)"
+Área: = "676.578 km2 (261.228 sq mi)"
+Moeda: = "Kyat (K) (MMK)"
+PIB: = "US$ 243,420 bilhões"
+PIB per capita: = "$4.517"
+Índice de Democracia: = "~1,02/10 (166º)"
+Maior Indústria: = "Agricultura"
+Maiúsculas: = "Naypyidaw"
+Maior cidade: = "Yangon"
+Lado de condução: = "direito"
+Código de chamada: = "+95"

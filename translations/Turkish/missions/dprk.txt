@@ -1,0 +1,18 @@
+[config]
+name  = dprk
+guiname = "Kore Demokratik Halk Cumhuriyeti"
+description = "Kuzey Kore, resmi olarak Kore Demokratik Halk Cumhuriyeti, Chosŏn Minjujuŭi Inmin Konghwaguk, Doğu Asya'da Kore Yarımadası'nın kuzey bölümünü oluşturan bir ülkedir. Ülke kuzeyde Çin ve Rusya tarafından Amnok (Çincede Yalu olarak bilinir) ve Tumen nehirleri boyunca ve güneyde Güney Kore ile sınırlanmıştır ve bu ikisini ayıran yoğun şekilde güçlendirilmiş Kore Silahsızlandırılmış Bölgesi (DMZ) vardır. Kuzey Kore, güneydeki muadili gibi, tüm yarımadanın ve komşu adaların meşru hükümeti olduğunu iddia ediyor. Pyongyang, ülkenin başkenti ve en büyük şehridir."
+jobtitle = "Yüce lider"
+
+[stats]
+İstiklal Marşı: = "Vatansever Şarkısı"
+Nüfus: = "25,5 milyon (2018)"
+Alan: = "120.540 km2 (46.540 sq mi)"
+Para Birimi: = "Kore Halkının Kazandığı (₩)"
+GSYİH: = "30 milyar dolar"
+Kişi başına GSYİH: = "1,300$"
+Demokrasi Endeksi: = "~1.06/10 (167. Son)"
+En Büyük Sanayi: = "Tarım/Madencilik"
+Başkent (ve en büyük şehir): = "Pyongyang"
+Sürüş tarafı: = "sağ"
+Arama kodu: = "+850"

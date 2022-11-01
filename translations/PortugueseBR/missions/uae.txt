@@ -1,0 +1,19 @@
+[config]
+name  = uae
+guiname = "Emirados Árabes Unidos"
+description = "Os Emirados Árabes Unidos, ou simplesmente os Emirados, são um país da Ásia Ocidental. Está localizado no extremo leste da Península Arábica e faz fronteira com Omã e Arábia Saudita, além de ter fronteiras marítimas no Golfo Pérsico com Catar e Irã. Abu Dhabi é a capital do país, enquanto Dubai, a cidade mais populosa, é um centro internacional."
+
+jobtitle = "Presidente"
+
+[stats]
+Hino Nacional: = "Viva o meu país"
+População: = "9.282.410 pessoas (2020 est)"
+Área: = "83.600 km2 (32.300 sq mi)"
+Moeda: = "Dirham dos Emirados Árabes Unidos (AED)"
+PIB: = "US$ 763,182 bilhões"
+PIB per capita: = "$ 59.844"
+Índice de Democracia: = "2,90/10 (134º)"
+Maior Indústria: = "Turismo/Indústria Petrolífera"
+Capital e Maior Cidade: = "Abu Dhabi"
+Lado de condução: = "direito"
+Código de chamada: = "+971"

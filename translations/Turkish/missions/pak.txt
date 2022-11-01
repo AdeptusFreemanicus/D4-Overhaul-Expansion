@@ -1,0 +1,19 @@
+[config]
+name  = pak
+guiname = "Pakistan İslam Cumhuriyeti"
+description = "Pakistan, resmi olarak Pakistan İslam Cumhuriyeti, Güney Asya'da bir ülkedir. 212,2 milyonu aşan nüfusuyla dünyanın en kalabalık beşinci ülkesidir. Dünyanın en büyük ikinci Müslüman nüfusuna sahiptir. 881,913 kilometrekarelik (340.509 mil kare) alana göre 33. en büyük ülkedir. Pakistan, güneyde Arap Denizi ve Umman Körfezi boyunca 1.046 kilometrelik (650 millik) bir kıyı şeridine sahiptir ve doğuda Hindistan, batıda Afganistan, güneybatıda İran ve kuzeydoğuda Çin ile sınır komşusudur. Kuzeybatıda Afganistan'ın Wakhan Koridoru ile Tacikistan'dan dar bir şekilde ayrılıyor ve aynı zamanda Umman ile bir deniz sınırını paylaşıyor."
+jobtitle = "Devlet Başkanı"
+
+[stats]
+Slogan: = "İnanç, Birlik, Disiplin"
+İstiklal Marşı: = "İstiklal Marşı (Çok Orijinal)"
+Nüfus: = "212,2 milyon kişi (2018)"
+Alan: = "881.913 km2 (340.509 sq mi)"
+Para birimi: = "Pakistan rupisi (₨) (PKR)"
+GSYİH: = "276.1 milyar dolar"
+Kişi başına GSYİH: = "1.349 $"
+Demokrasi Endeksi: = "4.31/10 (105.)"
+En Büyük Endüstri: = "Maden Endüstrisi"
+Başkent: = "İslamabad"
+En Büyük Şehir: = "Karaçi (Eski Başkent)"
+Sürüş tarafı: = "sol"

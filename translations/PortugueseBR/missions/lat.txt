@@ -1,0 +1,19 @@
+[config]
+name  = lat
+guiname = "República da Letônia"
+description = "A Letônia, oficialmente a República da Letônia, é um país da região do Báltico, no norte da Europa. É um dos estados bálticos; e faz fronteira com a Estônia ao norte, a Lituânia ao sul, a Rússia a leste, a Bielorrússia a sudeste e compartilha uma fronteira marítima com a Suécia a oeste. A Letônia cobre uma área de 64.589 km2 (24.938 milhas quadradas), com uma população de 1,9 milhão. O país tem um clima sazonal temperado. Sua capital e maior cidade é Riga. Os letões pertencem ao grupo etnolinguístico dos bálticos; e falam letão, uma das duas únicas línguas bálticas sobreviventes. Os russos são a minoria mais proeminente do país, com quase um quarto da população."
+
+jobtitle = "Presidente"
+
+[stats]
+Hino Nacional: = "Deus abençoe a Letônia!"
+População: = "1,9 milhão (2018)"
+Área: = "64.589 km2"
+Moeda: = "Euro (€) (EUR)"
+PIB: = "US$ 70 bilhões"
+PIB per capita: = "$37.009
+Índice de Democracia: = "~7,37/10 (38º)"
+Maior Setor: = "Setor Industrial/Setor Agropecuário"
+Capital (e maior cidade): = "Riga"
+Lado de condução: = "direito"
+Código de chamada: = "+371"

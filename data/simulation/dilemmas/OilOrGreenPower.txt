@@ -1,0 +1,11 @@
+[dilemma]
+name=OilOrGreenPower
+
+[influences]
+0 = _random_,0.1,0.4
+
+[option0]
+OnImplement = CreateGrudge(Liberal,0.03,0.9);CreateGrudge(ForeignRelations,0.03,0.9);;CreateGrudge(Environmentalist,0.04,0.9);CreateGrudge(OilSupply,-0.08,0.9);CreateGrudge(Capitalist,-0.05,0.9);
+
+[option1]
+OnImplement = CreateGrudge(Liberal,-0.05,0.9);CreateGrudge(ForeignRelations,-0.05,0.9);;CreateGrudge(Environmentalist,-0.08,0.9);CreateGrudge(OilSupply,0.04,0.9);CreateGrudge(Capitalist,0.03,0.9);

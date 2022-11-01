@@ -1,0 +1,161 @@
+[config]
+currency = "NZ$"
+population = 23377
+economic_cycle_start = 0
+min_income = 0
+max_income = 15000
+min_gdp = 20000
+max_gdp = 200000
+wealth_mod = 1.0
+fx_rate_to_pound = 0.75
+name  = nzl
+names_file = "data/names/uknames.txt"
+flag = "flag_nzl.png"
+map = "map_nzl.svg"
+GUID = 11
+apathy = 0.81
+starting_debt = 13309
+
+[policies]
+AdultEducationSubsidies = 0.25
+AgricultureSubsidies = 0.65
+AirlineTax = 0.02
+AlcoholLaw = 0.5
+AlcoholTax = 0.25
+AntibioticsBan = 0.5
+ArmedPolice = 0.5
+ArtsSubsidies = 0.23
+BanSundayShopping = 0.5
+bantobacco = 0.25
+BorderControls = 0.5
+BusLanes = 0.4
+BusSubsidies = 0.5
+CapitalGainsTax = 0.17
+CarbonCaptureAndStorage = 0.1
+CarbonTax = 0.1
+CarEmmissionsLimits = 0.1
+CarPoolingCampaign = 0.25
+CarTax = 0.1
+CCTVCameras = 0.25
+CharityTaxRelief = 0.44
+ChildBenefit = 0.2
+ChildcareProvision = 0.55
+CitizenshipTests = 0.5
+CleanEnergySubsidies = 0.35
+ClimateChangeAdaptionFund = 0.1
+CommunityPolicing = 0.5
+CompulsoryFoodLabelling = 0.5
+ConsumerRights = 0.5
+CorporationTax = 0.44
+DiplomaticService = 0.1
+DisabilityBenefit = 0.5
+DrugEnforcement = 0.5
+DrugTreatment = 0.8
+ElectricCarsInitiative = 0.12
+ExecutiveTermLength = 0.25
+ExecutiveTermLimit = 1
+FaithSchoolSubsidies = 0.76
+FamilyPlanning = 0.5
+FoodStandards = 0.5
+ForeignAid = 0.12
+FreeEyeTests = 0.5
+FreeParentingClasses = 0.1
+FreeSchoolMeals = 0.25
+Gambling = 0.95
+GameHunting = 0.1
+GatedCommunities = 0.24
+GayMarriage = 0.75
+GenderDiscriminationAct = 0.25
+GenderTransition = 0.2
+HandgunLaws = 0.85
+HumanCloningResearchGrants = 0.05
+HybridCarsInitiative = 0.2
+IDCards = 0.5
+IncomeTax = 0.47
+InheritanceTax = 0.55
+IntellectualPropertyRights = 0.9
+IntelligenceServices = 0.45InternetCensorship
+InternetCurrencyTaxation = 0.17
+JudiciaryIndependence = 0.85
+JunkFoodTax = 0.25
+JuryTrial = 0.45
+LaborDayBankHoliday = 0.5
+LabourLaws = 0.85
+LegalAid = 0.6
+LegaliseProstitution = 0.5
+MarriedTaxAllowance = 0.4
+MaternityLeave = 0.3
+MicrogenerationGrants = 0.3
+MilitarySpending = 0.32
+MinimumWage = 0.4
+NeedleExchangeProgram = 0.5
+Newcarsubsidies = 0.2
+NuclearFission = 0.32
+OrganDonation = 0.75
+PayrollTax = 0.7
+PetrolTax = 0.15
+PlasticBagTax = 0.5
+PoliceDrones = 0.25
+PoliceForce = 0.5
+PollutionControls = 0.5
+PressFreedom = 0.85
+PrisonerTagging = 0.25
+PrisonerVoting = 1
+Prisons = 0.5
+PrivatePrisons = 0.4
+PropertyTax = 0.2
+PublicLibraries = 0.3
+RaceDiscriminationAct = 0.75
+Recycling = 0.45
+Reforestation = 0.12
+RentControls = 0.5
+RightToPrivacy = 0.35
+RoadBuilding = 0.5
+RubberBullets = 0.35
+SalesTax = 0.52
+SchoolBuses = 0.35
+SchoolPrayers = 0.66
+ScienceFunding = 0.45
+SelectiveSchooling = 0.75
+SmartMeterProgram = 0.2
+StateBroadcaster = 0.2
+StateEnergy = 0.2
+StateHealthService = 0.82
+StateHousing = 0.05
+StatePensions = 0.33
+StatePostService = 0.45
+StateRail = 0.2
+StateSchools = 0.55
+StateWater = 0.1
+StemCells = 0.5
+Tasers = 0.5
+TechnologyGrants = 0.34
+TobaccoAwarenessCampaign = 0.4
+TobaccoTax = 0.15
+TollRoads = 0.55
+TourismAdCampaign = 0.4
+UnemployedBenefit = 0.3
+UniversityGrants = 0.5
+WitnessProtectionProgram = 0.5
+WorkSafetyLaw = 0.6
+
+interest_rate= 0.06
+
+_prereq_hurricane = 1
+_prereq_has_coast = 1
+_prereq_land_border = 1
+_prereq_mining_industry = 1
+_prereq_royal_family = 1
+_prereq_sovereign_currency = 1
+
+[options]
+MULTIPLEPARTIES
+
+
+
+
+
+
+
+
+

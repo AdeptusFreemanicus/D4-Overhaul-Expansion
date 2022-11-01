@@ -1,0 +1,19 @@
+[config]
+name  = uae
+guiname = "United Arab Emirates"
+description = "The United Arab Emirates, or simply the Emirates, is a country in Western Asia. It is located at the eastern end of the Arabian Peninsula, and shares borders with Oman and Saudi Arabia, while having maritime borders in the Persian Gulf with Qatar and Iran. Abu Dhabi is the nation's capital, while Dubai, the most populous city, is an international hub."
+
+jobtitle = "President"
+
+[stats]
+National Anthem: = "Long Live My Country"
+Population: = "9,282,410 people (2020 est)"
+Area: = "83,600 km2 (32,300 sq mi)"
+Currency: = "UAE dirham (AED)"
+GDP: = "$763.182 billion"
+GDP per capita: = "$59,844"
+Democracy Index: = "2.90/10 (134th)"
+Biggest Industry: = "Tourism/Oil Industry"
+Capital and Largest City: = "Abu Dhabi"
+Driving side: =	"right"
+Calling code: = "+971"

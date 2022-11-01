@@ -1,0 +1,19 @@
+[config]
+name  = cub
+guiname = "Küba Cumhuriyeti"
+description = "Küba, resmi olarak Küba Cumhuriyeti, Küba adasının yanı sıra Isla de la Juventud ve birkaç küçük takımadadan oluşan bir ülkedir. Küba, Kuzey Karayip Denizi, Meksika Körfezi ve Atlantik Okyanusu'nun buluştuğu yerde bulunur. Yucatán Yarımadası'nın (Meksika) doğusunda, hem ABD'nin Florida eyaletinin hem de Bahamalar'ın güneyinde, Hispaniola'nın batısında ve hem Jamaika hem de Cayman Adaları'nın kuzeyindedir. Havana en büyük şehir ve başkenttir; diğer büyük şehirler Santiago de Cuba ve Camagüey'dir. Küba Cumhuriyeti'nin resmi alanı 109.884 km2'dir (42.426 sq mi) (karasuları hariç). Küba'nın ana adası, 104.556 km2 (40.369 sq mi) alanıyla Küba ve Karayipler'deki en büyük adadır. Küba, 11 milyondan fazla nüfusuyla Karayipler'de Haiti'den sonra ikinci en kalabalık ülkedir."
+jobtitle = "Ilk sekreter"
+
+[stats]
+Slogan: = "Vatan Ya Ölüm, Üstesinden Geleceğiz"
+Milli Marş: = "Bayamo Şarkısı"
+Nüfus: = "11 milyon (2020)"
+Alan: = "109.884 km2 (42.426 sq mi)"
+Para Birimi: = "Küba Pezosu (CUP)"
+GSYİH: = "105.865 milyar dolar"
+Kişi başına GSYİH: = "22,237$"
+Demokrasi Endeksi: = "~7.51/10 (36.)"
+En Büyük Sanayi: = "Tarım"
+Başkent ve En Büyük Şehir: = "Havana"
+Sürüş tarafı: = "sağ"
+Arama kodu: = "+53"

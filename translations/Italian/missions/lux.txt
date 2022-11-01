@@ -1,0 +1,18 @@
+[config]
+name  = lux
+guiname = "Granducato di Lussemburgo"
+description = "Il Lussemburgo, ufficialmente Granducato di Lussemburgo, è un paese senza sbocco sul mare dell'Europa occidentale. Confina a ovest e nord con il Belgio, a est con la Germania e a sud con la Francia. La sua capitale, Città di Lussemburgo, è una delle quattro capitali ufficiali dell'Unione Europea (insieme a Bruxelles, Francoforte e Strasburgo) e sede della Corte di Giustizia dell'Unione Europea, la massima autorità giudiziaria dell'UE. La sua cultura, le persone e le lingue sono fortemente intrecciate con i suoi vicini, rendendolo un misto di cultura francese e tedesca. Ha tre lingue ufficiali: francese, tedesco e la lingua nazionale del lussemburghese."
+jobtitle = "gran Duca"
+
+[stats]
+Motto: = "Vogliamo rimanere ciò che siamo"
+Inno Nazionale: = "La nostra Patria"
+Popolazione: = "626 centomila persone (2020)"
+Area: = "2.586,4 km2 (998,6 miglia quadrate)"
+Valuta: = "Euro (€) (EUR)"
+PIL: = "$69,453 miliardi"
+PIL pro capite: = "$113.196"
+Indice di democrazia: = "8,68/10 (13°)"
+Più grande industria: = "Banca"
+Capitale e città più grande: = "Città di Lussemburgo"
+Lato guida: = "destra"

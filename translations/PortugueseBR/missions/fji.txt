@@ -1,0 +1,20 @@
+[config]
+name  = fji
+guiname = "República de Fiji"
+description = "Fiji, oficialmente a República de Fiji, é um país insular na Melanésia, parte da Oceania no Oceano Pacífico Sul. Fica a cerca de 1.100 milhas náuticas (2.000 km; 1.300 milhas) a nordeste da Nova Zelândia. Fiji consiste em um arquipélago de mais de 330 ilhas - das quais cerca de 110 são habitadas permanentemente - e mais de 500 ilhotas, totalizando uma área total de cerca de 18.300 quilômetros quadrados (7.100 sq mi). O grupo de ilhas mais distante é Ono-i-Lau. Cerca de 87% da população total de 883.483 vivem nas duas principais ilhas, Viti Levu e Vanua Levu. Cerca de três quartos dos fijianos vivem nas costas de Viti Levu: na capital Suva; ou em centros urbanos menores, como Nadi – onde o turismo é a principal indústria local; ou em Lautoka, onde a indústria da cana-de-açúcar é dominante. O interior de Viti Levu é escassamente habitado por causa de seu terreno."
+
+jobtitle = "Presidente"
+
+[stats]
+Lema: = "Teme a Deus e honre a Rainha"
+Hino Nacional: = "Deus abençoe Fiji"
+População: = "926.276 (2018 est)"
+Área: = "18.274 km2 (7.056 sq mi)"
+Moeda: = "Dólar fijiano (FJD)"
+PIB: = "US$ 9,112 bilhões"
+PIB per capita: = "$ 10.251"
+Índice de Democracia: = "~5,61/10 (84º)"
+Maior Indústria: = "Turismo"
+Capital e maior cidade: = "Suva"
+Lado de condução: = "Esquerda"
+Código de chamada: = "+679"

@@ -1,0 +1,19 @@
+[config]
+name  = phi
+guiname = "República das Filipinas"
+description = "As Filipinas, oficialmente a República das Filipinas, são um país arquipelágico no sudeste da Ásia. Situado no oeste do Oceano Pacífico, consiste em cerca de 7.641 ilhas que são amplamente categorizadas em três divisões geográficas principais de norte a sul: Luzon, Visayas e Mindanao. A capital das Filipinas é Manila e a cidade mais populosa é Quezon City, ambas dentro da única área urbana da região metropolitana de Manila. Delimitado pelo Mar da China Meridional a oeste, o Mar das Filipinas a leste e o Mar de Celebes a sudoeste, as Filipinas compartilham fronteiras marítimas com Taiwan ao norte, Japão a nordeste, Palau a leste, Indonésia ao sul , Malásia e Brunei a sudoeste, Vietnã a oeste e China a noroeste."
+
+jobtitle = "Presidente"
+
+[stats]
+Lema: = "Por Deus, Pessoas, Natureza e País"
+Hino Nacional: = "Terra Escolhida"
+População: = "109 milhões de pessoas (2020)"
+Área: = "300.000 km2 (120.000 sq mi)"
+Moeda: = "Peso filipino (₱) (PHP)"
+PIB: = "US$ 367,362 bilhões"
+PIB per capita: = "$3.484"
+Índice de Democracia: = "6,56/10 (55º)"
+Maior Indústria: = "Agricultura"
+Capital e maior cidade: = "Manila"
+Lado de condução: = "direito"

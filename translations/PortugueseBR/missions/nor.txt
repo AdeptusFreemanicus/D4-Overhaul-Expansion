@@ -1,0 +1,18 @@
+[config]
+name  = nor
+guiname = "Irlanda do Norte"
+description = "A Irlanda do Norte é uma parte do Reino Unido que é descrita de várias maneiras como um país, província, território ou região. Localizada no nordeste da ilha da Irlanda, a Irlanda do Norte faz fronteira ao sul e oeste com a República da Irlanda. Em 2011, sua população era de 1.810.863, constituindo cerca de 30% da população da ilha e cerca de 3% da população do Reino Unido. A Assembléia da Irlanda do Norte (coloquialmente conhecida como Stormont após sua localização), estabelecida pela Lei da Irlanda do Norte de 1998, é responsável por uma série de questões políticas descentralizadas, enquanto outras áreas são reservadas para o governo britânico. A Irlanda do Norte coopera com a República da Irlanda em várias áreas."
+
+jobtitle = "Monarca"
+
+[stats]
+Hino Nacional: = "Londonderry Air Or God Save the Queen"
+População: = "1.900.000 (2019 est)"
+Área: = "14.130 km2 (5.460 sq mi)"
+Moeda: = "Libra esterlina (GBP; £)"
+VAB: = "£ 49 bilhões?"
+VAB per capita: = "£ 26.000?"
+Maior Indústria: = "Indústrias Farmacêuticas e de Tecnologia Médica"
+Capital e maior cidade: = "Belfast"
+Lado de condução: = "esquerdo"
+Código de chamada: = "+44"

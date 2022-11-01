@@ -1,0 +1,18 @@
+[config]
+name  = per
+guiname = "Peru Cumhuriyeti"
+description = "Peru, resmi olarak Peru Cumhuriyeti, Güney Amerika'nın batısında bir ülkedir. Kuzeyde Ekvador ve Kolombiya, doğuda Brezilya, güneydoğuda Bolivya, güneyde Şili, güney ve batıda Pasifik Okyanusu ile komşudur. Peru, batıda Pasifik kıyı bölgesinin kurak ovalarından ülkenin kuzeyinden güneydoğusuna uzanan Andes dağlarının doruklarına, doğuda Amazon nehri ile birlikte tropikal Amazon Havzası yağmur ormanlarına kadar uzanan yaşam alanlarıyla mega çeşitlilik gösteren bir ülkedir. . 1,28 milyon km2 (0,5 milyon mi2) ile Peru, dünyanın 19. en büyük ülkesi ve Güney Amerika'nın en büyük üçüncü ülkesidir."
+jobtitle = "Devlet Başkanı"
+
+[stats]
+Slogan: = "Birlik için Kararlı ve Mutlu"
+Ulusal Marş: = "Peru Ulusal Marşı"
+Nüfus: = "32,8 milyon kişi (2020)"
+Alan: = "1.285.216 km2 (496.225 sq mi)"
+Para Birimi: = "Sol (PEN)"
+GSYİH: = "195.761 milyar dolar"
+Kişi başına GSYİH: = "5.845 $"
+Demokrasi Endeksi: = "6.53/10 (57.)"
+En Büyük Endüstri: = "Maden Endüstrisi"
+Başkent ve En Büyük Şehir: = "Lima"
+Sürüş tarafı: = "sağ"

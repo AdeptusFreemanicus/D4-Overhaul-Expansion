@@ -1,0 +1,19 @@
+[config]
+name  = turkey
+guiname = "Türkiye Cumhuriyeti"
+description = "Türkiye, resmi olarak Türkiye Cumhuriyeti, esas olarak Batı Asya'daki Anadolu Yarımadası'nda yer alan ve daha küçük bir kısmı Güneydoğu Avrupa'daki Balkan Yarımadası'nda bulunan kıtalararası bir ülkedir. Türkiye kuzeybatıda Yunanistan ve Bulgaristan ile sınır komşusudur; kuzeyde Karadeniz; kuzeydoğu Gürcistan; doğuda Ermenistan, Azerbaycan ve İran; güneydoğu Irak; güneyde Suriye ve Akdeniz; ve batıda Ege Denizi. Ülke vatandaşlarının yaklaşık yüzde 70 ila 80'i Türk'tür. Avrupa ve Asya'yı birbirine bağlayan İstanbul, ülkenin en büyük şehri, Ankara ise başkent."
+jobtitle = "Devlet Başkanı"
+
+[stats]
+İstiklal Marşı: = "Bağımsızlık Marşı"
+Nüfus: = "83 milyon (2019)"
+Alan: = "783.356 km2 (302.455 sq mi)"
+Para Birimi: = "Türk Lirası (₺) (TRY)"
+GSYİH: = "760.940 milyar dolar (5.946.686.237.230,67 TL)"
+Kişi başına düşen GSYİH: = "30,644$ (₺239,469,87 TL)"
+Demokrasi Endeksi: = "~4.09/10 (110.)"
+En Büyük Sanayi: = "Tarım"
+Başkent: = "Ankara"
+En Büyük Şehir: = "İstanbul"
+Sürüş tarafı: = "sağ"
+Arama kodu: = "+90"

@@ -1,0 +1,19 @@
+[config]
+name  = den
+guiname = "Danimarka Krallığı"
+description = "Danimarka, resmi olarak Danimarka Krallığı, Kuzey Avrupa'da bir İskandinav ülkesidir. İskandinav ülkelerinin en güneyi olan Avrupa Danimarkası, bir yarımada, Jutland ve en büyükleri Zelanda, Funen ve Kuzey Jutlandic Adası olmak üzere 443 adlı adadan oluşan bir takımadadan oluşur. Adalar, düz, ekilebilir arazi ve kumlu kıyılar, alçak rakım ve ılıman bir iklim ile karakterizedir. Danimarka, İsveç'in güneybatısında ve Norveç'in güneyinde yer alır ve güneyde Almanya ile sınır komşusudur. Danimarka Krallığı, anayasal olarak büyükşehir Danimarka ve Kuzey Atlantik Okyanusu'ndaki iki özerk bölgeden oluşan üniter bir devlettir: Faroe Adaları ve Grönland."
+jobtitle = "Hükümdar"
+
+[stats]
+İstiklal Marşı: = "Sevimli bir ülke var"
+Kraliyet Marşı: = "Kral Christian yüksek direğin yanında durdu"
+Nüfus: = "5,8 milyon (2021 tahmini)"
+Alan: = "42,933 km2 (16,577 sq mi)"
+Para Birimi: = "Küba Pezosu (CUP)"
+GSYİH: = "370 milyar dolar"
+Kişi başına GSYİH: = "63.829 $"
+Demokrasi Endeksi: = "~9.15/10 (7.)"
+En Büyük Sektör: = "Tarım/Turizm"
+Başkent ve En Büyük Şehir: = "Kopenhag"
+Sürüş tarafı: = "Sağ"
+Arama kodu: = "+45"

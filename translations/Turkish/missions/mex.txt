@@ -1,0 +1,18 @@
+[config]
+name  = mex
+guiname = "Birleşik Meksika Devletleri"
+description = "Meksika, resmi olarak Birleşik Meksika Devletleri, Kuzey Amerika'nın güney kesiminde bir ülkedir. Kuzeyde Amerika Birleşik Devletleri ile sınır komşusudur; güneyde ve batıda Pasifik Okyanusu; güneydoğuda Guatemala, Belize ve Karayip Denizi; ve doğuda Meksika Körfezi tarafından. Meksika, 1.972.550 kilometre kareyi (761.610 sq mi) kaplar ve bu da onu bölgelere göre dünyanın en büyük 13. ülkesi yapar; yaklaşık 126.014.024 nüfusu ile en kalabalık 10. ülkedir ve en çok İspanyolca konuşana sahiptir. Meksika, 31 eyaletten ve başkenti ve en büyük metropolü olan Mexico City'den oluşan bir federasyon olarak örgütlenmiştir. Diğer büyük kentsel alanlar Guadalajara, Monterrey, Puebla, Toluca, Tijuana, Ciudad Juárez ve León'dur."
+jobtitle = "Devlet Başkanı"
+
+[stats]
+İstiklal Marşı: = "Vatan Öncedir"
+Nüfus: = "1.260 milyon (2020)"
+Alan: = "1.972.550 km2 (761.610 sq mi)"
+Para Birimi: = "Meksika Pezosu $ (MXN)"
+GSYİH: = "2.7 trilyon dolar"
+Kişi başına GSYİH: = "21,362$"
+Demokrasi Endeksi: = "6.07/10 (72.)"
+En Büyük Sektör: = "Otomotiv Sektörü"
+Başkent: = "Meksika Şehri"
+Sürüş tarafı: = "Sağ"
+Arama kodu: = "+52"

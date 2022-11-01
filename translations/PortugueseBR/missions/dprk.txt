@@ -1,0 +1,19 @@
+[config]
+name  = dprk
+guiname = "República Popular Democrática da Coreia"
+description = "A Coreia do Norte, oficialmente República Popular Democrática da Coreia, Chosŏn Minjujuŭi Inmin Konghwaguk, é um país da Ásia Oriental que constitui a parte norte da Península Coreana. O país é limitado ao norte pela China e pela Rússia ao longo dos rios Amnok (conhecido como Yalu em chinês) e Tumen, e ao sul pela Coreia do Sul, com a Zona Desmilitarizada Coreana (DMZ) fortemente fortificada separando os dois. A Coreia do Norte, como sua contraparte do sul, afirma ser o governo legítimo de toda a península e ilhas adjacentes. Pyongyang é a capital e a maior cidade do país."
+
+jobtitle = "Líder supremo"
+
+[stats]
+Hino Nacional: = "A Canção Patriótica"
+População: = "25,5 milhões (2018)"
+Área: = "120.540 km2 (46.540 sq mi)"
+Moeda: = "Ganhos do Povo Coreano (₩)"
+PIB: = "US$ 30 bilhões"
+PIB per capita: = "$1.300"
+Índice de democracia: = "~1,06/10 (167º último)"
+Maior Indústria: = "Agricultura/Mineração"
+Capital (e maior cidade): = "Pyongyang"
+Lado de condução: = "direito"
+Código de chamada: = "+850"

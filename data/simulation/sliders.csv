@@ -1,0 +1,8 @@
+#,mpt,DISCRETE,10,
+#,PPF,DISCRETE,10,
+#,money_supply1,PERCENTAGE,0,50
+#,money_supply2,PERCENTAGE,0,-50
+#,StateAnimalShelters,DISCRETE,10,
+#,StateAnimalControl,DISCRETE,10,
+#,StateOrphanages,DISCRETE,10,
+#,PoliceTraining,DISCRETE,10,

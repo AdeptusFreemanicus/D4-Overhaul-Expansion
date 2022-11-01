@@ -1,0 +1,19 @@
+[config]
+name  = por
+guiname = "República Portuguesa"
+description = "Portugal, oficialmente República Portuguesa, é um país localizado na Península Ibérica no sudoeste da Europa. É o estado soberano mais ocidental da Europa continental, limitado a oeste e sul pelo Oceano Atlântico e a norte e leste pela Espanha, o único país a ter fronteira terrestre com Portugal. O território de Portugal inclui também os arquipélagos atlânticos dos Açores e da Madeira, ambas regiões autónomas com governos regionais próprios. A língua oficial e nacional é o português. Lisboa é a capital e a maior cidade"
+
+jobtitle = "Presidente"
+
+[stats]
+Hino Nacional: = "A canção portuguesa"
+População: = "10,3 milhões (2021)"
+Área: = "92.212 km2 (35.603 milhas quadradas)"
+Moeda: = "Euro (€) (EUR)"
+PIB: = "$ 370,5 bilhões"
+PIB per capita: = "$ 36.079"
+Índice de democracia: = "~ 7,90/10 (26°)"
+Maior Indústria: = "Exportação e Comércio"
+Capital e maior cidade: = "Lisboa"
+Lado do motorista: = "Direito"
+Prefixo do telefone: = "+351"

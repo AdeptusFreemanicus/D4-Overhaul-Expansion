@@ -1,0 +1,11 @@
+[dilemma]
+name=AdvancedPoliceTraining
+
+[influences]
+0 = _random_,0.1,0.4
+
+[option0]
+OnImplement = CreateGrudge(Liberal,0.02,0.9);CreateGrudge(CrimeRate,0.03,0.9);CreateGrudge(_Terrorism,0.3,0.9);
+
+[option1]
+OnImplement = CreateGrudge(Liberal,-0.03,0.9);CreateGrudge(GDP,-0.02,0.9);CreateGrudge(CrimeRate,-0.02,0.9);CreateGrudge(_Terrorism,-0.2,0.9);

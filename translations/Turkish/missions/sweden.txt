@@ -1,0 +1,20 @@
+[config]
+name  = sweden
+guiname = "İsveç Krallığı"
+description = "İsveç, resmi olarak İsveç Krallığı, Kuzey Avrupa'da bir İskandinav ülkesidir. Batı ve kuzeyde Norveç, doğuda Finlandiya ile komşudur ve güneybatıda Danimarka'ya Öresund Boğazı boyunca bir köprü tüneli ile bağlıdır. 450.295 kilometrekarelik (173.860 sq mi), İsveç, Kuzey Avrupa'nın en büyük ülkesi, Avrupa Birliği'nin üçüncü en büyük ülkesi ve bölgelere göre Avrupa'nın beşinci en büyük ülkesidir. Başkent Stockholm'dür. İsveç'in 2,6 milyonu yabancı kökenli olmak üzere toplam 10,4 milyon nüfusa sahiptir. Yabancı kökenli kişiler, yabancı uyruklu veya yabancı uyruklu ebeveynlerle İsveç'te doğmuş kişiler olarak tanımlanır. Yerleşimlerde km2 başına 1 437 kişi ile, kilometrekare başına 25 kişi (65/sq mi) gibi düşük bir nüfus yoğunluğuna sahiptir. İsveçlilerin %87'si, tüm arazi alanının %1,5'ini kaplayan kentsel alanlarda yaşamaktadır. En yüksek konsantrasyon ülkenin orta ve güney yarısındadır."
+jobtitle = "Başbakan"
+
+[stats]
+Slogan: = "İsveç için - Times ile"
+İstiklal Marşı: = "Sen kadimsin, özgürsün"
+Kraliyet marşı = "Kralın Şarkısı"
+Nüfus: = "10,3 milyon (2020)"
+Alan: = "450.295 km2 (173.860 sq mi)"
+Para birimi: = "İsveç kronu kr (SEK)"
+GSYİH: = "528.929 milyar dolar (~4.360.516.224.239.999.50 SEK)"
+Kişi başına GSYİH: = "50,339 ABD Doları (415.739,29 kron)"
+Demokrasi Endeksi: = "~9.39/10 (3.)"
+En Büyük Sanayi: = "Tarım"
+Başkent ve En Büyük Şehir: = "Stockholm"
+Sürüş tarafı: = "sağ"
+Arama kodu: = "+46"

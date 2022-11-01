@@ -1,0 +1,121 @@
+[config]
+currency = "₺"
+population = 38071
+economic_cycle_start = 0.2
+min_income = 0
+max_income = 150000
+name  = turkey
+names_file = "data/names/turkishnames.txt"
+flag = "flag_turkey.png"
+map = "map_turkey.svg"
+GUID = 11
+fx_rate_to_pound = 1
+apathy = 0.33
+starting_debt = 585000
+min_gdp = 440000
+max_gdp = 1240000
+wealth_mod = 2.9
+
+
+[policies]
+AbortionLaw = 0.75
+AgricultureSubsidies = 0.7
+AirlineTax = 0.1
+AlcoholLaw = 0.50
+AlcoholTax = 0.55
+ArmedPolice = 0.5
+ArtsSubsidies = 0.15
+BorderControls = 0.35
+BusLanes = 0.5
+BusSubsidies = 0.25
+CarbonTax = 0.27
+CarEmmissionsLimits = 0.1
+CCTVCameras = 0.2
+CharityTaxRelief = 0.25
+ChildBenefit = 0.62
+CitizenshipTests = 0.65
+CompulsoryForeignLanguageClasses = 1.0
+CompulsoryFoodLabelling = 0.7
+CorporationTax = 0.45
+DisabilityBenefit = 0.48
+ExecutiveTermLength = 0.5
+ExecutiveTermLimit = 0.24
+FoodStandards = 1
+ForeignAid = 0.20
+FreeSchoolMeals = 0.25
+GameHunting = 0.85
+GenderDiscriminationAct = 0.25
+GenderTransition = 0.2
+HandgunLaws = 0.4
+IncomeTax = 0.55
+InheritanceTax = 0.42
+IntellectualPropertyRights = 0.20
+IntelligenceServices = 0.33
+JudiciaryIndependence = 0.95
+LabourLaws = 0.28
+LegalAid = 0.65
+MarriedTaxAllowance = 0.1
+MaternityLeave = 0.35
+MicrogenerationGrants = 0.25
+MilitarySpending = 0.52
+MinimumWage = 0.55
+Narcotics = 0.32
+OilDrillingSubsidy = 0.35
+PayrollTax = 0.1
+PetrolTax = 0.08
+PoliceForce = 0.3
+PollutionControls = 0.45
+PressFreedom = 0.95
+PrisonerTagging = 0.25
+PrisonerVoting = 1.0
+PrisonRegime = 0.3
+Prisons = 0.65
+PropertyTax = 0.39
+RaceDiscriminationAct = 0.8
+RareEarthRefinement = 0.05
+Reforestation = 0.42
+RentControls = 0.1
+RetirementAge = 0.33
+RightToDie = 0.5
+RightToPrivacy = 0.5
+RoadBuilding = 0.42
+SalesTax = 0.28
+SchoolBuses = 0.75
+ScienceFunding = 0.3
+SelectiveSchooling = 0.6
+SmartMeterProgram = 0.25
+SocialCare = 0.18
+StateBroadcaster = 0.25
+StateEnergy = 0.5
+StateHealthService = 0.28
+StatePensions = 0.20
+StatePostService = 0.8
+StateSchools = 0.5
+StateWater  = 0.67
+TechnologyGrants = 0.18
+TobaccoTax = 0.25
+TourismAdCampaign = 0.25
+UnemployedBenefit = 0.75
+UniversityGrants = 0.25
+WorkSafetyLaw = 0.67
+
+interest_rate= 0.06
+
+_prereq_has_coast = 1
+_prereq_mining_industry = 1
+_prereq_land_border = 1
+_prereq_poachers = 1
+_prereq_indigenous = 1
+_prereq_sovereign_currency = 1
+
+[options]
+MULTIPLEPARTIES
+
+
+
+
+
+
+
+
+

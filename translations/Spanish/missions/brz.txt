@@ -1,0 +1,21 @@
+[config]
+name  = brz
+guiname = "República Federativa de Brasil"
+description = "Brasil, oficialmente la República Federativa de Brasil, es el país más grande de América del Sur y América Latina. Con 8,5 millones de kilómetros cuadrados (3,2 millones de millas cuadradas) y más de 211 millones de habitantes, Brasil es el quinto país más grande del mundo por área y el sexto más poblado. Su capital es Brasilia y su ciudad más poblada es São Paulo. La federación está compuesta por la unión de los 26 estados y el Distrito Federal. Es el país más grande que tiene el portugués como idioma oficial y el único en las Américas; también es una de las naciones más multiculturales y étnicamente diversas, debido a más de un siglo de inmigración masiva de todo el mundo; así como el país de mayoría católica romana más poblado."
+
+jobtitle = "Presidente"
+
+[stats]
+Lema: = "Orden y progreso"
+Himno Nacional: = "Himno Nacional de Brasil"
+Población: = "210 millones (2019)"
+Zona: = "8.515.767 km2 (3.287.956 millas cuadradas)"
+Divisa: = "Real (R$) (BRL)"
+PIB: = "$ 3.078 billones (~R$15,516,802,336,500.00 BRL )"
+PIB per cápita: = "$6,450 (R$33,361.13 BRL )"
+Índice de democracia: = "~6.86/10 (52nd)"
+Industria más grande: = "Automóviles de fabricación"
+Capital: = "Brasilia"
+Ciudad más grande: = "San Pablo"
+Lado de conducción: = "derecho"
+Calling code: = "+55"

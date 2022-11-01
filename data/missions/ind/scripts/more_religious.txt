@@ -1,0 +1,1 @@
+CreateGrudge(India,_hidden_,Religious_freq,0.23,1,0);

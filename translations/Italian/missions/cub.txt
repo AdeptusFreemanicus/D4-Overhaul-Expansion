@@ -1,0 +1,20 @@
+[config]
+name  = cub
+guiname = "Repubblica di Cuba"
+description = "Cuba, ufficialmente Repubblica di Cuba, è un paese che comprende l'isola di Cuba, l'Isla de la Juventud e diversi arcipelaghi minori. Cuba si trova dove si incontrano il Mar dei Caraibi settentrionale, il Golfo del Messico e l'Oceano Atlantico. Si trova a est della penisola dello Yucatán (Messico), a sud sia dello stato americano della Florida che delle Bahamas, a ovest di Hispaniola e a nord sia della Giamaica che delle Isole Cayman. L'Avana è la città e la capitale più grandi; altre grandi città includono Santiago de Cuba e Camagüey. L'area ufficiale della Repubblica di Cuba è 109.884 km2 (42.426 sq mi) (senza le acque territoriali). L'isola principale di Cuba è l'isola più grande di Cuba e dei Caraibi, con una superficie di 104.556 km2 (40.369 miglia quadrate). Cuba è il secondo Paese più popoloso dei Caraibi dopo Haiti, con oltre 11 milioni di abitanti"
+
+jobtitle = "Primo Segretario"
+
+[stats]
+Motto: = "Patria o morte, vinceremo"
+Inno Nazionale: = "La canzone di Bayamo"
+Popolazione: = "11 milioni (2020)"
+Area: = "109.884 km2 (42.426 miglia quadrate)"
+Valuta: = "Peso cubano (CUP)"
+PIL: = "$ 105,865 miliardi"
+PIL pro capite: = "$22.237"
+Indice di democrazia: = "~7,51/10 (36°)"
+Più grande industria: = "Agricoltura"
+Capitale e città più grande: = "L'Avana"
+Lato guida: = "destra"
+Prefisso telefonico: = "+53"

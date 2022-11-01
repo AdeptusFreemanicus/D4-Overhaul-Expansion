@@ -1,0 +1,20 @@
+[config]
+name  = bah
+guiname = "A Comunidade das Bahamas"
+description = "As Bahamas, conhecidas oficialmente como a Comunidade das Bahamas, são um país soberano dentro do arquipélago de Lucayan das Índias Ocidentais no Atlântico. Ocupa 97% da área terrestre do arquipélago de Lucayan e abriga 88% da população do arquipélago. O estado arquipélago é composto por mais de 3.000 ilhas, ilhotas e ilhotas no Oceano Atlântico, e está localizado ao norte de Cuba e a noroeste da ilha de Hispaniola (dividida entre Haiti e República Dominicana) e das Ilhas Turks e Caicos, a sudeste de o estado americano da Flórida, e a leste de Florida Keys. A capital é Nassau, na ilha de New Providence. A Força de Defesa Real das Bahamas descreve o território das Bahamas como abrangendo 470.000 km2 (180.000 sq mi) de espaço oceânico"
+
+jobtitle = "Monarca"
+
+[stats]
+Lema: = "March On, Bahamaland"
+Hino Nacional: = "Deus Salve a Rainha"
+População: = "400.516 (2022 est)"
+Área: = "13.878 km2 (5.358 sq mi)"
+Moeda: = "Dólar das Bahamas (BSD)"
+PIB: = "US$ 12,612 bilhões"
+PIB per capita: = "$33.494"
+Índice de democracia: = "Sem dados"
+Maior Indústria: = "Turismo"
+Capital e maior cidade: = "Nassau"
+Lado de condução: = "esquerdo"
+Código de chamada: = "+1 242"

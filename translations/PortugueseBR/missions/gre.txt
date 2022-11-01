@@ -1,0 +1,20 @@
+[config]
+name  = gre
+guiname = "República Helênica"
+description = "A Grécia, oficialmente a República Helênica, é um país localizado no sudeste da Europa. Sua população é de aproximadamente 10,7 milhões em 2018; Atenas é a sua maior e capital, seguida por Salónica. Situada no extremo sul dos Balcãs, a Grécia está localizada na encruzilhada da Europa, Ásia e África. Compartilha fronteiras terrestres com a Albânia a noroeste, Macedônia do Norte e Bulgária ao norte e Turquia a nordeste. O Mar Egeu fica a leste do continente, o Mar Jônico a oeste, o Mar de Creta e o Mar Mediterrâneo ao sul. A Grécia tem o litoral mais longo da Bacia do Mediterrâneo e o 11º litoral mais longo do mundo, com 13.676 km (8.498 milhas) de comprimento, com muitas ilhas, das quais 227 são habitadas. Oitenta por cento da Grécia é montanhosa, com o Monte Olimpo sendo o pico mais alto a 2.918 metros (9.573 pés). O país consiste em nove regiões geográficas tradicionais: Macedônia, Grécia Central, Peloponeso, Tessália, Épiro, Ilhas Egeias (incluindo Dodecaneso e Cíclades), Trácia, Creta e Ilhas Jônicas.
+
+jobtitle = "Presidente"
+
+[stats]
+Lema: = "Liberdade ou Morte"
+Hino Nacional: = "Hino à Liberdade"
+População: = "10,7 milhões (2020)"
+Área: = "131.957 km2 (50.949 sq mi)"
+Moeda: = "Euro (€) (EUR)"
+PIB: = "US$ 310,743 bilhões"
+PIB per capita: = "$29.045"
+Índice de Democracia: = "~7,39/10 (37º)"
+Maior Indústria: = "Agricultura/Turismo"
+Capital e maior cidade: = "Atenas"
+Lado de condução: = "direito"
+Código de chamada: = "+30"

@@ -1,0 +1,20 @@
+[config]
+name  = png
+guiname = "Stato Indipendente di Papua Nuova Guinea"
+description = "La Papua Nuova Guinea, ufficialmente Stato Indipendente della Papua Nuova Guinea, è un paese dell'Oceania che comprende la metà orientale dell'isola della Nuova Guinea e le sue isole al largo della Melanesia (una regione dell'Oceano Pacifico sudoccidentale a nord dell'Australia). La sua capitale, situata lungo la costa sud-orientale, è Port Moresby. È il terzo paese insulare più grande del mondo con una superficie di 462.840 km2 (178.700 miglia quadrate)"
+jobtitle = "primo ministro"
+
+[stats]
+Motto: = "Unità nella diversità"
+Inno nazionale: = "O Alzatevi, tutti voi figli"
+Inno reale = "Dio salvi la regina"
+Popolazione: = "8,9 milioni (2020)"
+Area: = "462.840 km2 (178.700 sq mi)"
+Valuta: = "Kina (PGK)"
+PIL: = "32,382 miliardi di dollari"
+PIL pro capite: = "$3,764"
+Indice di democrazia: = "~6,10/10 (70°)"
+Più grande industria: = "Agricoltura"
+Capitale e città più grande: = "Port Moresby"
+Lato guida: = "Sinistra"
+Prefisso telefonico: = "+675"

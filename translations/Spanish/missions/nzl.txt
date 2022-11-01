@@ -1,0 +1,20 @@
+[config]
+name  = nzl
+guiname = "Nueva Zelanda"
+description = "Nueva Zelanda es un país insular en el suroeste del Océano Pacífico. Consiste en dos masas continentales principales: la Isla Norte y la Isla Sur y más de 700 islas más pequeñas, que cubren un área total de 268.021 kilómetros cuadrados (103.500 millas cuadradas). Nueva Zelanda está a unos 2.000 kilómetros (1.200 millas) al este de Australia a través del Mar de Tasmania y 1.000 kilómetros (600 millas) al sur de las islas de Nueva Caledonia, Fiji y Tonga. La variada topografía del país y los agudos picos montañosos, incluidos los Alpes del Sur, se deben en gran medida a los levantamientos tectónicos y las erupciones volcánicas. La capital de Nueva Zelanda es Wellington y su ciudad más poblada es Auckland."
+jobtitle = "Primer ministro"
+
+[stats]
+Himno Nacional: = "Dios defiende Nueva Zelanda"
+Royal Anthem: = "Dios salve a la reina"
+Población: = "5,1 millones (2021 est)"
+Área: = "268.021 km2 (103.483 millas cuadradas)"
+Moneda: = "Peso cubano (CUP)"
+PIB: = "$ 226,566 mil millones"
+PIB per cápita: = "$ 44,226"
+Índice de democracia: = "~ 9.25 / 10 (cuarto)"
+Industria más grande: = "Agricultura"
+Capital: = "Wellington"
+Ciudad más grande: = "Auckland"
+Lado de conducción: = "Izquierda"
+Código de llamada: = "+64"

@@ -1,0 +1,18 @@
+[config]
+name  = chi
+guiname = "Şili Cumhuriyeti"
+description = "Şili, resmi olarak Şili Cumhuriyeti, Güney Amerika'nın batısında bir ülkedir. Doğuda And Dağları ile batıda Pasifik Okyanusu arasında uzun ve dar bir kara şeridi kaplar. Şili, 756.096 kilometrekarelik bir alanı kaplar (291.930 sq mi) ve 2017 itibariyle 17.5 milyon nüfusa sahiptir. Başkent ve en büyük şehir Santiago'dur ve ulusal dil İspanyolcadır."
+jobtitle = "Devlet Başkanı"
+
+[stats]
+Slogan: = "Doğru veya Kudretli"
+Ulusal Marş: = "Himno Nacional de Chile"
+Nüfus: = "17,5 milyon kişi (2017)"
+Alan: = "756.096,3 km2 (291.930,4 sq mi)"
+Para birimi: = "Şili pesosu (CLP)"
+GSYİH: = "245.414 milyar dolar"
+Kişi başına GSYİH: = "12,612$"
+Demokrasi Endeksi: = "8.28/10 (17.)"
+En Büyük Sanayi: = "Tarım"
+Başkent ve En Büyük Şehir: = "Santiago"
+Sürüş tarafı: = "sağ"

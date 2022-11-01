@@ -1,0 +1,19 @@
+[config]
+name  = vie
+guiname = "A República Socialista do Vietnã"
+description = "O Vietnã, oficialmente a República Socialista do Vietnã, é um país do Sudeste Asiático. Localizada no extremo leste do sudeste da Ásia continental, abrange 311.699 quilômetros quadrados. Com uma população de mais de 96 milhões, é o décimo quinto país mais populoso do mundo. O Vietnã faz fronteira com a China ao norte, Laos e Camboja a oeste e compartilha fronteiras marítimas com a Tailândia através do Golfo da Tailândia e com as Filipinas, Indonésia e Malásia através do Mar da China Meridional. Sua capital é Hanói e sua maior cidade é a cidade de Ho Chi Minh."
+
+jobtitle = "Secretário geral"
+
+[stats]
+Hino Nacional: = "Independência - Liberdade - Felicidade"
+População: = "96.208.984 milhões (2019 est)"
+Área: = "331.699 km2 (128.070 sq mi)"
+Moeda: = "đồng (₫) (VND)"
+PIB: = "US$ 1,047 trilhão"
+PIB per capita: = "$ 10.755"
+Índice de democracia: = "~2,94/10 (131º)"
+Maior Indústria: = "Indústria de Varejo"
+Capital e maior cidade: = "Hanoi"
+Lado do motorista: = "direito"
+Prefixo do telefone: = "+84"

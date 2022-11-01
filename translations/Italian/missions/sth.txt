@@ -1,0 +1,20 @@
+[config]
+name  = sth
+guiname = "Repubblica del Sud Africa"
+description = "Il Sudafrica, ufficialmente Repubblica del Sudafrica, è il paese più meridionale dell'Africa. Il Sudafrica ha tre capitali: Pretoria esecutiva, Bloemfontein giudiziaria e Città del Capo legislativa. La città più grande è Johannesburg. Circa l'80% dei sudafricani è di origine africana nera, divisi tra una varietà di gruppi etnici che parlano lingue africane diverse."
+
+jobtitle = "Presidente"
+
+[stats]
+Inno Nazionale: = "Unità nella diversità"
+Popolazione: = "66 milioni (2021)"
+Area: = "1.221.037 km2 (471.445 sq mi)"
+Valuta: = "Rand sudafricano (ZAR)"
+PIL: = "$748 miliardi"
+PIL pro capite: = "$12.351"
+Indice di democrazia: = "7.05/10 (45°)"
+Più grande industria: = "Settore minerario"
+Maiuscole: = "Pretoria (esecutivo) Cape Town (legislativo) Bloemfontein (giudiziario)"
+Città più grande: = "Johannesburg"
+Lato guida: = "Sinistra"
+Codice chiamante: = "+27"

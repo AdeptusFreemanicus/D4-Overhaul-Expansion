@@ -1,0 +1,18 @@
+[config]
+name  = som
+guiname = "República Federal de Somalia"
+description = "Somalia, oficialmente la República Federal de Somalia, es un país del Cuerno de África. Limita con Etiopía al oeste, Djibouti al noroeste, el Golfo de Adén al norte, el Océano Índico al este y Kenia al suroeste. Somalia tiene la costa más larga del continente africano. Su terreno se compone principalmente de mesetas, llanuras y tierras altas. Las condiciones cálidas prevalecen durante todo el año, con vientos monzónicos periódicos y lluvias irregulares, Somalia tiene una población estimada de alrededor de 15 millones y ha sido descrita como el país más homogéneo culturalmente de África."
+
+jobtitle = "Presidente"
+
+[stats]
+Himno Nacional: = "Qolobaa Calankeed"
+Población: = "15 millones de personas (2020)"
+Área: = "637,657 km2 (246,201 millas cuadradas)"
+Moneda: = "Chelín somalí (SOS)"
+PIB: = "$5.218 mil millones"
+PIB per cápita: = "$348"
+Índice de democracia: = "? / 10 (? Th) Desconocido"
+Industria más grande: = "Agricultura"
+Capital y ciudad más grande: = "Mogadishu"
+Lado de conducción: = "derecho"

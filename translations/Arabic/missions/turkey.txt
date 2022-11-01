@@ -1,0 +1,20 @@
+[config]
+name  = turkey
+guiname = "Republic of Turkey"
+description = "Turkey, officially the Republic of Turkey, is a transcontinental country located mainly on the Anatolian Peninsula in Western Asia, with a smaller portion on the Balkan Peninsula in Southeastern Europe. Turkey is bordered on its northwest by Greece and Bulgaria; north by the Black Sea; northeast by Georgia; east by Armenia, Azerbaijan, and Iran; southeast by Iraq; south by Syria and the Mediterranean Sea; and west by the Aegean Sea. Approximately 70 to 80 percent of the country's citizens are Turkish. Istanbul, which straddles Europe and Asia, is the country's largest city, while Ankara is the capital."
+
+jobtitle = "President"
+
+[stats]
+National Anthem: = "The Independence March"
+Population: = "83 million (2019)"
+Area: = "783,356 km2 (302,455 sq mi)"
+Currency: = "Turkish lira (₺) (TRY)"
+GDP: = "$760.940 billion (₺5,946,686,237,230.67 TRY)"
+GDP per capita: = "$30,644 (₺239,469.87 TRY)"
+Democracy Index: = "~4.09/10 (110th)"
+Biggest Industry: = "Agriculture"
+Capital: = "Ankara"
+Largest City: = "Istanbul"
+Driving side: =	"right"
+Calling code: = "+90"

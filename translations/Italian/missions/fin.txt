@@ -1,0 +1,17 @@
+[config]
+name  = fin
+guiname = "Repubblica di Finlandia"
+description = "La Finlandia, ufficialmente Repubblica di Finlandia, è un paese nordico situato nel Nord Europa. La Finlandia condivide i confini terrestri con la Svezia a ovest, la Russia a est e la Norvegia a nord, la Finlandia ha una popolazione di circa 5,5 milioni, il che lo rende il 25esimo paese più popoloso d'Europa. La lingua principale è il finlandese, lo svedese è la seconda lingua ufficiale della Finlandia, la Finlandia è una repubblica parlamentare composta da 19 regioni e 310 comuni. Il clima varia in modo significativo rispetto alla latitudine, dal clima continentale umido della Finlandia meridionale al clima boreale del nord. La Finlandia è principalmente un bioma forestale boreale, con oltre 180.000 laghi registrati, con un'area di 338.455 chilometri quadrati (130.678 miglia quadrate), la Finlandia è l'ottavo paese più grande d'Europa e il paese più scarsamente popolato dell'Unione europea. Helsinki, la capitale della Finlandia, è la più grande area metropolitana con oltre 1,5 milioni di persone."
+jobtitle = "Presidente"
+
+[stats]
+Inno Nazionale: = "La Nostra Terra"
+Popolazione: = "5,5 milioni di persone (2020)"
+Area: = "338.455 km2 (130.678 sq mi)"
+Valuta: = "Euro (€) (EUR)"
+PIL: = "$277 miliardi (€ 230,139,104,151,60 EUR)"
+PIL pro capite: = "$48.461 (€ 40.262,42 EUR)"
+Indice di democrazia: = "9.25/10 (5th)"
+Più grande industria: = "Elettronica"
+Capitale e città più grande: = "Helsinki"
+Lato guida: = "destra"

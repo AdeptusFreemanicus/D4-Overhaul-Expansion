@@ -1,0 +1,20 @@
+[config]
+name  = mal
+guiname = "Malezya"
+description = "Malezya, Güneydoğu Asya'da bir ülkedir. Federal anayasal monarşi, Güney Çin Denizi tarafından iki bölgeye, Yarımada Malezya ve Borneo'nun Doğu Malezya'sına ayrılan on üç eyalet ve üç federal bölgeden oluşur. Malezya Yarımadası, Tayland ile kara ve deniz sınırını ve Singapur, Vietnam ve Endonezya ile deniz sınırlarını paylaşıyor. Doğu Malezya, Brunei ve Endonezya ile kara ve deniz sınırlarını ve Filipinler ve Vietnam ile bir deniz sınırını paylaşıyor. Kuala Lumpur, ulusal başkent, en büyük şehir ve federal hükümetin yasama organının merkezidir. Yakınlardaki planlanan başkent Putrajaya, idari başkenttir; hem yürütme organının (Kabine, federal bakanlıklar ve ajanslar) hem de federal hükümetin yargı organını temsil eder. 32 milyonu aşan nüfusuyla Malezya, dünyanın en kalabalık 43. ülkesidir. Kıta Avrasya'nın en güney noktası Tanjung Piai'dedir. Tropiklerde Malezya, bir dizi endemik türe ev sahipliği yapan 17 mega çeşitlilik ülkesinden biridir."
+jobtitle = "Yang di-Pertuan Agong"
+
+[stats]
+Slogan: = "Birlik Güçtür"
+İstiklal Marşı: = "Ülkem"
+Nüfus: = "32,7 milyon (2020 tahmini)"
+Alan: = "330.803 km2 (127.724 sq mi)"
+Para Birimi: = "Ringgit (RM) (MYR)"
+GSYİH: = "900.426 milyar dolar"
+Kişi başına GSYİH: = "27,287$"
+Demokrasi Endeksi: = "~7.19/10 (39.)"
+En Büyük Sanayi: = "Elektrik Ve Elektronik Sektörü"
+Büyük harfler: = "Kuala Lumpur - Putrajaya (İdari)"
+En Büyük Şehir: = "Kuala Lumpur"
+Sürüş tarafı: = "Sol"
+Arama kodu: = "+60"

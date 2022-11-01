@@ -1,0 +1,19 @@
+[config]
+name  = chi
+guiname = "República de chile"
+description = "Chile, oficialmente la República de Chile, es un país en el oeste de América del Sur. Ocupa una franja de tierra larga y estrecha entre los Andes al este y el Océano Pacífico al oeste. Chile cubre un área de 756.096 kilómetros cuadrados (291.930 millas cuadradas) y tiene una población de 17.5 millones a partir de 2017. La capital y ciudad más grande es Santiago y el idioma nacional es el español."
+
+jobtitle = "Presidente"
+
+[stats]
+Lema: = "Por La Razón o La Fuerza"
+Himno Nacional: = "Himno Nacional de Chile"
+Población: = "17.5 un millón de personas (2017)"
+Zona: = "756,096.3 km2 (291,930.4 millas cuadradas)"
+Divisa: = "Peso chileno (CLP)"
+PIB: = "$245.414 billion"
+PIB per cápita: = "$12,612"
+Índice de democracia: = "8.28/10 (17th)"
+Industria más grande: = "Agricultura"
+Capital y ciudad más grande: = "Santiago"
+Lado de conducción: = "derecho"

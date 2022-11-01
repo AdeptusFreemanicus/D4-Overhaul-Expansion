@@ -1,0 +1,18 @@
+[config]
+name  = lux
+guiname = "Lüksemburg Büyük Dükalığı"
+description = "Resmi olarak Lüksemburg Büyük Dükalığı olan Lüksemburg, Batı Avrupa'da karayla çevrili bir ülkedir. Batı ve kuzeyde Belçika, doğuda Almanya ve güneyde Fransa ile komşudur. Başkenti Lüksemburg Şehri, Avrupa Birliği'nin (Brüksel, Frankfurt ve Strazburg ile birlikte) dört resmi başkentinden biridir ve AB'deki en yüksek yargı mercii olan Avrupa Birliği Adalet Divanı'nın merkezidir. Kültürü, insanları ve dilleri komşularıyla oldukça iç içedir ve bu da onu Fransız ve Alman kültürlerinin bir karışımı haline getirir. Üç resmi dili vardır: Fransızca, Almanca ve Lüksemburgca'nın ulusal dili."
+jobtitle = "Büyük Dük"
+
+[stats]
+Slogan: = "Biz olduğumuz gibi kalmak istiyoruz"
+İstiklal Marşı: = "Vatanımız"
+Nüfus: = "626 Yüz Bin Kişi (2020)"
+Alan: = "2,586,4 km2 (998,6 sq mi)"
+Para Birimi: = "Euro (€) (EUR)"
+GSYİH: = "69.453 milyar dolar"
+Kişi başına GSYİH: = "113.196$"
+Demokrasi Endeksi: = "8.68/10 (13.)"
+En Büyük Sektör: = "Bankacılık"
+Başkent ve En Büyük Şehir: = "Lüksemburg Şehri"
+Sürüş tarafı: = "sağ"

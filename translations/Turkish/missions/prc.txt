@@ -1,0 +1,18 @@
+[config]
+name  = prc
+guiname = "Çin Halk Cumhuriyeti"
+description = "Çin, resmi olarak Çin Halk Cumhuriyeti, Doğu Asya'da bir ülkedir. 2019'da yaklaşık 1,4 milyar nüfusuyla dünyanın en kalabalık ülkesidir. Yaklaşık 9,6 milyon kilometre kareyi (3,7 milyon mi2) kaplayan bu ülke, bölgelere göre dünyanın üçüncü veya dördüncü en büyük ülkesidir. Çin Komünist Partisi (ÇKP) liderliğindeki tek partili bir devlet olarak, 22 eyalet, beş özerk bölge, dört doğrudan kontrol edilen belediye olan Pekin, Tianjin, Şanghay ve Chongqing ile Hong Kong ve Hong Kong'un özel idari bölgelerinde yargı yetkisini kullanır. Makao."
+jobtitle = "Devlet Başkanı"
+
+[stats]
+İstiklal Marşı: = "Gönüllülerin Yürüyüşü"
+Nüfus: = "1.4 milyar (2019)"
+Alan: = "9.596.961 km2 (3.705.407 sq mi)"
+Para Birimi: = "Renminbi ¥"
+GSYİH: = "14,9 trilyon ABD doları (~ 2,279,745,824,694,17 CNY)"
+Kişi başına GSYİH: = "10,839$ (~¥70,844,82 CNY)"
+Demokrasi Endeksi: = "2.26/10 (153.)"
+En Büyük Sektör: = "Üretim"
+Başkent (ve en büyük şehir): = "Pekin"
+Sürüş tarafı: = "sağ"
+Arama kodu: = "+86"

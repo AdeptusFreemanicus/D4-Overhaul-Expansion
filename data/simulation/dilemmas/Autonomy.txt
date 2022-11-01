@@ -1,0 +1,15 @@
+[dilemma]
+name=Autonomy
+
+[influences]
+0 = _random_,0.1,0.4
+1 = EthnicMinorities_freq,0+(1.00*x)
+2 = RacialTension,0+(0.75*x)
+3 = Education,0+(0.50*x)
+
+[option0]
+OnImplement = CreateGrudge(EthnicMinorities_freq,0.10,0.97);CreateGrudge(RacialTension,-0.10,0.97);CreateGrudge(PovertyRate,0.10,0.90);CreateGrudge(Patriot,-0.20,0.9f);
+
+
+[option1]
+OnImplement = CreateGrudge(EthnicMinorities_freq,-0.10,0.97);CreateGrudge(RacialTension,0.10,0.97);CreateGrudge(Patriot,0.10,0.9f);

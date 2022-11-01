@@ -1,0 +1,19 @@
+[config]
+name  = bel
+guiname = "Reino de Bélgica"
+description = "Bélgica, oficialmente el Reino de Bélgica, es un país de Europa Occidental. Limita con los Países Bajos al norte, Alemania al este, Luxemburgo al sureste, Francia al suroeste y el Mar del Norte al noroeste. Cubre un área de 30,689 km2 (11,849 millas cuadradas) y tiene una población de más de 11.5 millones, lo que lo convierte en el 22o país más densamente poblado del mundo y el sexto país más densamente poblado de Europa, con una densidad de 376 por cuadrado. kilómetro (970 / milla cuadrada). La capital y ciudad más grande es Bruselas; otras ciudades importantes son Amberes, Gante, Charleroi, Lieja, Brujas, Namur y Lovaina."
+jobtitle = "Monarca"
+
+[stats]
+Lema: = "La unidad hace la fuerza"
+Himno Nacional: = "El Brabantian"
+Población: = "11,5 millones (2020)"
+Área: = "30,689 km2 (11,849 millas cuadradas)"
+Moneda: = "Euro (€) (EUR)"
+PIB: = "$ 375.808 mil millones"
+PIB per cápita: = "$ 50,114"
+Índice de democracia: = "~ 7.51 / 10 (36º)"
+Industria más grande: = "Agricultura / Manufactura"
+Capital y ciudad más grande: = "Bruselas"
+Lado de conducción: = "derecho"
+Código de llamada: = "+32"

@@ -1,0 +1,19 @@
+[config]
+name  = sth
+guiname = "Güney Afrika Cumhuriyeti"
+description = "Güney Afrika, resmi olarak Güney Afrika Cumhuriyeti, Afrika'nın en güneydeki ülkesidir. 60 milyonu aşkın nüfusuyla dünyanın en kalabalık 23. ülkesidir. Güney Afrika'nın üç başkenti vardır: yürütme Pretoria, yargı Bloemfontein ve yasama Cape Town. En büyük şehri Johannesburg'dur. Güney Afrikalıların yaklaşık %80'i, farklı Afrika dillerini konuşan çeşitli etnik gruplar arasında bölünmüş Siyah Afrika kökenlidir. Geri kalan nüfus, Afrika'nın en büyük Avrupalı (Beyaz Güney Afrikalılar), Asyalı (Hint Güney Afrikalılar ve Çinli Güney Afrikalılar) ve Çok Irklı (Renkli Güney Afrikalılar) soyundan oluşan topluluklardan oluşuyor."
+jobtitle = "Devlet Başkanı"
+
+[stats]
+İstiklal Marşı: = "Çeşitlilik içinde birlik"
+Nüfus: = "66 milyon (2021)"
+Alan: = "1.221.037 km2 (471.445 sq mi)"
+Para Birimi: = "Güney Afrika randı R (ZAR)"
+GSYİH: = "748 milyar dolar"
+Kişi başına GSYİH: = "12,351$"
+Demokrasi Endeksi: = "7.05/10 (45.)"
+En Büyük Sanayi: = "Maden Sektörü"
+Başkentler: = "Pretoria (yürütme) Cape Town (yasama) Bloemfontein (yargı)"
+En Büyük Şehir: = "Johannesburg"
+Sürüş tarafı: = "Sol"
+Arama kodu: = "+27"

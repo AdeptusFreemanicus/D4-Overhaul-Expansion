@@ -1,0 +1,160 @@
+[config]
+currency = "¥"
+population = 674000
+economic_cycle_start = 0.2
+min_income = 0
+max_income = 195000
+name  = prc
+names_file = "data/names/chinesenames.txt"
+flag = "flag_prc.png"
+map = "map_prc.svg"
+GUID = 11
+fx_rate_to_pound = 0.9
+apathy = 1
+starting_debt = 12722000
+min_gdp = 11600000
+max_gdp = 36000000
+wealth_mod = 25.11
+
+
+[policies]
+AgricultureSubsidies = 1
+AirlineTax = 0.02
+AlcoholLaw = 0.6
+AlcoholTax = 0.1
+ArmedPolice = 0
+ArtsSubsidies = 1
+BiofuelSubsidies = 0
+BodyCameras = 0.01
+BorderControls = 1
+DetentionWithoutTrial = 0.5
+CCTVCameras = 0.25
+CapitalGainsTax = 0.25
+CarTax = 0.35
+CharityTaxRelief = 0.25
+ChildBenefit = 0.02
+CitizenshipTests = 0.65
+CleanEnergySubsidies = 0.15
+CommunityPolicing = 0.2
+CorporationTax = 0.25
+Creationism = 0.5
+CapitalControls = 0.2
+CompulsoryFoodLabelling = 0.5
+CompulsoryForeignLanguageClasses = 0.5
+CompulsorySchoolSports = 0.5
+DeathPenalty = 0.5
+DisabilityBenefit = 0.2
+ExecutiveTermLimit = 1
+ExecutiveTermLength = 0.44
+FamilyPlanning = 0.3
+FemaleGenitalMutilationBan = 0
+FoodStandards = 0.1
+FoodStamps = 0.02
+ForeignAid = 1
+ForeignInvestorTaxBreaks = 0.50
+GameHunting = 1
+GatedCommunities = 0.50
+GenderDiscriminationAct = 0
+GenderTransition = 0
+GeneralMediaCensorship = 1
+HandgunLaws = 0.2
+IncomeTax = 0.45
+IntelligenceServices = 0.60
+IntellectualPropertyRights = 0.20
+InternetCensorship = 1
+InternetCurrencyTaxation = 0.5
+ImmigrationRules = 0.65
+IDCards = 0.50
+OneChildPolicy = 1
+OrganDonation = 1
+JudiciaryIndependence = 0.05
+JuryTrial = 0.3
+LabourLaws = 0.3
+LegalAid = 0.5
+LimitAutomatedTrading = 0
+LuxuryGoodsTax = 0.10
+MilitarySpending = 1.0
+MinimumWage = 0
+MaternityLeave = 0.20
+Monorail = 0.25
+Narcotics = 0
+NationalArmedForcesWeek = 0.5
+Nationalanthemsinschool = 1
+NuclearFission = 0.2
+NuclearWeapons = 1
+PayrollTax = 0.40
+PetrolTax = 0.13
+PoliceForce = 0.30
+PollutionControls = 0.05
+PressFreedom = 0.05
+PrisonerTagging = 0.5
+Prisons = 0.3
+PrisonRegime = 0.55
+PropertyTax = 0.5
+PhoneTapping = 1
+RaceDiscriminationAct = 1
+Recycling = 0.70
+RetirementAge = 0
+RubberBullets = 0.1
+RoadBuilding = 0.8
+RefugeePolicy = 0
+RareEarthRefinement = 0.76
+RuralDevelopmentGrants = 1
+SalesTax = 0.13
+SchoolBuses = 0.55
+ScienceFunding = 1
+SelectiveSchooling = 0.5
+SpeedCameras = 0.85
+SocialCare = 0.1
+SpaceProgram = 0.25
+StateBroadcaster = 0.02
+StatePostService = 0.3
+SpaceProgram = 0.55
+StemCells = 0.5
+TearGas = 1
+TechnologyColleges = 0.50
+TortureUsageBySecretServices = 1
+TobaccoTax = 0.55
+TechnologyGrants = 0.50
+TollRoads = 0.50
+StateHousing = 0
+Tasers = 0.1
+UnemployedBenefit = 0.05
+WaterCannon = 1
+WitnessProtectionProgram = 0.20
+WorkSafetyLaw = 0.10
+StateHealthService = 0.35
+StatePensions = 0.20
+StateSchools = 0.30
+StateWater = 0.30
+StateTelecoms = 0.30
+StatePostService = 0.30
+StateEnergy = 0.30
+StateBroadcaster = 0.90
+StateAirline = 0.30
+
+interest_rate= 0.06
+
+_prereq_has_coast = 1
+_prereq_sovereign_currency = 1
+_prereq_wmd = 1
+_prereq_hurricane = 1
+_prereq_mining_industry = 1
+_prereq_poachers = 1
+_prereq_indigenous = 1
+_prereq_land_border = 1
+_prereq_deadly_animals = 1
+_prereq_reserve_currency = 1
+_prereq_nuclear_tech = 1
+
+[options]
+
+
+
+
+
+
+
+
+
+

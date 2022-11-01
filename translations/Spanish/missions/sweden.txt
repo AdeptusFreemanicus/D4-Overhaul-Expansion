@@ -1,0 +1,21 @@
+[config]
+name  = sweden
+guiname = "Reino de Suecia"
+description = "Suecia, oficialmente el Reino de Suecia, es un país nórdico del norte de Europa. Limita con Noruega al oeste y al norte, Finlandia al este y está conectada con Dinamarca en el suroeste por un puente-túnel que cruza el estrecho de Öresund. Con 450,295 kilómetros cuadrados (173,860 millas cuadradas), Suecia es el país más grande del norte de Europa, el tercer país más grande de la Unión Europea y el quinto país más grande de Europa por área. La ciudad capital es Estocolmo. Suecia tiene una población total de 10,4 millones de los cuales 2,6 millones son de origen extranjero. Las personas de origen extranjero se definen como personas nacidas en el extranjero o nacidas en Suecia con padres nacidos en el extranjero. Tiene una baja densidad de población de 25 habitantes por kilómetro cuadrado (65 / mi2), con 1 437 habitantes por km2 en localidades. El 87% de los suecos vive en áreas urbanas, que cubren el 1,5% de toda la superficie terrestre. La mayor concentración se encuentra en la mitad central y sur del país."
+
+jobtitle = "Primer ministro"
+
+[stats]
+Lema: = "Para Suecia - Con el Times"
+Himno nacional: = "Tú antiguo, eres libre"
+Himno real = "Canción del rey"
+Población: = "10,3 millones (2020)"
+Área: = "450,295 km2 (173,860 millas cuadradas)"
+Moneda: = "Corona sueca Kr (seg)"
+PIB: = "$ 528,929 mil millones (~ kr4,360,516,224,239,999.50 SEK)"
+PIB per cápita: = "$ 50,339 (kr415,739.29 SEK)"
+Índice de democracia: = "~ 9,39 / 10 (3º)"
+Industria más grande: = "Agricultura"
+Capital y ciudad más grande: = "Estocolmo"
+Lado de conducción: = "derecho"
+Código de llamada: = "+46"

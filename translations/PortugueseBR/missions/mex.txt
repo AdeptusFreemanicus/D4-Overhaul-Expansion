@@ -1,0 +1,19 @@
+[config]
+name  = mex
+guiname = "Estados Unidos Mexicanos"
+description = "O México, oficialmente Estados Unidos Mexicanos, é um país na porção sul da América do Norte. Faz fronteira ao norte com os Estados Unidos; ao sul e oeste pelo Oceano Pacífico; a sudeste pela Guatemala, Belize e Mar do Caribe; e a leste pelo Golfo do México. O México cobre 1.972.550 quilômetros quadrados (761.610 sq mi), tornando-se o 13º maior país do mundo em área; com aproximadamente 126.014.024 habitantes, é o 10º país mais populoso e o mais falante de espanhol. O México está organizado como uma federação composta por 31 estados e a Cidade do México, sua capital e maior metrópole. Outras grandes áreas urbanas incluem Guadalajara, Monterrey, Puebla, Toluca, Tijuana, Ciudad Juárez e León."
+
+jobtitle = "Presidente"
+
+[stats]
+Hino Nacional: = "A Pátria é Primeiro"
+População: = "1,260 milhão (2020)"
+Área: = "1.972.550 km2 (761.610 sq mi)"
+Moeda: = "Peso mexicano $ (MXN)"
+PIB: = "US$ 2,7 trilhões"
+PIB per capita: = "$21.362"
+Índice de Democracia: = "6,07/10 (72º)"
+Maior Setor: = "Setor Automotivo"
+Capital: = "Cidade do México"
+Lado de condução: = "Direito"
+Código de chamada: = "+52"

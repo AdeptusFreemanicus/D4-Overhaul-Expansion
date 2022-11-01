@@ -1,0 +1,11 @@
+[dilemma]
+name=CitizenByBirth
+
+[influences]
+0 = _random_,0.1,0.4
+
+[option0]
+OnImplement = CreateGrudge(EthnicMinorities,0.10,0.90);CreateGrudge(Conservatives,-0.10,0.90);
+
+[option1]
+OnImplement = CreateGrudge(EthnicMinorities,-0.10,0.90);CreateGrudge(Conservatives,0.10,0.90);CreateGrudge(Immigration,-0.10,0.90);CreateGrudge(Emigration,0.10,0.90);

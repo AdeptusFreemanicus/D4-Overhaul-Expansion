@@ -1,0 +1,19 @@
+[config]
+name  = vie
+guiname = "The Socialist Republic of Vietnam"
+description = "Vietnam, officially the Socialist Republic of Vietnam, is a country in Southeast Asia. Located at the eastern edge of mainland Southeast Asia, it covers 311,699 square kilometres. With a population of over 96 million, it is the world's fifteenth-most populous country. Vietnam borders China to the north, Laos and Cambodia to the west, and shares maritime borders with Thailand through the Gulf of Thailand, and the Philippines, Indonesia, and Malaysia through the South China Sea. Its capital is Hanoi and its largest city is Ho Chi Minh City."
+
+jobtitle = "General Secretary"
+
+[stats]
+National Anthem: = "Independence – Liberty – Happiness"
+Population: = "96,208,984 million (2019 est)"
+Area: = "331,699 km2 (128,070 sq mi)"
+Currency: = "đồng (₫) (VND)"
+GDP: = "$1.047 trillion"
+GDP per capita: = "$10,755"
+Democracy index: = "~2.94/10 (131st)"
+Largest Industry: = "Retail Industry"
+Capital and largest city: = "Hanoi"
+Driver side: = "right"
+Phone prefix: = "+84"

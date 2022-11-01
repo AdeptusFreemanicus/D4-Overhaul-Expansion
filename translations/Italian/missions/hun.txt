@@ -1,0 +1,17 @@
+[config]
+name  = hun
+guiname = "Ungheria"
+description = "L'Ungheria è un paese dell'Europa centrale. Con una superficie di 93.030 chilometri quadrati (35.920 miglia quadrate) nel bacino dei Carpazi, confina a nord con la Slovacchia, a nord-est con l'Ucraina, a est e sud-est con la Romania, a sud con la Serbia, a sud-ovest con Croazia e Slovenia e a ovest con l'Austria. . Con circa 10 milioni di abitanti, l'Ungheria è uno stato membro di medie dimensioni dell'Unione Europea. La lingua ufficiale è l'ungherese, che è la lingua uralica più parlata al mondo e tra le poche lingue non indoeuropee ad essere ampiamente parlate in Europa. La capitale e la città più grande dell'Ungheria è Budapest; altre importanti aree urbane includono Debrecen, Szeged, Miskolc, Pécs e Győr."
+jobtitle = "Presidente"
+
+[stats]
+Inno Nazionale: = "Inno"
+Popolazione: = "10 milioni (2020)"
+Area: = "93.030 km2 (35.920 sq mi)"
+Valuta: = "Fiorino (HUF)"
+PIL: = "$149,939 miliardi (Ft44.158.764.279.374,45 HUF)"
+PIL pro capite: = "$15.373 (Ft4.544.164,16 HUF)"
+Indice di democrazia: = "6,63/10 (55°)"
+Più grande industria: = "Elettronica"
+Capitale e città più grande: = "Budapest"
+Lato guida: = "destra"

@@ -1,0 +1,20 @@
+[config]
+name  = den
+guiname = "Regno di Danimarca"
+description = "La Danimarca, ufficialmente Regno di Danimarca, è un paese nordico del Nord Europa. La Danimarca europea, che è il più meridionale dei paesi scandinavi, è costituita da una penisola, lo Jutland e un arcipelago di 443 isole denominate, con la più grande Zelanda, Fionia e l'isola dello Jutland settentrionale. Le isole sono caratterizzate da terreno pianeggiante, seminativo e coste sabbiose, bassa quota e clima temperato. La Danimarca si trova a sud-ovest della Svezia ea sud della Norvegia e confina a sud con la Germania. Il Regno di Danimarca è costituzionalmente uno stato unitario che comprende la Danimarca metropolitana e i due territori autonomi nell'Oceano Atlantico settentrionale: le Isole Faroe e la Groenlandia"
+
+jobtitle = "Monarca"
+
+[stats]
+Inno Nazionale: = "C'è un bel paese"
+Inno Reale: = "Re Cristiano stava presso l'alto albero"
+Popolazione: = "5,8 milioni (2021 est)"
+Area: = "42.933 km2 (16.577 miglia quadrate)"
+Valuta: = "Peso cubano (CUP)"
+PIL: = "$370 miliardi"
+PIL pro capite: = "$63.829"
+Indice di democrazia: = "~9,15/10 (7°)"
+Maggiore Industria: = "Agricoltura/Turismo"
+Capitale e città più grande: = "Copenaghen"
+Lato guida: = "Destra"
+Prefisso telefonico: = "+45"

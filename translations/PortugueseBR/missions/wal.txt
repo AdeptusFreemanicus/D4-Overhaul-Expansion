@@ -1,0 +1,17 @@
+[config]
+name  = wal
+guiname = "País de Gales"
+description = "O País de Gales é um país que faz parte do Reino Unido. Faz fronteira com a Inglaterra a leste, o Mar da Irlanda ao norte e oeste, e o Canal de Bristol ao sul. Tinha uma população em 2011 de 3.063.456 e tem uma área total de 20.779 km2 (8.023 sq mi). O País de Gales tem mais de 1.680 milhas (2.700 km) de litoral e é amplamente montanhoso, com seus picos mais altos nas áreas norte e central, incluindo Snowdon (Yr Wyddfa), seu cume mais alto. O país fica na zona temperada do norte e tem um clima marítimo mutável. A capital e maior cidade é Cardiff."\
+
+jobtitle = "Monarca"
+
+[stats]
+População: = "3.153.000 milhões (2019 est)"
+Área: = "20.779 km2 (8.023 sq mi)"
+Moeda: = "Libra esterlina (GBP; £)"
+VAB: = "£ 75 bilhões"
+VAB per capita: = "£ 23.900"
+Maior Indústria: = "Sheeeep"
+Capital e maior cidade: = "Cardiff"
+Lado do motorista: = "esquerdo"
+Prefixo do telefone: = "+44"

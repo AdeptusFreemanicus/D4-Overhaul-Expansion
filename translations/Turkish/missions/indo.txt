@@ -1,0 +1,18 @@
+[config]
+name  = indo
+guiname = "Endonezya Cumhuriyeti"
+description = "Endonezya, resmi olarak Endonezya Cumhuriyeti, Güneydoğu Asya ve Okyanusya'da, Hint ve Pasifik okyanusları arasında bir ülkedir. Sumatra, Java, Sulawesi ve Borneo (Kalimantan) ve Yeni Gine (Papua) bölgeleri de dahil olmak üzere on yedi binden fazla adadan oluşur. Endonezya, 1.904.569 kilometrekare (735.358 mil kare) yüzölçümü ile dünyanın en büyük ada ülkesi ve kara alanına göre 14. en büyük ülkesidir. 270 milyon nüfusu ile dünyanın en kalabalık 4. ülkesi ve aynı zamanda en kalabalık Müslüman çoğunluklu ülkedir. Dünyanın en kalabalık adası olan Java, ülke nüfusunun yarısından fazlasına ev sahipliği yapıyor."
+jobtitle = "Devlet Başkanı"
+
+[stats]
+Slogan: = "Çeşitlilik içinde Birlik"
+Ulusal Marş: = "Büyük Endonezya"
+Nüfus: = "270 milyon (2020)"
+Alan: = "1.904.569 km2 (735.358 sq mi)"
+Para Birimi: = "Endonezya Rupiahı (Rp)"
+GSYİH: = "1.089 trilyon dolar (14.027.944.154.499.000,00 Rp)"
+Kişi başına düşen GSYİH: = "4.038 $ (56.111.003,76 rp)"
+Demokrasi Endeksi: = "6.48/10 (64.)"
+En Büyük Sanayi: = "Tarım"
+Başkent ve En Büyük Şehir: = "Cakarta"
+Sürüş tarafı: = "sol"

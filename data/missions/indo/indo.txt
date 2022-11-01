@@ -1,0 +1,129 @@
+[config]
+currency = "Rp"
+population = 135203
+economic_cycle_start = 0.25	
+min_income = 0
+max_income = 322000
+name  = indo
+names_file = "data/names/indonesiannames.txt"
+flag = "flag_indo.png"
+map = "map_indo.svg"
+GUID = 11
+fx_rate_to_pound = 0.30
+apathy = 0.76
+starting_debt = 780770
+min_gdp = 200000
+max_gdp = 2000000
+wealth_mod = 0.70
+
+
+[policies]
+AbortionLaw = 0.75
+AgricultureSubsidies = 0.45
+AirlineTax = 0.2
+AlcoholTax = 0.68
+ArtsSubsidies = 0.63
+BodyCameras = 0.5
+BorderControls = 0.34
+BusLanes = 0.6
+BusSubsidies = 0.25
+CCTVCameras = 0.8
+CapitalGainsTax = 0.2
+CarEmmissionsLimits = 0.65
+CarTax = 0.44
+CharityTaxRelief = 0.9
+ChildBenefit = 0.66
+CitizenshipTests = 0.1
+CitizenshipForSale = 0.18
+CleanEnergySubsidies = 0.3
+CommunityPolicing = 0.82
+CompulsoryFoodLabelling = 0.25
+CompulsorySchoolSports = 0.33
+ConsumerRights = 0.33
+CorporationTax = 0.37
+Creationism = 0.8
+DisabilityBenefit = 0.6
+DivertedProfitsTax = 0.2
+ExecutiveTermLimit = 1.0
+ExecutiveTermLength = 0.5
+FamilyPlanning = 0.75
+FemaleGenitalMutilationBan = 0.2
+FoodStandards = 0.7
+ForeignAid = 0.61
+ForeignInvestorTaxBreaks = 0.25
+FreeBusPasses = 0.65
+FreeSchoolMeals = 0.8
+Gambling = 0.28
+GameHunting = 0.65
+GayMarriage = 0.75
+GenderDiscriminationAct = 0.25
+GenderTransition = 0.2
+GraduateTax = 0.4
+HandgunLaws = 0.66
+HybridCarsInitiative = 0.5
+IncomeTax = 0.45
+InheritanceTax = 0.3
+IntellectualPropertyRights = 0.9
+JudiciaryIndependence = 0.85
+JuryTrial = 0.6
+LaborDayBankHoliday = 0.5
+LabourLaws = 0.36
+LegalAid = 0.6
+MaternityLeave = 0.66
+MilitarySpending = 0.46
+MinimumWage = 0.5
+Narcotics = 0
+NuclearFission = 0.22
+OrganDonation = 0.5
+PayrollTax = 0.52
+PetrolTax = 0.58
+PlasticBagTax = 0.05
+PoliceForce = 0.64
+PollutionControls = 0.6
+PressFreedom = 0.85
+PrisonerTagging = 0.29
+PrisonRegime = 0.3
+PropertyTax = 0.25
+PublicLibraries = 0.25
+RaceDiscriminationAct = 0.8
+Recycling = 0.47
+RetirementAge = 0.4
+RoadBuilding = 0.42
+SalesTax = 0.49
+ScienceFunding = 0.53
+SelectiveSchooling = 0.75
+SmartMeterProgram = 0.25
+SpeedCameras = 0.4
+SocialCare = 0.15
+StateBroadcaster = 0.55
+StateHealthService = 0.65
+StateHousing = 0.45
+StatePensions = 0.55
+StateSchools = 0.62
+StemCells = 0.25
+Tasers = 0.34
+TobaccoTax = 0.3
+UnemployedBenefit = 0.62
+unexplainedwealth = 0.5
+WinterFuelSubsidy = 0.55
+WorkSafetyLaw = 0.69
+
+interest_rate= 0.06
+
+_prereq_mining_industry = 1
+_prereq_deadly_animals = 1
+_prereq_poachers = 1
+_prereq_indigenous = 1
+_prereq_sovereign_currency = 1
+
+
+[options]
+
+
+
+
+
+
+
+
+

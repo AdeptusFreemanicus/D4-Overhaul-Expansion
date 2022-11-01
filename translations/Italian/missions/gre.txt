@@ -1,0 +1,20 @@
+[config]
+name  = gre
+guiname = "Repubblica Ellenica"
+description = "La Grecia, ufficialmente Repubblica ellenica, è un paese situato nell'Europa sudorientale. La sua popolazione è di circa 10,7 milioni a partire dal 2018; Atene è la sua città più grande e capitale, seguita da Salonicco. Situata sulla punta meridionale dei Balcani, la Grecia si trova al crocevia tra Europa, Asia e Africa. Condivide i confini terrestri con l'Albania a nord-ovest, la Macedonia del Nord e la Bulgaria a nord e la Turchia a nord-est. Il Mar Egeo si trova a est della terraferma, il Mar Ionio a ovest, il Mar di Creta e il Mar Mediterraneo a sud. La Grecia ha la costa più lunga del bacino del Mediterraneo e l'undicesima costa più lunga del mondo a 13.676 km (8.498 mi) di lunghezza, con molte isole, di cui 227 abitate. L'ottanta per cento della Grecia è montuoso, con il Monte Olimpo che è la vetta più alta a 2.918 metri (9.573 piedi). Il paese è composto da nove regioni geografiche tradizionali: Macedonia, Grecia centrale, Peloponneso, Tessaglia, Epiro, Isole Egee (compresi Dodecaneso e Cicladi), Tracia, Creta e Isole Ionie"
+
+jobtitle = "Presidente"
+
+[stats]
+Motto: = "Libertà o morte"
+Inno Nazionale: = "Inno alla Libertà"
+Popolazione: = "10,7 milioni (2020)"
+Area: = "131.957 km2 (50.949 sq mi)"
+Valuta: = "Euro (€) (EUR)"
+PIL: = "$ 310.743 miliardi"
+PIL pro capite: = "$29.045"
+Indice di democrazia: = "~7,39/10 (37°)"
+Maggiore Industria: = "Agricoltura/Turismo"
+Capitale e città più grande: = "Atene"
+Lato guida: = "destra"
+Codice chiamante: = "+30"

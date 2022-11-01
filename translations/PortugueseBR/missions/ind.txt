@@ -1,0 +1,20 @@
+[config]
+name  = ind
+guiname = "República da Índia"
+description = "A Índia, oficialmente a República da Índia, é um país do sul da Ásia. É o segundo país mais populoso, o sétimo maior país em extensão territorial e a democracia mais populosa do mundo. Delimitado pelo Oceano Índico ao sul, o Mar da Arábia no sudoeste e a Baía de Bengala no sudeste, compartilha fronteiras terrestres com o Paquistão a oeste; China, Nepal e Butão ao norte; e Bangladesh e Mianmar a leste. No Oceano Índico, a Índia fica nas proximidades do Sri Lanka e das Maldivas; suas ilhas Andaman e Nicobar compartilham uma fronteira marítima com a Tailândia, Mianmar e Indonésia."
+
+jobtitle = "Presidente"
+
+[stats]
+Hino Nacional: = "Só a Verdade Triunfa"
+População: = "1,352 bilhão (2018)"
+Área: = "3.287.263 km2 (1.269.219 sq mi)"
+Moeda: = "Rúpia indiana ₹"
+PIB: = "US$ 10,2 trilhões (~₹74.447.267.496.512,40 INR)"
+PIB per capita: = "$ 7.333 (~₹ 544.840,20 INR)"
+Índice de Democracia: = "6,61/10 (53º)"
+Maior Indústria: = "Têxteis"
+Capital: = "Nova Deli"
+Maior cidade: = "Mumbai (cidade adequada) Delhi (área metropolitana)"
+Lado de condução: = "Esquerda"
+Código de chamada: = "+91"

@@ -1,0 +1,18 @@
+[config]
+name  = indo
+guiname = "Repubblica di Indonesia"
+description = "L'Indonesia, ufficialmente Repubblica di Indonesia, è un paese del sud-est asiatico e dell'Oceania, tra gli oceani Indiano e Pacifico. Consiste di più di diciassettemila isole, tra cui Sumatra, Giava, Sulawesi e parti del Borneo (Kalimantan) e della Nuova Guinea (Papua). L'Indonesia è il paese insulare più grande del mondo e il 14° paese per superficie, con 1.904.569 chilometri quadrati (735.358 miglia quadrate). Con 270 milioni di persone, è il quarto paese più popoloso del mondo e il paese a maggioranza musulmana più popoloso. Giava, l'isola più popolosa del mondo, ospita più della metà della popolazione del paese."
+jobtitle = "Presidente"
+
+[stats]
+Motto: = "Unità nella diversità"
+Inno Nazionale: = "Grande Indonesia"
+Popolazione: = "270 milioni (2020)"
+Area: = "1,904.569 km2 (735.358 miglia quadrate)"
+Valuta: = "Rupia indonesiana (Rp)"
+PIL: = "$1.089 trilioni (14.027.944.154.499.000,00 Rp)"
+PIL pro capite: = "$4.038 (56.111.003,76 rp)"
+Indice di democrazia: = "6,48/10 (64°)"
+Più grande industria: = "Agricoltura"
+Capitale e città più grande: = "Jakarta"
+Lato guida: = "sinistra"

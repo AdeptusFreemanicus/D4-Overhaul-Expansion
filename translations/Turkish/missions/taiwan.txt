@@ -1,0 +1,19 @@
+[config]
+name  = taiwan
+guiname = "Çin Cumhuriyeti"
+description = "Tayvan, resmi olarak Çin Cumhuriyeti, Doğu Asya'da bir ülkedir. Komşu ülkeler arasında kuzeybatıda Çin Halk Cumhuriyeti, kuzeydoğuda Japonya ve güneyde Filipinler bulunmaktadır. Tayvan'ın ana adası 35.808 kilometrekarelik bir alana sahiptir (13,826 sq mi), doğu üçte ikisine hakim dağ sıraları ve yüksek oranda kentleşmiş nüfusunun yoğunlaştığı batı üçte ovalar. Taipei, Tayvan'ın başkenti ve aynı zamanda en büyük metropol bölgesidir. Diğer büyük şehirler Yeni Taipei, Kaohsiung, Taichung, Tainan ve Taoyuan'dır. 23.57 milyon nüfusuyla Tayvan, en yoğun nüfuslu ülkeler arasında yer alıyor."
+jobtitle = "Devlet Başkanı"
+
+[stats]
+Ulusal Marş: = "Çin Cumhuriyeti Ulusal Marşı"
+Nüfus: = "~23,5 milyon (2020)"
+Alan: = "36,197 km2 (13,976 sq mi)"
+Para Birimi: = "Yeni Tayvan Doları (NT$) (TWD)"
+GSYİH: = "635.547 milyar dolar (~17.935.652.706.112.380.00 TWD NT$)"
+Kişi başına GSYİH: = "26.910$ (~759.302.84 TWD NT$)"
+Demokrasi Endeksi: = "~7.73/10 (31.)"
+En Büyük Sektör: = "Hizmetler Sektörü"
+Başkent: = "Taype"
+En Büyük Şehir: = "Yeni Taipei"
+Sürüş tarafı: = "sağ"
+Arama kodu: = "+886"

@@ -1,0 +1,17 @@
+[config]
+name  = israel
+guiname = "İsrail Devleti"
+description = "Resmi olarak İsrail Devleti olarak bilinen İsrail, Batı Asya'da, Akdeniz'in güneydoğu kıyısında ve Kızıldeniz'in kuzey kıyısında yer alan bir ülkedir. Kuzeyde Lübnan, kuzeydoğuda Suriye, doğuda Ürdün, doğuda ve batıda sırasıyla Batı Şeria ve Gazze Şeridi'ndeki Filistin toprakları ve güneybatıda Mısır ile kara sınırına sahiptir. İsrail'in ekonomik ve teknolojik merkezi Tel Aviv, yönetim merkezi ve ilan edilen başkenti ise Kudüs'tür."
+jobtitle = "Devlet Başkanı"
+
+[stats]
+İstiklal Marşı: = "Umut"
+Nüfus: = "9,3 milyon kişi (2021)"
+Alan: = "20.770–22.072 km2 (8.019–8.522 sq mi)"
+Para Birimi: = "Yeni şekel (₪‎) (ILS)"
+GSYİH: = "410.501 milyar dolar"
+Kişi başına GSYİH: = "44,474$"
+Demokrasi Endeksi: = "7.84/10 (27.)"
+En Büyük Endüstri: = "Teknoloji"
+Başkent ve En Büyük Şehir: = "Kudüs"
+Sürüş tarafı: = "sağ"

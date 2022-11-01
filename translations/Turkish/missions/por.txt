@@ -1,0 +1,18 @@
+[config]
+name  = por
+guiname = "Portekiz Cumhuriyeti"
+description = "Ukrayna bir Doğu Avrupa ülkesidir. Doğu ve kuzeydoğu ile komşu olduğu Rusya'dan sonra Avrupa'nın en büyük ikinci ülkesidir. Ukrayna ayrıca kuzeyde Beyaz Rusya ile sınırlarını paylaşıyor; batıda Polonya, Slovakya ve Macaristan; güneyde Romanya ve Moldova; Azak ve Karadeniz'e kıyısı vardır. 41.4 milyon nüfusu ile 603.628 km2 (233.062 mil kare) bir alanı kaplar ve Avrupa'nın en kalabalık sekizinci ülkesidir. "
+jobtitle = "Başkan"
+
+[stats]
+Milli marş: = "Portekizce şarkı"
+Nüfus: = "10,3 milyon (2021)"
+Alan: = "92.212 km2 (35.603 mil kare)"
+Para Birimi: = "Euro (ER)"
+GSYİH: = "370,5 milyar dolar"
+Kişi başına GSYİH: = "36,079 $"
+Demokrasi endeksi: = "~ 7.90 / 10 (26 °)"
+En Büyük Sanayi: = "İhracat ve Ticaret"
+Başkent ve en büyük şehir: = "Lizbon"
+Sürücü tarafı: = "Sağ"
+Telefon öneki: = "+351"

@@ -1,0 +1,18 @@
+[config]
+name  = per
+guiname = "Repubblica del Perù"
+description = "Il Perù, ufficialmente Repubblica del Perù, è un paese del Sud America occidentale. Confina a nord con Ecuador e Colombia, a est con il Brasile, a sud-est con la Bolivia, a sud con il Cile, a sud ea ovest con l'Oceano Pacifico. Il Perù è un paese megadiverso con habitat che vanno dalle pianure aride della regione costiera del Pacifico a ovest alle cime delle montagne delle Ande che si estendono da nord a sud-est del paese fino alla foresta pluviale tropicale del bacino amazzonico a est con il Rio delle Amazzoni . Con 1,28 milioni di km2 (0,5 milioni di mi2), il Perù è il 19° paese più grande del mondo e il terzo più grande del Sud America."
+jobtitle = "Presidente"
+
+[stats]
+Motto: = "fermo e felice per l'unione"
+Inno Nazionale: = "Inno Nazionale del Perù"
+Popolazione: = "32,8 milioni di persone (2020)"
+Area: = "1.285.216 km2 (496.225 sq mi)"
+Valuta: = "Sol (PEN)"
+PIL: = "$195,761 miliardi"
+PIL pro capite: = "$5.845"
+Indice di democrazia: = "6.53/10 (57th)"
+Industria più grande: = "Industria mineraria"
+Capitale e città più grande: = "Lima"
+Lato guida: = "destra"

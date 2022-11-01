@@ -1,0 +1,19 @@
+[config]
+name  = russia
+guiname = "la Federazione Russa"
+description = "La Russia, o Federazione Russa, è un paese transcontinentale situato nell'Europa orientale e nell'Asia settentrionale. Si estende dal Mar Baltico a ovest all'Oceano Pacifico a est e dall'Oceano Artico a nord fino al Mar Nero e al Mar Caspio a sud. La Russia copre oltre 17.125.200 chilometri quadrati (6.612.100 miglia quadrate), coprendo più di un ottavo della superficie terrestre abitata della Terra, estendendo undici fusi orari e confinando con 16 nazioni sovrane. Mosca è la capitale e la città più grande del paese, altre grandi città includono San Pietroburgo, Novosibirsk, Ekaterinburg, Kazan, Nizhny Novgorod, Chelyabinsk e Samara."
+
+jobtitle = "Presidente"
+
+[stats]
+Inno Nazionale: = "Inno di Stato della Federazione Russa"
+Popolazione: = "146,7 milioni (2020)"
+Area: = "17.098.246 km2 (6.601.670 miglia quadrate)"
+Valuta: = "Rublo russo (₽) (RUB)"
+PIL: = "$4.135 trilioni (3.079 quadrilioni di rubli russi)"
+PIL pro capite: = "$28.184 (~₽2096728,95 rubli russi)"
+Indice di democrazia: = "3,31/10 (134°)"
+Grande industria: = "Settore dei servizi"
+Capitale (e città più grande): = "Mosca"
+Lato guida: = "destra"
+Codice chiamante: = "+7"

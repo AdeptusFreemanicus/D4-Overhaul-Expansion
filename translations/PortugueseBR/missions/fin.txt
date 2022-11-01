@@ -1,0 +1,18 @@
+[config]
+name  = fin
+guiname = "República da Finlândia"
+description = "Finlândia, oficialmente a República da Finlândia é um país nórdico localizado no norte da Europa. A Finlândia compartilha fronteiras terrestres com a Suécia a oeste, a Rússia a leste e a Noruega ao norte, a Finlândia tem uma população de aproximadamente 5,5 milhões, tornando-se o 25º país mais populoso da Europa. A língua principal é o finlandês, o sueco é a segunda língua oficial da Finlândia, a Finlândia é uma república parlamentar composta por 19 regiões e 310 municípios. O clima varia significativamente em relação à latitude, do clima continental úmido do sul da Finlândia ao clima boreal do norte. A Finlândia é principalmente um bioma de floresta boreal, com mais de 180.000 lagos registrados. Com uma área de 338.455 quilômetros quadrados (130.678 sq mi), a Finlândia é o oitavo maior país da Europa e o país mais escassamente povoado da União Europeia. Helsinque, a capital da Finlândia, é a maior área metropolitana com mais de 1,5 milhão de pessoas."
+
+jobtitle = "Presidente"
+
+[stats]
+Hino Nacional: = "Nossa Terra"
+População: = "5,5 milhões de pessoas (2020)"
+Área: = "338.455 km2 (130.678 sq mi)"
+Moeda: = "Euro (€) (EUR)"
+PIB: = "US$ 277 bilhões (€ 230.139.104.151,60 EUR)"
+PIB per capita: = "$ 48.461 (€ 40.262,42 EUR)"
+Índice de Democracia: = "9,25/10 (5º)"
+Maior Indústria: = "Eletrônicos"
+Capital e maior cidade: = "Helsinque"
+Lado de condução: = "direito"

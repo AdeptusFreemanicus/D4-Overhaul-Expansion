@@ -1,0 +1,124 @@
+[config]
+currency = "€"
+population = 5800
+economic_cycle_start = 0
+min_income = 0
+max_income = 150000
+name  = nth
+names_file = "data/names/dutchnames.txt"
+flag = "flag_nth.png"
+map = "map_nth.svg"
+GUID = 11
+fx_rate_to_pound = 1.20
+apathy = 0.82
+starting_debt = 434931
+min_gdp = 912241
+max_gdp = 1440000
+wealth_mod = 2.5
+
+
+[policies]
+AbortionLaw = 1
+AdultEducationSubsidies = 0.55
+AlcoholAwarenessCampaign = 1.0
+AgricultureSubsidies = 0.7
+AirlineTax = 0.1
+AlcoholLaw = 0.45
+AlcoholTax = 0.55
+ArmedPolice = 0.7
+ArtsSubsidies = 0.75
+bantobacco = 0.24
+BorderControls = 0.35
+BusLanes = 0.5
+BusSubsidies = 0.25
+CarbonTax = 0.27
+CarEmmissionsLimits = 0.1
+CCTVCameras = 0.4
+CharityTaxRelief = 0.25
+ChildBenefit = 0.62
+CitizenshipTests = 0.65
+CommunityPolicing = 0.8
+CompulsoryForeignLanguageClasses = 1.0
+CompulsoryFoodLabelling = 0.7
+CorporationTax = 0.29
+CyclingCampaign = 0.8
+DiplomaticService = 0.97
+DisabilityBenefit = 0.48
+DrugEnforcement = 0.25
+ExecutiveTermLength = 1.0
+ExecutiveTermLimit = 1.0
+FamilyPlanning = 0.5
+FoodStandards = 1
+ForeignAid = 0.17
+Gambling = 0.28
+GameHunting = 0.25
+GayMarriage = 1
+GenderDiscriminationAct = 0.25
+GenderTransition = 0.55
+HandgunLaws = 0.78
+IncomeTax = 0.57
+InheritanceTax = 0.40
+IntellectualPropertyRights = 0.97
+IntelligenceServices = 0.55
+JudiciaryIndependence = 0.95
+JuryTrial = 0.6
+LabourLaws = 0.28
+LegalAid = 0.65
+LegaliseProstitution = 1
+MarriedTaxAllowance = 0.10
+MaternityLeave = 0.35
+MilitarySpending = 0.42
+MinimumWage = 0.55
+Narcotics = 0.32
+PayrollTax = 0.2
+PetrolTax = 0.5
+PhoneTapping = 0.4
+PoliceForce = 0.5
+PollutionControls = 0.45
+PressFreedom = 1
+PrisonerVoting = 0.5
+PrisonRegime = 0.3
+Prisons = 0.5
+PropertyTax = 0.12
+QuantitativeEasing = 0.2
+RaceDiscriminationAct = 0.8
+Recycling = 0.44
+Reforestation = 0.4
+RentControls = 0.1
+RetirementAge = 0.37
+RightToPrivacy = 0.5
+RoadBuilding = 0.5
+SalesTax = 0.29
+SchoolBuses = 0.75
+ScienceFunding = 0.3
+SmartMeterProgram = 0.25
+SocialCare = 0.18
+StateBroadcaster = 0.25
+StateHealthService = 0.28
+StatePensions = 0.5
+StateSchools = 0.5
+StemCells = 0.2
+Tasers = 0.3
+TechnologyGrants = 0.28
+TobaccoTax = 0.2
+UnemployedBenefit = 0.3
+UniversityGrants = 0.25
+WorkSafetyLaw = 0.5
+
+interest_rate= 0.06
+
+_prereq_has_coast = 1
+_prereq_royal_family = 1
+_prereq_land_border = 1
+
+[options]
+MULTIPLEPARTIES
+
+
+
+
+
+
+
+
+

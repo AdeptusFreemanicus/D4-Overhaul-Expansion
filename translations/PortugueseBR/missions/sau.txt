@@ -1,0 +1,20 @@
+[config]
+name  = sau
+guiname = "Reino da Arábia Saudita"
+description = "A Arábia Saudita, oficialmente o Reino da Arábia Saudita, é um país da Península Arábica na Ásia Ocidental. Tem uma área de cerca de 2.150.000 km2 (830.000 sq mi), tornando-se o quinto maior país da Ásia, o segundo maior do mundo árabe e o maior da Ásia Ocidental. Faz fronteira com o Mar Vermelho a oeste, Jordânia, Iraque e Kuwait ao norte, Golfo Pérsico, Catar e Emirados Árabes Unidos a leste, Omã a sudeste e Iêmen ao sul. Bahrein é um país insular na costa leste. O Golfo de Aqaba, no noroeste, separa a Arábia Saudita do Egito. A Arábia Saudita é o único país com litoral ao longo do Mar Vermelho e do Golfo Pérsico, e a maior parte de seu terreno consiste em deserto árido, planície, estepe e montanhas. Sua capital e maior cidade é Riad. O país abriga Meca e Medina, as duas cidades mais sagradas do Islã."
+
+jobtitle = "Rei"
+
+[stats]
+Lema: = "Não há deus senão Deus; Muhammad é o mensageiro de Deus."
+Hino Nacional: = "Hino Nacional da Arábia Saudita"
+População: = "34.218.169 pessoas (2019 est)"
+Área: = "2.149.690 km2 (830.000 sq mi)"
+Moeda: = "Rial saudita (SR) (SAR)"
+PIB: = "US$ 1,868 trilhão"
+PIB per capita: = "$ 51.648"
+Índice de Democracia: = "2,08/10 (152º)"
+Maior Indústria: = "Indústria Petrolífera"
+Capital e Maior Cidade: = "Riyadh"
+Lado de condução: = "direito"
+Código de chamada: = "+966"

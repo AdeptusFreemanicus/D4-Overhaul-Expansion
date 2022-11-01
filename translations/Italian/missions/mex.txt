@@ -1,0 +1,18 @@
+[config]
+name  = mex
+guiname = "Stati Uniti del Messico"
+description = "Il Messico, ufficialmente gli Stati Uniti del Messico, è un paese nella parte meridionale del Nord America. Confina a nord con gli Stati Uniti; a sud ea ovest dall'Oceano Pacifico; a sud-est dal Guatemala, dal Belize e dal Mar dei Caraibi; e ad est dal Golfo del Messico. Il Messico copre 1.972.550 chilometri quadrati (761.610 miglia quadrate), rendendolo il 13° paese più grande del mondo per area; con circa 126.014.024 abitanti, è il decimo Paese più popoloso e più ispanofono. Il Messico è organizzato come una federazione che comprende 31 stati e Città del Messico, la sua capitale e metropoli più grande. Altre grandi aree urbane includono Guadalajara, Monterrey, Puebla, Toluca, Tijuana, Ciudad Juárez e León."
+jobtitle = "Presidente"
+
+[stats]
+Inno nazionale: = "La patria è la prima"
+Popolazione: = "1.260 milioni (2020)"
+La zona: = "1,972,550 km2 (761,610 mq mi)"
+Valuta: = "peso messicano $ (MXN)"
+PIL: = "$2.7 trilioni"
+PIL pro capite: = "$21,362"
+Indice di democrazia: = "6.07/10 (72°)"
+Grande industria: = "Settore automobilistico"
+Capitale: = "Città del Messico"
+Lato guida: = "Destra"
+Prefisso telefonico: = "+52"

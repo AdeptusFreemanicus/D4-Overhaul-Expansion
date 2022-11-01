@@ -1,0 +1,1 @@
+CreateGrudge(Indian Geography,India,TrafficCongestion,0.16,1,0);

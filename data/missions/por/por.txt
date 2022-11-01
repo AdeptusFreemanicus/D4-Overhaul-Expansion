@@ -1,0 +1,106 @@
+[config]
+currency = "€"
+population = 6102
+economic_cycle_start = 0.38
+min_income = 0
+max_income = 150000
+min_gdp = 70000
+max_gdp = 200000
+wealth_mod = 2.50
+fx_rate_to_pound = 0.9
+starting_debt = 10980
+name  = por
+names_file = "data/names/braziliannames.txt"
+flag = "flag_por.png"
+apathy = 0.41
+map = "map_por.svg"
+GUID = 11
+
+
+[policies]
+AirlineTax = 0.2
+AlcoholTax = 0.68
+BodyCameras = 0.5
+BorderControls = 0.34
+BusLanes = 0.1
+CCTVCameras = 0.2
+CapitalGainsTax = 0.2
+CarEmmissionsLimits = 0.35
+CarTax = 0.44
+ChildBenefit = 0.66
+CleanEnergySubsidies = 0.3
+CommunityPolicing = 0.20
+CorporationTax = 0.37
+Creationism = 0.8
+DisabilityBenefit = 0.6
+ExecutiveTermLimit = 1.0
+ExecutiveTermLength = 0.5
+FemaleGenitalMutilationBan = 0.2
+FoodStandards = 0.7
+ForeignAid = 0.40
+ForeignInvestorTaxBreaks = 0.25
+Gambling = 0.28
+GameHunting = 0.45
+GayMarriage = 0.55
+GenderDiscriminationAct = 0.25
+GenderTransition = 0.2
+GraduateTax = 0.4
+HybridCarsInitiative = 0.5
+IncomeTax = 0.45
+InheritanceTax = 0.3
+IntellectualPropertyRights = 0.7
+JudiciaryIndependence = 0.5
+JuryTrial = 0.5
+LabourLaws = 0.36
+LegalAid = 0.6
+MaternityLeave = 0.66
+MilitarySpending = 0.46
+MinimumWage = 0.5
+Narcotics = 0
+PayrollTax = 0.50
+PetrolTax = 0.50
+PoliceForce = 0.64
+PollutionControls = 0.6
+PressFreedom = 0.4
+PrisonerTagging = 0.10
+PrisonRegime = 0.3
+PropertyTax = 0.25
+RaceDiscriminationAct = 0.8
+Recycling = 0.47
+RetirementAge = 0.4
+RoadBuilding = 0.42
+SalesTax = 0.49
+ScienceFunding = 0.53
+SelectiveSchooling = 0.50
+SpeedCameras = 0.4
+SocialCare = 0.15
+StateBroadcaster = 0.55
+StateHealthService = 0.70
+StateHousing = 0.45
+StatePensions = 0.57
+StateSchools = 0.67
+Tasers = 0.20
+TobaccoTax = 0.3
+UnemployedBenefit = 0.40
+WinterFuelSubsidy = 0.10
+WorkSafetyLaw = 0.69
+
+interest_rate= 0.06
+
+_prereq_poachers = 1
+_prereq_has_coast = 1
+_prereq_sovereign_currency = 1
+_prereq_land_border = 1
+_prereq_deadly_animals = 1
+
+[options]
+MULTIPLEPARTIES
+
+
+
+
+
+
+
+
+

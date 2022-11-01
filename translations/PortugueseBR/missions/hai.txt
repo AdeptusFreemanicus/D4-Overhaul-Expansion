@@ -1,0 +1,20 @@
+[config]
+name  = hai
+guiname = "República do Haiti"
+description = "Haiti, oficialmente a República do Haiti, e anteriormente conhecido como Hayti, é um país localizado na ilha de Hispaniola, no arquipélago das Grandes Antilhas do Mar do Caribe, a leste de Cuba e Jamaica e ao sul das Bahamas e das Ilhas Turcas e Caicos Ilhas. Ocupa os três oitavos ocidentais da ilha que partilha com a República Dominicana. A sudoeste fica a pequena ilha Navassa, que é reivindicada pelo Haiti, mas é disputada como território dos Estados Unidos sob administração federal. O Haiti tem 27.750 km2 (10.714 sq mi) de tamanho, o terceiro maior país do Caribe em área, e tem uma população estimada de 11,4 milhões, tornando-o o país mais populoso do Caribe. A capital é Porto Príncipe."
+
+jobtitle = "Presidente"
+
+[stats]
+Lema: = "Liberdade, Igualdade, Fraternidade"
+Hino Nacional: = "A Canção Dessalines"
+População: = "11.439.646 (2018 est)"
+Área: = "27.750 km2 (10.710 sq mi)"
+Moeda: = "Gourde (G) (HTG)"
+PIB: = "US$ 34,189 bilhões"
+PIB per capita: = "$2.962"
+Índice de Democracia: = "~3,48/10 (119º)"
+Maior Indústria: = "Agricultura/Turismo"
+Capital e maior cidade: = "Port-au-Prince"
+Lado de condução: = "direito"
+Código de chamada: = "+509"

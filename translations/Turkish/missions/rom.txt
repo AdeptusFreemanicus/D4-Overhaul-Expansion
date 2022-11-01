@@ -1,0 +1,18 @@
+[config]
+name  = rom
+guiname = "Romanya"
+description = "Romanya, Orta, Doğu ve Güneydoğu Avrupa'nın birleştiği yerde bir ülkedir. Güneyde Bulgaristan, kuzeyde Ukrayna, batıda Macaristan, güneybatıda Sırbistan, doğuda Moldova ve güneydoğuda Karadeniz ile komşudur. Ağırlıklı olarak ılıman bir karasal iklime ve 238.397 km2'lik bir alana (92,046 mil kare) sahiptir ve yaklaşık 19 milyonluk bir nüfusa sahiptir. Romanya, Avrupa'nın en büyük on ikinci ülkesi ve Avrupa Birliği'nin en kalabalık altıncı üye ülkesidir. Başkenti ve en büyük şehri Bükreş'tir; diğer önemli kentsel alanlar arasında Cluj-Napoca, Timişoara, Iași, Constanța, Craiova, Brașov ve Galați yer alıyor."
+jobtitle = "Devlet Başkanı"
+
+[stats]
+Milli marş: = "Uyan, Rumen"
+Nüfus: = "19,1 milyon (doğu 2021)"
+Alan: = "238.397 km2 (92.046 sq mi)"
+Para Birimi: = "Romen Leyi (RON)"
+GSYİH: = "636.481 milyar dolar"
+Kişi başına GSYİH: = "32.950$"
+Demokrasi endeksi: = "~76.40 / 10 (62 °)"
+En Büyük Sanayi: = "Tarım"
+Başkent ve en büyük şehir: = "Bükreş"
+Sürücü tarafı: = "Sağ"
+Telefon öneki: = "+40"

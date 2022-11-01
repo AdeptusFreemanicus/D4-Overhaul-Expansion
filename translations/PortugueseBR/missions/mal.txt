@@ -1,0 +1,21 @@
+[config]
+name  = mal
+guiname = "Malásia"
+description = "A Malásia é um país do Sudeste Asiático. A monarquia constitucional federal consiste em treze estados e três territórios federais, separados pelo Mar da China Meridional em duas regiões, a Malásia Peninsular e a Malásia Oriental de Bornéu. A Malásia peninsular compartilha uma fronteira terrestre e marítima com a Tailândia e fronteiras marítimas com Cingapura, Vietnã e Indonésia. A Malásia Oriental compartilha fronteiras terrestres e marítimas com Brunei e Indonésia e uma fronteira marítima com as Filipinas e o Vietnã. Kuala Lumpur é a capital nacional, a maior cidade e a sede do poder legislativo do governo federal. A capital planejada próxima de Putrajaya é a capital administrativa; que representa a sede tanto do poder executivo (Gabinete, ministérios e agências federais) quanto do poder judiciário do governo federal. Com uma população de mais de 32 milhões, a Malásia é o 43º país mais populoso do mundo. O ponto mais meridional da Eurásia continental está em Tanjung Piai. Nos trópicos, a Malásia é um dos 17 países megadiversos, lar de várias espécies endêmicas."
+
+jobtitle = "Sua majestade o rei"
+
+[stats]
+Lema: = "Unidade é Força"
+Hino Nacional: = "Meu País"
+População: = "32,7 milhões (2020 est)"
+Área: = "330.803 km2 (127.724 sq mi)"
+Moeda: = "Ringgit (RM) (MYR)"
+PIB: = "US$ 900,426 bilhões"
+PIB per capita: = "$27.287"
+Índice de Democracia: = "~7,19/10 (39º)"
+Maior Indústria: = "Setor Elétrico e Eletrônico"
+Maiúsculas: = "Kuala Lumpur - Putrajaya (Administrativo)"
+Maior cidade: = "Kuala Lumpur"
+Lado de condução: = "Esquerda"
+Código de chamada: = "+60"

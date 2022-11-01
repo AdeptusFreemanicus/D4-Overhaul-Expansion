@@ -1,0 +1,18 @@
+[config]
+name  = sco
+guiname = "Escócia"
+description = "A Escócia é um país que faz parte do Reino Unido. Cobrindo o terço norte da ilha da Grã-Bretanha, a Escócia continental tem uma fronteira de 154 quilômetros com a Inglaterra a sudeste e é cercada pelo Oceano Atlântico a norte e oeste, o Mar do Norte a nordeste e o Mar da Irlanda ao sul. O país também contém mais de 790 ilhas, principalmente nos arquipélagos das Hébridas e das Ilhas do Norte. A maior parte da população, incluindo a capital Edimburgo, está concentrada no Cinturão Central – a planície entre as Terras Altas da Escócia e as Terras Altas do Sul – nas Terras Baixas da Escócia”.
+
+jobtitle = "Monarca"
+
+[stats]
+Hino Nacional: = "Em minha defesa Deus me defenda"
+População: = "5.463.300 pessoas (2019 est)"
+Área: = "77.933 km2 (30.090 sq mi)"
+Moeda: = "Libra esterlina (GBP; £)"
+VAB: = "£ 166 bilhões"
+VAB per capita: = "£ 30.560"
+Maior Indústria: = "Exportações de Petróleo e Gás"
+Capital e maior cidade: = "Edimburgo"
+Lado de condução: = "esquerdo"
+Código de chamada: = "+44"

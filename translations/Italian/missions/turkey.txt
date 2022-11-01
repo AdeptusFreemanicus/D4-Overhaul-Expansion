@@ -1,0 +1,19 @@
+[config]
+name  = turkey
+guiname = "Repubblica turca"
+description = "La Turchia, ufficialmente Repubblica di Turchia, è un paese transcontinentale situato principalmente nella penisola anatolica nell'Asia occidentale, con una porzione più piccola nella penisola balcanica nell'Europa sudorientale. La Turchia confina a nord-ovest con la Grecia e la Bulgaria; a nord dal Mar Nero; nord-est dalla Georgia; ad est da Armenia, Azerbaigian e Iran; sud-est dall'Iraq; a sud dalla Siria e dal Mar Mediterraneo; e ad ovest dal Mar Egeo. Circa il 70-80 per cento dei cittadini del paese sono turchi. Istanbul, a cavallo tra Europa e Asia, è la città più grande del Paese, mentre Ankara è la capitale."
+jobtitle = "Presidente"
+
+[stats]
+Inno Nazionale: = "La Marcia dell'Indipendenza"
+Popolazione: = "83 milioni (2019)"
+Area: = "783.356 km2 (302.455 sq mi)"
+Valuta: = "lira turca (₺) (TRY)"
+PIL: = "$760,940 miliardi (₺ 5,946,686,237,230,67 TRY)"
+PIL pro capite: = "$30.644 (₺ 239.469,87 TRY)"
+Indice Democrazia: = "~4,09/10 (110°)"
+Più grande industria: = "Agricoltura"
+Capitale: = "Ankara"
+Città più grande: = "Istanbul"
+Lato guida: = "destra"
+Codice chiamante: = "+90"

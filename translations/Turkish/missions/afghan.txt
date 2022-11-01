@@ -1,0 +1,19 @@
+[config]
+name  = afghan
+guiname = "Afganistan İslam Emirliği"
+description = "Afganistan, resmi olarak Afganistan İslam Cumhuriyeti, Orta ve Güney Asya'nın kavşağında karayla çevrili bir ülkedir. Afganistan doğu ve güneyde Pakistan tarafından sınırlanmıştır; batıda İran; kuzeyde Türkmenistan, Özbekistan ve Tacikistan; ve kuzeydoğuda Çin. 652.000 kilometrekarelik bir alanı kaplayan (252.000 sq mi), kuzey ve güneybatıda ovaları olan dağlık bir ülkedir. Kabil, başkenti ve en büyük şehridir. Nüfusu çoğunlukla etnik Peştunlar, Tacikler, Hazaralar ve Özbeklerden oluşan 32 milyon civarında."
+jobtitle = "Devlet Başkanı"
+
+[stats]
+Slogan: = "Allah'tan başka ilah yoktur; Muhammed Allah'ın elçisidir."
+İstiklal Marşı: = "İstiklal Marşı (Çok Orijinal)"
+Nüfus: = "32,2 milyon (2019)"
+Alan: = "652.230 km2 (251.830 sq mi)"
+Para Birimi: = "Afganca (AFN)"
+GSYİH: = "72 milyar dolar (5.557.550.600.448,000,00 AFN)"
+Kişi başına GSYİH: = "2.024 $ (156,228,92 AFN)"
+Demokrasi Endeksi: = "2.85/10 (141.)"
+En Büyük Endüstri: = "Madencilik endüstrisi"
+Başkent ve En Büyük Şehir: = "Kabil"
+Sürüş tarafı: = "sağ"
+Arama kodu: = "+93"

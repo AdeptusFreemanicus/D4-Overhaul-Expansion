@@ -1,0 +1,27 @@
+[config]
+name  = nth
+guiname = "Hollanda"
+description = "Hollanda, gayri resmi olarak Hollanda, Karayipler'de toprakları olan Batı Avrupa'da bulunan bir ülkedir. Hollanda Krallığı'nı oluşturan dört ülkenin en büyüğüdür. Avrupa'da Hollanda, doğuda Almanya, güneyde Belçika ve kuzeybatıda Kuzey Denizi ile komşu olan on iki ilden oluşur ve bu ülkeler ve Birleşik Krallık ile Kuzey Denizi'nde deniz sınırları vardır. Karayipler'de üç özel belediyeden oluşur: Bonaire, Sint Eustatius ve Saba adaları."
+jobtitle = "Hükümdar"
+
+[stats]
+İstiklal Marşı: = "Ben koruyacağım"
+Nüfus: = "17,4 milyon (2020)"
+Alan: = "41.865 km2 (16,164 sq mi)"
+Para Birimi: = "Euro (EUR)"
+GSYİH: = "1,012$ (~EUR844452000000,00 EUR)"
+Kişi başına GSYİH: = "58.003$ (~EUR48980.75 EUR)"
+Demokrasi Endeksi: = "~9.66/10 (9.)"
+En Büyük Sanayi: = "Tarım Ve Gıda Sanayi"
+Başkent ve En Büyük Şehir: = "Amsterdam"
+Sürüş tarafı: = "Sağ"
+Arama kodu: = "+31"
+
+
+
+
+
+
+
+
+

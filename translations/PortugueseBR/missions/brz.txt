@@ -1,0 +1,21 @@
+[config]
+name  = brz
+guiname = "República Federativa do Brasil"
+description = "O Brasil, oficialmente República Federativa do Brasil, é o maior país da América do Sul e da América Latina. Com 8,5 milhões de quilômetros quadrados (3,2 milhões de milhas quadradas) e com mais de 211 milhões de pessoas, o Brasil é o quinto maior país do mundo em área e o sexto mais populoso. Sua capital é Brasília e sua cidade mais populosa é São Paulo. A federação é composta pela união dos 26 estados e do Distrito Federal. É o maior país a ter o português como língua oficial e o único das Américas; é também uma das nações mais multiculturais e etnicamente diversas, devido a mais de um século de imigração em massa de todo o mundo; bem como o país de maioria católica romana mais populoso."
+
+jobtitle = "Presidente"
+
+[stats]
+Lema: = "Ordem e Progresso"
+Hino Nacional: = "Hino Nacional Brasileiro"
+População: = "210 milhões (2019)"
+Área: = "8.515.767 km2 (3.287.956 MI quadrado)"
+Moeda: = "Real (R$) (BRL)"
+PIB: = "US$ 3,078 trilhões (~R$ 15.516.802.336.500,00 BRL)"
+PIB per capita: = "$6.450 (R$33.361,13 BRL)"
+Índice de Democracia: = "~6,86/10 (52º)"
+Maior Indústria: = "Fabricação de Automóveis"
+Capital: = "Brasília"
+Maior Cidade: = "São Paulo"
+Lado de condução: = "direito"
+Código de chamada: = "+55"

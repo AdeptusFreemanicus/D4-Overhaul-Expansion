@@ -1,0 +1,12 @@
+[dilemma]
+name=NorthenBridgeIncident
+country_specific = dprk
+
+[influences]
+0 = _random_,0.1,0.4
+
+[option0]
+OnImplement = CreateGrudge(Patriot,0.05,0.9);CreateGrudge(ForeignRelations,-0.05,0.9);CreateGrudge(-Liberal,0.04,0.9);
+
+[option1]
+OnImplement = CreateGrudge(Patriot,-0.05,0.9);CreateGrudge(Liberal,0.02,0.9);CreateGrudge(ForeignRelations,0.09,0.9);CreateGrudge(CrimeRate,0.01,0.9);

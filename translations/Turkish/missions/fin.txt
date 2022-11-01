@@ -1,0 +1,17 @@
+[config]
+name  = fin
+guiname = "Finlandiya Cumhuriyeti"
+description = "Finlandiya, resmi olarak Finlandiya Cumhuriyeti, Kuzey Avrupa'da bulunan bir İskandinav ülkesidir. Finlandiya batıda İsveç, doğuda Rusya ve kuzeyde Norveç ile kara sınırlarını paylaşıyor, Finlandiya yaklaşık 5.5 milyonluk bir nüfusa sahip ve onu Avrupa'nın en kalabalık 25. ülkesi yapıyor. Ana dil Fince, İsveççe Finlandiya'nın ikinci resmi dilidir, Finlandiya 19 bölge ve 310 belediyeden oluşan bir parlamenter cumhuriyettir. İklim, Güney Finlandiya'nın nemli karasal ikliminden kuzeydeki boreal iklime kadar enlemlere göre önemli ölçüde değişir. Finlandiya, öncelikle 180.000'den fazla kayıtlı gölü olan bir boreal orman biyomudur, 338.455 kilometrekarelik (130.678 sq mi) bir alana sahip Finlandiya, Avrupa'nın sekizinci en büyük ülkesi ve Avrupa Birliği'ndeki en seyrek nüfuslu ülkedir. Finlandiya'nın başkenti Helsinki, 1,5 milyondan fazla nüfusuyla en büyük metropol alanıdır."
+jobtitle = "Devlet Başkanı"
+
+[stats]
+İstiklal Marşı: = "Toprağımız"
+Nüfus: = "5.5 milyon kişi (2020)"
+Alan: = "338.455 km2 (130.678 sq mi)"
+Para Birimi: = "Euro (€) (EUR)"
+GSYİH: = "277 milyar dolar (230.139.104.151,60 Euro)"
+Kişi başına GSYİH: = "48,461 $ (40.262,42 €)"
+Demokrasi Endeksi: = "9.25/10 (5.)"
+En Büyük Sektör: = "Elektronik"
+Başkent ve En Büyük Şehir: = "Helsinki"
+Sürüş tarafı: = "sağ"

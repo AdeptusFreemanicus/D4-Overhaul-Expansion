@@ -1,0 +1,24 @@
+[config]
+name  = uk
+guiname = "United Kingdom"
+description = "The United Kingdom of Great Britain and Northern Ireland actually consists of four countries. England, Scotland, Wales and Northern Ireland. The UK is a 'constitutional monarchy', effectively meaning the monarchy is symbolic. The head of state is the Queen, but the country is governed by a Prime Minister, defined as anybody who can command a majority of support in the 'House of Commons', which is the elected chamber. A second unelected chamber called the 'House of Lords' exists to scrutinize legislation."
+jobtitle = "Prime Minister"
+
+[stats]
+Population: = "65.1 million (July 2018)"
+Size: = "243,610 sq km"
+Ethnicity: = "87.1% White 3% Black 6.9% Asian"
+Religion: = "Christian(59.5%) Muslim (4.4%) Hindu (1.3%)"
+Exports: = "Cars, Turbo-jets, Crude oil, Gold, Medication"
+Most Popular Food: = "Fish and Chips"
+National Anthem: = "God Save The Queen"
+Wealthiest Citizen: = "Sir James Dyson (2020)"
+
+
+
+
+
+
+
+
+

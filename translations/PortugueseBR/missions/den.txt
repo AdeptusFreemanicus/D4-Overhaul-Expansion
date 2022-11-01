@@ -1,0 +1,20 @@
+[config]
+name  = den
+guiname = "Reino da Dinamarca"
+description = "A Dinamarca, oficialmente o Reino da Dinamarca, é um país nórdico no norte da Europa. A Dinamarca européia, que é o mais meridional dos países escandinavos, consiste em uma península, a Jutlândia, e um arquipélago de 443 ilhas nomeadas, sendo as maiores a Zelândia, Funen e a Ilha da Jutlândia do Norte. As ilhas são caracterizadas por terras planas e aráveis e costas arenosas, baixa altitude e clima temperado. A Dinamarca fica a sudoeste da Suécia e ao sul da Noruega, e faz fronteira ao sul com a Alemanha. O Reino da Dinamarca é constitucionalmente um estado unitário que compreende a Dinamarca metropolitana e os dois territórios autônomos no Oceano Atlântico Norte: as Ilhas Faroé e a Groenlândia."
+
+jobtitle = "Monarca"
+
+[stats]
+Hino Nacional: = "Existe um país adorável"
+Hino Real: = "Rei Cristão ficou ao lado do mastro elevado"
+População: = "5,8 milhões (2021 est)"
+Área: = "42.933 km2 (16.577 sq mi)"
+Moeda: = "Coroa Dinamarquesa (DKK)"
+PIB: = "US$ 370 bilhões"
+PIB per capita: = "$ 63.829"
+Índice de Democracia: = "~9,15/10 (7º)"
+Maior Indústria: = "Agricultura/Turismo"
+Capital e maior cidade: = "Copenhague"
+Lado de condução: = "Direito"
+Código de chamada: = "+45"

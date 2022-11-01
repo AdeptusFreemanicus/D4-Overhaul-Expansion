@@ -1,0 +1,20 @@
+[config]
+name  = brz
+guiname = "Brezilya Federal Cumhuriyeti"
+description = "Resmi olarak Brezilya Federal Cumhuriyeti olan Brezilya, hem Güney Amerika hem de Latin Amerika'nın en büyük ülkesidir. 8,5 milyon kilometre kare (3,2 milyon mil kare) ve 211 milyondan fazla insanla Brezilya, bölgelere göre dünyanın beşinci en büyük ülkesi ve en kalabalık altıncı ülkesidir. Başkenti Brasília ve en kalabalık şehri São Paulo'dur. Federasyon, 26 eyaletin ve Federal Bölgenin birliğinden oluşur. Resmi dil olarak Portekizce'ye sahip en büyük ülke ve Amerika'daki tek ülkedir; aynı zamanda dünyanın dört bir yanından bir asırdan fazla süren kitlesel göç nedeniyle en çok kültürlü ve etnik çeşitlilik gösteren uluslardan biridir; hem de en kalabalık Roma Katolik çoğunluk ülkesi."
+jobtitle = "Devlet Başkanı"
+
+[stats]
+Slogan: = "Düzen ve İlerleme"
+Ulusal Marş: = "Brezilya Ulusal Marşı"
+Nüfus: = "210 milyon (2019)"
+Alan: = "8.515,767 km2 (3.287.956 sq mi)"
+Para Birimi: = "Gerçek (R$) (BRL)"
+GSYİH: = "3.078 trilyon ABD Doları (~15,516,802,336,500,00 BRL )"
+Kişi başına GSYİH: = "6,450$ (33,361,13 R$)"
+Demokrasi Endeksi: = "~6.86/10 (52.)"
+En Büyük Sektör: = "Otomobil İmalatı"
+Başkent: = "Brezilya"
+En Büyük Şehir: = "São Paulo"
+Sürüş tarafı: = "sağ"
+Arama kodu: = "+55"

@@ -1,0 +1,18 @@
+[config]
+name  = israel
+guiname = "Estado de Israel"
+description = "Israel, oficialmente conhecido como Estado de Israel, é um país da Ásia Ocidental, localizado na costa sudeste do Mar Mediterrâneo e na costa norte do Mar Vermelho. Tem fronteiras terrestres com o Líbano ao norte, a Síria a nordeste, a Jordânia a leste, os territórios palestinos da Cisjordânia e da Faixa de Gaza a leste e oeste, respectivamente, e com o Egito a sudoeste. O centro econômico e tecnológico de Israel é Tel Aviv, enquanto sua sede do governo e capital proclamada é Jerusalém."
+
+jobtitle = "Presidente"
+
+[stats]
+Hino Nacional: = "A Esperança"
+População: = "9,3 milhões de pessoas (2021)"
+Área: = "20.770–22.072 km2 (8.019–8.522 sq mi)"
+Moeda: = "Novo shekel (₪‎) (ILS)"
+PIB: = "US$ 410,501 bilhões"
+PIB per capita: = "$44.474"
+Índice de Democracia: = "7,84/10 (27º)"
+Maior Indústria: = "Tecnologia"
+Capital e maior cidade: = "Jerusalém"
+Lado de condução: = "direito"

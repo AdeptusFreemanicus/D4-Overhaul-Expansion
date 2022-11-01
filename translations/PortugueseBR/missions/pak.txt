@@ -1,0 +1,20 @@
+[config]
+name  = pak
+guiname = "República Islâmica do Paquistão"
+description = "Paquistão, oficialmente a República Islâmica do Paquistão, é um país no sul da Ásia. É o quinto país mais populoso do mundo, com uma população superior a 212,2 milhões. Tem a segunda maior população muçulmana do mundo. É o 33º maior país em área, abrangendo 881.913 quilômetros quadrados (340.509 milhas quadradas). O Paquistão tem uma costa de 1.046 quilômetros (650 milhas) ao longo do Mar da Arábia e do Golfo de Omã no sul e faz fronteira com a Índia a leste, o Afeganistão a oeste, o Irã a sudoeste e a China a nordeste. Está estreitamente separado do Tajiquistão pelo Corredor Wakhan do Afeganistão, no noroeste, e também compartilha uma fronteira marítima com Omã."
+
+jobtitle = "Presidente"
+
+[stats]
+Lema: = "Fé, Unidade, Disciplina"
+Hino Nacional: = "O Hino Nacional (Muito Original)"
+População: = "212,2 milhões de pessoas (2018)"
+Área: = "881.913 km2 (340.509 sq mi)"
+Moeda: = "Rúpia paquistanesa (₨) (PKR)"
+PIB: = "US$ 276,1 bilhões"
+PIB per capita: = "$1.349"
+Índice de Democracia: = "4,31/10 (105º)"
+Maior Indústria: = "Indústria Mineira"
+Capital: = "Islamabad"
+Maior cidade: = "Karachi (antiga capital)"
+Lado de condução: = "esquerdo"

@@ -1,0 +1,12 @@
+[dilemma]
+name=RussianDeal
+country_specific = afghan
+
+[influences]
+0 = _random_,0.1,0.4
+
+[option0]
+OnImplement = CreateGrudge(Patriot,-0.07,0.9);CreateGrudge(Patriot_freq,-0.05,0.95);CreateGrudge(ForeignRelations,0.05,0.9);CreateGrudge(_Terrorism,0.05,0.9);
+
+[option1]
+OnImplement = CreateGrudge(Patriot,0.05,0.9);CreateGrudge(Patriot_freq,0.05,0.95);CreateGrudge(ForeignRelations,-0.09,0.9);CreateGrudge(GDP,0.05,1.0);CreateGrudge(ForeignRelations,0.05,0.9);CreateGrudge(_Terrorism,-0.05,0.9);

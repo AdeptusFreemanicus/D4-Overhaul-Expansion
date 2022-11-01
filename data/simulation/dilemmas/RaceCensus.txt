@@ -1,0 +1,13 @@
+[dilemma]
+name=RaceCensus
+
+[influences]
+0 = _random_,0,0.1
+1 = RacialTension,0.0+(1.0*x)
+2 = Technology,0.0+(0.5*x)
+
+[option0]
+OnImplement = CreateGrudge(RacialTension,-0.10,1.00);CreateGrudge(Socialist,0.05,1.00);CreateGrudge(Liberal,-0.10,1.00);CreateGrudge(Religious,-0.10,1.00);CreateGrudge(Education,0.05,1.00);
+
+[option1]
+OnImplement = CreateGrudge(Liberal,0.05,1.00);CreateGrudge(Religious,0.10,1.00);CreateGrudge(Socialist,-0.05,1.00);

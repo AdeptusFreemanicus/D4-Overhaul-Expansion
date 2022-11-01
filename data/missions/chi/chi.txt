@@ -1,0 +1,146 @@
+[config]
+currency = "CLP"
+population = 12749
+economic_cycle_start = 0.25
+min_income = 0
+max_income = 152000
+name  = chi
+names_file = "data/names/chileannames.txt"
+flag = "flag_chi.png"
+map = "map_chi.svg"
+GUID = 11
+fx_rate_to_pound = 0.50
+apathy = 0.30
+starting_debt = 573120
+min_gdp = 100000
+max_gdp = 1500000
+wealth_mod = 0.70
+
+
+[policies]
+AbortionLaw = 0.75
+AdultEducationSubsidies = 0.55
+AlcoholAwarenessCampaign = 1.0
+AgricultureSubsidies = 0.7
+AirlineTax = 0.1
+AlcoholLaw = 0.25
+AlcoholTax = 0.55
+ArmedPolice = 0.7
+ArtsSubsidies = 0.75
+BorderControls = 0.35
+BusLanes = 0.5
+BusSubsidies = 0.25
+CarbonTax = 0.27
+CarEmmissionsLimits = 0.1
+CCTVCameras = 0.4
+CharityTaxRelief = 0.25
+ChildBenefit = 0.62
+CitizenshipTests = 0.65
+CommunityPolicing = 0.8
+CompulsoryForeignLanguageClasses = 1.0
+CompulsoryFoodLabelling = 0.7
+CompulsorySchoolSports = 1
+CorporationTax = 0.44
+CyclingCampaign = 0.8
+DiplomaticService = 0.97
+DisabilityBenefit = 0.48
+DrugEnforcement = 0.25
+DrugTreatment = 0.25
+EcoHomeRegulations = 0.75
+ElectricCarsInitiative = 0.24
+ExecutiveTermLength = 0.5
+ExecutiveTermLimit = 1.0
+FamilyPlanning = 0.5
+FoodStandards = 1
+ForeignAid = 0.17
+FreeSchoolMeals = 0.25
+Gambling = 0.28
+GameHunting = 0.85
+GayMarriage = 0.5
+GenderDiscriminationAct = 0.25
+GenderTransition = 0.2
+HandgunLaws = 0.78
+HealthyEatingCampaign = 0.85
+IncomeTax = 0.55
+InheritanceTax = 0.42
+IntellectualPropertyRights = 0.97
+IntelligenceServices = 0.55
+JudiciaryIndependence = 0.95
+JuryTrial = 0.6
+LabourLaws = 0.28
+LegalAid = 0.65
+LegaliseProstitution = 0.5
+LimitAutomatedTrading = 0.2
+MarriedTaxAllowance = 0.1
+MaternityLeave = 0.35
+MicrogenerationGrants = 0.25
+MilitarySpending = 0.42
+MinimumWage = 0.55
+Narcotics = 0.32
+NuclearFission = 0.2
+OilDrillingSubsidy = 0.35
+PayrollTax = 0.1
+PetrolTax = 0.08
+PhoneTapping = 0.4
+PoliceForce = 0.3
+PollutionControls = 0.45
+PressFreedom = 0.95
+PrisonerTagging = 0.25
+PrisonerVoting = 1.0
+PrisonRegime = 0.3
+Prisons = 0.65
+PropertyTax = 0.39
+QuantitativeEasing = 0.44
+RaceDiscriminationAct = 0.8
+RareEarthRefinement = 0.05
+RecreationalDrugsTax = 0.25
+Recycling = 0.1
+Reforestation = 0.42
+RentControls = 0.1
+RetirementAge = 0.33
+RightToDie = 0.5
+RightToPrivacy = 0.5
+RoadBuilding = 0.42
+SalesTax = 0.24
+SchoolBuses = 0.75
+ScienceFunding = 0.3
+SelectiveSchooling = 0.6
+SmartMeterProgram = 0.25
+SocialCare = 0.18
+StateBroadcaster = 0.25
+StateEnergy = 0.5
+StateHealthService = 0.28
+StatePensions = 0.68
+StatePostService = 0.8
+StateSchools = 0.5
+StateWater  = 0.67
+StemCells = 0.2
+Tasers = 0.3
+TechnologyGrants = 0.28
+TobaccoTax = 0.2
+TourismAdCampaign = 0.45
+UnemployedBenefit = 0.75
+UniversityGrants = 0.25
+WorkSafetyLaw = 0.67
+YoungEntrepreneurScheme = 0.5
+
+interest_rate= 0.06
+
+_prereq_mining_industry = 1
+_prereq_deadly_animals = 1
+_prereq_poachers = 1
+_prereq_indigenous = 1
+_prereq_sovereign_currency = 1
+
+
+[options]
+MULTIPLEPARTIES
+
+
+
+
+
+
+
+
+

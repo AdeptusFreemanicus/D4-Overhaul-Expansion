@@ -1,0 +1,19 @@
+[config]
+name  = gre
+guiname = "Yunan medeniyeti"
+description = "Yunanistan, resmi olarak Helen Cumhuriyeti, Güneydoğu Avrupa'da bulunan bir ülkedir. Nüfusu 2018 itibariyle yaklaşık 10,7 milyondur; Atina, en büyük ve başkentidir, ardından Selanik gelir. Balkanların güney ucunda yer alan Yunanistan, Avrupa, Asya ve Afrika'nın kavşağında yer almaktadır. Kuzeybatıda Arnavutluk, kuzeyde Kuzey Makedonya ve Bulgaristan ve kuzeydoğuda Türkiye ile kara sınırlarını paylaşıyor. Anakaranın doğusunda Ege Denizi, batısında İyon Denizi, güneyinde Girit Denizi ve Akdeniz bulunur. Yunanistan, Akdeniz Havzası'ndaki en uzun sahil şeridine ve 13.676 km (8.498 mi) uzunluğundaki dünyanın en uzun 11. sahil şeridine sahiptir ve 227'sinde yerleşim olan birçok adaya sahiptir. Yunanistan'ın yüzde sekseni dağlıktır ve Olimpos Dağı 2.918 metre (9,573 ft) ile en yüksek zirvedir. Ülke dokuz geleneksel coğrafi bölgeden oluşur: Makedonya, Orta Yunanistan, Mora, Teselya, Epir, Ege Adaları (Oniki Adalar ve Kikladlar dahil), Trakya, Girit ve İyon Adaları."
+jobtitle = "Devlet Başkanı"
+
+[stats]
+Slogan: = "Özgürlük ya da Ölüm"
+İstiklal Marşı: = "Özgürlük İlahisi"
+Nüfus: = "10,7 milyon (2020)"
+Alan: = "131.957 km2 (50.949 sq mi)"
+Para Birimi: = "Euro (€) (EUR)"
+GSYİH: = "310.743 milyar dolar"
+Kişi başına GSYİH: = "29,045$"
+Demokrasi Endeksi: = "~7.39/10 (37.)"
+En Büyük Sektör: = "Tarım/Turizm"
+Başkent ve En Büyük Şehir: = "Atina"
+Sürüş tarafı: = "sağ"
+Arama kodu: = "+30"

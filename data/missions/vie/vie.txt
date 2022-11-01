@@ -1,0 +1,96 @@
+[config]
+currency = "₫"
+population = 45749 # ~92mil
+economic_cycle_start = 0.25
+min_income = 0
+max_income = 15200
+name  = vie
+names_file = "data/names/chinesenames.txt"
+flag = "flag_vie.png"
+map = "map_vie.svg"
+GUID = 11
+fx_rate_to_pound = 0.30
+apathy = 0.30
+starting_debt = 57312
+min_gdp = 10000
+max_gdp = 150000
+wealth_mod = 0.60
+
+
+[policies]
+AirlineTax = 0.1
+AlcoholLaw = 1
+ArmedPolice = 1
+BorderControls = 0.8
+CarTax = 0.20
+CCTVCameras = 0.10
+ChildBenefit = 0.10
+CitizenshipTests = 0.50
+CompulsorySchoolSports = 0.5
+ConsumerRights = 0.5
+CorporationTax = 0.56
+DisabilityBenefit = 0.05
+ExecutiveTermLength = 0
+ExecutiveTermLimit = 1
+GameHunting = 0.5
+GayMarriage = 0.65
+GenderDiscriminationAct = 0.05
+GenderTransition = 0.5
+HandgunLaws = 0.2
+ImmigrationRules = 0.22
+IncomeTax = 0.40
+JudiciaryIndependence = 0.08
+JuryTrial = 0.7
+LabourLaws = 0.30
+LegalAid = 0.20
+MaternityLeave = 0.5
+MilitarySpending = 0.5
+MinimumWage = 0.20
+Narcotics = 0
+Nationalanthemsinschool = 0.35
+PayrollTax = 0.40
+PetrolTax = 0.15
+PoliceForce = 0.5
+PollutionControls = 0
+PressFreedom = 0.1
+PrisonerTagging = 0.8
+PrisonRegime = 0.3
+Recycling = 0.50
+RetirementAge = 0.5
+RoadBuilding = 0.1
+SalesTax = 0.20
+ScienceFunding = 0.05
+SchoolBuses = 0.10
+SocialCare = 0.3
+StateBroadcaster = 0.30
+StateHealthService = 0.30
+StatePensions = 0.30
+StatePostService = 0.30
+StateRail = 0.30
+StateSchools = 0.30
+StateWater = 0.30
+TobaccoTax = 0.20
+TollRoads = 0.20
+UniversityGrants = 0.2
+WitnessProtectionProgram = 0.25
+
+interest_rate= 0.06
+
+_prereq_mining_industry = 1
+_prereq_deadly_animals = 1
+_prereq_poachers = 1
+_prereq_indigenous = 1
+_prereq_sovereign_currency = 1
+
+
+[options]
+MULTIPLEPARTIES
+
+
+
+
+
+
+
+
+

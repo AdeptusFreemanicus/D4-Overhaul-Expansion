@@ -1,0 +1,21 @@
+[config]
+name  = mal
+guiname = "Malaysia"
+description = "Malaysia è un paese del sud-est asiatico. La monarchia costituzionale federale è composta da tredici stati e tre territori federali, separati dal Mar Cinese Meridionale in due regioni, la Malesia peninsulare e la Malesia orientale del Borneo. La Malesia peninsulare condivide un confine terrestre e marittimo con la Thailandia e i confini marittimi con Singapore, Vietnam e Indonesia. La Malesia orientale condivide i confini terrestri e marittimi con il Brunei e l'Indonesia e un confine marittimo con le Filippine e il Vietnam. Kuala Lumpur è la capitale nazionale, la città più grande e la sede del ramo legislativo del governo federale. La vicina capitale pianificata di Putrajaya è la capitale amministrativa; che rappresenta la sede sia del potere esecutivo (Gabinetto, ministeri e agenzie federali) sia del potere giudiziario del governo federale. Con una popolazione di oltre 32 milioni, la Malesia è il 43° Paese più popoloso del mondo. Il punto più meridionale dell'Eurasia continentale si trova a Tanjung Piai. Ai tropici, la Malesia è uno dei 17 paesi megadiversi, sede di numerose specie endemiche"
+
+jobtitle = "Sua maestà il re"
+
+[stats]
+Motto: = "L'unione fa la forza"
+Inno Nazionale: = "Il mio Paese"
+Popolazione: = "32,7 milioni (2020 est)"
+Area: = "330.803 km2 (127.724 sq mi)"
+Valuta: = "Ringgit (RM) (MYR)"
+PIL: = "$900,426 miliardi"
+PIL pro capite: = "$27.287"
+Indice di democrazia: = "~7,19/10 (39°)"
+Grande industria: = "Settore elettrico ed elettronico"
+Maiuscole: = "Kuala Lumpur - Putrajaya (amministrativo)"
+Città più grande: = "Kuala Lumpur"
+Lato guida: = "Sinistra"
+Codice chiamante: = "+60"

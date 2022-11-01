@@ -1,0 +1,107 @@
+[config]
+currency = "PEN"
+population = 15749
+economic_cycle_start = 0.25
+min_income = 0
+max_income = 152000
+name  = per
+names_file = "data/names/peruviannames.txt"
+flag = "flag_per.png"
+map = "map_per.svg"
+GUID = 11
+fx_rate_to_pound = 0.50
+apathy = 0.30
+starting_debt = 573120
+min_gdp = 100000
+max_gdp = 1500000
+wealth_mod = 0.70
+
+
+[policies]
+AirlineTax = 0.1
+AlcoholLaw = 1
+ArmedPolice = 1
+ArtsSubsidies = 0.20
+BorderControls = 0.8
+CarTax = 0.20
+CCTVCameras = 0.10
+ChildBenefit = 0.30
+CitizenshipTests = 0.50
+CleanEnergySubsidies = 0.28
+CompulsoryFoodLabelling = 0.5
+CompulsorySchoolSports = 0.5
+ConsumerRights = 0.5
+CorporationTax = 0.56
+Cyberbullyingawarenesscampaign = 0.5
+DisabilityBenefit = 0.45
+DrugEnforcement = 0.25
+DrugTreatment = 0.25
+ExecutiveTermLength = 0
+ExecutiveTermLimit = 1
+FaithSchoolSubsidies = 0.20
+GameHunting = 0.5
+GayMarriage = 0.65
+GenderDiscriminationAct = 0.5
+GenderTransition = 0.5
+HandgunLaws = 0.2
+ImmigrationRules = 0.22
+IncomeTax = 0.40
+JudiciaryIndependence = 0.8
+JuryTrial = 0.75
+LaborDayBankHoliday = 0.5
+LabourLaws = 0.30
+LegalAid = 0.20
+MaternityLeave = 0.5
+MilitarySpending = 0.7
+MinimumWage = 0.20
+Narcotics = 0
+Nationalanthemsinschool = 0.35
+PayrollTax = 0.40
+PetrolTax = 0.15
+PoliceForce = 1
+PollutionControls = 0
+PressFreedom = 0.5
+PrisonerTagging = 0.8
+PrisonRegime = 0.3
+PrivatePrisons = 0
+RaceDiscriminationAct = 0.50
+Recycling = 0.50
+RetirementAge = 0.5
+RoadBuilding = 0.2
+SalesTax = 0.20
+ScienceFunding = 0.05
+SchoolBuses = 0.10
+SocialCare = 0.3
+StateBroadcaster = 0.30
+StateHealthService = 0.30
+StatePensions = 0.30
+StatePostService = 0.30
+StateRail = 0.30
+StateSchools = 0.30
+StateWater = 0.30
+TobaccoTax = 0.20
+TollRoads = 0.20
+UnemployedBenefit = 0.07
+UniversityGrants = 0.2
+WitnessProtectionProgram = 0.25
+
+interest_rate= 0.06
+
+_prereq_mining_industry = 1
+_prereq_deadly_animals = 1
+_prereq_poachers = 1
+_prereq_indigenous = 1
+_prereq_sovereign_currency = 1
+
+
+[options]
+MULTIPLEPARTIES
+
+
+
+
+
+
+
+
+

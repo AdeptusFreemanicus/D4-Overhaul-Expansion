@@ -1,0 +1,18 @@
+[config]
+name  = phi
+guiname = "Filipinler Cumhuriyeti"
+description = "Filipinler, resmen Filipinler Cumhuriyeti, Güneydoğu Asya'da bir takımada ülkesidir. Batı Pasifik Okyanusunda yer alan, kuzeyden güneye üç ana coğrafi bölüm altında geniş bir şekilde kategorize edilen yaklaşık 7.641 adadan oluşur: Luzon, Visayas ve Mindanao. Filipinler'in başkenti Manila'dır ve en kalabalık şehri Quezon City'dir, her ikisi de Metro Manila'nın tek kentsel alanı içindedir. Batıda Güney Çin Denizi, doğuda Filipin Denizi ve güneybatıda Celebes Denizi ile sınırlanan Filipinler, deniz sınırlarını kuzeyde Tayvan, kuzeydoğuda Japonya, doğuda Palau, güneyde Endonezya ile paylaşıyor. , güneybatıda Malezya ve Brunei, batıda Vietnam ve kuzeybatıda Çin."
+jobtitle = "Devlet Başkanı"
+
+[stats]
+Slogan: = "Tanrı, İnsanlar, Doğa ve Ülke İçin"
+İstiklal Marşı: = "Seçilmiş Topraklar"
+Nüfus: = "109 Milyon Kişi (2020)"
+Alan: = "300.000 km2 (120.000 sq mi)"
+Para birimi: = "Filipin pesosu (₱) (PHP)"
+GSYİH: = "367.362 milyar dolar"
+Kişi başına GSYİH: = "3.484$"
+Demokrasi Endeksi: = "6.56/10 (55.)"
+En Büyük Sanayi: = "Tarım"
+Başkent ve En Büyük Şehir: = "Manila"
+Sürüş tarafı: = "sağ"

@@ -1,0 +1,20 @@
+[config]
+name  = iran
+guiname = "República Islámica de Irán"
+description = "Irán también se llama Persia, y oficialmente la República Islámica de Irán es un país de Asia Occidental; con 83 millones de habitantes. Limita al noroeste con Armenia y Azerbaiyán, al norte con el Mar Caspio, al noreste con Turkmenistán, al este con Afganistán, al sureste con Pakistán, al sur con el Golfo Pérsico y el Golfo de Omán. y al oeste con Turquía e Irak. Teherán es la capital y la ciudad más grande, también es la ciudad más poblada de Asia occidental, con más de 8,8 millones de habitantes y hasta 15 millones, incluida el área metropolitana. Irán es el decimoséptimo país más poblado del mundo. Con una extensión de 1.648.195 km2 (636.372 millas cuadradas), es el segundo país más grande del Medio Oriente y el 17 más grande del mundo."
+
+jobtitle = "Líder supremo"
+
+[stats]
+Lema: = "Independencia, libertad, República Islámica"
+Himno Nacional: = "Himno Nacional de la República Islámica de Irán"
+Población: = "83 millones (2019)"
+Área: = "1,648,195 km2 (636,372 millas cuadradas)"
+Moneda: = "Rial (IRR)"
+PIB: = "$ 1.007 billones (~ 42,254,256,202,146,760.00 IRR)"
+PIB per cápita: = "$ 11,963 (502,130,255.38 IRR)"
+Índice de democracia: = "~ 2,38 / 10 (151º)"
+Industria más grande: = "Petróleo y gas"
+Capital: = "Teherán"
+Lado de conducción: = "derecho"
+Código de llamada: = "+98"

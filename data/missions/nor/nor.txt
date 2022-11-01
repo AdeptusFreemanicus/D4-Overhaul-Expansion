@@ -1,0 +1,125 @@
+[config]
+currency = "€"
+population = 736 # ~1,900,000
+economic_cycle_start = 0.25
+min_income = 0
+max_income = 7777
+name  = nor
+names_file = "data/names/uknames.txt"
+flag = "flag_nor.png"
+map = "map_nor.svg"
+GUID = 11
+fx_rate_to_pound = 1.0
+apathy = 0.50
+starting_debt = 77
+min_gdp = 777
+max_gdp = 7777
+wealth_mod = 0.9
+
+
+[policies]
+AdultEducationSubsidies = 0.25
+AirlineTax = 0.1
+AlcoholLaw = 0.5
+AlcoholTax = 0.85
+AntibioticsBan = 0.5
+ArmedPolice = 0.5
+ArtsSubsidies = 0.35
+BorderControls = 0.65
+CarEmmissionsLimits = 0.15
+CarTax = 0.36
+CCTVCameras = 0.34
+ChildBenefit = 0.45
+CitizenshipTests = 0.55
+CleanEnergySubsidies = 0.28
+CompulsoryFoodLabelling = 0.5
+CompulsorySchoolSports = 0.5
+ConsumerRights = 0.5
+CorporationTax = 0.56
+Cyberbullyingawarenesscampaign = 0.5
+DisabilityBenefit = 0.45
+DrugEnforcement = 0.25
+DrugTreatment = 0.25
+ExecutiveTermLength = 0.25
+ExecutiveTermLimit = 0
+FaithSchoolSubsidies = 0.75
+ForeignAid = 0.41
+FreeEyeTests = 0.6
+FreeParentingClasses = 0.45
+Gambling = 0.75
+GameHunting = 0.5
+GayMarriage = 0.65
+GenderDiscriminationAct = 0.5
+GenderTransition = 0.5
+HandgunLaws = 0.5
+ImportTarrifs = 0.125
+IncomeTax = 0.55
+IntellectualPropertyRights = 0.92
+InternetCensorship = 0.15
+JudiciaryIndependence = 0.8
+JuryTrial = 0.75
+LaborDayBankHoliday = 0.5
+LabourLaws = 0.45
+LegalAid = 0.45
+LegaliseProstitution = 0.55
+MaternityLeave = 0.6
+MilitarySpending = 0.6
+MinimumWage = 0.55
+Narcotics = 0.16
+Nationalanthemsinschool = 0.35
+NeedleExchangeProgram = 0.45
+OilDrillingSubsidy = 0.5
+PayrollTax = 0.69
+PetrolTax = 0.22
+PlasticBagTax = 1.0
+PoliceForce = 0.45
+PollutionControls = 0.4
+PressFreedom = 0.9
+PrisonerTagging = 0.24
+PrisonRegime = 0.3
+PrivatePrisons = 0.5
+PublicLibraries = 1.0
+RaceDiscriminationAct = 0.8
+Recycling = 0.54
+RetirementAge = 0.4
+RightToDie = 0.15
+RoadBuilding = 0.5
+SalesTax = 0.22
+ScienceFunding = 0.3
+SchoolBuses = 0.22
+SelectiveSchooling = 0.65
+SocialCare = 0.5
+StateBroadcaster = 0.5
+StateHealthService = 0.67
+StatePensions = 0.65
+StatePostService = 0.75
+StateRail = 0.45
+StateSchools = 0.35
+StateWater = 0.5
+StemCells = 0.25
+TechnologyGrants = 0.5
+TobaccoTax = 0.45
+TollRoads = 0.57
+UnemployedBenefit = 0.5
+UniversityGrants = 0.6
+WitnessProtectionProgram = 0.25
+
+interest_rate= 0.06
+
+_prereq_has_coast = 1
+_prereq_mining_industry = 1
+_prereq_hurricane = 1
+_prereq_sovereign_currency = 1
+
+
+[options]
+MULTIPLEPARTIES
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,19 @@
+[config]
+name  = iran
+guiname = "İran İslam Cumhuriyeti"
+description = "İran olarak da adlandırılan ve resmi olarak İran İslam Cumhuriyeti, Batı Asya'da bir ülkedir; 83 milyon nüfuslu Kuzeybatıda Ermenistan ve Azerbaycan, kuzeyde Hazar Denizi, kuzeydoğuda Türkmenistan, doğuda Afganistan, güneydoğuda Pakistan, güneyde Basra Körfezi ve Umman Körfezi ile çevrilidir. batıda ise Türkiye ve Irak. Tahran başkent ve en büyük şehirdir, aynı zamanda 8.8 milyondan fazla nüfusu ve metropol alanı dahil 15 milyona varan nüfusu ile Batı Asya'nın en kalabalık şehridir. İran dünyanın en kalabalık 17. ülkesidir. 1.648.195 km2'yi (636.372 sq mi) kapsayan, Orta Doğu'nun en büyük ikinci ve dünyanın en büyük 17. ülkesidir."
+jobtitle = "Yüce lider"
+
+[stats]
+Slogan: = "Bağımsızlık, özgürlük, İslam Cumhuriyeti"
+Milli Marş: = "İran İslam Cumhuriyeti Milli Marşı"
+Nüfus: = "83 milyon (2019)"
+Alan: = "1.648.195 km2 (636.372 sq mi)"
+Para Birimi: = "Riyal (IRR)"
+GSYİH: = "1.007 trilyon dolar (~42.254.256.202.146.760,00 IRR)"
+Kişi başına GSYİH: = "11,963 ABD Doları (502,130,255,38 IRR)"
+Demokrasi Endeksi: = "~2.38/10 (151.)"
+En Büyük Endüstri: = "Petrol ve Gaz"
+Başkent: = "Tahran"
+Sürüş tarafı: = "sağ"
+Arama kodu: = "+98"

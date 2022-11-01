@@ -1,0 +1,19 @@
+[config]
+name  = lux
+guiname = "Gran Ducado de Luxemburgo"
+description = "Luxemburgo, oficialmente el Gran Ducado de Luxemburgo, es un país sin salida al mar en Europa Occidental. Limita con Bélgica al oeste y al norte, con Alemania al este y con Francia al sur. Su capital, la ciudad de Luxemburgo, es una de las cuatro capitales oficiales de la Unión Europea (junto con Bruselas, Frankfurt y Estrasburgo) y la sede del Tribunal de Justicia de la Unión Europea, la máxima autoridad judicial de la UE. Su cultura, gente e idiomas están muy entrelazados con sus vecinos, por lo que es una mezcla de culturas francesa y alemana. Tiene tres idiomas oficiales: francés, alemán y el idioma nacional luxemburgués."
+
+jobtitle = "Gran Duque"
+
+[stats]
+Lema: = "Queremos seguir siendo lo que somos"
+Himno Nacional: = "Nuestra Patria"
+Población: = "626cientas mil personas (2020)"
+Área: = "2.586,4 km2 (998,6 millas cuadradas)"
+Moneda: = "Euro (€) (EUR)"
+PIB: = "$ 69,453 mil millones"
+PIB per cápita: = "$ 113,196"
+Índice de democracia: = "8.68 / 10 (13 °)"
+Industria más grande: = "Banca"
+Capital y ciudad más grande: = "Ciudad de Luxemburgo"
+Lado de conducción: = "derecho"

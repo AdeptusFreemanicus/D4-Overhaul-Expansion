@@ -1,0 +1,124 @@
+[config]
+currency = "IRR"
+population = 42749
+economic_cycle_start = 0.25
+min_income = 0
+max_income = 242000
+name  = iran
+names_file = "data/names/iraniannames.txt"
+flag = "flag_iran.png"
+map = "map_iran.svg"
+GUID = 11
+fx_rate_to_pound = 0.44
+apathy = 0
+starting_debt = 573100
+min_gdp = 700000
+max_gdp = 2000000
+wealth_mod = 2.00
+
+
+[policies]
+AirlineTax = 0.1
+AlcoholLaw = 1
+ArmedPolice = 0.6
+ArtsSubsidies = 0.10
+AbortionLaw = 1
+BorderControls = 0.50
+Banhomosexuality = 1
+BanCoal= 1
+CarEmmissionsLimits = 0.15
+CarTax = 0.30
+CCTVCameras = 0.30
+ChildBenefit = 0.20
+CitizenshipTests = 0.40
+CompulsoryFoodLabelling = 0.5
+CompulsorySchoolSports = 0.5
+ConsumerRights = 0.1
+CorporationTax = 0.51
+DisabilityBenefit = 0.20
+DrugEnforcement = 0.25
+DetentionWithoutTrial = 0.5
+DeathPenalty = 0.8
+DroneStrikeAct = 0.5
+ExecutiveTermLength = 1
+ExecutiveTermLimit = 1
+FaithSchoolSubsidies = 0.75
+ForeignAid = 0.05
+GameHunting = 0.5
+GayMarriage = 0
+GenderTransition = 1
+GenderDiscriminationAct = 0.5
+GeneralMediaCensorship = 1
+HandgunLaws = 0.1
+IncomeTax = 0.32
+IntellectualPropertyRights = 0.10
+InternetCensorship = 1
+JudiciaryIndependence = 0.2
+JuryTrial = 0.75
+JunkFoodTax = 0.22
+LabourLaws = 0.20
+LegalAid = 0.20
+LuxuryGoodsTax= 0.22
+MaternityLeave = 0.3
+MilitarySpending = 0.6
+MinimumWage = 0.10
+Narcotics = 0
+Nationalanthemsinschool = 0.35
+NationalService = 0.75
+NuclearWeapons = 0.4
+OilDrillingSubsidy = 0.1
+PayrollTax = 0.67
+PetrolTax = 0.20
+PlasticBagTax = 0.4
+PoliceForce = 0.50
+PollutionControls = 0.1
+PressFreedom = 0.1
+PrisonerTagging = 0.10
+PrisonRegime = 0.3
+PrivatePrisons = 0.1
+PublicLibraries = 0.5
+PropertyTax = 0.7
+RaceDiscriminationAct = 0.8
+Recycling = 0.10
+RetirementAge = 0.4
+RoadBuilding = 0.5
+SalesTax = 0.22
+ScienceFunding = 0.2
+SchoolBuses = 0.22
+SelectiveSchooling = 0.20
+SocialCare = 0.5
+StateBroadcaster = 0.5
+StateHealthService = 0.50
+StatePensions = 0.10
+StatePostService = 0.50
+StateRail = 0.40
+StateSchools = 0.90
+StateWater = 0.5
+SmallBusinessGrants = 0.02
+TechnologyGrants = 0.5
+TobaccoTax = 0.50
+UnemployedBenefit = 0.5
+UniversityGrants = 0.2
+WorkSafetyLaw = 0.33
+
+interest_rate= 0.06
+
+_prereq_has_coast = 1
+_prereq_mining_industry = 1
+_prereq_deadly_animals = 1
+_prereq_poachers = 1
+_prereq_indigenous = 1
+_prereq_sovereign_currency = 1
+
+
+[options]
+COMPULSORY_VOTING
+
+
+
+
+
+
+
+
+

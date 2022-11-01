@@ -1,0 +1,123 @@
+[config]
+currency = "R$"
+population = 61023
+economic_cycle_start = 0.38
+min_income = 0
+max_income = 150000
+min_gdp = 700000
+max_gdp = 2000000
+wealth_mod = 2.50
+fx_rate_to_pound = 0.9
+starting_debt = 1098000
+name  = brz
+names_file = "data/names/braziliannames.txt"
+flag = "flag_brazil.png"
+apathy = 0.41
+map = "map_brazil.svg"
+GUID = 11
+
+
+[policies]
+AirlineTax = 0.2
+AlcoholTax = 0.68
+ArmedPolice = 0.8
+BodyCameras = 0.5
+BorderControls = 0.34
+BusLanes = 0.2
+CCTVCameras = 0.2
+CapitalGainsTax = 0.2
+CarEmmissionsLimits = 0.35
+CarTax = 0.44
+ChildBenefit = 0.66
+CleanEnergySubsidies = 0.3
+CorporationTax = 0.37
+Creationism = 0.8
+ChildcareProvision = 0.2
+CompulsorySchoolSports = 0.5
+CompulsoryLanguageLessons = 0.5
+CompulsoryForeignLanguageClasses = 0.5
+DisabilityBenefit = 0.6
+DetentionWithoutTrial = 0.1
+DiplomaticService = 0.3
+ExecutiveTermLimit = 0
+ExecutiveTermLength = 0.3
+FemaleGenitalMutilationBan = 0.2
+FoodStandards = 0.7
+ForeignAid = 0.40
+ForeignInvestorTaxBreaks = 0.25
+FreeBusPasses = 0.2
+FemaleGenitalMutilationBan = 0.1
+FreeSchoolMeals = 0.5
+Gambling = 0.10
+GameHunting = 0.45
+GayMarriage = 0.55
+GenderDiscriminationAct = 0.25
+GenderTransition = 0.2
+GatedCommunities = 0.4
+ReligiousBanknotes = 0.5
+HandgunLaws = 0.75
+IncomeTax = 0.45
+InheritanceTax = 0.08
+IntellectualPropertyRights = 0.7
+IntelligenceServices = 0.22
+JudiciaryIndependence = 0.5
+JuryTrial = 0.5
+LabourLaws = 0.36
+LegalAid = 0.6
+LaborDayBankHoliday = 0.3
+MaternityLeave = 0.66
+MilitarySpending = 0.46
+MinimumWage = 0.3
+Narcotics = 0
+NationalService = 0.2
+PayrollTax = 0.50
+PetrolTax = 0.50
+PoliceForce = 0.64
+PollutionControls = 0.6
+PressFreedom = 0.4
+PrisonerTagging = 0.54
+PrisonRegime = 0.8
+PropertyTax = 0.25
+PrisonerVoting = 1
+RaceDiscriminationAct = 0.8
+Recycling = 0.47
+RetirementAge = 0.5
+RoadBuilding = 0.42
+RubberBullets = 0.8
+SalesTax = 0.53
+ScienceFunding = 0.53
+SelectiveSchooling = 0.50
+SpeedCameras = 0.9
+SocialCare = 0.15
+StateBroadcaster = 0.55
+StateHealthService = 0.70
+StateHousing = 0.45
+StatePensions = 0.4
+StateSchools = 0.67
+StatePostalService = 0.7
+Tasers = 0.20
+TobaccoTax = 0.94
+UnemployedBenefit = 0.40
+UniversityGrants = 1
+WorkSafetyLaw = 0.69
+PhoneTapping = 0.20
+
+interest_rate= 0.06
+
+_prereq_poachers = 1
+_prereq_has_coast = 1
+_prereq_sovereign_currency = 1
+_prereq_land_border = 1
+_prereq_deadly_animals = 1
+
+[options]
+MULTIPLEPARTIES
+
+
+
+
+
+
+
+
+

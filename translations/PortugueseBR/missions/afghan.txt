@@ -1,0 +1,20 @@
+[config]
+name  = afghan
+guiname = "Emirado Islâmico do Afeganistão"
+description = "O Afeganistão, oficialmente a República Islâmica do Afeganistão, é um país sem litoral na encruzilhada da Ásia Central e do Sul. O Afeganistão faz fronteira com o Paquistão ao leste e ao sul; Irã a oeste; Turcomenistão, Uzbequistão e Tadjiquistão ao norte; e China a nordeste. Ocupando 652.000 quilômetros quadrados (252.000 sq mi), é um país montanhoso com planícies no norte e sudoeste. Cabul é a capital e maior cidade. A população é de cerca de 32 milhões, composta principalmente de pashtuns, tadjiques, hazaras e uzbeques."
+
+jobtitle = "Presidente"
+
+[stats]
+Lema: = "Não há Deus senão Alá; Muhammad é o mensageiro de Alá."
+Hino Nacional: = "Hino Nacional (Muito Original)"
+População: = "32,2 milhões (2019)"
+Área: = "652.230 km2 (251.830 sq mi)"
+Moeda: = "Afegão (AFN)"
+PIB: = "US$ 72 bilhões (5.557.550.600.448.000,00 AFN)"
+PIB per capita: = "$ 2.024 (156.228,92 AFN)"
+Índice de Democracia: = "2,85/10 (141º)"
+Maior Indústria: = "Indústria de Mineração"
+Capital e maior cidade: = "Cabul"
+Lado de condução: = "direito"
+Código de chamada: = "+93"

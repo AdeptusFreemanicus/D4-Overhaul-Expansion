@@ -1,0 +1,27 @@
+[config]
+name  = nth
+guiname = "Holanda"
+description = "A Holanda, informalmente Holanda, é um país localizado na Europa Ocidental com territórios no Caribe. É o maior dos quatro países constituintes do Reino dos Países Baixos. Na Europa, a Holanda é composta por doze províncias, fazendo fronteira com a Alemanha a leste, a Bélgica a sul e o Mar do Norte a noroeste, com fronteiras marítimas no Mar do Norte com esses países e o Reino Unido. No Caribe, é composto por três municípios especiais: as ilhas de Bonaire, Santo Eustáquio e Saba."
+
+jobtitle = "Monarca"
+
+[stats]
+Hino Nacional: = "Vou manter"
+População: = "17,4 milhões (2020)"
+Área: = "41.865 km2 (16.164 sq mi)"
+Moeda: = "Euro (EUR)"
+PIB: = "US$ 1,012 (~EUR 844452000000,00 EUR)"
+PIB per capita: = "$ 58.003 (~EUR 48.980,75 EUR)"
+Índice de Democracia: = "~9,66/10 (9º)"
+Maior Indústria: = "Agricultura e Indústria Alimentar"
+Capital e maior cidade: = "Amsterdã"
+Lado de condução: = "Direito"
+Código de chamada: = "+31"
+
+
+
+
+
+
+
+

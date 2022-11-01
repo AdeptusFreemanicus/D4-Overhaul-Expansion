@@ -1,0 +1,20 @@
+[config]
+name  = bar
+guiname = "Barbados"
+description = "Barbados é um país insular nas Pequenas Antilhas das Índias Ocidentais, na região caribenha das Américas, e a mais oriental das ilhas do Caribe. Ocupa uma área de 432 km2 (167 MI quadrado) e tem uma população de cerca de 287.000. Sua capital e maior cidade é Bridgetown."
+
+jobtitle = "Presidente"
+
+[stats]
+Lema: = "Orgulho e Indústria"
+Hino Nacional: = "Em abundância e em tempo de necessidade"
+População: = "287.025 (2019 est)"
+Área: = "439 km2 (169 sq mi)"
+Moeda: = "Dólar de Barbados ($) (BBD)"
+PIB: = $ 5,398 bilhões"
+PIB per capita: = "$ 18.798"
+Índice de democracia: = "Sem dados"
+Maior Indústria: = "Turismo/Agricultura"
+Capital e maior cidade: = "Bridgetown"
+Lado de condução: = "esquerdo"
+Código de chamada: = "+1 -246"

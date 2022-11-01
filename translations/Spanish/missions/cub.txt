@@ -1,0 +1,19 @@
+[config]
+name  = cub
+guiname = "República de cuba"
+description = "Cuba, oficialmente República de Cuba, es un país que comprende la isla de Cuba, así como la Isla de la Juventud y varios archipiélagos menores. Cuba se encuentra donde se encuentran el norte del Mar Caribe, el Golfo de México y el Océano Atlántico. Está al este de la península de Yucatán (México), al sur del estado estadounidense de Florida y las Bahamas, al oeste de Hispaniola y al norte de Jamaica y las Islas Caimán. La Habana es la ciudad y capital más grande; otras ciudades importantes incluyen Santiago de Cuba y Camagüey. El área oficial de la República de Cuba es 109,884 km2 (42,426 millas cuadradas) (sin las aguas territoriales). La isla principal de Cuba es la isla más grande de Cuba y del Caribe, con un área de 104,556 km2 (40,369 millas cuadradas). Cuba es el segundo país más poblado del Caribe después de Haití, con más de 11 millones de habitantes."
+jobtitle = "Primer secretario"
+
+[stats]
+Lema: = "Patria o muerte, venceremos"
+Himno Nacional: = "La Canción de Bayamo"
+Población: = "11 millones (2020)"
+Área: = "109,884 km2 (42,426 millas cuadradas)"
+Moneda: = "Peso cubano (CUP)"
+PIB: = "$ 105,865 mil millones"
+PIB per cápita: = "$ 22,237"
+Índice de democracia: = "~ 7.51 / 10 (36º)"
+Industria más grande: = "Agricultura"
+Capital y ciudad más grande: = "La Habana"
+Lado de conducción: = "derecho"
+Código de llamada: = "+53"

@@ -1,0 +1,19 @@
+[config]
+name  = rom
+guiname = "Romênia"
+description = "A Romênia é um país na confluência da Europa Central, Oriental e do Sudeste. Faz fronteira com a Bulgária ao sul, a Ucrânia ao norte, a Hungria a oeste, a Sérvia a sudoeste, a Moldávia a leste e o Mar Negro a sudeste. Tem um clima predominantemente temperado-continental e uma área de 238.397 km2 (92.046 milhas quadradas), com uma população de aproximadamente 19 milhões. A Romênia é o décimo segundo maior país da Europa e o sexto estado-membro mais populoso da União Europeia. Sua capital e maior cidade é Bucareste; outras áreas urbanas importantes incluem Cluj-Napoca, Timişoara, Iaşi, Constanţa, Craiova, Braşov e Galaţi."
+
+jobtitle = "Presidente"
+
+[stats]
+Hino nacional: = "Acorde, romeno"
+População: = "19,1 milhões (leste de 2021)"
+Área: = "238.397 km2 (92.046 MI quadrado)"
+Moeda: = "Leu romeno (RON)"
+PIB: = "US$ 636,481 bilhões"
+PIB per capita: = "$32.950"
+Índice de democracia: = "~76,40/10 (62°)"
+Maior Indústria: = "Agricultura"
+Capital e maior cidade: = "Bucareste"
+Lado do motorista: = "Direito"
+Prefixo do telefone: = "+40"

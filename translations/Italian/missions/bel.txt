@@ -1,0 +1,19 @@
+[config]
+name  = bel
+guiname = "Regno del Belgio"
+description = "Il Belgio, ufficialmente Regno del Belgio, è un paese dell'Europa occidentale. Confina a nord con i Paesi Bassi, a est con la Germania, a sud-est con il Lussemburgo, a sud-ovest con la Francia e a nord-ovest con il Mare del Nord. Copre un'area di 30.689 km2 (11.849 sq mi) e ha una popolazione di oltre 11,5 milioni, rendendolo il 22° paese più densamente popolato del mondo e il 6° paese più densamente popolato d'Europa, con una densità di 376 per quadrato chilometro (970/mi quadrati). La capitale e la città più grande è Bruxelles; altre grandi città sono Anversa, Gand, Charleroi, Liegi, Bruges, Namur e Lovanio"
+jobtitle = "Monarca"
+
+[stats]
+Motto: = "L'unione fa la forza"
+Inno Nazionale: = "Il Brabante"
+Popolazione: = "11,5 milioni (2020)"
+Area: = "30.689 km2 (11.849 sq mi)"
+Valuta: = "Euro (€) (EUR)"
+PIL: = "$375,808 miliardi"
+PIL pro capite: = "$50,114"
+Indice di democrazia: = "~7,51/10 (36°)"
+Più grande industria: = "Agricoltura/Produzione"
+Capitale e città più grande: = "Bruxelles"
+Lato guida: = "destra"
+Codice chiamante: = "+32"

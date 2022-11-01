@@ -1,0 +1,19 @@
+[config]
+name  = drc
+guiname = "República Democrática do Congo"
+description = "A República Democrática do Congo, informalmente Congo-Kinshasa, República Democrática do Congo, República Democrática do Congo, República Democrática do Congo ou Congo, e anteriormente e também coloquialmente Zaire, é um país da África Central. É, por área, o segundo maior país da África (depois da Argélia) e o 11º maior do mundo. Com uma população de cerca de 92 milhões, a República Democrática do Congo é o país oficialmente francófono mais populoso do mundo. É membro das Nações Unidas, Movimento Não Alinhado, União Africana, COMESA e Comunidade da África Oriental. A capital e maior cidade é Kinshasa, que também é a cidade francófona mais populosa do mundo."
+
+jobtitle = "Presidente"
+
+[stats]
+Hino Nacional: = "Justiça – Paz – Trabalho"
+População: = "92 milhões (2021)"
+Área: = "2.345.409 km2"
+Moeda: = "Franco congolês (CDF)"
+PIB: = "US$ 46 bilhões"
+PIB per capita: = "$501"
+Índice de Democracia: = "~2,76/10 (164º)"
+Maior Indústria: = "Setor Agropecuário/Setor Mineiro"
+Capital (e maior cidade): = "Kinshasa"
+Lado de condução: = "direito"
+Código de chamada: = "+243"

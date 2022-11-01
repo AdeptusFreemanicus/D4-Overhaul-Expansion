@@ -1,0 +1,19 @@
+[config]
+name  = mol
+guiname = "República da Moldávia"
+description = "Moldávia, oficialmente a República da Moldávia, é um país da Europa Oriental. Faz fronteira com a Romênia a oeste e a Ucrânia ao norte, leste e sul. A Ucrânia e a Moldávia chegaram a um acordo em 2005, garantindo o acesso da Moldávia ao Mar Negro e acabando com seu status sem litoral. A região separatista não reconhecida da Transnístria fica do outro lado do Dniester, na fronteira leste do país com a Ucrânia. A capital e maior cidade é Chişinău."
+
+jobtitle = "Presidente"
+
+[stats]
+Hino Nacional: = "Nossa língua"
+População: = "2.597.100 milhões de pessoas (2021 est)"
+Área: = "33.843,5 km2 (13.067,0 MI quadrado)"
+Moeda: = "Leu moldavo (MDL)"
+PIB: = "US$ 36,886 bilhões"
+PIB per capita: = "$ 14.257"
+Índice de Democracia: = "~6,10/10 (69º)"
+Maior Indústria: = "Processamento de Alimentos"
+Capital e maior cidade: = "Chişinău"
+Lado de condução: = "direito"
+Código de chamada: = "+373"

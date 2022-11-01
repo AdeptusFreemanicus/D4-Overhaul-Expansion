@@ -1,0 +1,18 @@
+[config]
+name  = irl
+guiname = "Republica de Irlanda"
+description = "Irlanda, oficialmente la República de Irlanda, es un país del noroeste de Europa que consta de 26 de los 32 condados de la isla de Irlanda. La capital y ciudad más grande es Dublín, que se encuentra en el lado este de la isla. Alrededor del 40% de la población del país de 5 millones de personas reside en el área metropolitana de Dublín. El estado soberano comparte su única frontera terrestre con Irlanda del Norte, que es parte del Reino Unido. Por lo demás, está rodeado por el Océano Atlántico, con el Mar Céltico al sur, el Canal de San Jorge al sureste y el Mar de Irlanda al este. Es una república unitaria y parlamentaria. La legislatura, el Oireachtas, consta de una cámara baja, Dáil Éireann, una cámara alta, Seanad Éireann, y un presidente electo (Uachtarán) que se desempeña como el jefe de estado en gran parte ceremonial, pero con algunos poderes y deberes importantes. El jefe de gobierno es el Taoiseach (Primer Ministro, literalmente 'Jefe', un título que no se usa en inglés), quien es elegido por el Dáil y designado por el Presidente; el Taoiseach, a su vez, nombra a otros ministros del gobierno."
+jobtitle = "Presidente"
+
+[stats]
+Himno Nacional: = "La Canción de los Soldados"
+Población: = "5 millones (2021 est)"
+Área: = "70,273 km2 (27,133 millas cuadradas)"
+Moneda: = "Euro (€) (EUR)"
+PIB: = "$ 500 mil millones"
+PIB per cápita: = "$ 99,239"
+Índice de democracia: = "~ 9.05 / 10 (octavo)"
+Industria más grande: = "Exportación y comercio"
+Capital y ciudad más grande: = "Dublín"
+Lado de conducción: = "Izquierda"
+Código de llamada: = "+353"

@@ -1,0 +1,9 @@
+[config]
+Name = CrimeSpree
+Texture = CrimeSpree.jpg
+GUISound = DM4_PoliceShooting.wav
+OnImplement = CreateGrudge(GDP,-0.02,0.70);CreateGrudge(ForeignRelations,0.01,0.70);CreateGrudge(PoliceForce,0.08,0.30);CreateGrudge(CrimeRate,0.03,0.30);
+
+[influences]
+0 = _random_,0.4,0.7
+

@@ -1,0 +1,19 @@
+[config]
+name  = lit
+guiname = "República da Lituânia"
+description = "A Lituânia, oficialmente a República da Lituânia, é um país da região báltica da Europa. É um dos três estados bálticos e fica na costa leste do mar Báltico. A Lituânia compartilha fronteiras terrestres com a Letônia ao norte, Bielorrússia a leste e sul, Polônia ao sul e Kaliningrado Oblast da Rússia a sudoeste. Tem uma fronteira marítima com a Suécia a oeste no Mar Báltico. A Lituânia cobre uma área de 65.300 km2 (25.200 MI quadrado), com uma população de 2,8 milhões. Sua capital e maior cidade é Vilnius; outras grandes cidades são Kaunas e Klaipėda. Os lituanos pertencem ao grupo etnolinguístico dos bálticos e falam lituano, uma das poucas línguas bálticas vivas."
+
+jobtitle = "Presidente"
+
+[stats]
+Hino Nacional: = "Hino Nacional"
+População: = "2.795.680 milhões (2021 est)"
+Área: = "65.300 km2 (25.200 sq mi)"
+Moeda: = "Euro (€) (EUR)"
+PIB: = "US$ 107 bilhões"
+PIB per capita: = "$41.288"
+Índice de Democracia: = "~7,18/10 (40º)"
+Maior Indústria: = "Manufatura"
+Capital (e maior cidade): = "Vilnius"
+Lado de condução: = "direito"
+Código de chamada: = "+370"

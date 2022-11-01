@@ -1,0 +1,19 @@
+[config]
+name  = per
+guiname = "República do Peru"
+description = "Peru, oficialmente a República do Peru, é um país no oeste da América do Sul. É limitado ao norte pelo Equador e pela Colômbia, a leste pelo Brasil, a sudeste pela Bolívia, ao sul pelo Chile e ao sul e oeste pelo Oceano Pacífico. O Peru é um país megadiverso com habitats que vão desde as planícies áridas da região costeira do Pacífico no oeste até os picos das montanhas dos Andes que se estendem do norte ao sudeste do país até a floresta tropical da Bacia Amazônica no leste com o rio Amazonas . Com 1,28 milhão de km2 (0,5 milhão de mi2), o Peru é o 19º maior país do mundo e o terceiro maior da América do Sul."
+
+jobtitle = "Presidente"
+
+[stats]
+Lema: = "Firme e Feliz pela União"
+Hino Nacional: = "Hino Nacional do Peru"
+População: = "32,8 milhões de pessoas (2020)"
+Área: = "1.285.216 km2 (496.225 MI quadrado)"
+Moeda: = "Sol (PEN)"
+PIB: = "US$ 195,761 bilhões"
+PIB per capita: = "$ 5.845"
+Índice de Democracia: = "6,53/10 (57º)"
+Maior Indústria: = "Indústria Mineira"
+Capital e maior cidade: = "Lima"
+Lado de condução: = "direito"

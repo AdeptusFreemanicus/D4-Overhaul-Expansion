@@ -1,0 +1,28 @@
+[config]
+name  = nth
+guiname = "Olanda"
+description = "I Paesi Bassi, informalmente Olanda, sono un paese situato nell'Europa occidentale con territori dei Caraibi. È il più grande dei quattro paesi costituenti il Regno dei Paesi Bassi. In Europa, i Paesi Bassi sono costituiti da dodici province, confinanti con la Germania a est, il Belgio a sud e il Mare del Nord a nord-ovest, con confini marittimi nel Mare del Nord con quei paesi e il Regno Unito. Nei Caraibi si compone di tre comuni speciali: le isole di Bonaire, Sint Eustatius e Saba."
+
+jobtitle = "Monarca"
+
+[stats]
+Inno Nazionale: = "Manterrò"
+Popolazione: = "17,4 milioni (2020)"
+Area: = "41.865 km2 (16.164 sq mi)"
+Valuta: = "Euro (EUR)"
+PIL: = "$1.012 (~EUR844452000000,00 EUR)"
+PIL pro capite: = "$58,003 (~ EUR 48980,75 EUR)"
+Indice di democrazia: = "~9.66/10 (9st)"
+Più grande industria: = "Agricoltura e industria alimentare"
+Capitale e città più grande: = "Amsterdam"
+Lato guida: = "Destra"
+Prefisso telefonico: = "+31"
+
+
+
+
+
+
+
+
+

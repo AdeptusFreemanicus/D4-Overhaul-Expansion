@@ -1,0 +1,20 @@
+[config]
+name  = nzl
+guiname = "Yeni Zelanda"
+description = "Yeni Zelanda, Pasifik Okyanusu'nun güneybatısında bir ada ülkesidir. İki ana kara kütlesinden oluşur: Kuzey Adası ve Güney Adası ve toplam 268.021 kilometrekarelik bir alanı (103.500 sq mi) kapsayan 700'den fazla küçük ada. Yeni Zelanda, Avustralya'nın yaklaşık 2.000 kilometre (1.200 mil) doğusunda, Tasman Denizi boyunca ve Yeni Kaledonya, Fiji ve Tonga adalarının 1.000 kilometre (600 mil) güneyindedir. Ülkenin çeşitli topografyası ve Güney Alpler de dahil olmak üzere keskin dağ zirveleri, tektonik yükselmeye ve volkanik patlamalara çok şey borçludur. Yeni Zelanda'nın başkenti Wellington ve en kalabalık şehri Auckland'dır."
+jobtitle = "Başbakan"
+
+[stats]
+Ulusal Marş: = "Tanrı Yeni Zelanda'yı Korusun"
+Kraliyet Marşı: = "Tanrı Kraliçeyi Korusun"
+Nüfus: = "5,1 milyon (2021 tahmini)"
+Alan: = "268.021 km2 (103.483 sq mi)"
+Para Birimi: = "Küba Pezosu (CUP)"
+GSYİH: = "226.566 milyar dolar"
+Kişi başına GSYİH: = "44,226$"
+Demokrasi Endeksi: = "~9.25/10 (4.)"
+En Büyük Sanayi: = "Tarım"
+Sermaye: = "Wellington"
+En Büyük Şehir: = "Auckland"
+Sürüş tarafı: = "Sol"
+Arama kodu: = "+64"

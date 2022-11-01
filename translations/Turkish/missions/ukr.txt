@@ -1,0 +1,18 @@
+[config]
+name  = ukr
+guiname = "Ukraine"
+description = "Ukrayna bir Doğu Avrupa ülkesidir. Doğu ve kuzeydoğu ile komşu olduğu Rusya'dan sonra Avrupa'nın en büyük ikinci ülkesidir. Ukrayna ayrıca kuzeyde Beyaz Rusya ile sınırlarını paylaşıyor; batıda Polonya, Slovakya ve Macaristan; güneyde Romanya ve Moldova; Azak ve Karadeniz'e kıyısı vardır. 41.4 milyon nüfusu ile 603.628 km2 (233.062 mil kare) bir alanı kaplar ve Avrupa'nın en kalabalık sekizinci ülkesidir. "
+jobtitle = "Devlet Başkanı"
+
+[stats]
+Ulusal Marş: = "Ukrayna Devlet Marşı"
+Nüfus: = "41,3 milyon (tahmini 2021)"
+Alan: = "603.628 km2 (233.062 mil kare)"
+Para Birimi: = "Grivnası (₴) (UAH)"
+GSYİH: = "429.947 milyar dolar"
+Kişi başına GSYİH: = "10.310$"
+Demokrasi endeksi: = "~5.81/10 (4.)"
+En Büyük Sanayi: = "Maden/Yakıt"
+Başkent ve en büyük şehir: = "Kiev"
+Sürücü tarafı: = "sağ"
+Telefon öneki: = "+380"

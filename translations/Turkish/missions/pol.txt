@@ -1,0 +1,17 @@
+[config]
+name  = pol
+guiname = "Polonya Cumhuriyeti"
+description = "Polonya, resmi olarak Polonya Cumhuriyeti, Orta Avrupa'da bulunan bir ülkedir. 312.696 kilometrekarelik (120.733 sq mi) bir alanı kaplayan 16 idari bölgeye ayrılmıştır ve büyük ölçüde ılıman bir mevsimsel iklime sahiptir. Yaklaşık 38,5 milyonluk nüfusu ile Polonya, Avrupa Birliği'nin en kalabalık beşinci üye ülkesidir. Polonya'nın başkenti ve en büyük metropolü Varşova'dır. Diğer büyük şehirler arasında Krakov, Łódź, Wrocław, Poznań, Gdańsk ve Szczecin yer alıyor."
+jobtitle = "Devlet Başkanı"
+
+[stats]
+Ulusal Marş: = "Polonya Henüz Kaybolmadı"
+Nüfus: = "38,5 milyon kişi (2019)"
+Alan: = "312.696 km2 (120.733 sq mi)"
+Para Birimi: = "Zloti (PLN)"
+GSYİH: = "607 milyar $ (2,259,500,538,937,90 PLN)"
+Kişi başına GSYİH: = "15.988 $ (59.513.26 PLN)"
+Demokrasi Endeksi: = "6.62/10 (57.)"
+En Büyük Sanayi: = "Tarım"
+Başkent ve En Büyük Şehir: = "Varşova"
+Sürüş tarafı: = "sağ"

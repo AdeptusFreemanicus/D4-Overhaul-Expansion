@@ -1,0 +1,23 @@
+[config]
+name  = germany
+guiname = "Germany"
+description = "The Federal Republic of Germany, more commonly known as Germany,  is a Federal Parliamentary Republic uniting the sixteen states under the leadership of the President (largely ceremonial) and the Federal Chancellor. Germany has a strong, growing economy which is one of the best in the world. Germany is a leading member of the European Union. Germany first became a democracy in 1919, but was ruled as a dictatorship from 1933. After World War II which ended in 1945 and some years of confusion, it reverted back to a democracy in 1949."
+jobtitle = "Chancellor"
+
+[stats]
+Population: = "83,783,942 (2020)"
+Size: = "357,386 sq km"
+Religion: = "None 39%, Roman Catholic 27%, Protestant 25%, Islam 5%, "
+Exports: = "Vehicles, machinery, chemicals, electronics, pharmaceuticals, metals, food."
+World Leader: = "Climate and energy policies, number of zoos (>400), exports"
+Member of: = "Eurozone, EU single market, NATO, G4"
+
+
+
+
+
+
+
+
+
+

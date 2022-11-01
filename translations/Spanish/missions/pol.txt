@@ -1,0 +1,18 @@
+[config]
+name  = pol
+guiname = "República de Polonia"
+description = "Polonia, oficialmente la República de Polonia, es un país ubicado en Europa Central. Está dividido en 16 provincias administrativas, que cubren un área de 312,696 kilómetros cuadrados (120,733 millas cuadradas), y tiene un clima estacional en gran parte templado. Con una población de casi 38,5 millones de personas, Polonia es el quinto estado miembro más poblado de la Unión Europea. La capital y metrópolis más grande de Polonia es Varsovia. Otras ciudades importantes son Cracovia, Łódź, Wrocław, Poznań, Gdańsk y Szczecin."
+
+jobtitle = "Presidente"
+
+[stats]
+Himno Nacional: = "Polonia aún no se ha perdido"
+Población: = "38,5 millones de personas (2019)"
+Área: = "312,696 km2 (120,733 millas cuadradas)"
+Moneda: = "Zloty (PLN)"
+PIB: = "$ 607 mil millones (Zł2,259,500,538,937.90 PLN)"
+PIB per cápita: = "15.988 dólares (59.513,26 PLN)"
+Índice de democracia: = "6.62 / 10 (57 °)"
+Industria más grande: = "Agricultura"
+Capital y ciudad más grande: = "Varsovia"
+Lado de conducción: = "derecho"

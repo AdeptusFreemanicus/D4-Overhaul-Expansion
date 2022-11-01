@@ -1,0 +1,19 @@
+[config]
+name  = ukr
+guiname = "Ucrânia"
+description = "A Ucrânia é um país do Leste Europeu. É o segundo maior país da Europa depois da Rússia, com a qual faz fronteira a leste e nordeste. A Ucrânia também faz fronteira com a Bielorrússia ao norte; Polônia, Eslováquia e Hungria a oeste; Romênia e Moldávia ao sul; e tem um litoral ao longo dos mares Azov e Negro. Abrange uma área de 603.628 km2 (233.062 milhas quadradas), com uma população de 41,4 milhões, e é o oitavo país mais populoso da Europa. "
+
+jobtitle = "Presidente"
+
+[stats]
+Hino Nacional: = "Hino do Estado da Ucrânia"
+População: = "41,3 milhões (est 2021)"
+Área: = "603.628 km2 (233.062 milhas quadradas)"
+Moeda: = "Hryvnia (₴) (UAH)"
+PIB: = "US$ 429,947 bilhões"
+PIB per capita: = "$ 10.310"
+Índice de democracia: = "~5,81/10 (4º)"
+Maior Indústria: = "Mina/Combustível"
+Capital e maior cidade: = "Kyiv"
+Lado do motorista: = "direito"
+Prefixo do telefone: = "+380"

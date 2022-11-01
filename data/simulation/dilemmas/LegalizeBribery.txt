@@ -1,0 +1,11 @@
+[dilemma]
+name=LegalizeBribery
+
+[influences]
+0 = _random_,0,0.35
+
+[option0]
+OnImplement = CreateGrudge(Liberal,0.35,0.9);CreateGrudge(Wealthy,-0.43,0.9);CreateGrudge(Capitalist,-0.23,0.9);
+
+[option1]
+OnImplement = CreateGrudge(Liberal,-0.43,0.9);CreateGrudge(Wealthy,0.5,0.9);CreateGrudge(Capitalist,0.23,0.9);

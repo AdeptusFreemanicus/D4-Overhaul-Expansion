@@ -1,0 +1,19 @@
+[config]
+name  = bel
+guiname = "Belçika Krallığı"
+description = "Resmi olarak Belçika Krallığı olan Belçika, Batı Avrupa'da bir ülkedir. Kuzeyde Hollanda, doğuda Almanya, güneydoğuda Lüksemburg, güneybatıda Fransa ve kuzeybatıda Kuzey Denizi ile çevrilidir. 30.689 km2 (11.849 sq mi) bir alanı kaplar ve 11.5 milyondan fazla nüfusa sahiptir, bu da onu dünyanın en yoğun nüfuslu 22. ülkesi ve Avrupa'nın en yoğun 6. ülkesi, kare başına 376 yoğunluğu ile yapar. kilometre (970/sq mi). Başkent ve en büyük şehir Brüksel'dir; diğer büyük şehirler Antwerp, Ghent, Charleroi, Liège, Bruges, Namur ve Leuven'dir."
+jobtitle = "Hükümdar"
+
+[stats]
+Slogan: = "Birlik güç yapar"
+Ulusal Marş: = "Brabantyalı"
+Nüfus: = "11,5 milyon (2020)"
+Alan: = "30.689 km2 (11.849 sq mi)"
+Para Birimi: = "Euro (€) (EUR)"
+GSYİH: = "375.808 milyar dolar"
+Kişi başına GSYİH: = "50.114$"
+Demokrasi Endeksi: = "~7.51/10 (36.)"
+En Büyük Sanayi: = "Tarım/Üretim"
+Başkent ve En Büyük Şehir: = "Brüksel"
+Sürüş tarafı: = "sağ"
+Arama kodu: = "+32"

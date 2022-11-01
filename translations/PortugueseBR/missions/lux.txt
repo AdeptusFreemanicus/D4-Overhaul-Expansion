@@ -1,0 +1,19 @@
+[config]
+name  = lux
+guiname = "Grão-Ducado do Luxemburgo"
+description = "Luxemburgo, oficialmente o Grão-Ducado do Luxemburgo, é um país sem litoral na Europa Ocidental. Faz fronteira com a Bélgica a oeste e norte, a Alemanha a leste e a França ao sul. A sua capital, a cidade do Luxemburgo, é uma das quatro capitais oficiais da União Europeia (juntamente com Bruxelas, Frankfurt e Estrasburgo) e a sede do Tribunal de Justiça da União Europeia, a mais alta autoridade judiciária da UE. Sua cultura, seu povo e suas línguas estão altamente entrelaçadas com as de seus vizinhos, tornando-se uma mistura das culturas francesa e alemã. Tem três línguas oficiais: francês, alemão e a língua nacional do luxemburguês."
+
+jobtitle = "Grão-Duque"
+
+[stats]
+Lema: = "Queremos permanecer o que somos"
+Hino Nacional: = "Nossa Pátria"
+População: = "626 cem mil pessoas (2020)"
+Área: = "2.586,4 km2 (998,6 MI quadrado)"
+Moeda: = "Euro (€) (EUR)"
+PIB: = "US$ 69,453 bilhões"
+PIB per capita: = "$ 113.196"
+Índice de Democracia: = "8,68/10 (13º)"
+Maior Setor: = "Banca"
+Capital e maior cidade: = "Cidade do Luxemburgo"
+Lado de condução: = "direito"

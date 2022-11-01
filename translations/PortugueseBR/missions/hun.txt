@@ -1,0 +1,18 @@
+[config]
+name  = hun
+guiname = "Hungria"
+description = "A Hungria é um país da Europa Central. Abrangendo 93.030 quilômetros quadrados (35.920 sq mi) na Bacia dos Cárpatos, faz fronteira com a Eslováquia ao norte, Ucrânia a nordeste, Romênia a leste e sudeste, Sérvia ao sul, Croácia e Eslovênia a sudoeste e Áustria a oeste . Com cerca de 10 milhões de habitantes, a Hungria é um estado-membro médio da União Europeia. A língua oficial é o húngaro, que é a língua urálica mais falada no mundo, e entre as poucas línguas não indo-europeias a serem amplamente faladas na Europa. A capital e maior cidade da Hungria é Budapeste; outras grandes áreas urbanas incluem Debrecen, Szeged, Miskolc, Pécs e Győr."
+
+jobtitle = "Presidente"
+
+[stats]
+Hino Nacional: = "Hino"
+População: = "10 milhões (2020)"
+Área: = "93.030 km2 (35.920 sq mi)"
+Moeda: = "Forint (HUF)"
+PIB: = "$ 149,939 bilhões (Ft44.158.764.279.374,45 HUF)"
+PIB per capita: = "$ 15.373 (Ft4.544.164,16 HUF)"
+Índice de Democracia: = "6,63/10 (55º)"
+Maior Indústria: = "Eletrônicos"
+Capital e maior cidade: = "Budapeste"
+Lado de condução: = "direito"

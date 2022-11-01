@@ -1,0 +1,18 @@
+[config]
+name  = russia
+guiname = "Rusya Federasyonu"
+description = "Rusya veya Rusya Federasyonu, Doğu Avrupa ve Kuzey Asya'da bulunan kıtalararası bir ülkedir. Batıda Baltık Denizi'nden doğuda Pasifik Okyanusu'na, kuzeyde Arktik Okyanusu'ndan güneyde Karadeniz ve Hazar Denizi'ne kadar uzanır. Rusya, 17.125.200 kilometrekare (6,612,100 sq mi) üzerinde bir alanı kaplar, Dünya'nın yaşadığı kara alanının sekizde birinden fazlasını kapsar, on bir zaman dilimini gerer ve 16 egemen ulusu sınırlar. Moskova ülkenin başkenti ve en büyük şehridir, diğer büyük şehirler arasında Saint Petersburg, Novosibirsk, Yekaterinburg, Kazan, Nizhny Novgorod, Chelyabinsk ve Samara yer almaktadır."
+jobtitle = "Devlet Başkanı"
+
+[stats]
+Ulusal Marş: = "Rusya Federasyonu Devlet Marşı"
+Nüfus: = "146.7 milyon (2020)"
+Alan: = "17.098.246 km2 (6.601.670 sq mi)"
+Para Birimi: = "Rus Rublesi (₽) (RUB)"
+GSYİH: = "4.135 trilyon dolar (3.079 katrilyon Rus Rublesi)"
+Kişi başına GSYİH: = "28.184$ (~₽2096728.95 Rus Rublesi)"
+Demokrasi Endeksi: = "3.31/10 (134.)"
+En Büyük Sektör: = "Hizmetler Sektörü"
+Başkent (ve en büyük şehir): = "Moskova"
+Sürüş tarafı: = "sağ"
+Arama kodu: = "+7"

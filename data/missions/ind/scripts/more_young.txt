@@ -1,0 +1,1 @@
+CreateGrudge(Indian Demography,USA,Young_freq,0.005,1,0);

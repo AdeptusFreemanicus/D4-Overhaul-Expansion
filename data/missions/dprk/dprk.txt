@@ -1,0 +1,122 @@
+[config]
+currency = "₩"
+population = 11749
+economic_cycle_start = 0.50
+min_income = 0
+max_income = 122000
+name  = dprk
+names_file = "data/names/koreannames.txt"
+flag = "flag_dprk.png"
+map = "map_dprk.svg"
+GUID = 11
+fx_rate_to_pound = 0.55
+apathy = 0
+starting_debt = 0
+min_gdp = 500000
+max_gdp = 1000000
+wealth_mod = 0.90
+
+
+[policies]
+AirlineTax = 0.1
+AlcoholLaw = 0.2
+AlcoholTax = 0.55
+ArmedPolice = 1
+AntiCorruptionAgency = 1
+AbortionLaw = 0
+BorderControls = 1
+Banhomosexuality = 1
+Banforeignchurchservice = 1
+CarTax = 0
+CompulsorySchoolSports = 0.5
+CorporationTax = 0.25
+CitizenshipTests = 1
+CapitalControls = 1
+Curfews = 1
+Closeairportscompletely = 1
+CCTVCameras = 0.3
+CyclingCampaign = 0.2
+CarPoolingCampaign = 0.2
+ChildcareProvision = 0.3
+CityFarms = 0.4
+DrugEnforcement = 0.10
+DetentionWithoutTrial = 1
+DeathPenalty = 1
+ExecutiveTermLength = 1
+ExecutiveTermLimit = 1
+ForeignInvestmentRestrictions = 1
+GeneralMediaCensorship = 1
+KeepTheCountryTidyCampaign = 0.2
+IncomeTax = 0.50
+InheritanceTax = 0.3
+IntellectualPropertyRights = 0.01
+InternetCensorship = 1
+IntelligenceServices = 0.5
+ImmigrationRules = 0.65
+ImportTarrifs = 1
+IDCards = 1
+JudiciaryIndependence = 0.1
+JuryTrial = 0.1
+JunkFoodTax = 1
+MilitarySpending = 1
+MaternityLeave = 0.20
+Nationalanthemsinschool = 1
+NationalArmedForcesWeek = 1
+NationalService = 1
+NuclearWeapons = 0.6
+PayrollTax = 0.50
+PetrolTax = 0.20
+PoliceForce = 1
+PrisonerTagging = 1
+PrisonRegime = 0.3
+PressFreedom = 0
+PublicLibraries = 0.1
+PhoneTapping = 1
+ForeignInvestmentRestrictions = 1
+Recycling = 0.01
+RetirementAge = 0.7
+RoadBuilding = 0.01
+RaceDiscriminationAct = 0.2
+RentControls = 1
+RefugeePolicy = 0
+RareEarthRefinement = 0.1
+Reforestation = 0.1
+SalesTax = 0
+ScienceFunding = 0.03
+SchoolBuses = 0.03
+StateEnergy = 0.7
+StateBroadcaster = 1
+StateHealthService = 0.5
+StatePensions = 0.2
+StatePostService = 0.2
+StateRail = 0.2
+StateSchools = 0.5
+StateWater = 0.5
+StateHousing = 0.5
+SpaceProgram = 0.1
+SecretCourts = 0.5
+StateAirline = 0.15
+TobaccoTax = 0.10
+TortureUsageBySecretServices = 1
+WitnessProtectionProgram = 1
+
+interest_rate= 0.06
+
+_prereq_has_coast = 1
+_prereq_mining_industry = 1
+_prereq_deadly_animals = 1
+_prereq_indigenous = 1
+_prereq_sovereign_currency = 1
+
+
+[options]
+COMPULSORY_VOTING
+
+
+
+
+
+
+
+
+
