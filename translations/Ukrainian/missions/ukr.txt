@@ -1,0 +1,18 @@
+[config]
+name  = ukr
+guiname = "Ukraine"
+description = "Ukraine is an Eastern European country. It is the second largest country in Europe after Russia, with which it borders to the east and north-east. Ukraine also shares borders with Belarus to the north; Poland, Slovakia and Hungary to the west; Romania and Moldova to the south; and has a coastline along the Azov and Black Seas. It covers an area of 603,628 km2 (233,062 square miles), with a population of 41.4 million, and is the eighth most populous country in Europe. "
+jobtitle = "President"
+
+[stats]
+National Anthem: = "State Anthem of Ukraine"
+Population: = "41.3 million (est 2021)"
+Area: = "603,628 km2 (233,062 square miles)"
+Currency: = "Hryvnia (₴) (UAH)"
+GDP: = "$429.947 billion"
+GDP per capita: = "$10,310"
+Democracy index: = "~5.81/10 (4th)"
+Largest Industry: = "Mining Industry"
+Capital and largest city: = "Kyiv"
+Driver side: = "right"
+Phone prefix: = "+380"

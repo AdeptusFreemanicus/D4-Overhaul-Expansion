@@ -1,0 +1,19 @@
+[config]
+name  = chi
+guiname = "Republic of Chile"
+description = "Chile, officially the Republic of Chile, is a country in western South America. It occupies a long, narrow strip of land between the Andes to the east and the Pacific Ocean to the west. Chile covers an area of 756,096 square kilometres (291,930 sq mi) and has a population of 17.5 million as of 2017. The capital and largest city is Santiago and the national language is Spanish."
+
+jobtitle = "President"
+
+[stats]
+Motto: = "By Right or Might"
+National Anthem: = "Himno Nacional de Chile"
+Population: = "17.5 million people (2017)"
+Area: = "756,096.3 km2 (291,930.4 sq mi)"
+Currency: = "Chilean peso (CLP)"
+GDP: = "$245.414 billion"
+GDP per capita: = "$12,612"
+Democracy Index: = "8.28/10 (17th)"
+Biggest Industry: = "Agriculture"
+Capital And Largest City: = "Santiago"
+Driving side: =	"right"

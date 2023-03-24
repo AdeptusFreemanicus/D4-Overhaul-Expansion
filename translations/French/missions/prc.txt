@@ -1,19 +1,19 @@
 [config]
 name  = prc
-guiname = "People's Republic of China"
-description = "China, officially the People's Republic of China, is a country in East Asia. It is the world's most populous country, with a population of around 1.4 billion in 2019. Covering approximately 9.6 million square kilometers (3.7 million mi2), it is the world's third or fourth-largest country by area. As a one-party state led by the Chinese Communist Party (CCP), it exercises jurisdiction over 22 provinces, five autonomous regions, four direct-controlled municipalities Beijing, Tianjin, Shanghai, and Chongqing, and the special administrative regions of Hong Kong and Macau."
+guiname = "La république populaire de chine"
+description = "La Chine, officiellement la République populaire de Chine, est un pays d'Asie de l'Est. C'est le pays le plus peuplé du monde, avec une population d'environ 1,4 milliard d'habitants en 2019. Couvrant environ 9,6 millions de kilomètres carrés (3,7 millions de mi2), c'est le troisième ou le quatrième plus grand pays du monde par sa superficie. En tant qu'État à parti unique dirigé par le Parti communiste chinois (PCC), il exerce sa juridiction sur 22 provinces, cinq régions autonomes, quatre municipalités contrôlées directement Pékin, Tianjin, Shanghai et Chongqing, et les régions administratives spéciales de Hong Kong et Macao."
 
-jobtitle = "President"
+jobtitle = "Président"
 
 [stats]
-National Anthem: = "March of the Volunteers"
-Population: = "1.4 billion (2019)"
-Area: = "9,596,961 km2 (3,705,407 sq mi)"
-Currency: = "Renminbi ¥"
-GDP: = "$14.9 trillion (~¥2,279,745,824,694.17 CNY)"
-GDP per capita: = "$10,839 (~¥70,844.82 CNY)"
-Democracy Index: = "2.26/10 (153rd)"
-Biggest Industry: = "Manufacturing"
-Capital (and largest city): = "Beijing"
-Driving side: =	"right"
-Calling code: = "+86"
+Hymne National : = "Marche des Volontaires"
+Population : = "1,4 milliard (2019)"
+Superficie : = "9 596 961 km2 (3 705 407 milles carrés)"
+Devise : = "Renminbi ¥"
+PIB : = "14,9 000 milliards de dollars (~ 2 279 745 824 694,17 ¥)"
+PIB par habitant : = "10 839 $ (~70 844,82 ¥ CNY)"
+Indice de démocratie : = "2,26/10 (153e)"
+La plus grande industrie : = "Fabrication"
+Capitale (et plus grande ville) : = "Pékin"
+Côté conduite : = "droit"
+Indicatif d'appel : = "+86"

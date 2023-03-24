@@ -1,19 +1,19 @@
 [config]
 name  = dprk
-guiname = "Democratic People's Republic of Korea"
-description = "North Korea, officially the Democratic People's Republic of Korea, Chosŏn Minjujuŭi Inmin Konghwaguk, is a country in East Asia constituting the northern part of the Korean Peninsula. The country is bordered to the north by China and by Russia along the Amnok (known as the Yalu in Chinese) and Tumen rivers, and to the south by South Korea, with the heavily fortified Korean Demilitarized Zone (DMZ) separating the two. North Korea, like its southern counterpart, claims to be the legitimate government of the entire peninsula and adjacent islands. Pyongyang is the country's capital and largest city."
+guiname = "République Populaire Démocratique de Corée"
+description = "La Corée du Nord, officiellement la République populaire démocratique de Corée, Chosŏn Minjujuŭi Inmin Konghwaguk, est un pays d'Asie de l'Est constituant la partie nord de la péninsule coréenne. Le pays est bordé au nord par la Chine et par la Russie le long des fleuves Amnok (connu sous le nom de Yalu en chinois) et Tumen, et au sud par la Corée du Sud, la zone démilitarisée coréenne (DMZ) fortement fortifiée séparant les deux. La Corée du Nord, comme son homologue du sud, prétend être le gouvernement légitime de toute la péninsule et des îles adjacentes. Pyongyang est la capitale et la plus grande ville du pays."
 
-jobtitle = "Supreme Leader"
+jobtitle = "Chef suprême"
 
 [stats]
-National Anthem: = "The Patriotic Song"
-Population: = "25.5 million (2018)"
-Area: = "120,540 km2 (46,540 sq mi)"
-Currency: = "Korean People's won (₩)"
-GDP: = "$30 billion"
-GDP per capita: = "$1,300"
-Democracy Index: = "~1.06/10 (167th Last)"
-Biggest Industry: = "Agriculture/Mining"
-Capital (and largest city): = "Pyongyang"
-Driving side: =	"right"
-Calling code: = "+850"
+Hymne national : = "La chanson patriotique"
+Population : = "25,5 millions (2018)"
+Superficie : = "120 540 km2 (46 540 milles carrés)"
+Devise : = "Won du peuple coréen (₩)"
+PIB : = "30 milliards de dollars"
+PIB par habitant : = "1 300 $"
+Indice de démocratie : = "~1.06/10 (167e dernier)"
+Industrie la plus importante : = "Agriculture/Mines"
+Capitale (et plus grande ville): = "Pyongyang"
+Côté conduite : = "droit"
+Indicatif téléphonique : = "+850"

@@ -7,4 +7,4 @@
 #,sac,StateAnimalControl,,,4,6,2,4,WELFARE,,5,11,0+(1.0*x),,2,0,0,0+(1.0*x),,,#Effects,"StrayAnimals,0-(0.5*x)",,
 #,so,StateOrphanages,,,2,10,1,4,WELFARE,,6,9,0+(1.0*x),,5,0,0,0+(1.0*x),,,#Effects,"OrphansAndHomelessMinors,0-(0.8*x)",,
 #,pt,PoliceTraining,,,2,7,1,4,LAWANDORDER,,2,8,0+(1.0*x),,1,0,0,0+(1.0*x),,,#Effects,"ViolentCrimeRate,0-(0.1*x)","StreetGangs,0-(0.2*x)","Organised Crime,0-(0.05*x)","_percept_strength,0+(0.1*x)",,
-#,interest_rate,tax,"",,0,10000,15,15,ECONOMY,,1,5,0+(1.0*x),,0,50,8000,0+(1.0*x),,0+(0.2*x);,#Effects,"#Effects,","GDP,0-(0.5*x)","Unemployment,0+(0.3*x)","ForeignInvestment,0-(0.4*x)","Wages,0-(0.34*x)","Inflation,0+(0.21*x)",,
+#,interest_rate,tax,"",,0,10000,15,15,ECONOMY,,1,5,0+(1.0*x),,0,50,8000,0+(1.0*x),,0+(0.2*x);,#Effects,"#Effects,","GDP,0-(0.5*x)","Unemployment,0+(0.3*x)","ForeignInvestment,0-(0.4*x)","Wages,0-(0.34*x)","Inflation,0+(-0.21*x)",,

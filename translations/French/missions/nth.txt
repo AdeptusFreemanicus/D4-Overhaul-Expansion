@@ -1,22 +1,22 @@
 [config]
 name  = nth
-guiname = "Netherlands"
-description = "The Netherlands, informally Holland, is a country located in Western Europe with territories in the Caribbean. It is the largest of four constituent countries of the Kingdom of the Netherlands. In Europe, the Netherlands consists of twelve provinces, bordering Germany to the east, Belgium to the south, and the North Sea to the northwest, with maritime borders in the North Sea with those countries and the United Kingdom. In the Caribbean, it consists of three special municipalities: the islands of Bonaire, Sint Eustatius and Saba."
+guiname = "Pays-Bas"
+description = "Les Pays-Bas, officieusement la Hollande, sont un pays situé en Europe occidentale avec des territoires dans les Caraïbes. C'est le plus grand des quatre pays constitutifs du Royaume des Pays-Bas. En Europe, les Pays-Bas se composent de douze provinces, bordant l'Allemagne à l'est, la Belgique au sud et la mer du Nord au nord-ouest, avec des frontières maritimes en mer du Nord avec ces pays et le Royaume-Uni. Dans les Caraïbes, il se compose de trois municipalités spéciales : les îles de Bonaire, Sint Eustatius et Saba."
 
-jobtitle = "Monarch"
+jobtitle = "Monarque"
 
 [stats]
-National Anthem: = "I will maintain"
-Population: = "17.4 million (2020)"	
-Area: = "41,865 km2 (16,164 sq mi)"
-Currency: = "Euro (EUR)"
-GDP: = "$1.012 (~EUR844452000000.00 EUR)"
-GDP per capita: = "$58,003 (~EUR48980.75 EUR)"
-Democracy Index: = "~9.66/10 (9st)"
-Biggest Industry: = "Agriculture And Food Industry"
-Capital And Largest City: = "Amsterdam"
-Driving side: =	"Right"
-Calling code: = "+31"
+Hymne National : = "Je maintiendrai"
+Population : = "17,4 millions (2020)"
+Superficie : = "41 865 km2 (16 164 milles carrés)"
+Devise : = "Euro (EUR)"
+PIB : = "1,012 $ (~844452000000,00 EUR)"
+PIB par habitant : = "58 003 $ (~48 980,75 EUR)"
+Indice de démocratie : = "~9,66/10 (9e)"
+La plus grande industrie : = "Agriculture et industrie alimentaire"
+Capitale et plus grande ville : = "Amsterdam"
+Côté conduite : = "Droit"
+Indicatif d'appel : = "+31"
 
 
 

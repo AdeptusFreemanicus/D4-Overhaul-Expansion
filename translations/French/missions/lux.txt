@@ -1,19 +1,19 @@
 [config]
 name  = lux
-guiname = "Grand Duchy of Luxembourg"
-description = "Luxembourg, officially the Grand Duchy of Luxembourg, is a landlocked country in Western Europe. It is bordered by Belgium to the west and north, Germany to the east, and France to the south. Its capital, Luxembourg City, is one of the four official capitals of the European Union (together with Brussels, Frankfurt, and Strasbourg) and the seat of the Court of Justice of the European Union, the highest judicial authority in the EU. Its culture, people, and languages are highly intertwined with its neighbours, making it a mixture of French and German cultures. It has three official languages: French, German, and the national language of Luxembourgish."
+guiname = "Grand-Duché de Luxembourg"
+description = "Le Luxembourg, officiellement le Grand-Duché de Luxembourg, est un pays enclavé d'Europe occidentale. Il est bordé par la Belgique à l'ouest et au nord, l'Allemagne à l'est et la France au sud. Sa capitale, Luxembourg-Ville, est l'une des quatre capitales officielles de l'Union européenne (avec Bruxelles, Francfort et Strasbourg) et le siège de la Cour de justice de l'Union européenne, la plus haute autorité judiciaire de l'UE. Sa culture, ses habitants et ses langues sont étroitement liés à ses voisins, ce qui en fait un mélange de cultures française et allemande. Il a trois langues officielles : le français, l'allemand et la langue nationale luxembourgeoise."
 
-jobtitle = "Grand Duke"
+jobtitle = "grand Duc"
 
 [stats]
-Motto: = "We want to remain what we are"
-National Anthem: = "Our Homeland"
-Population: = "626 Hundred Thousand People (2020)"
-Area: = "2,586.4 km2 (998.6 sq mi)"
-Currency: = "Euro (€) (EUR)"
-GDP: = "$69.453 billion"
-GDP per capita: = "$113,196"
-Democracy Index: = "8.68/10 (13th)"
-Biggest Industry: = "Banking"
-Capital And Largest City: = "Luxembourg City"
-Driving side: =	"right"
+Devise : = "Nous voulons rester ce que nous sommes"
+Hymne national : = "Notre patrie"
+Population : = "626 cent mille personnes (2020)"
+Superficie : = "2 586,4 km2 (998,6 milles carrés)"
+Devise : = "Euro (€) (EUR)"
+PIB : = "69,453 milliards de dollars"
+PIB par habitant : = "113 196 $"
+Indice de démocratie : = "8,68/10 (13ème)"
+Industrie la plus importante : = "Banque"
+Capitale et plus grande ville : = "Ville de Luxembourg"
+Côté conduite : = "droit"

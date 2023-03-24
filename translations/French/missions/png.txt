@@ -1,21 +1,21 @@
 [config]
 name  = png
-guiname = "Independent State of Papua New Guinea"
-description = "Papua New Guinea, officially the Independent State of Papua New Guinea, is a country in Oceania that comprises the eastern half of the island of New Guinea and its offshore islands in Melanesia (a region of the southwestern Pacific Ocean north of Australia). Its capital, located along its southeastern coast, is Port Moresby. It is the world's third largest island country with an area of 462,840 km2 (178,700 sq mi).
+guiname = "État indépendant de Papouasie-Nouvelle-Guinée"
+description = "La Papouasie-Nouvelle-Guinée, officiellement l'État indépendant de Papouasie-Nouvelle-Guinée, est un pays d'Océanie qui comprend la moitié orientale de l'île de Nouvelle-Guinée et ses îles au large de la Mélanésie (une région du sud-ouest de l'océan Pacifique au nord de l'Australie). Sa capitale, située le long de sa côte sud-est, est Port Moresby. C'est le troisième plus grand pays insulaire du monde avec une superficie de 462 840 km2 (178 700 milles carrés).
 
-jobtitle = "Prime Minister"
+jobtitle = "Premier ministre"
 
 [stats]
-Motto: = "Unity in diversity"
-National Anthem: = "O Arise, All You Sons"
-Royal anthem = "God Save the Queen"
-Population: = "8.9 million (2020)"
-Area: = "462,840 km2 (178,700 sq mi)"
-Currency: = "Kina (PGK)"
-GDP: = "$32.382 billion"
-GDP per capita: = "$3,764"
-Democracy Index: = "~6.10/10 (70th)"
-Biggest Industry: = "Agriculture"
-Capital And Largest City: = "Port Moresby"
-Driving side: =	"Left"
-Calling code: = "+675"
+Devise : = "L'unité dans la diversité"
+Hymne national : = "O Levez-vous, tous vos fils"
+Hymne royal = "God Save the Queen"
+Population : = "8,9 millions (2020)"
+Superficie : = "462 840 km2 (178 700 milles carrés)"
+Devise : = "Kina (PGK)"
+PIB : = "32,382 milliards de dollars"
+PIB par habitant : = "3 764 $"
+Indice de démocratie : = "~6.10/10 (70e)"
+Industrie la plus importante : = "Agriculture"
+Capitale et plus grande ville : = "Port Moresby"
+Côté conduite : = "Gauche"
+Indicatif téléphonique : = "+675"

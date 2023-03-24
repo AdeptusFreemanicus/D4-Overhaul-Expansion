@@ -1,0 +1,24 @@
+[config]
+name  = australia
+guiname = "Australia"
+description = "The Commonwealth of Australia is a federal parliamentary constitutional monarchy. It is comprised of the mainland Australian continent, Tasmania, and many smaller islands. The former British colony first became a democracy in 1901. In 1902 women were given the right to vote at a federal level. Compulsory voting was introduced in 1924. In 1962 voting rights were expanded to include all Aboriginal peoples."
+jobtitle = "Prime Minister"
+
+[stats]
+Population: = "25,499,884 (2020)"
+Size: =	"7,692,024 sq km"
+Religion: = "None (30.1%), Catholic (22.6%), Anglican (13.3%), Other Christian (16.3%), Islam (2.6%)"
+Exports: = "Iron ore, coal, natural gas, education-related services, personal travel services, gold"
+World Leader: =	"Largest island, well-being of youth"
+Member of: = "G20, APEC, NPDI"
+National obsessions: = "Informality, BBQs, private schools, beach life"
+
+
+
+
+
+
+
+
+
+

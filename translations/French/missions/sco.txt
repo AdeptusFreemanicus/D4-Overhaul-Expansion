@@ -1,18 +1,18 @@
 [config]
 name  = sco
-guiname = "Scotland"
-description = "Scotland is a country that is part of the United Kingdom. Covering the northern third of the island of Great Britain, mainland Scotland has a 96-mile (154-kilometre) border with England to the southeast and is otherwise surrounded by the Atlantic Ocean to the north and west, the North Sea to the northeast and the Irish Sea to the south. The country also contains more than 790 islands, principally in the archipelagos of the Hebrides and the Northern Isles. Most of the population, including the capital Edinburgh, is concentrated in the Central Belt – the plain between the Scottish Highlands and the Southern Uplands – in the Scottish Lowlands."
+guiname = "Écosse"
+description = "L'Ecosse est un pays qui fait partie du Royaume-Uni. Couvrant le tiers nord de l'île de Grande-Bretagne, l'Écosse continentale a une frontière de 96 milles (154 kilomètres) avec l'Angleterre au sud-est et est autrement entourée par l'océan Atlantique au nord et à l'ouest, la mer du Nord au nord-est et la mer d'Irlande au sud. Le pays compte également plus de 790 îles, principalement dans les archipels des Hébrides et des îles du Nord. La majeure partie de la population, y compris la capitale Édimbourg, est concentrée dans la ceinture centrale - la plaine entre les Highlands écossais et les hautes terres du sud - dans les basses terres écossaises."
 
-jobtitle = "Monarch"
+jobtitle = "Monarque"
 
 [stats]
-National Anthem: = "In my defence God me defend"
-Population: = "5,463,300 people (2019 est)"
-Area: = "77,933 km2 (30,090 sq mi)"
-Currency: = "Pound sterling (GBP; £)"
-GVA: = "£166 billion"
-GVA per capita: = "£30,560"
-Biggest Industry: = "Oil & Gas Exports"
-Capital And Largest City: = "Edinburgh"
-Driving side: =	"left"
-Calling code: = "+44"
+Hymne National : = "Dans ma défense Dieu me défend"
+Population : = "5 463 300 personnes (2019 est)"
+Superficie : = "77 933 km2 (30 090 milles carrés)"
+Devise : = "Livre sterling (GBP; £)"
+VAB : = "166 milliards de livres sterling"
+GVA par habitant : = "30 560 £"
+Industrie la plus importante : = "Exportations de pétrole et de gaz"
+Capitale et plus grande ville : = "Édimbourg"
+Côté conduite : = "gauche"
+Indicatif téléphonique : = "+44"

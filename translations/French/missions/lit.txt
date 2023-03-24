@@ -1,19 +1,19 @@
 [config]
 name  = lit
-guiname = "Republic of Lithuania"
-description = "Lithuania, officially the Republic of Lithuania, is a country in the Baltic region of Europe. It is one of three Baltic states and lies on the eastern shore of the Baltic Sea. Lithuania shares land borders with Latvia to the north, Belarus to the east and south, Poland to the south, and Kaliningrad Oblast of Russia to the southwest. It has a maritime border with Sweden to the west on the Baltic Sea. Lithuania covers an area of 65,300 km2 (25,200 sq mi), with a population of 2.8 million. Its capital and largest city is Vilnius; other major cities are Kaunas and Klaipėda. Lithuanians belong to the ethno-linguistic group of the Balts and speak Lithuanian, one of only a few living Baltic languages."
+guiname = "République de Lituanie"
+description = "La Lituanie, officiellement la République de Lituanie, est un pays de la région baltique de l'Europe. C'est l'un des trois États baltes et se trouve sur la rive orientale de la mer Baltique. La Lituanie partage des frontières terrestres avec la Lettonie au nord, la Biélorussie à l'est et au sud, la Pologne au sud et l'oblast de Kaliningrad en Russie au sud-ouest. Il a une frontière maritime avec la Suède à l'ouest sur la mer Baltique. La Lituanie couvre une superficie de 65 300 km2 (25 200 milles carrés), avec une population de 2,8 millions d'habitants. Sa capitale et plus grande ville est Vilnius ; les autres grandes villes sont Kaunas et Klaipėda. Les Lituaniens appartiennent au groupe ethnolinguistique des Baltes et parlent le lituanien, l'une des rares langues baltes vivantes."
 
-jobtitle = "President"
+jobtitle = "Président"
 
 [stats]
-National Anthem: = "National Hymn"
-Population: = "2,795,680 million (2021 est)"
-Area: = "65,300 km2 (25,200 sq mi)"
-Currency: = "Euro (€) (EUR)"
-GDP: = "$107 billion"
-GDP per capita: = "$41,288"
-Democracy Index: = "~7.18/10 (40th)"
-Biggest Industry: = "Manufacturing"
-Capital (and largest city): = "Vilnius"
-Driving side: =	"right"
-Calling code: = "+370"
+Hymne national : = "Hymne national"
+Population : = "2 795 680 millions (2021 est)"
+Superficie : = "65 300 km2 (25 200 milles carrés)"
+Devise : = "Euro (€) (EUR)"
+PIB : = "107 milliards de dollars"
+PIB par habitant : = "41 288 $"
+Indice de démocratie : = "~7,18/10 (40e)"
+La plus grande industrie : = "Fabrication"
+Capitale (et plus grande ville): = "Vilnius"
+Côté conduite : = "droit"
+Indicatif téléphonique : = "+370"

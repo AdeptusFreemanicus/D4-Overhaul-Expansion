@@ -1,19 +1,19 @@
 [config]
 name  = uae
-guiname = "United Arab Emirates"
-description = "The United Arab Emirates, or simply the Emirates, is a country in Western Asia. It is located at the eastern end of the Arabian Peninsula, and shares borders with Oman and Saudi Arabia, while having maritime borders in the Persian Gulf with Qatar and Iran. Abu Dhabi is the nation's capital, while Dubai, the most populous city, is an international hub."
+guiname = "Emirats Arabes Unis"
+description = "Les Emirats Arabes Unis, ou simplement les Emirats, sont un pays d'Asie occidentale. Il est situé à l'extrémité orientale de la péninsule arabique et partage des frontières avec Oman et l'Arabie saoudite, tout en ayant des frontières maritimes dans le golfe Persique avec le Qatar et l'Iran. Abu Dhabi est la capitale du pays, tandis que Dubaï, la ville la plus peuplée, est une plaque tournante internationale."
 
-jobtitle = "President"
+jobtitle = "Président"
 
 [stats]
-National Anthem: = "Long Live My Country"
-Population: = "9,282,410 people (2020 est)"
-Area: = "83,600 km2 (32,300 sq mi)"
-Currency: = "UAE dirham (AED)"
-GDP: = "$763.182 billion"
-GDP per capita: = "$59,844"
-Democracy Index: = "2.90/10 (134th)"
-Biggest Industry: = "Tourism/Oil Industry"
-Capital and Largest City: = "Abu Dhabi"
-Driving side: =	"right"
-Calling code: = "+971"
+Hymne national : = "Vive mon pays"
+Population : = "9 282 410 personnes (2020 est)"
+Superficie : = "83 600 km2 (32 300 milles carrés)"
+Devise : = "Dirham des EAU (AED)"
+PIB : = "763,182 milliards de dollars"
+PIB par habitant : = "59 844 $"
+Indice de démocratie : = "2,90/10 (134e)"
+Industrie la plus importante : = "Tourisme/Industrie pétrolière"
+Capitale et plus grande ville : = "Abu Dhabi"
+Côté conduite : = "droit"
+Indicatif téléphonique : = "+971"

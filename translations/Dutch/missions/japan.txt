@@ -1,0 +1,27 @@
+[config]
+name  = japan
+guiname = "Japan"
+description = "Japan is a parliamentary constitutional monarchy with a ceremonial emperor and bicameral parliament. The current emperor is Naruhito, following the abdication of Akihito in 2019. The house of representatives has 465 seats and the upper house of councillors has 245 seats. Representatives must be at least 25 and councillors at least 30. The minimum voting age was reduced from 20 to 18 in 2016. Japan is divided in 47 prefectures, each overseen by an elected governor."
+jobtitle = "Prime Minister"
+
+[stats]
+Population:= 	"126.3 million"
+Size:=		"377,975 sq km"
+Ethnicity:= 	"98.1% Japanese 0.5% Chinese 0.4% Korean"
+Religion:= 	"Shintoism(70.4%) Christianity (1.5%)
+Exports:= 	"Cars, Iron, Steel, Semiconductors".
+World Leader:=	"Robotics production"
+Member of:=	"United Nations, OECD, WTO, G7"
+National obsessions:=	"Video Games, Animation"
+
+
+
+
+
+
+
+
+
+
+
+

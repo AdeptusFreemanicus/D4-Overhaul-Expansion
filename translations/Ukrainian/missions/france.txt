@@ -1,0 +1,25 @@
+[config]
+name  = france
+guiname = "France"
+description = "France, or the French Republic was an absolute monarchy at the time of the French Revolution in 1789. In 1792, with the motto ‘Liberty, Equality and Fraternity’, France became one of the earliest modern republics. It took another 80 years for France to become a democracy. Even then, democratic rights were sometimes derailed, including during World War II and it wasn't until the Fifth Republic was established in 1958 that democratic rule stabilised. France has an elected President and a Prime Minister appointed by the President. France is a leading member of the European Union and a member of NATO."
+jobtitle = "President"
+
+[stats]
+Population: = "65,273,511"
+Size: = "643,801 sq km"
+Religion: = "Catholicism 41%, None 40%, Islam 5%"
+Exports: = "Machinery, aircraft, vehicles, pharmaceuticals, plastics, cosmetics, beverages. "
+World Leader: = "Luxury goods, tourism, welfare state funding, exporting electricity."
+Member of: = "Eurozone, EU single market, NATO, G4"
+National obsessions: = "Gastronomy, equality, wine, competitive cycling."
+
+
+
+
+
+
+
+
+
+
+

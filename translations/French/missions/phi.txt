@@ -1,19 +1,19 @@
 [config]
 name  = phi
-guiname = "Republic of the Philippines"
-description = "The Philippines, officially the Republic of the Philippines, is an archipelagic country in Southeast Asia. Situated in the western Pacific Ocean, it consists of about 7,641 islands that are broadly categorized under three main geographical divisions from north to south: Luzon, Visayas, and Mindanao. The capital city of the Philippines is Manila and the most populous city is Quezon City, both within the single urban area of Metro Manila. Bounded by the South China Sea to the west, the Philippine Sea to the east, and the Celebes Sea to the southwest, the Philippines shares maritime borders with Taiwan to the north, Japan to the northeast, Palau to the east, Indonesia to the south, Malaysia and Brunei to the southwest, Vietnam to the west, and China to the northwest."
+guiname = "République des Philippines"
+description = "Les Philippines, officiellement la République des Philippines, sont un pays archipel d'Asie du Sud-Est. Situé dans l'ouest de l'océan Pacifique, il se compose d'environ 7 641 îles qui sont globalement classées en trois divisions géographiques principales du nord au sud : Luzon, Visayas et Mindanao. La capitale des Philippines est Manille et la ville la plus peuplée est Quezon City, toutes deux situées dans la seule zone urbaine de la région métropolitaine de Manille. Délimité par la mer de Chine méridionale à l'ouest, la mer des Philippines à l'est et la mer de Célèbes au sud-ouest, les Philippines partagent des frontières maritimes avec Taïwan au nord, le Japon au nord-est, Palau à l'est, l'Indonésie au sud , la Malaisie et Brunei au sud-ouest, le Vietnam à l'ouest et la Chine au nord-ouest."
 
-jobtitle = "President"
+jobtitle = "Président"
 
 [stats]
-Motto: = "For God, People, Nature and Country"
-National Anthem: = "Chosen Land"
-Population: = "109 Million People (2020)"
-Area: = "300,000 km2 (120,000 sq mi)"
-Currency: = "Philippine peso (₱) (PHP)"
-GDP: = "$367.362 billion"
-GDP per capita: = "$3,484"
-Democracy Index: = "6.56/10 (55th)"
-Biggest Industry: = "Agriculture"
-Capital And Largest City: = "Manila"
-Driving side: =	"right"
+Devise : = "Pour Dieu, les gens, la nature et le pays"
+Hymne national : = "Terre choisie"
+Population : = "109 millions de personnes (2020)"
+Superficie : = "300 000 km2 (120 000 milles carrés)"
+Devise : = "Peso philippin (₱) (PHP)"
+PIB : = "367,362 milliards de dollars"
+PIB par habitant : = "3 484 $"
+Indice de démocratie : = "6,56/10 (55e)"
+Industrie la plus importante : = "Agriculture"
+Capitale et plus grande ville : = "Manille"
+Côté conduite : = "droit"

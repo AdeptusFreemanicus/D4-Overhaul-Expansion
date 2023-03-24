@@ -46,7 +46,6 @@ FaithSchoolSubsidies = 0.75
 ForeignAid = 0.05
 GameHunting = 0.5
 GayMarriage = 0
-GenderTransition = 1
 GenderDiscriminationAct = 0.5
 GeneralMediaCensorship = 1
 HandgunLaws = 0.1

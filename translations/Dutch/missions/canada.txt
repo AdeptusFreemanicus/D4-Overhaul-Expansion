@@ -1,0 +1,22 @@
+[config]
+name  = canada
+guiname = "Canada"
+description = "Canada is een federale parlementaire democratie met een constitutionele monarchie. De premier wordt gekozen. Formeel een kolonie van Groot-Brittannië, werd de nieuwe natie Canada voor het eerst een democratie in 1867. In 1919 wonnen vrouwen de stam, maar tot 1960 toen alle Canadese burgers, stemmen hun etniciteit, en algemeen kiesrecht de wet werden."
+
+jobtitle = "Premier"
+
+[stats]
+Bevolking: = "37.742.154 (2020)"
+Grootte: = "9.984.670 vierkante kilometer"
+Religie: = "69,3% christen, 24,9% niet-aangesloten, 1,2% islam, 1,0% hindoeïsme, 1,4% sikhisme"
+Uitvoer: = "Olie, hout, geraffineerde, brandstof goud, metalen en edelstenen"
+Wereldleider: = "Langste kustlijn, leefbaarheid, transparantie van overheid en bedrijfsleven"
+Nationale obsessies: = "Ahornsiroop, ijshockey, beleefdheid, diversiteit"
+
+
+
+
+
+
+
+

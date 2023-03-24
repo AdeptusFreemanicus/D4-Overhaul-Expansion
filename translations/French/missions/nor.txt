@@ -1,18 +1,18 @@
 [config]
 name  = nor
-guiname = "Northern Ireland"
-description = "Northern Ireland is a part of the United Kingdom that is variously described as a country, province, territory or region. Located in the northeast of the island of Ireland, Northern Ireland shares a border to the south and west with the Republic of Ireland. In 2011, its population was 1,810,863, constituting about 30% of the island's population and about 3% of the UK's population. The Northern Ireland Assembly (colloquially referred to as Stormont after its location), established by the Northern Ireland Act 1998, holds responsibility for a range of devolved policy matters, while other areas are reserved for the British government. Northern Ireland co-operates with the Republic of Ireland in several areas."
+guiname = "Irlande du Nord"
+description = "L'Irlande du Nord est une partie du Royaume-Uni qui est diversement décrite comme un pays, une province, un territoire ou une région. Située au nord-est de l'île d'Irlande, l'Irlande du Nord partage une frontière au sud et à l'ouest avec la République d'Irlande. En 2011, sa population était de 1 810 863, constituant environ 30 % de la population de l'île et environ 3 % de la population du Royaume-Uni. L' Assemblée d'Irlande du Nord (familièrement appelée Stormont d'après son emplacement), établie par la loi de 1998 sur l'Irlande du Nord , est responsable d'une série de questions politiques décentralisées, tandis que d'autres domaines sont réservés au gouvernement britannique. L'Irlande du Nord coopère avec la République d'Irlande dans plusieurs domaines."
 
-jobtitle = "Monarch"
+jobtitle = "Monarque"
 
 [stats]
-National Anthem: = "Londonderry Air Or God Save the Queen"
-Population: = "1,900,000 (2019 est)"
-Area: = "14,130 km2 (5,460 sq mi)"
-Currency: = "Pound sterling (GBP; £)"
-GVA: = "£49 billion?"
-GVA per capita: = "£26,000?"
-Biggest Industry: = "Pharmaceutical And Medical Technology Industries"
-Capital And Largest City: = "Belfast"
-Driving side: =	"left"
-Calling code: = "+44"
+Hymne national : = "Londonderry Air ou God Save the Queen"
+Population : = "1 900 000 (2019 est)"
+Superficie : = "14 130 km2 (5 460 milles carrés)"
+Devise : = "Livre sterling (GBP; £)"
+GVA : = "49 milliards de livres sterling ?"
+GVA par habitant : = "26 000 £ ?"
+La plus grande industrie : = "Industries de la technologie pharmaceutique et médicale"
+Capitale et plus grande ville : = "Belfast"
+Côté conduite : = "gauche"
+Indicatif téléphonique : = "+44"

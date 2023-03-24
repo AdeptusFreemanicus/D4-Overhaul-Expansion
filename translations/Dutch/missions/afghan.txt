@@ -1,0 +1,20 @@
+[config]
+name  = afghan
+guiname = "Islamitisch emiraat Afghanistan"
+description = "Afghanistan, officieel de Islamitische Republiek Afghanistan, is een geheel door land omgeven land op het kruispunt van Centraal- en Zuid-Azië. Afghanistan wordt begrensd door Pakistan in het oosten en zuiden; Iran in het westen; Turkmenistan, Oezbekistan en Tadzjikistan in het noorden; en China in het noordoosten. Het beslaat 652.000 vierkante kilometer (252.000 sq mi), het is een bergachtig land met vlaktes in het noorden en zuidwesten. Kabul is de hoofdstad en grootste stad. De bevolking is ongeveer 32 miljoen, voornamelijk samengesteld uit etnische Pashtuns, Tadzjieken , Hazara's en Oezbeken."
+
+jobtitle = "President"
+
+[stats]
+Motto: = "Er is geen God dan Allah; Mohammed is de boodschapper van Allah."
+Volkslied: = "Nationaal volkslied (zeer origineel)"
+Bevolking: = "32,2 miljoen (2019)"
+Gebied: = "652.230 km2 (251.830 vierkante mijl)"
+Valuta: = "Afghanen (AFN)"
+BBP: = "$ 72 miljard (5.557.550.600.448.000,00 AFN)"
+BBP per hoofd van de bevolking: = "$ 2.024 (156.228,92 AFN)"
+Democratie Index: = "2,85/10 (141e)"
+Grootste Industrie: = "Mijnindustrie"
+Hoofdstad en grootste stad: = "Kaboel"
+Rijzijde: = "Rechtsaf"
+Bellen code: = "+93"

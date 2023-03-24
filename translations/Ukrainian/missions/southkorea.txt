@@ -1,0 +1,25 @@
+[config]
+name  = south korea
+guiname = "South Korea"
+description = "The First Republic of Korea or South Korea briefly became democratic in 1953, before falling under autocratic rule and collapsing in 1960. The Second Republic started as a democracy but was soon overthrown by an autocratic military regime. The Third, Fourth, and Fifth Republics were nominally democratic, but in reality were more of a continuation of military rule. From 1987, the Sixth Republic has stabilized into a liberal democracy. The Korean royal family has no official authority."
+jobtitle = "President"
+
+[stats]
+Population: =	"51.71 million"
+Size:=	"100,032 sq km"	
+Religion: =	"None (56.1%),Protestantism (19.7%),Korean Buddhism (15.5%),Catholicism (7.9%)"
+Exports: =	"Electronic products, machinery, motor vehicles (particularly cars), steel, ships, textiles and clothing."	
+World Leader:=	"Largest reserve army. Largest % of High School graduates, fastest internet speed."
+Member of:=	"United Nations, OECD, G20"
+National obsessions:	"K-pop and K-dramas. Fried chicken. Unresolved tension with North Korea. Education. Plastic surgery. Work ethic.
+
+
+
+
+
+
+
+
+
+
+

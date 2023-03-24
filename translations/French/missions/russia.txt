@@ -1,19 +1,19 @@
 [config]
 name  = russia
-guiname = "The Russian Federation"
-description = "Russia, or the Russian Federation, is a transcontinental country located in Eastern Europe and Northern Asia. It extends from the Baltic Sea in the west to the Pacific Ocean in the east, and from the Arctic Ocean in the north to the Black Sea and the Caspian Sea in the south. Russia covers over 17,125,200 square kilometres (6,612,100 sq mi), spanning more than one-eighth of the Earth's inhabited land area, stretching eleven time zones, and bordering 16 sovereign nations. Moscow is the country's capital and largest city, other major cities include Saint Petersburg, Novosibirsk, Yekaterinburg, Kazan, Nizhny Novgorod, Chelyabinsk and Samara."
+guiname = "La fédération Russe"
+description = "La Russie, ou la Fédération de Russie, est un pays transcontinental situé en Europe de l'Est et en Asie du Nord. Il s'étend de la mer Baltique à l'ouest à l'océan Pacifique à l'est, et de l'océan Arctique au nord à la mer Noire et à la mer Caspienne au sud. La Russie couvre plus de 17 125 200 kilomètres carrés (6 612 100 milles carrés), couvrant plus d'un huitième de la superficie terrestre habitée de la Terre, s'étendant sur onze fuseaux horaires et bordant 16 nations souveraines. Moscou est la capitale et la plus grande ville du pays, les autres grandes villes sont Saint-Pétersbourg, Novossibirsk, Iekaterinbourg, Kazan, Nijni Novgorod, Tcheliabinsk et Samara."
 
-jobtitle = "President"
+jobtitle = "Président"
 
 [stats]
-National Anthem: = "State Anthem of the Russian Federation"
-Population: = "146.7 million (2020)"
-Area: = "17,098,246 km2 (6,601,670 sq mi)"
-Currency: = "Russian ruble (₽) (RUB)"
-GDP: = "$4.135 trillion (3.079 quadrillion Russian Rubles)"
-GDP per capita: = "$28,184 (~₽2096728.95 Russian Rubles)"
-Democracy Index: = "3.31/10 (134th)"
-Biggest Industry: = "Services Sector"
-Capital (and largest city): = "Moscow"
-Driving side: =	"right"
-Calling code: = "+7"
+Hymne national : = "Hymne national de la Fédération de Russie"
+Population : = "146,7 millions (2020)"
+Superficie : = "17 098 246 km2 (6 601 670 milles carrés)"
+Devise : = "Rouble russe (₽) (RUB)"
+PIB : = "4,135 billions de dollars (3,079 quadrillions de roubles russes)"
+PIB par habitant : = "28 184 $ (~ 2 096 728,95 ₽ roubles russes)"
+Indice de démocratie : = "3,31/10 (134e)"
+Industrie la plus importante : = "Secteur des services"
+Capitale (et plus grande ville): = "Moscou"
+Côté conduite : = "droit"
+Indicatif d'appel : = "+7"

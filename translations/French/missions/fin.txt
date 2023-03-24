@@ -1,18 +1,18 @@
 [config]
 name  = fin
-guiname = "Republic of Finland"
-description = "Finland, officially the Republic of Finland is a Nordic country located in Northern Europe. Finland shares land borders with Sweden to the west, Russia to the east, and Norway to the north, Finland has a population of approximately 5.5 million, making it the 25th-most populous country in Europe. The main language is Finnish, Swedish is the second official language of Finland, Finland is a parliamentary republic consisting of 19 regions and 310 municipalities. The climate varies significantly relative to latitude, from Southern Finland's humid continental climate to the boreal climate of the north. Finland is primarily a boreal forest biome, with more than 180,000 recorded lakes, With an area of 338,455 square kilometres (130,678 sq mi), Finland is the eighth-largest country in Europe, and the most sparsely populated country in the European Union. Helsinki, the capital of Finland, is the largest metropolitan area with over 1.5 million people."
+guiname = "République de Finlande"
+description = "La Finlande, officiellement la République de Finlande est un pays nordique situé en Europe du Nord. La Finlande partage des frontières terrestres avec la Suède à l'ouest, la Russie à l'est et la Norvège au nord. La Finlande compte environ 5,5 millions d'habitants, ce qui en fait le 25e pays le plus peuplé d'Europe. La langue principale est le finnois, le suédois est la deuxième langue officielle de la Finlande, la Finlande est une république parlementaire composée de 19 régions et 310 municipalités. Le climat varie considérablement en fonction de la latitude, du climat continental humide du sud de la Finlande au climat boréal du nord. La Finlande est principalement un biome de la forêt boréale, avec plus de 180 000 lacs enregistrés. Avec une superficie de 338 455 kilomètres carrés (130 678 milles carrés), la Finlande est le huitième plus grand pays d'Europe et le pays le moins peuplé de l'Union européenne. Helsinki, la capitale de la Finlande, est la plus grande zone métropolitaine avec plus de 1,5 million d'habitants."
 
-jobtitle = "President"
+jobtitle = "Président"
 
 [stats]
-National Anthem: = "Our Land"
-Population: = "5.5 million people (2020)"
-Area: = "338,455 km2 (130,678 sq mi)"
-Currency: = "Euro (€) (EUR)"
-GDP: = "$277 billion (€230,139,104,151.60 EUR)"
-GDP per capita: = "$48,461 (€40,262.42 EUR)"
-Democracy Index: = "9.25/10 (5th)"
-Biggest Industry: = "Electronics"
-Capital And Largest City: = "Helsinki"
-Driving side: =	"right"
+Hymne National : = "Notre Terre"
+Population : = "5,5 millions de personnes (2020)"
+Superficie : = "338 455 km2 (130 678 milles carrés)"
+Devise : = "Euro (€) (EUR)"
+PIB : = "277 milliards de dollars (230 139 104 151,60 €)"
+PIB par habitant : = "48 461 $ (40 262,42 EUR)"
+Indice de démocratie : = "9,25/10 (5ème)"
+Industrie la plus importante : = "Électronique"
+Capitale et plus grande ville : = "Helsinki"
+Côté conduite : = "droit"

@@ -1,18 +1,18 @@
 [config]
 name  = hon
-guiname = "Hong Kong Special Administrative Region of the People's Republic of China"
-description = "Hong Kong, officially the Hong Kong Special Administrative Region of the People's Republic of China, is a city and special administrative region of China on the eastern Pearl River Delta in South China. With over 7.5 million residents of various nationalities in a 1,104-square-kilometre (426 sq mi) territory, Hong Kong is one of the most densely populated places in the world. Hong Kong is also one of the three global financial centres and one of the most developed cities in the world."
+guiname = "Région administrative spéciale de Hong Kong de la République populaire de Chine"
+description = "Hong Kong, officiellement la région administrative spéciale de Hong Kong de la République populaire de Chine, est une ville et une région administrative spéciale de Chine située dans le delta oriental de la rivière des Perles, dans le sud de la Chine. Avec plus de 7,5 millions d'habitants de diverses nationalités sur un territoire de 1 104 kilomètres carrés (426 milles carrés), Hong Kong est l'un des endroits les plus densément peuplés au monde. Hong Kong est également l'un des trois centres financiers mondiaux et l'une des villes les plus développées au monde."
 
-jobtitle = "Chief Executive"
+jobtitle = "Directeur général"
 
 [stats]
-Population: = "7,413,070 million (2021)"
-Area: = "2,754.97 km2 (1,063.70 sq mi)"
-Currency: = "Hong Kong dollar (HK$) (HKD)"
-GDP: = "$472.395 billion"
-GDP per capita: = "$62,839"
-Democracy index: = "~5.60/10 (85th)"
-Largest Industry: = "Toursim/Service Sector"
-Capital and largest city: = "Hanoi"
-Driver side: = "left"
-Phone prefix: = "+852"
+Population : = "7 413 070 millions (2021)"
+Superficie : = "2 754,97 km2 (1 063,70 milles carrés)"
+Devise : = "Dollar de Hong Kong (HK$) (HKD)"
+PIB : = "472,395 milliards de dollars"
+PIB par habitant : = "62 839 $"
+Indice de démocratie : = "~5,60/10 (85e)"
+La plus grande industrie : = "Tourisme/secteur des services"
+Capitale et plus grande ville : = "Hanoi"
+Côté conducteur : = "gauche"
+Préfixe téléphonique : = "+852"

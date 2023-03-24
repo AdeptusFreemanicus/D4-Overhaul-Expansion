@@ -1,19 +1,19 @@
 [config]
 name  = indo
-guiname = "Republic of Indonesia"
-description = "Indonesia, officially the Republic of Indonesia, is a country in Southeast Asia and Oceania, between the Indian and Pacific oceans. It consists of more than seventeen thousand islands, including Sumatra, Java, Sulawesi, and parts of Borneo (Kalimantan) and New Guinea (Papua). Indonesia is the world's largest island country and the 14th-largest country by land area, at 1,904,569 square kilometres (735,358 square miles). With 270 million people, it is the world's 4th-most populous country as well as the most populous Muslim-majority country. Java, the world's most populous island, is home to more than half of the country's population."
+guiname = "République d'Indonésie"
+description = "L'Indonésie, officiellement la République d'Indonésie, est un pays d'Asie du Sud-Est et d'Océanie, entre les océans Indien et Pacifique. Il se compose de plus de dix-sept mille îles, dont Sumatra, Java, Sulawesi et certaines parties de Bornéo (Kalimantan) et de la Nouvelle-Guinée (Papouasie). L'Indonésie est le plus grand pays insulaire du monde et le 14e plus grand pays par superficie, avec 1 904 569 kilomètres carrés (735 358 milles carrés). Avec 270 millions d'habitants, c'est le 4ème pays le plus peuplé du monde ainsi que le pays à majorité musulmane le plus peuplé. Java, l'île la plus peuplée du monde, abrite plus de la moitié de la population du pays."
 
-jobtitle = "President"
+jobtitle = "Président"
 
 [stats]
-Motto: = "Unity in Diversity"
-National Anthem: = "Great Indonesia"
-Population: = "270 million (2020)"
-Area: = "1,904,569 km2 (735,358 sq mi)"
-Currency: = "Indonesian Rupiah (Rp)"
-GDP: = "$1.089 trillion (14,027,944,154,499,000.00 Rp)"
-GDP per capita: = "$4,038 (56,111,003.76 rp)"
-Democracy Index: = "6.48/10 (64th)"
-Biggest Industry: = "Agriculture"
-Capital And Largest City: = "Jakarta"
-Driving side: =	"left"
+Devise : = "L'unité dans la diversité"
+Hymne national : = "Grande Indonésie"
+Population : = "270 millions (2020)"
+Superficie : = "1 904 569 km2 (735 358 milles carrés)"
+Devise : = "Roupie indonésienne (Rp)"
+PIB : = "1 089 000 milliards de dollars (14 027 944 154 499 000,00 Rp) »
+PIB par habitant : = "4 038 $ (56 111 003,76 rp)"
+Indice de démocratie : = "6,48/10 (64e)"
+Industrie la plus importante : = "Agriculture"
+Capitale et plus grande ville : = "Jakarta"
+Côté conduite : = "gauche"

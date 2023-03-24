@@ -1,19 +1,19 @@
 [config]
 name  = per
-guiname = "Republic of Peru"
-description = "Peru, officially the Republic of Peru, is a country in western South America. It is bordered in the north by Ecuador and Colombia, in the east by Brazil, in the southeast by Bolivia, in the south by Chile, and in the south and west by the Pacific Ocean. Peru is a megadiverse country with habitats ranging from the arid plains of the Pacific coastal region in the west to the peaks of the Andes mountains extending from the north to the southeast of the country to the tropical Amazon Basin rainforest in the east with the Amazon river. At 1.28 million km2 (0.5 million mi2), Peru is the 19th largest country in the world, and the third largest in South America."
+guiname = "République du Pérou"
+description = "Le Pérou, officiellement la République du Pérou, est un pays de l'ouest de l'Amérique du Sud. Il est bordé au nord par l'Équateur et la Colombie, à l'est par le Brésil, au sud-est par la Bolivie, au sud par le Chili, et au sud et à l'ouest par l'océan Pacifique. Le Pérou est un pays mégadivers avec des habitats allant des plaines arides de la région côtière du Pacifique à l'ouest aux sommets des montagnes des Andes s'étendant du nord au sud-est du pays à la forêt tropicale du bassin amazonien à l'est avec le fleuve Amazone . Avec 1,28 million de km2 (0,5 million de mi2), le Pérou est le 19e plus grand pays du monde et le troisième d'Amérique du Sud."
 
-jobtitle = "President"
+jobtitle = "Président"
 
 [stats]
-Motto: = "Firm and Happy for the Union"
-National Anthem: = "National Anthem of Peru"
-Population: = "32.8 million people (2020)"
-Area: = "1,285,216 km2 (496,225 sq mi)"
-Currency: = "Sol (PEN)"
-GDP: = "$195.761 billion"
-GDP per capita: = "$5,845"
-Democracy Index: = "6.53/10 (57th)"
-Biggest Industry: = "Mining Industry"
-Capital And Largest City: = "Lima"
-Driving side: =	"right"
+Devise : = "Firm and Happy for the Union"
+Hymne national : = "Hymne national du Pérou"
+Population : = "32,8 millions de personnes (2020)"
+Superficie : = "1 285 216 km2 (496 225 milles carrés)"
+Devise : = "Sol (PEN)"
+PIB : = "195,761 milliards de dollars"
+PIB par habitant : = "5 845 $"
+Indice de démocratie : = "6,53/10 (57e)"
+La plus grande industrie : = "Industrie minière"
+Capitale et plus grande ville : = "Lima"
+Côté conduite : = "droit"
