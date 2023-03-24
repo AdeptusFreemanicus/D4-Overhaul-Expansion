@@ -1,6 +1,6 @@
 [config]
 name = d4oe
-path = C:\Users\\Documents/My Games/democracy4/mods/d4oe
+path = C:\Users\ahmad\Documents/My Games/democracy4/mods/d4oe
 guiname = D4 Overhaul & Expansion
 author = Adeptus Freemanicus
 description = D4 Overhaul & Expansion Brings many changes to Democracy 4, This mod will hopefully touch on many things that do need improving and we will take suggestions from you players of Democracy 4!
