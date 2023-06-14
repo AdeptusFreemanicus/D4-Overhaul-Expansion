@@ -139,7 +139,7 @@ UniversityGrants = 0.5
 WitnessProtectionProgram = 0.5
 WorkSafetyLaw = 0.6
 
-interest_rate= 0.06
+interest_rate= 0.08
 
 _prereq_royal_family = 1
 _prereq_nuclear_tech = 1

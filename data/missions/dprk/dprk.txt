@@ -100,7 +100,7 @@ TobaccoTax = 0.10
 TortureUsageBySecretServices = 1
 WitnessProtectionProgram = 1
 
-interest_rate= 0.06
+interest_rate= 0.01
 
 _prereq_has_coast = 1
 _prereq_mining_industry = 1

@@ -1,17 +1,17 @@
 [config]
 name  = wal
-guiname = "Wales"
-description = "Wales is a country that is part of the United Kingdom. It is bordered by England to the east, the Irish Sea to the north and west, and the Bristol Channel to the south. It had a population in 2011 of 3,063,456 and has a total area of 20,779 km2 (8,023 sq mi). Wales has over 1,680 miles (2,700 km) of coastline and is largely mountainous with its higher peaks in the north and central areas, including Snowdon (Yr Wyddfa), its highest summit. The country lies within the north temperate zone and has a changeable, maritime climate. The capital and largest city is Cardiff."
+guiname = "Уэльс"
+description = "Уэльс — страна, входящая в состав Соединенного Королевства. Он граничит с Англией на востоке, Ирландским морем на севере и западе и Бристольским проливом на юге. В 2011 году его население составляло 3 063 456 человек, а его общая площадь составляла 20 779 км2 (8 023 квадратных миль). Уэльс имеет более 1680 миль (2700 км) береговой линии и в основном гористый с его более высокими пиками на севере и в центральных районах, включая Сноудон (Yr Wyddfa), его самую высокую вершину. Страна находится в северной умеренной зоне и имеет изменчивый морской климат. Столица и крупнейший город — Кардифф."
 
-jobtitle = "Monarch"
+jobtitle = "монарх"
 
 [stats]
-Population: = "3,153,000 million (2019 est)"
-Area: = "20,779 km2 (8,023 sq mi)	"
-Currency: = "Pound sterling (GBP; £)"
-GVA: = "£75 billion"
-GVA per capita: = "£23,900"
-Largest Industry: = "Sheeeep"
-Capital and largest city: = "Cardiff"
-Driver side: = "left"
-Phone prefix: = "+44"
+Население: = «3 153 000 миллионов (оценка 2019 г.)»
+Площадь: = «20 779 км2 (8 023 квадратных миль)»
+Валюта: = "Фунт стерлингов (GBP; £)"
+ВДС: = «75 миллиардов фунтов стерлингов»
+ВДС на душу населения: = «23 900 фунтов стерлингов».
+Крупнейшая отрасль: = «Овцы»
+Столица и крупнейший город: = «Кардифф».
+Сторона водителя: = "левая"
+Префикс телефона: = "+44"

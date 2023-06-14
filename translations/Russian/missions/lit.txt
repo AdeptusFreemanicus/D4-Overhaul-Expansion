@@ -1,19 +1,19 @@
 [config]
 name  = lit
-guiname = "Republic of Lithuania"
-description = "Lithuania, officially the Republic of Lithuania, is a country in the Baltic region of Europe. It is one of three Baltic states and lies on the eastern shore of the Baltic Sea. Lithuania shares land borders with Latvia to the north, Belarus to the east and south, Poland to the south, and Kaliningrad Oblast of Russia to the southwest. It has a maritime border with Sweden to the west on the Baltic Sea. Lithuania covers an area of 65,300 km2 (25,200 sq mi), with a population of 2.8 million. Its capital and largest city is Vilnius; other major cities are Kaunas and Klaipėda. Lithuanians belong to the ethno-linguistic group of the Balts and speak Lithuanian, one of only a few living Baltic languages."
+guiname = "Литовская Республика"
+description = "Литва, официально Литовская Республика, является страной в Балтийском регионе Европы. Это одна из трех балтийских стран, расположенная на восточном берегу Балтийского моря. Литва граничит по суше с Латвией на севере, с Беларусью на на востоке и юге, Польша на юге и Калининградская область России на юго-западе. Он имеет морскую границу со Швецией на западе по Балтийскому морю. Литва занимает площадь 65 300 км2 (25 200 квадратных миль), с населением 2,8 млн. Его столица и крупнейший город — Вильнюс, другие крупные города — Каунас и Клайпеда. Литовцы принадлежат к этнолингвистической группе балтов и говорят на литовском, одном из немногих живых балтийских языков."
 
-jobtitle = "President"
+jobtitle = "Президент"
 
 [stats]
-National Anthem: = "National Hymn"
-Population: = "2,795,680 million (2021 est)"
-Area: = "65,300 km2 (25,200 sq mi)"
-Currency: = "Euro (€) (EUR)"
-GDP: = "$107 billion"
-GDP per capita: = "$41,288"
-Democracy Index: = "~7.18/10 (40th)"
-Biggest Industry: = "Manufacturing"
-Capital (and largest city): = "Vilnius"
-Driving side: =	"right"
-Calling code: = "+370"
+Государственный гимн: = «Национальный гимн».
+Население: = «2 795 680 миллионов (оценка 2021 г.)»
+Площадь: = «65 300 км2 (25 200 квадратных миль)»
+Валюта: = "Евро (€) (EUR)"
+ВВП: = "107 миллиардов долларов"
+ВВП на душу населения: = «41 288 долларов США».
+Индекс демократии: = «~ 7,18 / 10 (40-е место)»
+Крупнейшая отрасль: = «Производство».
+Столица (и крупнейший город): = "Вильнюс"
+Сторона водителя: = "правая"
+Телефонный код: = "+370"

@@ -1,20 +1,20 @@
 [config]
 name  = drc
-guiname = "Democratic Republic of the Congo"
-description = "The Democratic Republic of the Congo, informally Congo-Kinshasa, DR Congo, the DRC, the DROC, or the Congo, and formerly and also coloquially Zaire, is a country in Central Africa. It is, by area, the second largest country in Africa (after Algeria), and the 11th-largest in the world. With a population of around 92 million, the Democratic Republic of the Congo is the most populous officially Francophone country in the world. It is a member of the United Nations, Non-Aligned Movement, African Union, COMESA, and the East African Community. The capital and largest city is Kinshasa, which is also the world's most populous Francophone city."
+guiname = "Демократическая Республика Конго"
+description = "Демократическая Республика Конго, неофициально Конго-Киншаса, ДР Конго, ДРК, ДРК или Конго, а ранее, а также в просторечии Заир, является страной в Центральной Африке. По площади это вторая по величине страна. в Африке (после Алжира) и 11-е место в мире. Демократическая Республика Конго с населением около 92 миллионов человек является самой густонаселенной официально франкоязычной страной в мире. Она является членом Организации Объединенных Наций, Движение неприсоединения, Африканский союз, КОМЕСА и Восточноафриканское сообщество. Столицей и крупнейшим городом является Киншаса, который также является самым густонаселенным франкоязычным городом в мире."
 
 
-jobtitle = "President"
+jobtitle = "Президент"
 
 [stats]
-National Anthem: = "Justice – Peace – Work"
-Population: = "92 million (2021)"
-Area: = "2,345,409 km2"
-Currency: = "Congolese franc (CDF)"
-GDP: = "$46 billion"
-GDP per capita: = "$501"
-Democracy Index: = "~2.76/10 (164th)"
-Biggest Industry: = "Agriculture Sector/Mining Sector"
-Capital (and largest city): = "Kinshasa"
-Driving side: =	"right"
-Calling code: = "+243"
+Государственный гимн: = «Справедливость — мир — работа».
+Население: = «92 миллиона (2021 г.)»
+Площадь: = "2 345 409 км2"
+Валюта: = "Конголезский франк (CDF)"
+ВВП: = "46 миллиардов долларов"
+ВВП на душу населения: = "501 доллар США"
+Индекс демократии: = "~ 2,76/10 (164 место)"
+Крупнейшая отрасль: = «Сельскохозяйственный/горнодобывающий сектор».
+Столица (и крупнейший город): = «Киншаса».
+Сторона водителя: = "правая"
+Телефонный код: = "+243"

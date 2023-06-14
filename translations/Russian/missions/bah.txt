@@ -1,20 +1,20 @@
 [config]
 name  = bah
-guiname = "The Commonwealth of The Bahamas"
-description = "The Bahamas, known officially as the Commonwealth of The Bahamas, is a sovereign country within the Lucayan Archipelago of the West Indies in the Atlantic. It takes up 97% of the Lucayan Archipelago's land area and is home to 88% of the archipelago's population. The archipelagic state consists of more than 3000 islands, cays, and islets in the Atlantic Ocean, and is located north of Cuba and northwest of the island of Hispaniola (split between Haiti and the Dominican Republic) and the Turks and Caicos Islands, southeast of the American state of Florida, and east of the Florida Keys. The capital is Nassau on the island of New Providence. The Royal Bahamas Defence Force describes The Bahamas' territory as encompassing 470,000 km2 (180,000 sq mi) of ocean space"
+guiname = "Содружество Багамских островов""
+description = "Багамы, официально известные как Содружество Багамских островов, являются суверенной страной в составе Лукайского архипелага Вест-Индии в Атлантике. Они занимают 97% территории Лукайского архипелага и являются домом для 88% населения архипелага. Государство-архипелаг состоит из более чем 3000 островов, рифов и островков в Атлантическом океане и расположено к северу от Кубы и к северо-западу от острова Эспаньола (расколотого между Гаити и Доминиканской Республикой) и островов Теркс и Кайкос, к юго-востоку от американского штата Флорида и к востоку от Флорида-Кис. Столица — Нассау на острове Нью-Провиденс. Королевские силы обороны Багамских островов описывают территорию Багамских островов как охватывающую 470 000 км2 (180 000 квадратных миль) океанского пространства".
 
-jobtitle = "Monarch"
+jobtitle = "Монарх"
 
 [stats]
-Motto: = "March On, Bahamaland"
-National Anthem: = "God Save the Queen"
-Population: = "400,516 (2022 est)"
-Area: = "13,878 km2 (5,358 sq mi)"
-Currency: = "Bahamian dollar (BSD)"
-GDP: = "$12.612 billion"
-GDP per capita: = "$33,494"
-Democracy Index: = "No Data"
-Biggest Industry: = "Tourism"
-Capital And Largest City: = "Nassau"
-Driving side: =	"left"
-Calling code: = "+1 242"
+Девиз: = «Марш, Багамаленд»
+Государственный гимн: = «Боже, храни королеву»
+Население: = «400 516 (оценка 2022 г.)»
+Площадь: = «13 878 км2 (5 358 квадратных миль)»
+Валюта: = «Багамский доллар (BSD)»
+ВВП: = «12,612 миллиарда долларов»
+ВВП на душу населения: = «33 494 доллара США»
+Индекс демократии: = «Нет данных»
+Крупнейшая отрасль: = «Туризм»
+Столица и крупнейший город: = «Нассау»
+Сторона водителя: = «левый»
+Телефонный код: = "+1 242"

@@ -117,7 +117,7 @@ WelfareFraudDept = 0.75
 WorkersOnBoards = 0.75
 WorkSafetyLaw = 0.5
 
-interest_rate= 0.06
+interest_rate= 0.14
 
 _prereq_mining_industry = 1
 _prereq_deadly_animals = 1

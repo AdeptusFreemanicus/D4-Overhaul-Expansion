@@ -100,7 +100,7 @@ UnemployedBenefit = 0.5
 UniversityGrants = 0.2
 WorkSafetyLaw = 0.33
 
-interest_rate= 0.06
+interest_rate= 0.18
 
 _prereq_has_coast = 1
 _prereq_mining_industry = 1

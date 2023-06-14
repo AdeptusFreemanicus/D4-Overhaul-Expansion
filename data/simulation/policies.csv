@@ -6,5 +6,7 @@
 #,sas,StateAnimalShelters,,,4,8,2,3,WELFARE,,3,8,0+(1.0*x),,1,0,0,0+(1.0*x),,,#Effects,"StrayAnimals,0-(0.5*x)",,
 #,sac,StateAnimalControl,,,4,6,2,4,WELFARE,,5,11,0+(1.0*x),,2,0,0,0+(1.0*x),,,#Effects,"StrayAnimals,0-(0.5*x)",,
 #,so,StateOrphanages,,,2,10,1,4,WELFARE,,6,9,0+(1.0*x),,5,0,0,0+(1.0*x),,,#Effects,"OrphansAndHomelessMinors,0-(0.8*x)",,
+#,wt,tax,"",,8,4,4,2,TAX,,10,100,0+(1.0*x),,2,18,139,0+(1.0*x),,,#Effects,"#Effects,","BrainDrain,0+(0.15*x)","CorporateExodus,0+(0.02*x)","Poor,0+(0.09*x)","MiddleIncome,0+(0.04*x)","Capitalist,0-(0.05*x)","SelfEmployed,0-(0.06*x)","Wealthy,0-(0.25*x)","Wealthy_freq,0-(0.12*x)","Wealthy_income,0-(0.04*x)","_HighIncome,0-(0.09*x)",,
 #,pt,PoliceTraining,,,2,7,1,4,LAWANDORDER,,2,8,0+(1.0*x),,1,0,0,0+(1.0*x),,,#Effects,"ViolentCrimeRate,0-(0.1*x)","StreetGangs,0-(0.2*x)","Organised Crime,0-(0.05*x)","_percept_strength,0+(0.1*x)",,
 #,interest_rate,tax,"",,0,10000,15,15,ECONOMY,,1,5,0+(1.0*x),,0,50,8000,0+(1.0*x),,0+(0.2*x);,#Effects,"#Effects,","GDP,0-(0.5*x)","Unemployment,0+(0.3*x)","ForeignInvestment,0-(0.4*x)","Wages,0-(0.34*x)","Inflation,0+(-0.21*x)",,
+#,bf,default,"",,9,2,5,1,TRANSPORT,,1,10,0+(1.0*x),,2,0,0,0+(1.0*x),,,#Effects,"AirTravel,0-(1.0*x)","GDP,0-(0.2*x)","_All_,0-(0.2*x)","RailUsage,0+(0.35*x)","CarUsage,0+(0.15*x)","BusUsage,0+(0.2*x)","PrivateRail,0+(0.1*x)",,

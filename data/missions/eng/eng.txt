@@ -112,7 +112,7 @@ unexplainedwealth = 0.5
 WinterFuelSubsidy = 0.55
 WorkSafetyLaw = 0.69
 
-interest_rate= 0.06
+interest_rate= 0.04
 
 _prereq_has_coast = 1
 _prereq_royal_family = 1

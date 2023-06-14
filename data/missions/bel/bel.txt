@@ -105,7 +105,8 @@ UnemployedBenefit = 0.3
 UniversityGrants = 0.25
 WorkSafetyLaw = 0.5
 
-interest_rate= 0.06
+wt = 0.015
+interest_rate= 0.02
 
 _prereq_has_coast = 1
 _prereq_royal_family = 1

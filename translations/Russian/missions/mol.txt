@@ -1,19 +1,19 @@
 [config]
 name  = mol
-guiname = "Republic of Moldova"
-description = "Moldova, officially the Republic of Moldova is a country in Eastern Europe. It is bordered by Romania to the west and Ukraine to the north, east, and south. Ukraine and Moldova reached an agreement in 2005 ensuring Moldova's access to the Black Sea and ending its landlocked status. The unrecognised breakaway region of Transnistria lies across the Dniester on the country's eastern border with Ukraine. The capital and largest city is Chișinău."
+guiname = "Молдова"
+description = "Молдова, официально Республика Молдова — государство в Восточной Европе. Граничит с Румынией на западе и Украиной на севере, востоке и юге. В 2005 году Украина и Молдова достигли соглашения, обеспечивающего доступ Молдовы к Черному морю и отменяющего ее статус выхода к морю. Непризнанный самопровозглашенный регион Приднестровья лежит за Днестром на восточной границе страны с Украиной. Столица и крупнейший город – Кишинев."
 
-jobtitle = "President"
+jobtitle = "президент"
 
 [stats]
-National Anthem: = "Our language"
-Population: = "2,597,100 million people (2021 est)"
-Area: = "33,843.5 km2 (13,067.0 sq mi)" 
-Currency: = "Moldovan leu (MDL)"
-GDP: = "$36.886 billion"
-GDP per capita: = "$14,257"
-Democracy Index: = "~6.10/10 (69th)"
-Biggest Industry: = "Food Processing"
-Capital and Largest city: = "Chișinău"
-Driving Side: =	"right"
-Calling Code: = "+373"
+Государственный гимн: = «Наш язык».
+Население: = «2 597 100 миллионов человек (оценка 2021 г.)»
+Площадь: = «33 843,5 км2 (13 067,0 квадратных миль)»
+Валюта: = "Молдавский лей (MDL)"
+ВВП: = «36,886 миллиарда долларов».
+ВВП на душу населения: = «14 257 долларов».
+Индекс демократии: = "~ 6,10/10 (69 место)"
+Крупнейшая отрасль: = «Пищевая промышленность».
+Столица и крупнейший город: = «Кишинёв».
+Сторона водителя: = "правая"
+Код вызова: = "+373"

@@ -74,7 +74,7 @@ TollRoads = 0.20
 UniversityGrants = 0.2
 WitnessProtectionProgram = 0.25
 
-interest_rate= 0.06
+interest_rate= 0.04
 
 _prereq_mining_industry = 1
 _prereq_deadly_animals = 1

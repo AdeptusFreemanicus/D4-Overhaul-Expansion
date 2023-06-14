@@ -139,7 +139,7 @@ UniversityGrants = 0.5
 WitnessProtectionProgram = 0.5
 WorkSafetyLaw = 0.6
 
-interest_rate= 0.06
+interest_rate= 0.03
 
 _prereq_hurricane = 1
 _prereq_has_coast = 1

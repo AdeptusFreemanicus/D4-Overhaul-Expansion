@@ -1,20 +1,20 @@
 [config]
 name  = hai
-guiname = "Republic of Haiti"
-description = "Haiti, officially the Republic of Haiti, and formerly known as Hayti, is a country located on the island of Hispaniola in the Greater Antilles archipelago of the Caribbean Sea, to the east of Cuba and Jamaica and south of The Bahamas and the Turks and Caicos Islands. It occupies the western three-eighths of the island which it shares with the Dominican Republic. To its south-west lies the small Navassa Island, which is claimed by Haiti but is disputed as a United States territory under federal administration. Haiti is 27,750 km2 (10,714 sq mi) in size, the third largest country in the Caribbean by area, and has an estimated population of 11.4 million, making it the most populous country in the Caribbean. The capital is Port-au-Prince."
+guiname = "Республика Гаити"
+description = "Гаити, официально Республика Гаити, ранее известная как Гаити, является страной, расположенной на острове Эспаньола в архипелаге Больших Антильских островов в Карибском море, к востоку от Кубы и Ямайки и к югу от Багамских островов и турок и Острова Кайкос. Он занимает западные три восьмых острова, которые он делит с Доминиканской Республикой. К юго-западу от него находится небольшой остров Навасса, на который претендует Гаити, но который оспаривается как территория Соединенных Штатов, находящаяся под федеральным управлением. Гаити имеет площадь 27 750 км2 (10 714 квадратных миль), третью по величине страну в Карибском бассейне по площади, а ее население составляет 11,4 миллиона человек, что делает ее самой густонаселенной страной в Карибском бассейне. Столица - Порт-о-Пренс."
 
-jobtitle = "President"
+jobtitle = "Президент"
 
 [stats]
-Motto: = "Liberty, Equality, Fraternity"
-National Anthem: = "The Dessalines Song"
-Population: = "11,439,646 (2018 est)"
-Area: = "27,750 km2 (10,710 sq mi)"
-Currency: = "Gourde (G) (HTG)"
-GDP: = "$34.189 billion"
-GDP per capita: = "$2,962"
-Democracy Index: = "~3.48/10 (119th)"
-Biggest Industry: = "Agriculture/Tourism"
-Capital And Largest City: = "Port-au-Prince"
-Driving side: =	"right"
-Calling code: = "+509"
+Девиз: = «Свобода, равенство, братство».
+Национальный гимн: = "Песня о Дессалинах".
+Население: = «11 439 646 (оценка на 2018 г.)»
+Площадь: = «27 750 км2 (10 710 квадратных миль)»
+Валюта: = "Гурд (Г) (ХТГ)"
+ВВП: = «34,189 миллиарда долларов».
+ВВП на душу населения: = "2962 доллара США"
+Индекс демократии: = "~ 3,48/10 (119 место)"
+Крупнейшая отрасль: = «Сельское хозяйство / туризм».
+Столица и крупнейший город: = «Порт-о-Пренс».
+Сторона водителя: = "правая"
+Телефонный код: = "+509"

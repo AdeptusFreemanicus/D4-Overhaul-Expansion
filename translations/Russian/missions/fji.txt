@@ -1,20 +1,20 @@
 [config]
 name  = fji
-guiname = "Republic of Fiji"
-description = "Fiji, officially the Republic of Fiji, is an island country in Melanesia, part of Oceania in the South Pacific Ocean. It lies about 1,100 nautical miles (2,000 km; 1,300 mi) northeast of New Zealand. Fiji consists of an archipelago of more than 330 islands—of which about 110 are permanently inhabited—and more than 500 islets, amounting to a total land area of about 18,300 square kilometres (7,100 sq mi). The most outlying island group is Ono-i-Lau. About 87% of the total population of 883,483 live on the two major islands, Viti Levu and Vanua Levu. About three-quarters of Fijians live on Viti Levu's coasts: either in the capital city of Suva; or in smaller urban centres such as Nadi—where tourism is the major local industry; or in Lautoka, where the sugar-cane industry is dominant. The interior of Viti Levu is sparsely inhabited because of its terrain."
+guiname = "Республика Фиджи"
+description = "Фиджи, официально Республика Фиджи, является островной страной в Меланезии, частью Океании в южной части Тихого океана. Она расположена примерно в 1100 морских милях (2000 км; 1300 миль) к северо-востоку от Новой Зеландии. Фиджи состоит из архипелага более более 330 островов, из которых около 110 постоянно заселены, и более 500 островков общей площадью около 18 300 квадратных километров (7 100 квадратных миль). Самая удаленная группа островов - Оно-и-Лау. Около 87% из общей численности населения в 883 483 человека живут на двух крупных островах, Вити-Леву и Вануа-Леву. Около трех четвертей фиджийцев живут на побережье Вити-Леву: либо в столице Сува, либо в небольших городских центрах, таких как Нади, где туризм является основной местной промышленностью, или в Лаутоке, где преобладает производство сахарного тростника. Внутренние районы Вити-Леву малонаселены из-за своего рельефа."
 
-jobtitle = "President"
+jobtitle = "Президент"
 
 [stats]
-Motto: = "Fear God and honour the Queen"
-National Anthem: = "God Bless Fiji"
-Population: = "926,276 (2018 est)"
-Area: = "18,274 km2 (7,056 sq mi)"
-Currency: = "Fijian dollar (FJD)"
-GDP: = "$9.112 billion"
-GDP per capita: = "$10,251"
-Democracy Index: = "~5.61/10 (84th)"
-Biggest Industry: = "Tourism"
-Capital And Largest City: = "Suva"
-Driving Side: =	"Left"
-Calling Code: = "+679"
+Девиз: = «Бойся Бога и чти Королеву».
+Государственный гимн: = «Боже, благослови Фиджи».
+Население: = «926 276 (оценка 2018 г.)»
+Площадь: = «18 274 км2 (7 056 квадратных миль)»
+Валюта: = "фиджийский доллар (FJD)"
+ВВП: = «9,112 миллиарда долларов».
+ВВП на душу населения: = «10 251 доллар США».
+Индекс демократии: = «~ 5,61/10 (84 место)»
+Крупнейшая отрасль: = «Туризм».
+Столица и крупнейший город: = "Сува"
+Сторона водителя: = "Левая"
+Телефонный код: = "+679"

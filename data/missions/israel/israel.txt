@@ -156,7 +156,7 @@ WaterCannon = 0.1
 WorkSafetyLaw = 0.35
 YoungEntrepreneurScheme = 1.0
 
-interest_rate= 0.06
+interest_rate= 0.04
 
 [options]
 

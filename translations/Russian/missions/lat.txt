@@ -1,19 +1,19 @@
 [config]
 name  = lat
-guiname = "Republic of Latvia"
-description = "Latvia, officially the Republic of Latvia, is a country in the Baltic region of Northern Europe. It is one of the Baltic states; and is bordered by Estonia to the north, Lithuania to the south, Russia to the east, Belarus to the southeast, and shares a maritime border with Sweden to the west. Latvia covers an area of 64,589 km2 (24,938 sq mi), with a population of 1.9 million. The country has a temperate seasonal climate. Its capital and largest city is Riga. Latvians belong to the ethno-linguistic group of the Balts; and speak Latvian, one of the only two surviving Baltic languages. Russians are the most prominent minority in the country, at almost a quarter of the population."
+guiname = "Латвийская Республика"
+description = "Латвия, официально Латвийская Республика, является страной в Балтийском регионе Северной Европы. Это одно из государств Балтии, граничит с Эстонией на севере, Литвой на юге, Россией на востоке, Беларусью на на юго-востоке и имеет морскую границу со Швецией на западе. Латвия занимает площадь 64 589 км2 (24 938 квадратных миль) с населением 1,9 миллиона человек. В стране умеренный сезонный климат. Ее столица и крупнейший город - Рига. принадлежат к этнолингвистической группе балтов и говорят на латышском, одном из двух сохранившихся балтийских языков. Русские составляют самое заметное меньшинство в стране, почти четверть населения."
 
-jobtitle = "President"
+jobtitle = "Президент"
 
 [stats]
-National Anthem: = "God Bless Latvia!"
-Population: = "1.9 million (2018)"
-Area: = "64,589 km2"
-Currency: = "Euro (€) (EUR)"
-GDP: = "$70 billion"
-GDP per capita: = "$37,009
-Democracy Index: = "~7.37/10 (38th)"
-Biggest Industry: = "Industry Sector/Agriculture Sector"
-Capital (and largest city): = "Riga"
-Driving side: =	"right"
-Calling code: = "+371"
+Государственный гимн: = «Боже, благослови Латвию!»
+Население: = «1,9 миллиона (2018 г.)»
+Площадь: = "64 589 км2"
+Валюта: = "Евро (€) (EUR)"
+ВВП: = "70 миллиардов долларов"
+ВВП на душу населения: = "37 009 долларов США
+Индекс демократии: = "~ 7,37/10 (38 место)"
+Крупнейшая отрасль: = «Промышленный сектор / Сельскохозяйственный сектор».
+Столица (и крупнейший город): = "Рига"
+Сторона водителя: = "правая"
+Телефонный код: = "+371"

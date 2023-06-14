@@ -1,18 +1,18 @@
 [config]
 name  = nor
-guiname = "Northern Ireland"
-description = "Northern Ireland is a part of the United Kingdom that is variously described as a country, province, territory or region. Located in the northeast of the island of Ireland, Northern Ireland shares a border to the south and west with the Republic of Ireland. In 2011, its population was 1,810,863, constituting about 30% of the island's population and about 3% of the UK's population. The Northern Ireland Assembly (colloquially referred to as Stormont after its location), established by the Northern Ireland Act 1998, holds responsibility for a range of devolved policy matters, while other areas are reserved for the British government. Northern Ireland co-operates with the Republic of Ireland in several areas."
+guiname = "Северная Ирландия"
+description = "Северная Ирландия является частью Соединенного Королевства, которую по-разному называют страной, провинцией, территорией или регионом. Расположенная на северо-востоке острова Ирландия, Северная Ирландия граничит на юге и западе с Ирландской Республикой. В 2011 году его население составляло 1 810 863 человека, что составляло около 30% населения острова и около 3% населения Великобритании. Ассамблея Северной Ирландии (в просторечии называемая Стормонт по месту своего нахождения), созданная в соответствии с Законом о Северной Ирландии 1998 года, несет ответственность за ряд делегированных политических вопросов, в то время как другие области зарезервированы за британским правительством. Северная Ирландия сотрудничает с Ирландской Республикой в нескольких областях."
 
-jobtitle = "Monarch"
+jobtitle = "монарх"
 
 [stats]
-National Anthem: = "Londonderry Air Or God Save the Queen"
-Population: = "1,900,000 (2019 est)"
-Area: = "14,130 km2 (5,460 sq mi)"
-Currency: = "Pound sterling (GBP; £)"
-GVA: = "£49 billion?"
-GVA per capita: = "£26,000?"
-Biggest Industry: = "Pharmaceutical And Medical Technology Industries"
-Capital And Largest City: = "Belfast"
-Driving side: =	"left"
-Calling code: = "+44"
+Национальный гимн: = «Лондондерри Эйр, или Боже, храни королеву».
+Население: = «1 900 000 (оценка на 2019 г.)»
+Площадь: = «14 130 км2 (5 460 квадратных миль)»
+Валюта: = "Фунт стерлингов (GBP; £)"
+GVA: = "49 миллиардов фунтов стерлингов?"
+ВДС на душу населения: = "26 000 фунтов стерлингов?"
+Крупнейшая отрасль: = «Фармацевтическая и медицинская промышленность».
+Столица и крупнейший город: = «Белфаст».
+Сторона водителя: = "левая"
+Телефонный код: = "+44"

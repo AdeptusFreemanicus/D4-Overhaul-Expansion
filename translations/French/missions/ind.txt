@@ -1,16 +1,16 @@
 [config]
 name  = ind
-guiname = "Republic of India"
-description = "India, officially the Republic of India, is a country in South Asia. It is the second-most populous country, the seventh-largest country by land area, and the most populous democracy in the world. Bounded by the Indian Ocean on the south, the Arabian Sea on the southwest, and the Bay of Bengal on the southeast, it shares land borders with Pakistan to the west; China, Nepal, and Bhutan to the north; and Bangladesh and Myanmar to the east. In the Indian Ocean, India is in the vicinity of Sri Lanka and the Maldives; its Andaman and Nicobar Islands share a maritime border with Thailand, Myanmar and Indonesia."
+guiname = "République de l'Inde"
+description = "L'Inde, officiellement la République de l'Inde, est un pays d'Asie du Sud. C'est le deuxième pays le plus peuplé, le septième plus grand pays par superficie et la démocratie la plus peuplée du monde. Bordé par l'océan Indien sur le au sud, la mer d'Oman au sud-ouest et la baie du Bengale au sud-est, il partage des frontières terrestres avec le Pakistan à l'ouest, la Chine, le Népal et le Bhoutan au nord, et le Bangladesh et le Myanmar à l'est. , l'Inde se trouve à proximité du Sri Lanka et des Maldives ; ses îles Andaman et Nicobar partagent une frontière maritime avec la Thaïlande, le Myanmar et l'Indonésie."
 
-jobtitle = "President"
+jobtitle = "Président"
 
 [stats]
-Hymne national : = "La vérité seule triomphe"
-Population : = "1,352 milliard (2018)"
+Hymne national : = "La seule vérité triomphe"
+Population : = "1 352 milliards (2018)"
 Superficie : = "3 287 263 km2 (1 269 219 milles carrés)"
 Devise : = "Roupie indienne ₹"
-PIB : = "10,2 billions de dollars (~ ₹ 74 447 267 496 512,40 INR)"
+PIB : = "10,2 milliards de dollars (~ ₹ 74 447 267 496 512,40 INR)"
 PIB par habitant : = "7 333 $ (~ 544 840,20 INR)"
 Indice de démocratie : = "6,61/10 (53e)"
 La plus grande industrie : = "Textiles"

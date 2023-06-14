@@ -1,20 +1,20 @@
 [config]
 name  = bur
-guiname = "Brunei Darussalamt"
-description = "Brunei, formally Brunei Darussalamt, is a country located on the north coast of the island of Borneo in Southeast Asia. Apart from its South China Sea coast, it is completely surrounded by the Malaysian state of Sarawak. It is separated into two parts by the Sarawak district of Limbang. Brunei is the only sovereign state entirely on Borneo; the remainder of the island is divided between Malaysia and Indonesia. As of 2020, its population was 460,345 of whom about 100,000 live in the capital and largest city, Bandar Seri Begawan. The government is an absolute monarchy ruled by its Sultan, entitled the Yang di-Pertuan, and implements a combination of English common law and sharia law, as well as general Islamic practices."
+guiname = "Бруней-Даруссаламт"
+description = "Бруней, формально Бруней-Даруссаламт, — страна, расположенная на северном побережье острова Борнео в Юго-Восточной Азии. Помимо побережья Южно-Китайского моря, она полностью окружена малайзийским штатом Саравак. район Саравак в Лимбанг. Бруней - единственное суверенное государство полностью на Борнео, остальная часть острова разделена между Малайзией и Индонезией. По состоянию на 2020 год его население составляло 460 345 человек, из которых около 100 000 проживают в столице и крупнейшем городе Бандар-Сери. Бегаван. Правительство представляет собой абсолютную монархию, управляемую султаном по имени Ян ди-Пертуан, и реализует сочетание английского общего права и законов шариата, а также общих исламских обычаев"
 
-jobtitle = "Sultan"
+jobtitle = "Султан"
 
 [stats]
-Motto: = "Always in service with God's guidance"
-National Anthem: = "God Bless the Sultan"
-Population: = "460,345 (2020 est)"
-Area: = "5,765 km2 (2,226 sq mi)"
-Currency: = "Brunei dollar (BND)"
-GDP: = "$36.854 billion"
-GDP per capita: = "$85,011"
-Democracy Index: = "No Data"
-Biggest Industry: = "Oil And Gas Industry"
-Capital And Largest City: = "Bandar Seri Begawan"
-Driving Side: =	"Left"
-Calling Code: = "+673"
+Девиз: = «Всегда в служении под Божьим руководством».
+Государственный гимн: = «Боже, благослови султана».
+Население: = «460 345 (оценка 2020 г.)»
+Площадь: = «5765 км2 (2226 квадратных миль)»
+Валюта: = "Брунейский доллар (BND)"
+ВВП: = «36,854 миллиарда долларов».
+ВВП на душу населения: = «85 011 долларов США».
+Индекс демократии: = «Нет данных»
+Крупнейшая отрасль: = «Нефтегазовая промышленность».
+Столица и крупнейший город: = «Бандар-Сери-Бегаван».
+Сторона водителя: = "Левая"
+Код вызова: = "+673"

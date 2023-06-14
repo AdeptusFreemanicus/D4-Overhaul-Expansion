@@ -1,19 +1,19 @@
 [config]
 name  = uae
-guiname = "United Arab Emirates"
-description = "The United Arab Emirates, or simply the Emirates, is a country in Western Asia. It is located at the eastern end of the Arabian Peninsula, and shares borders with Oman and Saudi Arabia, while having maritime borders in the Persian Gulf with Qatar and Iran. Abu Dhabi is the nation's capital, while Dubai, the most populous city, is an international hub."
+guiname = "Объединенные Арабские Эмираты"
+description = "Объединенные Арабские Эмираты, или просто Эмираты, — страна в Западной Азии. Он расположен в восточной части Аравийского полуострова и граничит с Оманом и Саудовской Аравией, а также имеет морские границы в Персидском заливе с Катаром и Ираном. Абу-Даби является столицей страны, а Дубай, самый густонаселенный город, является международным центром."
 
-jobtitle = "President"
+jobtitle = "президент"
 
 [stats]
-National Anthem: = "Long Live My Country"
-Population: = "9,282,410 people (2020 est)"
-Area: = "83,600 km2 (32,300 sq mi)"
-Currency: = "UAE dirham (AED)"
-GDP: = "$763.182 billion"
-GDP per capita: = "$59,844"
-Democracy Index: = "2.90/10 (134th)"
-Biggest Industry: = "Tourism/Oil Industry"
-Capital and Largest City: = "Abu Dhabi"
-Driving side: =	"right"
-Calling code: = "+971"
+Государственный гимн: = «Да здравствует моя страна»
+Население: = «9 282 410 человек (оценка на 2020 г.)»
+Площадь: = «83 600 км2 (32 300 квадратных миль)»
+Валюта: = "Дирхам ОАЭ (AED)"
+ВВП: = «763,182 миллиарда долларов».
+ВВП на душу населения: = «59 844 доллара США».
+Индекс демократии: = "2,90/10 (134 место)"
+Крупнейшая отрасль: = «Туризм / нефтяная промышленность».
+Столица и крупнейший город: = «Абу-Даби».
+Сторона водителя: = "правая"
+Телефонный код: = "+971"

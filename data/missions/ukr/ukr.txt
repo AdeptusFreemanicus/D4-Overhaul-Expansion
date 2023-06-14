@@ -109,7 +109,7 @@ StateHealthService = 0.14
 StatePensions = 0.33
 StateSchools = 0.45
 
-interest_rate= 0.06
+interest_rate= 0.15
 
 _prereq_has_coast = 1
 _prereq_sovereign_currency = 1

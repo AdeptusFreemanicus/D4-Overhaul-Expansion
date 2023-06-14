@@ -1,20 +1,20 @@
 [config]
 name  = sau
-guiname = "Kingdom of Saudi Arabia"
-description = "Saudi Arabia, officially the Kingdom of Saudi Arabia, is a country on the Arabian Peninsula in Western Asia. It has a land area of about 2,150,000 km2 (830,000 sq mi), making it the fifth-largest country in Asia, the second-largest in the Arab world, and the largest in Western Asia. It is bordered by the Red Sea to the west, Jordan, Iraq, and Kuwait to the north, the Persian Gulf, Qatar, and the United Arab Emirates to the east, Oman to the southeast, and Yemen to the south. Bahrain is an island country off the east coast. The Gulf of Aqaba in the northwest separates Saudi Arabia from Egypt. Saudi Arabia is the only country with a coastline along both the Red Sea and the Persian Gulf, and most of its terrain consists of arid desert, lowland, steppe, and mountains. Its capital and largest city is Riyadh. The country is home to Mecca and Medina, the two holiest cities in Islam."
+guiname = "Королевство Саудовская Аравия"
+description = "Саудовская Аравия, официально Королевство Саудовская Аравия, — государство на Аравийском полуострове в Западной Азии. Его площадь составляет около 2 150 000 км2 (830 000 квадратных миль), что делает его пятой по величине страной в Азии, второй по величине страной в арабском мире и самой большой в Западной Азии. Он омывается Красным морем на западе, Иорданией, Ираком и Кувейтом на севере, Персидским заливом, Катаром и Объединенными Арабскими Эмиратами на востоке, Оманом на юго-востоке и Йеменом на юге. Бахрейн — островное государство у восточного побережья. Залив Акаба на северо-западе отделяет Саудовскую Аравию от Египта. Саудовская Аравия — единственная страна с береговой линией вдоль Красного моря и Персидского залива, и большая часть ее территории состоит из засушливых пустынь, низменностей, степей и гор. Его столица и крупнейший город – Эр-Рияд. В стране находятся Мекка и Медина, два самых священных города ислама."
 
-jobtitle = "King"
+jobtitle = "Король"
 
 [stats]
-Motto: = "There is no god but God; Muhammad is the messenger of God."
-National Anthem: = "National Anthem of Saudi Arabia"
-Population: = "34,218,169 people (2019 est)"
-Area: = "2,149,690 km2 (830,000 sq mi)"
-Currency: = "Saudi Riyal (SR) (SAR)"
-GDP: = "$1.868 trillion"
-GDP per capita: = "$51,648"
-Democracy Index: = "2.08/10 (152th)"
-Biggest Industry: = "Oil Industry"
-Capital and Largest City: = "Riyadh"
-Driving side: =	"right"
-Calling code: = "+966"
+Девиз: = «Нет бога, кроме Бога; Мухаммед - посланник Бога».
+Государственный гимн: = «Государственный гимн Саудовской Аравии».
+Население: = «34 218 169 человек (оценка на 2019 г.)»
+Площадь: = «2 149 690 км2 (830 000 квадратных миль)»
+Валюта: = "Саудовский риал (SR) (SAR)"
+ВВП: = «1,868 триллиона долларов»
+ВВП на душу населения: = «51 648 долларов США».
+Индекс демократии: = "2,08/10 (152 место)"
+Крупнейшая отрасль: = «Нефтяная промышленность».
+Столица и крупнейший город: = «Эр-Рияд».
+Сторона водителя: = "правая"
+Телефонный код: = "+966"

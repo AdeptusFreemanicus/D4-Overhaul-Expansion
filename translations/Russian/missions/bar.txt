@@ -1,20 +1,20 @@
 [config]
 name  = bar
-guiname = "Barbados"
-description = "Barbados is an island country in the Lesser Antilles of the West Indies, in the Caribbean region of the Americas, and the most easterly of the Caribbean Islands. It occupies an area of 432 km2 (167 sq mi) and has a population of about 287,000. Its capital and largest city is Bridgetown."
+guiname = "Барбадос"
+description = "Барбадос — островная страна на Малых Антильских островах в Вест-Индии, в Карибском регионе Америки и на самом восточном из Карибских островов. Он занимает площадь 432 км2 (167 квадратных миль) и имеет население около 287 000 человек. Его столица и крупнейший город — Бриджтаун"
 
-jobtitle = "President"
+jobtitle = "Президент"
 
 [stats]
-Motto: = "Pride and Industry"
-National Anthem: = "In Plenty and In Time of Need"
-Population: = "287,025 (2019 est)"
-Area: = "439 km2 (169 sq mi)"
-Currency: = "Barbadian dollar ($) (BBD)"
-GDP: = $5.398 billion"
-GDP per capita: = "$18,798"
-Democracy Index: = "No Data"
-Biggest Industry: = "Tourism/Agriculture"
-Capital And Largest City: = "Bridgetown"
-Driving side: =	"left"
-Calling code: = "+1 -246"
+Девиз: = «Гордость и трудолюбие».
+Государственный гимн: = «В изобилии и во время нужды».
+Население: = «287 025 (оценка на 2019 г.)»
+Площадь: = «439 км2 (169 квадратных миль)»
+Валюта: = "Барбадосский доллар ($) (BBD)"
+ВВП: = 5,398 миллиарда долларов».
+ВВП на душу населения: = «18 798 долларов США».
+Индекс демократии: = «Нет данных»
+Крупнейшая отрасль: = «Туризм/сельское хозяйство».
+Столица и крупнейший город: = «Бриджтаун».
+Сторона водителя: = "левый"
+Телефонный код: = "+1-246"

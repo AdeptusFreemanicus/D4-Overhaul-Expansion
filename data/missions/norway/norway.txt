@@ -14,7 +14,7 @@ apathy = 0.61
 starting_debt = -26000
 min_gdp = 450000
 max_gdp = 1400000
-wealth_mod = 2.5
+wealth_mod = 3.0
 
 
 [policies]
@@ -120,7 +120,8 @@ UnemployedBenefit = 0.75
 UniversityGrants = 0.25
 WorkSafetyLaw = 0.67
 
-interest_rate= 0.06
+wt = 0.05
+interest_rate= 0.02
 
 _prereq_has_coast = 1
 _prereq_mining_industry = 1

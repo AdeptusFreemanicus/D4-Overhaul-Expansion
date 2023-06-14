@@ -10,7 +10,7 @@ flag = "flag_turkey.png"
 map = "map_turkey.svg"
 GUID = 11
 fx_rate_to_pound = 1
-apathy = 0.33
+apathy = 0.80
 starting_debt = 585000
 min_gdp = 440000
 max_gdp = 1240000
@@ -99,7 +99,7 @@ UnemployedBenefit = 0.75
 UniversityGrants = 0.25
 WorkSafetyLaw = 0.67
 
-interest_rate= 0.06
+interest_rate= 0.09
 
 _prereq_has_coast = 1
 _prereq_mining_industry = 1
