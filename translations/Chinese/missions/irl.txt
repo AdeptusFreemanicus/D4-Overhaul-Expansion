@@ -1,19 +1,19 @@
 [config]
 name  = irl
-guiname = "Republic of Ireland"
-description = "Ireland, Officially the Republic of Ireland, is a country in north-western Europe consisting of 26 of the 32 counties of the island of Ireland. The capital and largest city is Dublin, which is located on the eastern side of the island. Around 40% of the country's population of 5 million people resides in the Greater Dublin Area. The sovereign state shares its only land border with Northern Ireland, which is part of the United Kingdom. It is otherwise surrounded by the Atlantic Ocean, with the Celtic Sea to the south, St George's Channel to the south-east, and the Irish Sea to the east. It is a unitary, parliamentary republic. The legislature, the Oireachtas, consists of a lower house, Dáil Éireann, an upper house, Seanad Éireann, and an elected President (Uachtarán) who serves as the largely ceremonial head of state, but with some important powers and duties. The head of government is the Taoiseach (Prime Minister, literally 'Chief', a title not used in English), who is elected by the Dáil and appointed by the President; the Taoiseach in turn appoints other government ministers."
+guiname = "爱尔兰共和国"
+description = "爱尔兰，正式的爱尔兰共和国，是一个国家在西北欧由26的爱尔兰岛的32个县。 首都和最大的城市是都柏林，它位于岛的东部。 全国500万人口中约有40%居住在大都柏林地区。 主权国家与北爱尔兰共享其唯一的陆地边界，北爱尔兰是英国的一部分。 它被大西洋所环绕，南部是凯尔特海，东南部是圣乔治海峡，东部是爱尔兰海。 它是一个统一的议会制共和国。 立法机构Oireachtas由下议院Dáil Éireann，上议院Seanad Éireann和民选的赫赫（Uachtarán）组成，他主要是礼仪性的国家元首，但拥有一些重要的权力和职责。 政府首脑是Taoiseach（总理，字面意思是"酋长"，英语中没有使用的头衔），他由dáil选举并由收容所任命；Taoiseach反过来任命其他政府部长。"
 
-jobtitle = "President"
+jobtitle = "主席"
 
 [stats]
-National Anthem: = "The Soldiers' Song"
-Population: = "5 million (2021 est)"
-Area: = "70,273 km2 (27,133 sq mi)"
-Currency: = "Euro (€) (EUR)"
-GDP: = "$500 billion"
-GDP per capita: = "$99,239"
-Democracy Index: = "~9.05/10 (8th)"
-Biggest Industry: = "Export And Trade"
-Capital And Largest City: = "Dublin"
-Driving side: =	"Left"
-Calling code: = "+353"
+国歌：="士兵之歌"
+人口:="5百万(2021est)"
+面积:="70,273km2(27,133sq mi)"
+货币:="欧元(欧元)"
+GDP:="$500十亿"
+人均国内生产总值：="$99,239"
+民主指数:="~9.05/10(第8)"
+最大的行业：="出口和贸易"
+首都和最大城市：="都柏林"
+驾驶侧：="左"
+调用代码:="+353"

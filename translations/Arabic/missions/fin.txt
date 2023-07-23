@@ -1,18 +1,18 @@
 [config]
 name  = fin
-guiname = "Republic of Finland"
-description = "Finland, officially the Republic of Finland is a Nordic country located in Northern Europe. Finland shares land borders with Sweden to the west, Russia to the east, and Norway to the north, Finland has a population of approximately 5.5 million, making it the 25th-most populous country in Europe. The main language is Finnish, Swedish is the second official language of Finland, Finland is a parliamentary republic consisting of 19 regions and 310 municipalities. The climate varies significantly relative to latitude, from Southern Finland's humid continental climate to the boreal climate of the north. Finland is primarily a boreal forest biome, with more than 180,000 recorded lakes, With an area of 338,455 square kilometres (130,678 sq mi), Finland is the eighth-largest country in Europe, and the most sparsely populated country in the European Union. Helsinki, the capital of Finland, is the largest metropolitan area with over 1.5 million people."
+guiname = "جمهورية فنلندا"
+description = "فنلندا ، رسميا جمهورية فنلندا هي دولة شمالية تقع في شمال أوروبا. تشترك فنلندا في الحدود البرية مع السويد من الغرب وروسيا من الشرق والنرويج من الشمال ، ويبلغ عدد سكان فنلندا حوالي 5.5 مليون نسمة ، مما يجعلها الدولة رقم 25 من حيث عدد السكان في أوروبا. اللغة الرئيسية هي الفنلندية ، والسويدية هي اللغة الرسمية الثانية لفنلندا ، وفنلندا جمهورية برلمانية تتكون من 19 منطقة و 310 بلدية. يختلف المناخ بشكل كبير بالنسبة لخط العرض ، من المناخ القاري الرطب في جنوب فنلندا إلى المناخ الشمالي في الشمال. فنلندا هي في الأساس منطقة حيوية للغابات الشمالية ، مع أكثر من 180.000 بحيرة مسجلة ، وتبلغ مساحتها 338.455 كيلومتر مربع (130.678 ميل مربع) ، وفنلندا هي ثامن أكبر دولة في أوروبا ، والبلد الأكثر كثافة سكانية في الاتحاد الأوروبي. هلسنكي ، عاصمة فنلندا ، هي أكبر منطقة حضرية تضم أكثر من 1.5 مليون شخص."
 
-jobtitle = "President"
+jobtitle = "الرئيس"
 
 [stats]
-National Anthem: = "Our Land"
-Population: = "5.5 million people (2020)"
-Area: = "338,455 km2 (130,678 sq mi)"
-Currency: = "Euro (€) (EUR)"
-GDP: = "$277 billion (€230,139,104,151.60 EUR)"
-GDP per capita: = "$48,461 (€40,262.42 EUR)"
-Democracy Index: = "9.25/10 (5th)"
-Biggest Industry: = "Electronics"
-Capital And Largest City: = "Helsinki"
-Driving side: =	"right"
+النشيد الوطني: = "أرضنا"
+عدد السكان: = " 5.5 مليون شخص (2020)"
+المساحة: = "338455 كم2 (130678 ميل مربع)"
+العملة: = " اليورو (دولار) (يورو)"
+الناتج المحلي الإجمالي: = " 277 مليار دولار (230 ، 139 ، 104 ، 151.60 يورو)"
+نصيب الفرد من الناتج المحلي الإجمالي: = "$48,461 (€40,262.42 يورو)"
+مؤشر الديمقراطية: = " 9.25/10 (5)"
+أكبر صناعة: = "إلكترونيات"
+العاصمة وأكبر مدينة: = "هلسنكي"
+جانب القيادة: = "صحيح"

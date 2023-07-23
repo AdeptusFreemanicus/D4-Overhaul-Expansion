@@ -1,19 +1,19 @@
 [config]
 name  = dprk
-guiname = "Democratic People's Republic of Korea"
-description = "North Korea, officially the Democratic People's Republic of Korea, Chosŏn Minjujuŭi Inmin Konghwaguk, is a country in East Asia constituting the northern part of the Korean Peninsula. The country is bordered to the north by China and by Russia along the Amnok (known as the Yalu in Chinese) and Tumen rivers, and to the south by South Korea, with the heavily fortified Korean Demilitarized Zone (DMZ) separating the two. North Korea, like its southern counterpart, claims to be the legitimate government of the entire peninsula and adjacent islands. Pyongyang is the country's capital and largest city."
+guiname = "朝鲜民主主义人民共和国"
+description = "北朝鲜,正式的朝鲜民主主义人民共和国,朝鲜是东亚的一个国家,构成朝鲜半岛的北部。 该国北部与中国和俄罗斯接壤，沿羊诺克河（中文称为鸭绿江）和图们江，南部与韩国接壤，朝鲜的非军事区（DMZ）将两者分隔开来。朝鲜与其南方国家一样，声称自己是整个半岛和邻近岛屿的合法政府。平壤是该国的首都和最大的城市。"
 
-jobtitle = "Supreme Leader"
+jobtitle = "最高领袖"
 
 [stats]
-National Anthem: = "The Patriotic Song"
-Population: = "25.5 million (2018)"
-Area: = "120,540 km2 (46,540 sq mi)"
-Currency: = "Korean People's won (₩)"
-GDP: = "$30 billion"
-GDP per capita: = "$1,300"
-Democracy Index: = "~1.06/10 (167th Last)"
-Biggest Industry: = "Agriculture/Mining"
-Capital (and largest city): = "Pyongyang"
-Driving side: =	"right"
-Calling code: = "+850"
+国歌：="爱国之歌"
+人口：="2550万（2018年）"
+面积:="120,540km2(46,540sq mi)"
+货币:="朝鲜人民币(₩)"
+GDP:="$30十亿"
+人均GDP：="$1,300"
+民主指数:="~1.06/10(最后第167位)"
+最大的行业：="农业/采矿"
+首都（和最大的城市）：="平壤"
+驾驶侧：="右"
+调用代码:="+850"

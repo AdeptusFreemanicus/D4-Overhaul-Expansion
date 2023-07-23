@@ -1,19 +1,19 @@
 [config]
 name  = mol
-guiname = "Republic of Moldova"
-description = "Moldova, officially the Republic of Moldova is a country in Eastern Europe. It is bordered by Romania to the west and Ukraine to the north, east, and south. Ukraine and Moldova reached an agreement in 2005 ensuring Moldova's access to the Black Sea and ending its landlocked status. The unrecognised breakaway region of Transnistria lies across the Dniester on the country's eastern border with Ukraine. The capital and largest city is Chișinău."
+guiname = "جمهورية مولدوفا"
+description = "مولدوفا ، رسميا جمهورية مولدوفا هي دولة في أوروبا الشرقية. تحدها رومانيا من الغرب وأوكرانيا من الشمال والشرق والجنوب. توصلت أوكرانيا ومولدوفا إلى اتفاق في عام 2005 يضمن وصول مولدوفا إلى البحر الأسود وإنهاء وضعها غير الساحلي. تقع منطقة ترانسنيستريا الانفصالية غير المعترف بها عبر نهر دنيستر على الحدود الشرقية للبلاد مع أوكرانيا. العاصمة وأكبر مدينة هي تشي إرمين إرمو."
 
-jobtitle = "President"
+jobtitle = "الرئيس"
 
 [stats]
-National Anthem: = "Our language"
-Population: = "2,597,100 million people (2021 est)"
-Area: = "33,843.5 km2 (13,067.0 sq mi)" 
-Currency: = "Moldovan leu (MDL)"
-GDP: = "$36.886 billion"
-GDP per capita: = "$14,257"
-Democracy Index: = "~6.10/10 (69th)"
-Biggest Industry: = "Food Processing"
-Capital and Largest city: = "Chișinău"
-Driving Side: =	"right"
-Calling Code: = "+373"
+النشيد الوطني: = "لغتنا"
+عدد السكان: = " 2 ، 597 ، 100 مليون شخص (تقديرات 2021)"
+المساحة: = "33 ، 843.5 كم2 (13 ، 067.0 ميل مربع)" 
+العملة: = "ليو مولدوفا"
+الناتج المحلي الإجمالي: = "36.886 مليار دولار"
+نصيب الفرد من الناتج المحلي الإجمالي: = "14257 دولارا"
+مؤشر الديمقراطية: = " ~6.10/10 (69)"
+أكبر صناعة: = "تجهيز الأغذية"
+العاصمة وأكبر مدينة: = "تشي إرمين إرمو"
+جانب القيادة: = "صحيح"
+رمز الاتصال: = "+373"

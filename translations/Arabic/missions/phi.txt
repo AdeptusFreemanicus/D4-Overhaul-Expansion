@@ -1,19 +1,19 @@
 [config]
 name  = phi
-guiname = "Republic of the Philippines"
-description = "The Philippines, officially the Republic of the Philippines, is an archipelagic country in Southeast Asia. Situated in the western Pacific Ocean, it consists of about 7,641 islands that are broadly categorized under three main geographical divisions from north to south: Luzon, Visayas, and Mindanao. The capital city of the Philippines is Manila and the most populous city is Quezon City, both within the single urban area of Metro Manila. Bounded by the South China Sea to the west, the Philippine Sea to the east, and the Celebes Sea to the southwest, the Philippines shares maritime borders with Taiwan to the north, Japan to the northeast, Palau to the east, Indonesia to the south, Malaysia and Brunei to the southwest, Vietnam to the west, and China to the northwest."
+guiname = "جمهورية الفلبين"
+description = "الفلبين ، رسميا جمهورية الفلبين ، هي دولة أرخبيلية في جنوب شرق آسيا. تقع في غرب المحيط الهادئ ، وتتكون من حوالي 7641 جزيرة مصنفة على نطاق واسع تحت ثلاثة أقسام جغرافية رئيسية من الشمال إلى الجنوب: لوزون وفيساياس ومينداناو. عاصمة الفلبين هي مانيلا والمدينة الأكثر اكتظاظا بالسكان هي مدينة كويزون ، وكلاهما داخل منطقة حضرية واحدة في مترو مانيلا. يحدها بحر الصين الجنوبي من الغرب ، وبحر الفلبين من الشرق ، وبحر سيليبس من الجنوب الغربي ، وتشترك الفلبين في الحدود البحرية مع تايوان من الشمال ، واليابان من الشمال الشرقي ، وبالاو من الشرق ، وإندونيسيا من الجنوب ، وماليزيا وبروناي من الجنوب الغربي ، وفيتنام من الغرب ، والصين من الشمال الغربي."
 
-jobtitle = "President"
+jobtitle = "الرئيس"
 
 [stats]
-Motto: = "For God, People, Nature and Country"
-National Anthem: = "Chosen Land"
-Population: = "109 Million People (2020)"
-Area: = "300,000 km2 (120,000 sq mi)"
-Currency: = "Philippine peso (₱) (PHP)"
-GDP: = "$367.362 billion"
-GDP per capita: = "$3,484"
-Democracy Index: = "6.56/10 (55th)"
-Biggest Industry: = "Agriculture"
-Capital And Largest City: = "Manila"
-Driving side: =	"right"
+الشعار: = "في سبيل الله والناس والطبيعة والبلد"
+النشيد الوطني: = "الأرض المختارة"
+السكان: = " 109 مليون شخص (2020)"
+المساحة: = "300 ، 000 كم2 (120 ، 000 ميل مربع)"
+العملة: = " البيزو الفلبيني (دولار) (بيزو فلبيني)"
+الناتج المحلي الإجمالي: = "367.362 مليار دولار"
+نصيب الفرد من الناتج المحلي الإجمالي: = "3484 دولارا"
+مؤشر الديمقراطية: = " 6.56/10 (55)"
+أكبر صناعة: = "الزراعة"
+العاصمة وأكبر مدينة: = "مانيلا"
+جانب القيادة: = "صحيح"

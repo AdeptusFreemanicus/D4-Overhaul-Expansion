@@ -1,19 +1,19 @@
 [config]
 name  = chi
-guiname = "Republic of Chile"
-description = "Chile, officially the Republic of Chile, is a country in western South America. It occupies a long, narrow strip of land between the Andes to the east and the Pacific Ocean to the west. Chile covers an area of 756,096 square kilometres (291,930 sq mi) and has a population of 17.5 million as of 2017. The capital and largest city is Santiago and the national language is Spanish."
+guiname = "智利共和国"
+description = "智利，正式智利共和国，是南美洲西部的一个国家。 它占据了东部安第斯山脉和西部太平洋之间的狭长地带。 智利面积为756,096平方公里（291,930平方英里），截至2017年，人口为1,750万。 首都和最大的城市是圣地亚哥，国家语言是西班牙语。"
 
-jobtitle = "President"
+jobtitle = "主席"
 
 [stats]
-Motto: = "By Right or Might"
-National Anthem: = "Himno Nacional de Chile"
-Population: = "17.5 million people (2017)"
-Area: = "756,096.3 km2 (291,930.4 sq mi)"
-Currency: = "Chilean peso (CLP)"
-GDP: = "$245.414 billion"
-GDP per capita: = "$12,612"
-Democracy Index: = "8.28/10 (17th)"
-Biggest Industry: = "Agriculture"
-Capital And Largest City: = "Santiago"
-Driving side: =	"right"
+座右铭：="通过权利或可能"
+国歌：="Himno Nacional De Chile"
+人口：="1750万人（2017年）"
+面积:="756,096.3平方公里(291,930.4平方英里)"
+货币:="智利比索(CLP)"
+GDP:="$245.414十亿"
+人均国内生产总值：="$12,612"
+民主指数:="8.28/10(第17)"
+最大的行业：="农业"
+首都和最大的城市：="圣地亚哥"
+驾驶侧：="右"

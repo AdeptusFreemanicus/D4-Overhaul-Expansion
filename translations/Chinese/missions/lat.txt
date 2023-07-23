@@ -1,19 +1,19 @@
 [config]
 name  = lat
-guiname = "Republic of Latvia"
-description = "Latvia, officially the Republic of Latvia, is a country in the Baltic region of Northern Europe. It is one of the Baltic states; and is bordered by Estonia to the north, Lithuania to the south, Russia to the east, Belarus to the southeast, and shares a maritime border with Sweden to the west. Latvia covers an area of 64,589 km2 (24,938 sq mi), with a population of 1.9 million. The country has a temperate seasonal climate. Its capital and largest city is Riga. Latvians belong to the ethno-linguistic group of the Balts; and speak Latvian, one of the only two surviving Baltic languages. Russians are the most prominent minority in the country, at almost a quarter of the population."
+guiname = "拉脱维亚共和国"
+description = "拉脱维亚，正式的拉脱维亚共和国，是北欧波罗的海地区的一个国家。 它是波罗的海国家之一，北与爱沙尼亚接壤，南与立陶宛接壤，东与俄罗斯接壤，东南与白俄罗斯接壤，西与瑞典接壤。 拉脱维亚面积64 589平方公里（24 938平方英里），人口190万。 该国属于温带季节性气候。 它的首都和最大的城市是里加。 拉脱维亚人属于巴尔特人的民族语言群体;并说拉脱维亚语，这是仅存的两种波罗的海语言之一。 俄罗斯人是该国最突出的少数民族，几乎占人口的四分之一。"
 
-jobtitle = "President"
+jobtitle = "主席"
 
 [stats]
-National Anthem: = "God Bless Latvia!"
-Population: = "1.9 million (2018)"
-Area: = "64,589 km2"
-Currency: = "Euro (€) (EUR)"
-GDP: = "$70 billion"
-GDP per capita: = "$37,009
-Democracy Index: = "~7.37/10 (38th)"
-Biggest Industry: = "Industry Sector/Agriculture Sector"
-Capital (and largest city): = "Riga"
-Driving side: =	"right"
-Calling code: = "+371"
+国歌：="上帝保佑拉脱维亚！"
+人口：="1.9百万（2018）"
+面积:="64,589平方公里"
+货币:="欧元(欧元)"
+GDP：="$70十亿"
+人均GDP：="$37,009
+民主指数:="~7.37/10(第38)"
+最大的行业：="工业部门/农业部门"
+首都(和最大的城市):="里加"
+驾驶侧：="右"
+调用代码:="+371"

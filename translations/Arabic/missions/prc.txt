@@ -1,19 +1,19 @@
 [config]
 name  = prc
-guiname = "People's Republic of China"
-description = "China, officially the People's Republic of China, is a country in East Asia. It is the world's most populous country, with a population of around 1.4 billion in 2019. Covering approximately 9.6 million square kilometers (3.7 million mi2), it is the world's third or fourth-largest country by area. As a one-party state led by the Chinese Communist Party (CCP), it exercises jurisdiction over 22 provinces, five autonomous regions, four direct-controlled municipalities Beijing, Tianjin, Shanghai, and Chongqing, and the special administrative regions of Hong Kong and Macau."
+guiname = "جمهورية الصين الشعبية"
+description = "الصين ، رسميا جمهورية الصين الشعبية ، هي دولة في شرق آسيا. إنها الدولة الأكثر اكتظاظا بالسكان في العالم ، ويبلغ عدد سكانها حوالي 1.4 مليار نسمة في عام 2019. تغطي حوالي 9.6 مليون كيلومتر مربع (3.7 مليون ميل2) ، وهي ثالث أو رابع أكبر دولة في العالم من حيث المساحة. كدولة الحزب الواحد بقيادة الحزب الشيوعي الصيني ، تمارس الولاية القضائية على 22 مقاطعة ، وخمس مناطق ذاتية الحكم ، وأربع بلديات تخضع لسيطرة مباشرة بكين وتيانجين وشنغهاي وتشونغتشينغ ، والمناطق الإدارية الخاصة في هونغ كونغ وماكاو."
 
-jobtitle = "President"
+jobtitle = "الرئيس"
 
 [stats]
-National Anthem: = "March of the Volunteers"
-Population: = "1.4 billion (2019)"
-Area: = "9,596,961 km2 (3,705,407 sq mi)"
-Currency: = "Renminbi ¥"
-GDP: = "$14.9 trillion (~¥2,279,745,824,694.17 CNY)"
-GDP per capita: = "$10,839 (~¥70,844.82 CNY)"
-Democracy Index: = "2.26/10 (153rd)"
-Biggest Industry: = "Manufacturing"
-Capital (and largest city): = "Beijing"
-Driving side: =	"right"
-Calling code: = "+86"
+النشيد الوطني: = "مسيرة المتطوعين"
+السكان: = " 1.4 مليار (2019)"
+المساحة: = " 9 ، 596 ، 961 كم2 (3 ، 705 ، 407 ميل مربع)"
+العملة: = " الرنمينبي ¥"
+الناتج المحلي الإجمالي: = " 14.9 تريليون دولار (~2 ، 279 ، 745 ، 824 ، 694.17 يوان صيني)"
+نصيب الفرد من الناتج المحلي الإجمالي: = "$10,839 (~¥70,844.82 اليوان الصيني)"
+مؤشر الديمقراطية: = " 2.26/10 (153)"
+أكبر صناعة: = "التصنيع"
+العاصمة (وأكبر مدينة): = "بكين"
+جانب القيادة: = "صحيح"
+رمز الاتصال: = "+ 86"

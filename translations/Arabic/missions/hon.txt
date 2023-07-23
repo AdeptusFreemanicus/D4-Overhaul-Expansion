@@ -1,18 +1,18 @@
 [config]
 name  = hon
-guiname = "Hong Kong Special Administrative Region of the People's Republic of China"
-description = "Hong Kong, officially the Hong Kong Special Administrative Region of the People's Republic of China, is a city and special administrative region of China on the eastern Pearl River Delta in South China. With over 7.5 million residents of various nationalities in a 1,104-square-kilometre (426 sq mi) territory, Hong Kong is one of the most densely populated places in the world. Hong Kong is also one of the three global financial centres and one of the most developed cities in the world."
+guiname = "منطقة هونغ كونغ الإدارية الخاصة لجمهورية الصين الشعبية"
+description = "هونغ كونغ ، رسميا منطقة هونغ كونغ الإدارية الخاصة لجمهورية الصين الشعبية ، هي مدينة ومنطقة إدارية خاصة في الصين على دلتا نهر اللؤلؤ الشرقي في جنوب الصين. مع أكثر من 7.5 مليون مقيم من جنسيات مختلفة في منطقة تبلغ مساحتها 1104 كيلومتر مربع (426 ميل مربع) ، تعد هونغ كونغ واحدة من أكثر الأماكن كثافة سكانية في العالم. تعد هونغ كونغ أيضا واحدة من المراكز المالية العالمية الثلاثة وواحدة من أكثر المدن تطورا في العالم."
 
-jobtitle = "Chief Executive"
+jobtitle = "الرئيس التنفيذي"
 
 [stats]
-Population: = "7,413,070 million (2021)"
-Area: = "2,754.97 km2 (1,063.70 sq mi)"
-Currency: = "Hong Kong dollar (HK$) (HKD)"
-GDP: = "$472.395 billion"
-GDP per capita: = "$62,839"
-Democracy index: = "~5.60/10 (85th)"
-Largest Industry: = "Toursim/Service Sector"
-Capital and largest city: = "Hanoi"
-Driver side: = "left"
-Phone prefix: = "+852"
+عدد السكان: = " 7 ، 413 ، 070 مليون (2021)"
+المساحة: = "2 ، 754.97 كم2 (1 ، 063.70 ميل مربع)"
+العملة: = " دولار هونج كونج (دولار هونج كونج) (دولار هونج كونج)"
+الناتج المحلي الإجمالي: = "472.395 مليار دولار"
+نصيب الفرد من الناتج المحلي الإجمالي: = "62839 دولارا"
+مؤشر الديمقراطية: = " ~5.60/10 (85)"
+أكبر صناعة: = "السياحة / قطاع الخدمات"
+العاصمة وأكبر مدينة: = "هانوي"
+جانب السائق: = "يسار"
+بادئة الهاتف: = "+ 852"

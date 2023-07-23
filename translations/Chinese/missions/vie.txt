@@ -1,19 +1,19 @@
 [config]
 name  = vie
-guiname = "The Socialist Republic of Vietnam"
-description = "Vietnam, officially the Socialist Republic of Vietnam, is a country in Southeast Asia. Located at the eastern edge of mainland Southeast Asia, it covers 311,699 square kilometres. With a population of over 96 million, it is the world's fifteenth-most populous country. Vietnam borders China to the north, Laos and Cambodia to the west, and shares maritime borders with Thailand through the Gulf of Thailand, and the Philippines, Indonesia, and Malaysia through the South China Sea. Its capital is Hanoi and its largest city is Ho Chi Minh City."
+guiname = "越南社会主义共和国"
+description = "越南，正式的越南社会主义共和国，是东南亚的一个国家。 它位于东南亚大陆的东部边缘，占地311,699平方公里。 它的人口超过9600万，是世界上人口第十五多的国家。 越南北部与中国接壤，西部与老挝和柬埔寨接壤，通过泰国湾与泰国接壤，通过南海与菲律宾，印度尼西亚和马来西亚接壤。 它的首都是河内，最大的城市是胡志明市。"
 
-jobtitle = "General Secretary"
+jobtitle = "秘书长"
 
 [stats]
-National Anthem: = "Independence – Liberty – Happiness"
-Population: = "96,208,984 million (2019 est)"
-Area: = "331,699 km2 (128,070 sq mi)"
-Currency: = "đồng (₫) (VND)"
-GDP: = "$1.047 trillion"
-GDP per capita: = "$10,755"
-Democracy index: = "~2.94/10 (131st)"
-Largest Industry: = "Retail Industry"
-Capital and largest city: = "Hanoi"
-Driver side: = "right"
-Phone prefix: = "+84"
+国歌：="独立-自由-幸福"
+人口:="96,208,984百万(2019est)"
+面积:="331,699km2(128,070sq mi)"
+货币:="ngng(₫)(vnd)"
+GDP：="$1.047万亿"
+人均国内生产总值：="$10,755"
+民主指数:="~2.94/10(131st)"
+最大的行业：="零售业"
+首都和最大的城市:="河内"
+司机侧：="右"
+电话前缀:="+84"

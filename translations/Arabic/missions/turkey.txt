@@ -1,20 +1,20 @@
 [config]
 name  = turkey
-guiname = "Republic of Turkey"
-description = "Turkey, officially the Republic of Turkey, is a transcontinental country located mainly on the Anatolian Peninsula in Western Asia, with a smaller portion on the Balkan Peninsula in Southeastern Europe. Turkey is bordered on its northwest by Greece and Bulgaria; north by the Black Sea; northeast by Georgia; east by Armenia, Azerbaijan, and Iran; southeast by Iraq; south by Syria and the Mediterranean Sea; and west by the Aegean Sea. Approximately 70 to 80 percent of the country's citizens are Turkish. Istanbul, which straddles Europe and Asia, is the country's largest city, while Ankara is the capital."
+guiname = "جمهورية تركيا"
+description = "تركيا ، رسميا جمهورية تركيا ، هي دولة عابرة للقارات تقع بشكل رئيسي في شبه جزيرة الأناضول في غرب آسيا ، مع جزء أصغر في شبه جزيرة البلقان في جنوب شرق أوروبا. يحد تركيا من الشمال الغربي اليونان وبلغاريا ؛ شمالا البحر الأسود ؛ شمال شرق جورجيا ؛ شرقا أرمينيا وأذربيجان وإيران ؛ جنوب شرق العراق ؛ جنوبا سوريا والبحر الأبيض المتوسط ؛ وغربا بحر إيجه. ما يقرب من 70 إلى 80 في المئة من مواطني البلاد هم من الأتراك. اسطنبول ، التي تمتد بين أوروبا وآسيا ، هي أكبر مدينة في البلاد ، في حين أن أنقرة هي العاصمة."
 
-jobtitle = "President"
+jobtitle = "الرئيس"
 
 [stats]
-National Anthem: = "The Independence March"
-Population: = "83 million (2019)"
-Area: = "783,356 km2 (302,455 sq mi)"
-Currency: = "Turkish lira (₺) (TRY)"
-GDP: = "$760.940 billion (₺5,946,686,237,230.67 TRY)"
-GDP per capita: = "$30,644 (₺239,469.87 TRY)"
-Democracy Index: = "~4.09/10 (110th)"
-Biggest Industry: = "Agriculture"
-Capital: = "Ankara"
-Largest City: = "Istanbul"
-Driving side: =	"right"
-Calling code: = "+90"
+النشيد الوطني: = "مسيرة الاستقلال"
+عدد السكان: = " 83 مليون (2019)"
+المساحة: = " 783356 كم2 (302455 ميل مربع)"
+العملة: = " الليرة التركية (TRY)
+الناتج المحلي الإجمالي: = " 760.940 مليار دولار (5 ، 946 ، 686 ، 237 ، 230.67 ليرة تركية)"
+نصيب الفرد من الناتج المحلي الإجمالي: = "$30,644 (₺239,469.87 محاولة)"
+مؤشر الديمقراطية: = " ~4.09/10 (110)"
+أكبر صناعة: = "الزراعة"
+العاصمة: = "أنقرة"
+أكبر مدينة: = "اسطنبول"
+جانب القيادة: = "صحيح"
+رمز الاتصال: = "+ 90"

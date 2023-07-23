@@ -1,19 +1,19 @@
 [config]
 name  = est
-guiname = "Republic of Estonia"
-description = "Estonia, officially the Republic of Estonia, is a country in northern Europe. It is bordered to the north by the Gulf of Finland across from Finland, to the west by the Baltic Sea across from Sweden, to the south by Latvia, and to the east by Lake Peipus and Russia. The territory of Estonia consists of the mainland, the larger islands of Saaremaa and Hiiumaa, and over 2,200 other islands and islets on the eastern coast of the Baltic Sea, covering a total area of 47 549 km2. The size of the territory without Lake Peipsi is 43,432.31  km2. The capital city Tallinn and Tartu are the two largest urban areas of the country. The Estonian language is the autochthonous and the official language of Estonia; it is the first language of the majority of its people, as well as the world's second most spoken Finnic language."
+guiname = "爱沙尼亚共和国"
+description = "爱沙尼亚,正式的爱沙尼亚共和国,是北欧的一个国家. 它北与芬兰湾接壤，西与瑞典接壤，南与拉脱维亚接壤，东与佩普斯湖和俄罗斯接壤。 爱沙尼亚领土由大陆、较大的萨雷马岛和希乌马岛以及波罗的海东海岸的2 200多个其他岛屿和小岛组成,总面积为47 549平方公里。 没有Peipsi湖的领土面积为43,432.31平方公里。 首都塔林和塔尔图是该国最大的两个城市地区。 爱沙尼亚语是爱沙尼亚的母语和官方语言;它是爱沙尼亚大多数人的第一语言,也是世界上使用人数第二多的芬兰语言。"
 
-jobtitle = "President"
+jobtitle = "主席"
 
 [stats]
-National Anthem: = "My Fatherland, My Happiness and Joy"
-Population: = "1.328 million (2018)"
-Area: = "47,549 km2"
-Currency: = "Euro (€) (EUR)"
-GDP: = "$49 billion"
-GDP per capita: = "$44,853"
-Democracy Index: = "~7.74/10 (27th)"
-Biggest Industry: = "Industry Sector/Energy Sector"
-Capital (and largest city): = "Tallinn"
-Driving side: =	"right"
-Calling code: = "+372"
+国歌：="我的祖国，我的幸福和喜悦"
+人口:="1.328百万(2018)"
+面积:="47,549平方公里"
+货币:="欧元(欧元)"
+GDP：="$49十亿"
+人均国内生产总值：="$44,853"
+民主指数:="~7.74/10(27日)"
+最大的行业：="工业部门/能源部门"
+首都（和最大的城市）：="塔林"
+驾驶侧：="右"
+调用代码:="+372"

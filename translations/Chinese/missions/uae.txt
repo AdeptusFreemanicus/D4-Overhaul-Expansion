@@ -1,19 +1,19 @@
 [config]
 name  = uae
-guiname = "United Arab Emirates"
-description = "The United Arab Emirates, or simply the Emirates, is a country in Western Asia. It is located at the eastern end of the Arabian Peninsula, and shares borders with Oman and Saudi Arabia, while having maritime borders in the Persian Gulf with Qatar and Iran. Abu Dhabi is the nation's capital, while Dubai, the most populous city, is an international hub."
+guiname = "阿拉伯联合酋长国"
+description = "阿拉伯联合酋长国，或简称Emirates，是西亚的一个国家。 它位于阿拉伯半岛的东端，与阿曼和沙特阿拉伯接壤，而波斯湾与卡塔尔和伊朗接壤。 阿布扎比是国家的首都，而迪拜，人口最多的城市，是一个国际枢纽。"
 
-jobtitle = "President"
+jobtitle = "主席"
 
 [stats]
-National Anthem: = "Long Live My Country"
-Population: = "9,282,410 people (2020 est)"
-Area: = "83,600 km2 (32,300 sq mi)"
-Currency: = "UAE dirham (AED)"
-GDP: = "$763.182 billion"
-GDP per capita: = "$59,844"
-Democracy Index: = "2.90/10 (134th)"
-Biggest Industry: = "Tourism/Oil Industry"
-Capital and Largest City: = "Abu Dhabi"
-Driving side: =	"right"
-Calling code: = "+971"
+国歌：="我的国家万岁"
+人口:="9,282,410人(2020est)"
+面积:="83,600km2(32,300sq mi)"
+货币：="阿联酋迪拉姆（AED）"
+GDP:="$763.182十亿"
+人均国内生产总值：="$59,844"
+民主指数:="2.90/10(第134位)"
+最大的行业：="旅游/石油工业"
+首都和最大城市：="阿布扎比"
+驾驶侧：="右"
+调用代码:="+971"

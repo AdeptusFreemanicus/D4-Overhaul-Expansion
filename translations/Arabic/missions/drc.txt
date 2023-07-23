@@ -1,20 +1,20 @@
 [config]
 name  = drc
-guiname = "Democratic Republic of the Congo"
-description = "The Democratic Republic of the Congo, informally Congo-Kinshasa, DR Congo, the DRC, the DROC, or the Congo, and formerly and also coloquially Zaire, is a country in Central Africa. It is, by area, the second largest country in Africa (after Algeria), and the 11th-largest in the world. With a population of around 92 million, the Democratic Republic of the Congo is the most populous officially Francophone country in the world. It is a member of the United Nations, Non-Aligned Movement, African Union, COMESA, and the East African Community. The capital and largest city is Kinshasa, which is also the world's most populous Francophone city."
+guiname = "جمهورية الكونغو الديمقراطية"
+description = "جمهورية الكونغو الديمقراطية ، بشكل غير رسمي الكونغو كينشاسا ، جمهورية الكونغو الديمقراطية ، جمهورية الكونغو الديمقراطية ، جمهورية الكونغو الديمقراطية ، أو الكونغو ، وزائير سابقا وأيضا كولوكالي ، هي دولة في وسط إفريقيا. إنها ، حسب المنطقة ، ثاني أكبر دولة في إفريقيا (بعد الجزائر) ، والمرتبة 11 في العالم. يبلغ عدد سكان جمهورية الكونغو الديمقراطية حوالي 92 مليون نسمة ، وهي الدولة الناطقة بالفرنسية الرسمية الأكثر اكتظاظا بالسكان في العالم. وهي عضو في الأمم المتحدة وحركة عدم الانحياز والاتحاد الأفريقي والسوق المشتركة لشرق أفريقيا والجنوب الأفريقي وجماعة شرق أفريقيا. العاصمة وأكبر مدينة هي كينشاسا ، وهي أيضا المدينة الفرنكوفونية الأكثر اكتظاظا بالسكان في العالم."
 
 
-jobtitle = "President"
+jobtitle = "الرئيس"
 
 [stats]
-National Anthem: = "Justice – Peace – Work"
-Population: = "92 million (2021)"
-Area: = "2,345,409 km2"
-Currency: = "Congolese franc (CDF)"
-GDP: = "$46 billion"
-GDP per capita: = "$501"
-Democracy Index: = "~2.76/10 (164th)"
-Biggest Industry: = "Agriculture Sector/Mining Sector"
-Capital (and largest city): = "Kinshasa"
-Driving side: =	"right"
-Calling code: = "+243"
+النشيد الوطني: = "العدالة-السلام-العمل"
+عدد السكان: = " 92 مليون (2021)"
+المساحة: = "2,345,409 كم2"
+العملة: = "الفرنك الكونغولي"
+الناتج المحلي الإجمالي: = "46 مليار دولار"
+نصيب الفرد من الناتج المحلي الإجمالي: = "501 دولار"
+مؤشر الديمقراطية: = " ~2.76/10 (164)"
+أكبر صناعة: = "قطاع الزراعة / قطاع التعدين"
+العاصمة (وأكبر مدينة): = "كينشاسا"
+جانب القيادة: = "صحيح"
+رمز الاتصال: = "+243"

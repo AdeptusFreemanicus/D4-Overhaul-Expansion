@@ -1,17 +1,17 @@
 [config]
 name  = wal
-guiname = "Wales"
-description = "Wales is a country that is part of the United Kingdom. It is bordered by England to the east, the Irish Sea to the north and west, and the Bristol Channel to the south. It had a population in 2011 of 3,063,456 and has a total area of 20,779 km2 (8,023 sq mi). Wales has over 1,680 miles (2,700 km) of coastline and is largely mountainous with its higher peaks in the north and central areas, including Snowdon (Yr Wyddfa), its highest summit. The country lies within the north temperate zone and has a changeable, maritime climate. The capital and largest city is Cardiff."
+guiname = "ويلز"
+description = "ويلز بلد جزء من المملكة المتحدة. تحدها إنجلترا من الشرق ، والبحر الأيرلندي من الشمال والغرب ، وقناة بريستول من الجنوب. كان عدد سكانها في عام 2011 3 ، 063 ، 456 وتبلغ مساحتها الإجمالية 20 ، 779 كم2 (8 ، 023 ميل مربع). ويلز لديها أكثر من 1680 ميلا (2700 كم) من الساحل وهي جبلية إلى حد كبير مع قممها العالية في المناطق الشمالية والوسطى ، بما في ذلك سنودون (سنة ودفا) ، أعلى قمة لها. تقع البلاد داخل المنطقة الشمالية المعتدلة وتتمتع بمناخ بحري متغير. العاصمة وأكبر مدينة هي كارديف."
 
-jobtitle = "Monarch"
+jobtitle = "عاهل"
 
 [stats]
-Population: = "3,153,000 million (2019 est)"
-Area: = "20,779 km2 (8,023 sq mi)	"
-Currency: = "Pound sterling (GBP; £)"
-GVA: = "£75 billion"
-GVA per capita: = "£23,900"
-Largest Industry: = "Sheeeep"
-Capital and largest city: = "Cardiff"
-Driver side: = "left"
-Phone prefix: = "+44"
+عدد السكان: = " 3 ، 153 ، 000 مليون (تقديرات 2019)"
+المساحة: = " 20779 كم2 (8023 ميل مربع) "
+العملة: = " الجنيه الإسترليني (الجنيه الإسترليني؛£)"
+القيمة المضافة: = "75 مليار دولار"
+نصيب الفرد من القيمة المضافة: = "23900 دولار"
+أكبر صناعة: = "شييب"
+العاصمة وأكبر مدينة: = "كارديف"
+جانب السائق: = "يسار"
+بادئة الهاتف: = "+ 44"

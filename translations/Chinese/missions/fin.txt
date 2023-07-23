@@ -1,18 +1,18 @@
 [config]
 name  = fin
-guiname = "Republic of Finland"
-description = "Finland, officially the Republic of Finland is a Nordic country located in Northern Europe. Finland shares land borders with Sweden to the west, Russia to the east, and Norway to the north, Finland has a population of approximately 5.5 million, making it the 25th-most populous country in Europe. The main language is Finnish, Swedish is the second official language of Finland, Finland is a parliamentary republic consisting of 19 regions and 310 municipalities. The climate varies significantly relative to latitude, from Southern Finland's humid continental climate to the boreal climate of the north. Finland is primarily a boreal forest biome, with more than 180,000 recorded lakes, With an area of 338,455 square kilometres (130,678 sq mi), Finland is the eighth-largest country in Europe, and the most sparsely populated country in the European Union. Helsinki, the capital of Finland, is the largest metropolitan area with over 1.5 million people."
+guiname = "芬兰共和国"
+description = "芬兰，正式芬兰共和国是位于北欧的北欧国家。 芬兰西部与瑞典接壤，东部与俄罗斯接壤，北部与挪威接壤，芬兰人口约为550万，是欧洲人口第25位。 主要语言是芬兰语，瑞典语是芬兰的第二官方语言，芬兰是一个由19个地区和310个市镇组成的议会制共和国。 气候相对于纬度变化很大，从芬兰南部潮湿的大陆性气候到北部的北方气候。 芬兰主要是一个北方森林生物群落，有超过180,000个记录的湖泊，面积为338,455平方公里（130,678平方英里），芬兰是欧洲第八大国家，也是欧盟人口最稀少的国家。 芬兰首都赫尔辛基是最大的大都市区，拥有超过150万人口。"
 
-jobtitle = "President"
+jobtitle = "主席"
 
 [stats]
-National Anthem: = "Our Land"
-Population: = "5.5 million people (2020)"
-Area: = "338,455 km2 (130,678 sq mi)"
-Currency: = "Euro (€) (EUR)"
-GDP: = "$277 billion (€230,139,104,151.60 EUR)"
-GDP per capita: = "$48,461 (€40,262.42 EUR)"
-Democracy Index: = "9.25/10 (5th)"
-Biggest Industry: = "Electronics"
-Capital And Largest City: = "Helsinki"
-Driving side: =	"right"
+国歌：="我们的土地"
+人口：="550万人（2020年）"
+面积:="338,455km2(130,678sq mi)"
+货币:="欧元(欧元)"
+GDP:="$277十亿(€230,139,104,151.60EUR)"
+人均GDP: = "$48,461 (€40,262.42 EUR)"
+民主指数:="9.25/10(第5)"
+最大的行业：="电子"
+首都和最大城市：="赫尔辛基"
+驾驶侧：="右"

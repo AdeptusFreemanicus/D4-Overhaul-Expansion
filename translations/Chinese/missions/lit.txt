@@ -1,19 +1,19 @@
 [config]
 name  = lit
-guiname = "Republic of Lithuania"
-description = "Lithuania, officially the Republic of Lithuania, is a country in the Baltic region of Europe. It is one of three Baltic states and lies on the eastern shore of the Baltic Sea. Lithuania shares land borders with Latvia to the north, Belarus to the east and south, Poland to the south, and Kaliningrad Oblast of Russia to the southwest. It has a maritime border with Sweden to the west on the Baltic Sea. Lithuania covers an area of 65,300 km2 (25,200 sq mi), with a population of 2.8 million. Its capital and largest city is Vilnius; other major cities are Kaunas and Klaipėda. Lithuanians belong to the ethno-linguistic group of the Balts and speak Lithuanian, one of only a few living Baltic languages."
+guiname = "立陶宛共和国"
+description = "立陶宛，正式的立陶宛共和国，是欧洲波罗的海地区的一个国家。 它是三个波罗的海国家之一，位于波罗的海的东岸。 立陶宛北部与拉脱维亚接壤，东部和南部与白俄罗斯接壤，南部与波兰接壤，西南部与俄罗斯加里宁格勒州接壤。 它与波罗的海西部的瑞典有海上边界。 立陶宛占地65,300平方公里（25,200平方英里），人口280万。 是首都和最大的城市是维尔纽斯;其他主要城市是考纳斯和克莱佩达。 立陶宛人属于巴尔特人的民族语言群体，讲立陶宛语，这是仅有的少数几种活生生的波罗的海语言之一。"
 
-jobtitle = "President"
+jobtitle = "主席"
 
 [stats]
-National Anthem: = "National Hymn"
-Population: = "2,795,680 million (2021 est)"
-Area: = "65,300 km2 (25,200 sq mi)"
-Currency: = "Euro (€) (EUR)"
-GDP: = "$107 billion"
-GDP per capita: = "$41,288"
-Democracy Index: = "~7.18/10 (40th)"
-Biggest Industry: = "Manufacturing"
-Capital (and largest city): = "Vilnius"
-Driving side: =	"right"
-Calling code: = "+370"
+国歌：="国歌"
+人口:="2,795,680百万(2021est)"
+面积:="65,300平方公里(25,200平方英里)"
+货币:="欧元(欧元)"
+GDP：="$107十亿"
+人均国内生产总值：="$41,288"
+民主指数:="~7.18/10(第40位)"
+最大的行业：="制造业"
+首都（和最大的城市）：="维尔纽斯"
+驾驶侧：="右"
+调用代码:="+370"

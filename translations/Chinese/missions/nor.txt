@@ -1,18 +1,18 @@
 [config]
 name  = nor
-guiname = "Northern Ireland"
-description = "Northern Ireland is a part of the United Kingdom that is variously described as a country, province, territory or region. Located in the northeast of the island of Ireland, Northern Ireland shares a border to the south and west with the Republic of Ireland. In 2011, its population was 1,810,863, constituting about 30% of the island's population and about 3% of the UK's population. The Northern Ireland Assembly (colloquially referred to as Stormont after its location), established by the Northern Ireland Act 1998, holds responsibility for a range of devolved policy matters, while other areas are reserved for the British government. Northern Ireland co-operates with the Republic of Ireland in several areas."
+guiname = "北爱尔兰"
+description = "北爱尔兰是英国的一部分，被不同地描述为一个国家，省，领土或地区。 北爱尔兰位于爱尔兰岛的东北部，与爱尔兰共和国接壤。 2011年，其人口为1,810,863人，约占该岛人口的30％，约占英国人口的3％。 根据1998年《北爱尔兰法》设立的北爱尔兰议会(在其所在地后通俗地称为斯托蒙特)负责一系列下放的政策事项,而其他领域则保留给英国政府。 北爱尔兰在几个领域与爱尔兰共和国合作。"
 
-jobtitle = "Monarch"
+jobtitle = "君主,君主"
 
 [stats]
-National Anthem: = "Londonderry Air Or God Save the Queen"
-Population: = "1,900,000 (2019 est)"
-Area: = "14,130 km2 (5,460 sq mi)"
-Currency: = "Pound sterling (GBP; £)"
-GVA: = "£49 billion?"
-GVA per capita: = "£26,000?"
-Biggest Industry: = "Pharmaceutical And Medical Technology Industries"
-Capital And Largest City: = "Belfast"
-Driving side: =	"left"
-Calling code: = "+44"
+国歌：="Londonderry Air Or God Save The Queen"
+人口:="1,900,000(2019est)"
+面积:="14,130km2(5,460sq mi)"
+货币:="英镑(GBP;£)"
+GVA：="£49十亿？"
+人均GVA：="£26,000？"
+最大产业：="制药和医疗技术产业"
+首都和最大城市：="贝尔法斯特"
+驾驶侧：="左"
+调用代码:="+44"

@@ -1,19 +1,19 @@
 [config]
 name  = est
-guiname = "Republic of Estonia"
-description = "Estonia, officially the Republic of Estonia, is a country in northern Europe. It is bordered to the north by the Gulf of Finland across from Finland, to the west by the Baltic Sea across from Sweden, to the south by Latvia, and to the east by Lake Peipus and Russia. The territory of Estonia consists of the mainland, the larger islands of Saaremaa and Hiiumaa, and over 2,200 other islands and islets on the eastern coast of the Baltic Sea, covering a total area of 47 549 km2. The size of the territory without Lake Peipsi is 43,432.31  km2. The capital city Tallinn and Tartu are the two largest urban areas of the country. The Estonian language is the autochthonous and the official language of Estonia; it is the first language of the majority of its people, as well as the world's second most spoken Finnic language."
+guiname = "جمهورية إستونيا"
+description = "إستونيا ، رسميا جمهورية إستونيا ، هي دولة تقع في شمال أوروبا. يحدها من الشمال خليج فنلندا على الجانب الآخر من فنلندا ، ومن الغرب بحر البلطيق على الجانب الآخر من السويد ، ومن الجنوب لاتفيا ، ومن الشرق بحيرة بيبوس وروسيا. تتكون أراضي إستونيا من البر الرئيسي ، أكبر جزر ساريما و هيوما ، وأكثر من 2200 جزيرة وجزيرة صغيرة أخرى على الساحل الشرقي لبحر البلطيق ، تغطي مساحة إجمالية قدرها 47549 كم2. حجم الإقليم دون بحيرة بيبسي هو 43 ، 432.31 كم2. العاصمة تالين وتارتو هما أكبر منطقتين حضريتين في البلاد. اللغة الإستونية هي اللغة الأصلية واللغة الرسمية لإستونيا ؛ إنها اللغة الأولى لغالبية شعبها ، فضلا عن ثاني أكثر اللغات الفنلندية تحدثا في العالم."
 
-jobtitle = "President"
+jobtitle = "الرئيس"
 
 [stats]
-National Anthem: = "My Fatherland, My Happiness and Joy"
-Population: = "1.328 million (2018)"
-Area: = "47,549 km2"
-Currency: = "Euro (€) (EUR)"
-GDP: = "$49 billion"
-GDP per capita: = "$44,853"
-Democracy Index: = "~7.74/10 (27th)"
-Biggest Industry: = "Industry Sector/Energy Sector"
-Capital (and largest city): = "Tallinn"
-Driving side: =	"right"
-Calling code: = "+372"
+النشيد الوطني: = "وطني ، سعادتي وفرحي"
+عدد السكان: = " 1.328 مليون (2018)"
+المساحة: = "47,549 كم2"
+العملة: = " اليورو (دولار) (يورو)"
+الناتج المحلي الإجمالي: = "49 مليار دولار"
+نصيب الفرد من الناتج المحلي الإجمالي: = "44853 دولارا"
+مؤشر الديمقراطية: = " ~7.74/10 (27)"
+أكبر صناعة: = "قطاع الصناعة / قطاع الطاقة"
+العاصمة (وأكبر مدينة): = "تالين"
+جانب القيادة: = "صحيح"
+رمز الاتصال: = "+372"

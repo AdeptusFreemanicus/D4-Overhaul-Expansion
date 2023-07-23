@@ -1,18 +1,18 @@
 [config]
 name  = hun
-guiname = "Hungary"
-description = "Hungary is a country in Central Europe. Spanning 93,030 square kilometres (35,920 sq mi) in the Carpathian Basin, it borders Slovakia to the north, Ukraine to the northeast, Romania to the east and southeast, Serbia to the south, Croatia and Slovenia to the southwest, and Austria to the west. With about 10 million inhabitants, Hungary is a medium-sized member state of the European Union. The official language is Hungarian, which is the most widely spoken Uralic language in the world, and among the few non-Indo-European languages to be widely spoken in Europe. Hungary's capital and largest city is Budapest; other major urban areas include Debrecen, Szeged, Miskolc, Pécs, and Győr."
+guiname = "هنغاريا"
+description = "المجر بلد في وسط أوروبا. تمتد على مساحة 93 ، 030 كيلومتر مربع (35 ، 920 ميل مربع) في حوض الكاربات ، وتحدها سلوفاكيا من الشمال ، وأوكرانيا من الشمال الشرقي ، ورومانيا من الشرق والجنوب الشرقي ، وصربيا من الجنوب ، وكرواتيا وسلوفينيا من الجنوب الغربي ، والنمسا من الغرب. يبلغ عدد سكان المجر حوالي 10 ملايين نسمة ، وهي دولة عضو متوسطة الحجم في الاتحاد الأوروبي. اللغة الرسمية هي الهنغارية ، وهي اللغة الأورالية الأكثر انتشارا في العالم ، ومن بين اللغات القليلة غير الهندو أوروبية التي يتم التحدث بها على نطاق واسع في أوروبا. عاصمة المجر وأكبر مدنها هي بودابست ؛ وتشمل المناطق الحضرية الرئيسية الأخرى ديبريسين ، زيجيد ، ميسكولك ، بلدان جزر المحيط الهادئ ، والمجد."
 
-jobtitle = "President"
+jobtitle = "الرئيس"
 
 [stats]
-National Anthem: = "Hymn"
-Population: = "10 million (2020)"
-Area: = "93,030 km2 (35,920 sq mi)"
-Currency: = "Forint (HUF)"
-GDP: = "$149.939 billion (Ft44,158,764,279,374.45 HUF)"
-GDP per capita: = "$15,373 (Ft4,544,164.16 HUF)"
-Democracy Index: = "6.63/10 (55th)"
-Biggest Industry: = "Electronics"
-Capital And Largest City: = "Budapest"
-Driving side: =	"right"
+النشيد الوطني: = "ترنيمة"
+عدد السكان: = " 10 ملايين (2020)"
+المساحة: = " 93 ، 030 كم2 (35 ، 920 ميل مربع)"
+العملة: = " فورنت (فورنت هنغاري)"
+الناتج المحلي الإجمالي: = " 149.939 مليار دولار (44 ، 158 ، 764 ، 279 ، 374.45 فورنت هنغاري)"
+نصيب الفرد من الناتج المحلي الإجمالي: = " 15373 دولارا (4 ، 544 ، 164.16 فورنت هنغاري)"
+مؤشر الديمقراطية: = " 6.63/10 (55)"
+أكبر صناعة: = "إلكترونيات"
+العاصمة وأكبر مدينة: = "بودابست"
+جانب القيادة: = "صحيح"

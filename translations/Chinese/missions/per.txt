@@ -1,19 +1,19 @@
 [config]
 name  = per
-guiname = "Republic of Peru"
-description = "Peru, officially the Republic of Peru, is a country in western South America. It is bordered in the north by Ecuador and Colombia, in the east by Brazil, in the southeast by Bolivia, in the south by Chile, and in the south and west by the Pacific Ocean. Peru is a megadiverse country with habitats ranging from the arid plains of the Pacific coastal region in the west to the peaks of the Andes mountains extending from the north to the southeast of the country to the tropical Amazon Basin rainforest in the east with the Amazon river. At 1.28 million km2 (0.5 million mi2), Peru is the 19th largest country in the world, and the third largest in South America."
+guiname = "秘鲁共和国"
+description = "秘鲁，正式秘鲁共和国，是南美洲西部的一个国家。 它北部与厄瓜多尔和哥伦比亚接壤，东部与巴西接壤，东南部与玻利维亚接壤，南部与智利接壤，南部和西部与太平洋接壤。 秘鲁是一个大型生物多样性国家，其栖息地范围从西部的太平洋沿海地区干旱平原到安第斯山脉的山峰，从该国北部延伸到东南部的热带亚马逊河流域雨林。 秘鲁拥有128万平方公里（50万mi2），是世界第19大国，也是南美洲第三大国。"
 
-jobtitle = "President"
+jobtitle = "主席"
 
 [stats]
-Motto: = "Firm and Happy for the Union"
-National Anthem: = "National Anthem of Peru"
-Population: = "32.8 million people (2020)"
-Area: = "1,285,216 km2 (496,225 sq mi)"
-Currency: = "Sol (PEN)"
-GDP: = "$195.761 billion"
-GDP per capita: = "$5,845"
-Democracy Index: = "6.53/10 (57th)"
-Biggest Industry: = "Mining Industry"
-Capital And Largest City: = "Lima"
-Driving side: =	"right"
+座右铭：="坚定和快乐的工会"
+国歌：="秘鲁国歌"
+人口：="3280万人（2020年）"
+面积:="1,285,216平方公里(496,225平方英里)"
+货币:="Sol(PEN)"
+GDP:="$1957.61十亿"
+人均国内生产总值：="$5,845"
+民主指数:="6.53/10(第57位)"
+最大的行业：="采矿业"
+首都和最大城市：="利马"
+驾驶侧：="右"

@@ -1,19 +1,19 @@
 [config]
 name  = dprk
-guiname = "Democratic People's Republic of Korea"
-description = "North Korea, officially the Democratic People's Republic of Korea, Chosŏn Minjujuŭi Inmin Konghwaguk, is a country in East Asia constituting the northern part of the Korean Peninsula. The country is bordered to the north by China and by Russia along the Amnok (known as the Yalu in Chinese) and Tumen rivers, and to the south by South Korea, with the heavily fortified Korean Demilitarized Zone (DMZ) separating the two. North Korea, like its southern counterpart, claims to be the legitimate government of the entire peninsula and adjacent islands. Pyongyang is the country's capital and largest city."
+guiname = "جمهورية كوريا الشعبية الديمقراطية"
+description = "كوريا الشمالية ، رسميا جمهورية كوريا الشعبية الديمقراطية ، تشوس أوشن مينجوجو أوشي إنمين كونغواغوك ، هي دولة في شرق آسيا تشكل الجزء الشمالي من شبه الجزيرة الكورية. يحدها من الشمال الصين وروسيا على طول نهري أمنوك (المعروف باسم يالو بالصينية) وتومين ، ومن الجنوب كوريا الجنوبية ، مع المنطقة الكورية المنزوعة السلاح شديدة التحصين التي تفصل بين الاثنين. تدعي كوريا الشمالية ، مثل نظيرتها الجنوبية ، أنها الحكومة الشرعية لشبه الجزيرة بأكملها والجزر المجاورة. بيونغ يانغ هي عاصمة البلاد وأكبر مدنها."
 
-jobtitle = "Supreme Leader"
+jobtitle = "المرشد الأعلى"
 
 [stats]
-National Anthem: = "The Patriotic Song"
-Population: = "25.5 million (2018)"
-Area: = "120,540 km2 (46,540 sq mi)"
-Currency: = "Korean People's won (₩)"
-GDP: = "$30 billion"
-GDP per capita: = "$1,300"
-Democracy Index: = "~1.06/10 (167th Last)"
-Biggest Industry: = "Agriculture/Mining"
-Capital (and largest city): = "Pyongyang"
-Driving side: =	"right"
-Calling code: = "+850"
+النشيد الوطني: = "الأغنية الوطنية"
+عدد السكان: = " 25.5 مليون (2018)"
+المساحة: = " 120 ، 540 كم2 (46 ، 540 ميل مربع)"
+العملة: = " فاز الشعب الكوري (won)"
+الناتج المحلي الإجمالي: = "30 مليار دولار"
+نصيب الفرد من الناتج المحلي الإجمالي: = "1300 دولار"
+مؤشر الديمقراطية: = " ~1.06 / 10 (167 الأخير)"
+أكبر صناعة: = "الزراعة / التعدين"
+العاصمة (وأكبر مدينة): = "بيونغ يانغ"
+جانب القيادة: = "صحيح"
+رمز الاتصال: = "+ 850"

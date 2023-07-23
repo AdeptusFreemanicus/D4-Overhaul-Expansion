@@ -1,17 +1,17 @@
 [config]
 name  = wal
-guiname = "Wales"
-description = "Wales is a country that is part of the United Kingdom. It is bordered by England to the east, the Irish Sea to the north and west, and the Bristol Channel to the south. It had a population in 2011 of 3,063,456 and has a total area of 20,779 km2 (8,023 sq mi). Wales has over 1,680 miles (2,700 km) of coastline and is largely mountainous with its higher peaks in the north and central areas, including Snowdon (Yr Wyddfa), its highest summit. The country lies within the north temperate zone and has a changeable, maritime climate. The capital and largest city is Cardiff."
+guiname = "威尔士"
+description = "威尔士是一个国家，是英国的一部分。 它东与英格兰接壤，北与西与爱尔兰海接壤，南与布里斯托尔海峡接壤。 2011年人口为3,063,456人，总面积为20,779平方公里（8,023平方英里）。 威尔士拥有超过1,680英里（2,700公里）的海岸线，大部分是山区，其北部和中部地区的高峰较高，包括斯诺登（Yr Wyddfa），其最高峰。 该国位于北温带内，具有多变的海洋性气候。 首都和最大的城市是加的夫。"
 
-jobtitle = "Monarch"
+jobtitle = "君主,君主"
 
 [stats]
-Population: = "3,153,000 million (2019 est)"
-Area: = "20,779 km2 (8,023 sq mi)	"
-Currency: = "Pound sterling (GBP; £)"
-GVA: = "£75 billion"
-GVA per capita: = "£23,900"
-Largest Industry: = "Sheeeep"
-Capital and largest city: = "Cardiff"
-Driver side: = "left"
-Phone prefix: = "+44"
+人口:="3,153,000百万(2019est)"
+面积:="20,779km2(8,023sq mi)"
+货币:="英镑(GBP;£)"
+GVA：="£75十亿"
+人均GVA：="£23,900"
+最大的行业：="Sheeeep"
+首都和最大城市：="加的夫"
+驾驶员侧：="左"
+电话前缀:="+44"

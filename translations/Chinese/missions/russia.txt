@@ -1,19 +1,19 @@
 [config]
 name  = russia
-guiname = "The Russian Federation"
-description = "Russia, or the Russian Federation, is a transcontinental country located in Eastern Europe and Northern Asia. It extends from the Baltic Sea in the west to the Pacific Ocean in the east, and from the Arctic Ocean in the north to the Black Sea and the Caspian Sea in the south. Russia covers over 17,125,200 square kilometres (6,612,100 sq mi), spanning more than one-eighth of the Earth's inhabited land area, stretching eleven time zones, and bordering 16 sovereign nations. Moscow is the country's capital and largest city, other major cities include Saint Petersburg, Novosibirsk, Yekaterinburg, Kazan, Nizhny Novgorod, Chelyabinsk and Samara."
+guiname = "俄罗斯联邦"
+description = "俄罗斯，或俄罗斯联邦，是一个横贯大陆的国家，位于东欧和北亚。 它从西部的波罗的海延伸到东部的太平洋，从北部的北冰洋延伸到南部的黑海和里海。 俄罗斯面积超过17,125,200平方公里（6,612,100平方英里），跨越地球上居住面积的八分之一以上，延伸十一个时区，与16个主权国家接壤。 莫斯科是该国的首都和最大的城市，其他主要城市包括圣彼得堡，新西伯利亚，叶卡捷琳堡，喀山，下诺夫哥罗德，车里雅宾斯克和萨马拉。"
 
-jobtitle = "President"
+jobtitle = "主席"
 
 [stats]
-National Anthem: = "State Anthem of the Russian Federation"
-Population: = "146.7 million (2020)"
-Area: = "17,098,246 km2 (6,601,670 sq mi)"
-Currency: = "Russian ruble (₽) (RUB)"
-GDP: = "$4.135 trillion (3.079 quadrillion Russian Rubles)"
-GDP per capita: = "$28,184 (~₽2096728.95 Russian Rubles)"
-Democracy Index: = "3.31/10 (134th)"
-Biggest Industry: = "Services Sector"
-Capital (and largest city): = "Moscow"
-Driving side: =	"right"
-Calling code: = "+7"
+国歌：="俄罗斯联邦国歌"
+人口：="1.467亿（2020年）"
+面积:="17,098,246km2(6,601,670sq mi)"
+货币:="俄罗斯卢布(₽)(RUB)"
+国内生产总值：="$4.135万亿（3.079万亿俄罗斯卢布）"
+人均GDP：="$28,184（-Russian2096728.95俄罗斯卢布）"
+民主指数:="3.31/10(第134位)"
+最大的行业：="服务业"
+首都（和最大的城市）：="莫斯科"
+驾驶侧：="右"
+调用代码:="+7"

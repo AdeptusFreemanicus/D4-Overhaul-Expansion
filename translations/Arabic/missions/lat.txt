@@ -1,19 +1,19 @@
 [config]
 name  = lat
-guiname = "Republic of Latvia"
-description = "Latvia, officially the Republic of Latvia, is a country in the Baltic region of Northern Europe. It is one of the Baltic states; and is bordered by Estonia to the north, Lithuania to the south, Russia to the east, Belarus to the southeast, and shares a maritime border with Sweden to the west. Latvia covers an area of 64,589 km2 (24,938 sq mi), with a population of 1.9 million. The country has a temperate seasonal climate. Its capital and largest city is Riga. Latvians belong to the ethno-linguistic group of the Balts; and speak Latvian, one of the only two surviving Baltic languages. Russians are the most prominent minority in the country, at almost a quarter of the population."
+guiname = "جمهورية لاتفيا"
+description = "لاتفيا ، رسميا جمهورية لاتفيا ، هي دولة في منطقة البلطيق في شمال أوروبا. وتحدها إستونيا من الشمال وليتوانيا من الجنوب وروسيا من الشرق وبيلاروسيا من الجنوب الشرقي وتشترك في حدود بحرية مع السويد من الغرب. تغطي لاتفيا مساحة 64589 كم2 (24938 ميل مربع) ، ويبلغ عدد سكانها 1.9 مليون نسمة. البلاد لديها مناخ موسمي معتدل. عاصمتها وأكبر مدنها هي ريغا. ينتمي اللاتفيون إلى المجموعة العرقية واللغوية من البلطيق ؛ ويتحدثون اللاتفية ، إحدى لغتي البلطيق الوحيدتين الباقيتين. الروس هم الأقلية الأبرز في البلاد ، في ما يقرب من ربع السكان."
 
-jobtitle = "President"
+jobtitle = "الرئيس"
 
 [stats]
-National Anthem: = "God Bless Latvia!"
-Population: = "1.9 million (2018)"
-Area: = "64,589 km2"
-Currency: = "Euro (€) (EUR)"
-GDP: = "$70 billion"
-GDP per capita: = "$37,009
-Democracy Index: = "~7.37/10 (38th)"
-Biggest Industry: = "Industry Sector/Agriculture Sector"
-Capital (and largest city): = "Riga"
-Driving side: =	"right"
-Calling code: = "+371"
+النشيد الوطني: = " بارك الله لاتفيا!"
+عدد السكان: = " 1.9 مليون (2018)"
+المساحة: = "64,589 كم2"
+العملة: = " اليورو (دولار) (يورو)"
+الناتج المحلي الإجمالي: = "70 مليار دولار"
+نصيب الفرد من الناتج المحلي الإجمالي: = " $37,009
+مؤشر الديمقراطية: = " ~7.37/10 (38)"
+أكبر صناعة: = "قطاع الصناعة / قطاع الزراعة"
+العاصمة (وأكبر مدينة): ="ريغا"
+جانب القيادة: = "صحيح"
+رمز الاتصال: = "+371"

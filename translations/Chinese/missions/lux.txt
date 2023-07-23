@@ -1,19 +1,19 @@
 [config]
 name  = lux
-guiname = "Grand Duchy of Luxembourg"
-description = "Luxembourg, officially the Grand Duchy of Luxembourg, is a landlocked country in Western Europe. It is bordered by Belgium to the west and north, Germany to the east, and France to the south. Its capital, Luxembourg City, is one of the four official capitals of the European Union (together with Brussels, Frankfurt, and Strasbourg) and the seat of the Court of Justice of the European Union, the highest judicial authority in the EU. Its culture, people, and languages are highly intertwined with its neighbours, making it a mixture of French and German cultures. It has three official languages: French, German, and the national language of Luxembourgish."
+guiname = "卢森堡大公国"
+description = "卢森堡，正式卢森堡大公国，是西欧的一个内陆国家。 它的西部和北部与比利时接壤，东部与德国接壤，南部与法国接壤。 其首都卢森堡市是欧盟四个官方首都之一（与布鲁塞尔、法兰克福和斯特拉斯堡一起），也是欧盟最高司法机构欧盟法院所在地。 它的文化、人民和语言与邻国高度交织在一起，使它成为法国和德国文化的混合体。 它有三种官方语言：法语、德语和卢森堡语。"
 
-jobtitle = "Grand Duke"
+jobtitle = "大公爵"
 
 [stats]
-Motto: = "We want to remain what we are"
-National Anthem: = "Our Homeland"
-Population: = "626 Hundred Thousand People (2020)"
-Area: = "2,586.4 km2 (998.6 sq mi)"
-Currency: = "Euro (€) (EUR)"
-GDP: = "$69.453 billion"
-GDP per capita: = "$113,196"
-Democracy Index: = "8.68/10 (13th)"
-Biggest Industry: = "Banking"
-Capital And Largest City: = "Luxembourg City"
-Driving side: =	"right"
+座右铭：="我们要保持我们是什么"
+国歌：="我们的家园"
+人口：="626万人（2020年）"
+面积:="2,586.4km2(998.6sq mi)"
+货币:="欧元(欧元)"
+GDP:="$69.453十亿"
+人均国内生产总值：="$113,196"
+民主指数:="8.68/10(第13)"
+最大的行业：="银行"
+首都和最大城市：="卢森堡市"
+驾驶侧：="右"

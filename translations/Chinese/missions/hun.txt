@@ -1,18 +1,18 @@
 [config]
 name  = hun
-guiname = "Hungary"
-description = "Hungary is a country in Central Europe. Spanning 93,030 square kilometres (35,920 sq mi) in the Carpathian Basin, it borders Slovakia to the north, Ukraine to the northeast, Romania to the east and southeast, Serbia to the south, Croatia and Slovenia to the southwest, and Austria to the west. With about 10 million inhabitants, Hungary is a medium-sized member state of the European Union. The official language is Hungarian, which is the most widely spoken Uralic language in the world, and among the few non-Indo-European languages to be widely spoken in Europe. Hungary's capital and largest city is Budapest; other major urban areas include Debrecen, Szeged, Miskolc, Pécs, and Győr."
+guiname = "匈牙利"
+description = "匈牙利是中欧的一个国家。 它位于喀尔巴阡山脉盆地，占地93,030平方公里（35,920平方英里），北与斯洛伐克接壤，东北与乌克兰接壤，东与东南与罗马尼亚接壤，南与塞尔维亚接壤，西南与克罗地亚和斯洛文尼亚接壤，西与奥地利接壤。 匈牙利拥有约1000万居民，是欧盟的中型成员国。 官方语言是匈牙利语，这是世界上使用最广泛的乌拉尔语，也是欧洲广泛使用的少数非印欧语系语言之一。 匈牙利的首都和最大的城市是布达佩斯;其他主要城市地区包括德布勒森，塞格德，米斯科尔茨，Pics和Glory。"
 
-jobtitle = "President"
+jobtitle = "主席"
 
 [stats]
-National Anthem: = "Hymn"
-Population: = "10 million (2020)"
-Area: = "93,030 km2 (35,920 sq mi)"
-Currency: = "Forint (HUF)"
-GDP: = "$149.939 billion (Ft44,158,764,279,374.45 HUF)"
-GDP per capita: = "$15,373 (Ft4,544,164.16 HUF)"
-Democracy Index: = "6.63/10 (55th)"
-Biggest Industry: = "Electronics"
-Capital And Largest City: = "Budapest"
-Driving side: =	"right"
+国歌：="赞美诗"
+人口：="1000万（2020年）"
+面积:="93,030km2(35,920sq mi)"
+货币:="福林(HUF)"
+GDP:="$149.939十亿(Ft44,158,764,279,374.45HUF)"
+人均GDP:="$15,373(Ft4,544,164.16HUF)"
+民主指数:="6.63/10(第55)"
+最大的行业：="电子"
+首都和最大的城市：="布达佩斯"
+驾驶侧：="右"

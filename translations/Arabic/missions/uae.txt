@@ -1,19 +1,19 @@
 [config]
 name  = uae
-guiname = "United Arab Emirates"
-description = "The United Arab Emirates, or simply the Emirates, is a country in Western Asia. It is located at the eastern end of the Arabian Peninsula, and shares borders with Oman and Saudi Arabia, while having maritime borders in the Persian Gulf with Qatar and Iran. Abu Dhabi is the nation's capital, while Dubai, the most populous city, is an international hub."
+guiname = "الإمارات العربية المتحدة"
+description = "الإمارات العربية المتحدة ، أو ببساطة الإمارات ، هي دولة تقع في غرب آسيا. تقع في الطرف الشرقي من شبه الجزيرة العربية ، وتشترك في الحدود مع عمان والمملكة العربية السعودية ، بينما لها حدود بحرية في الخليج الفارسي مع قطر وإيران. أبو ظبي هي عاصمة البلاد ، في حين أن دبي ، المدينة الأكثر اكتظاظا بالسكان ، هي مركز دولي."
 
-jobtitle = "President"
+jobtitle = "الرئيس"
 
 [stats]
-National Anthem: = "Long Live My Country"
-Population: = "9,282,410 people (2020 est)"
-Area: = "83,600 km2 (32,300 sq mi)"
-Currency: = "UAE dirham (AED)"
-GDP: = "$763.182 billion"
-GDP per capita: = "$59,844"
-Democracy Index: = "2.90/10 (134th)"
-Biggest Industry: = "Tourism/Oil Industry"
-Capital and Largest City: = "Abu Dhabi"
-Driving side: =	"right"
-Calling code: = "+971"
+النشيد الوطني: = "تحيا بلادي"
+عدد السكان: = " 9 ، 282 ، 410 نسمة (تقديرات 2020)"
+المساحة: = " 83600 كم2 (32300 ميل مربع)"
+العملة: = "الدرهم الإماراتي"
+الناتج المحلي الإجمالي: = "763.182 مليار دولار"
+نصيب الفرد من الناتج المحلي الإجمالي: = "59844 دولارا"
+مؤشر الديمقراطية: = " 2.90/10 (134)"
+أكبر صناعة: = "السياحة / صناعة النفط"
+العاصمة وأكبر مدينة: = "أبو ظبي"
+جانب القيادة: = "صحيح"
+رمز الاتصال: = "+971"

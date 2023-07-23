@@ -1,18 +1,18 @@
 [config]
 name  = som
-guiname = "Federal Republic of Somalia"
-description = "Somalia, officially the Federal Republic of Somalia is a country in the Horn of Africa. It is bordered by Ethiopia to the west, Djibouti to the northwest, the Gulf of Aden to the north, the Indian Ocean to the east, and Kenya to the southwest. Somalia has the longest coastline on Africa's mainland. Its terrain consists mainly of plateaus, plains, and highlands. Hot conditions prevail year-round, with periodic monsoon winds and irregular rainfall, Somalia has an estimated population of around 15 million and has been described as Africa's most culturally homogeneous country."
+guiname = "索马里联邦共和国"
+description = "索马里，正式索马里联邦共和国是非洲之角的一个国家。 它西与埃塞俄比亚接壤，西北与吉布提接壤，北与亚丁湾接壤，东与印度洋接壤，西南与肯尼亚接壤。 索马里拥有非洲大陆最长的海岸线。 它的地形主要由高原，平原和高地组成。 索马里全年气候炎热，有周期性的季风和不规则的降雨，估计人口约为1500万，被描述为非洲文化最统一的国家。"
 
-jobtitle = "President"
+jobtitle = "主席"
 
 [stats]
-National Anthem: = "Qolobaa Calankeed"
-Population: = "15 million people (2020)"
-Area: = "637,657 km2 (246,201 sq mi)"
-Currency: = "Somali shilling (SOS)"
-GDP: = "$5.218 billion"
-GDP per capita: = "$348"
-Democracy Index: = "?/10 (?th) Unknown"
-Biggest Industry: = "Agriculture"
-Capital And Largest City: = "Mogadishu"
-Driving side: =	"right"
+国歌：="[医]卡兰基德"
+人口：="1500万人（2020年）"
+面积:="637,657平方公里(246,201平方英里)"
+货币:="索马里先令(SOS)"
+GDP:="$5.218十亿"
+人均GDP：="$348"
+民主指数：="？/10 (?th）未知"
+最大的行业：="农业"
+首都和最大城市：="摩加迪沙"
+驾驶侧：="右"

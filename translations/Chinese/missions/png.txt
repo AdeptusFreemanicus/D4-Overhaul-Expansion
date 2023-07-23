@@ -1,21 +1,21 @@
 [config]
 name  = png
-guiname = "Independent State of Papua New Guinea"
-description = "Papua New Guinea, officially the Independent State of Papua New Guinea, is a country in Oceania that comprises the eastern half of the island of New Guinea and its offshore islands in Melanesia (a region of the southwestern Pacific Ocean north of Australia). Its capital, located along its southeastern coast, is Port Moresby. It is the world's third largest island country with an area of 462,840 km2 (178,700 sq mi).
+guiname = "巴布亚新几内亚独立国"
+description = "巴布亚新几内亚，正式的独立国家巴布亚新几内亚，是大洋洲的一个国家，包括新几内亚岛的东半部及其在美拉尼西亚（澳大利亚以北西南太平洋的一个地区）的近海岛屿。 它的首都位于东南沿海，是莫尔兹比港。 它是世界第三大岛国，面积为462,840平方公里（178,700平方英里）。"
 
-jobtitle = "Prime Minister"
+jobtitle = "首相"
 
 [stats]
-Motto: = "Unity in diversity"
-National Anthem: = "O Arise, All You Sons"
-Royal anthem = "God Save the Queen"
-Population: = "8.9 million (2020)"
-Area: = "462,840 km2 (178,700 sq mi)"
-Currency: = "Kina (PGK)"
-GDP: = "$32.382 billion"
-GDP per capita: = "$3,764"
-Democracy Index: = "~6.10/10 (70th)"
-Biggest Industry: = "Agriculture"
-Capital And Largest City: = "Port Moresby"
-Driving side: =	"Left"
-Calling code: = "+675"
+座右铭：="多元合一"
+国歌：="哦，你们所有的儿子们，起来吧"
+皇家国歌="上帝拯救女王"
+人口：="8.9百万（2020）"
+面积:="462,840km2(178,700sq mi)"
+货币:="Kina(PGK)"
+GDP:="$32.382十亿"
+人均国内生产总值：="$3,764"
+民主指数:="~6.10/10(第70位)"
+最大的行业：="农业"
+首都和最大城市：="莫尔兹比港"
+驾驶侧：="左"
+调用代码:="+675"

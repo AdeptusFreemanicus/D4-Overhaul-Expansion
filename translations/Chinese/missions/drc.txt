@@ -1,20 +1,20 @@
 [config]
 name  = drc
-guiname = "Democratic Republic of the Congo"
-description = "The Democratic Republic of the Congo, informally Congo-Kinshasa, DR Congo, the DRC, the DROC, or the Congo, and formerly and also coloquially Zaire, is a country in Central Africa. It is, by area, the second largest country in Africa (after Algeria), and the 11th-largest in the world. With a population of around 92 million, the Democratic Republic of the Congo is the most populous officially Francophone country in the world. It is a member of the United Nations, Non-Aligned Movement, African Union, COMESA, and the East African Community. The capital and largest city is Kinshasa, which is also the world's most populous Francophone city."
+guiname = "刚果民主共和国"
+description = "刚果民主共和国，非正式的刚果-金沙萨，刚果民主共和国，刚果，刚果，刚果或刚果，以前也是通俗的扎伊尔，是中非的一个国家。 按面积计算，它是非洲第二大国（仅次于阿尔及利亚），也是世界第11大国。 刚果民主共和国约有9 200万人口，是世界上人口最多的正式法语国家。 它是联合国、不结盟运动、非洲联盟、东南非共同市场和东非共同体的成员。 首都和最大的城市是金沙萨，这也是世界上人口最多的法语城市。"
 
 
-jobtitle = "President"
+jobtitle = "主席"
 
 [stats]
-National Anthem: = "Justice – Peace – Work"
-Population: = "92 million (2021)"
-Area: = "2,345,409 km2"
-Currency: = "Congolese franc (CDF)"
-GDP: = "$46 billion"
-GDP per capita: = "$501"
-Democracy Index: = "~2.76/10 (164th)"
-Biggest Industry: = "Agriculture Sector/Mining Sector"
-Capital (and largest city): = "Kinshasa"
-Driving side: =	"right"
-Calling code: = "+243"
+国歌：="正义-和平-工作"
+人口：="9200万（2021年）"
+面积:="2,345,409平方公里"
+货币:="刚果法郎(CDF)"
+GDP：="$46十亿"
+人均GDP：="$501"
+民主指数:="~2.76/10(第164位)"
+最大的行业：="农业部门/采矿业"
+首都(和最大的城市):="金沙萨"
+驾驶侧：="右"
+调用代码:="+243"

@@ -1,19 +1,19 @@
 [config]
 name  = eng
-guiname = "England"
-description = "England is a country that is part of the United Kingdom. It shares land borders with Wales to its west and Scotland to its north. The Irish Sea lies northwest of England and the Celtic Sea to the southwest. England is separated from continental Europe by the North Sea to the east and the English Channel to the south. The country covers five-eighths of the island of Great Britain, which lies in the North Atlantic, and includes over 100 smaller islands, such as the Isles of Scilly and the Isle of Wight."
+guiname = "إنجلترا"
+description = "إنجلترا بلد جزء من المملكة المتحدة. تشترك في الحدود البرية مع ويلز من الغرب واسكتلندا من الشمال. يقع البحر الأيرلندي شمال غرب إنجلترا وبحر سلتيك إلى الجنوب الغربي. يتم فصل إنجلترا عن أوروبا القارية عن طريق بحر الشمال إلى الشرق والقناة الإنجليزية إلى الجنوب. تغطي البلاد خمسة أثمان جزيرة بريطانيا العظمى ، التي تقع في شمال المحيط الأطلسي ، وتضم أكثر من 100 جزيرة أصغر ، مثل جزر سيلي وجزيرة وايت."
 
-jobtitle = "Monarch"
+jobtitle = "عاهل"
 
 [stats]
-National Anthem: = "God Save the Queen"
-Population: = "56,286,961 (2019 est)"
-Area: = "130,279 km2 (50,301 sq mi)"
-Currency: = "Pound sterling (GBP; £)"
-GVA: = "£1.9 trillion"
-GVA per capita: = "£33,800"
-Democracy Index: = "~8.10/10 (18th)"
-Biggest Industry: = "Manufacturing/Tourism"
-Capital (and largest city): = "London"
-Driving side: =	"left"
-Calling code: = "+44"
+النشيد الوطني: = "حفظ الله الملكة"
+عدد السكان: = " 56 ، 286 ، 961 (تقديرات 2019)"
+المساحة: = " 130279 كم2 (50301 ميل مربع)"
+العملة: = " الجنيه الإسترليني (الجنيه الإسترليني؛£)"
+القيمة المضافة: = "1.9 تريليون دولار"
+نصيب الفرد من القيمة المضافة: = "33800 دولار"
+مؤشر الديمقراطية: = " ~8.10/10 (18)"
+أكبر صناعة: = "التصنيع / السياحة"
+العاصمة (وأكبر مدينة): = "لندن"
+جانب القيادة: = "يسار"
+رمز الاتصال: = "+ 44"

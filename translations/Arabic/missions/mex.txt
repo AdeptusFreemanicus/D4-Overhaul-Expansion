@@ -1,19 +1,19 @@
 [config]
 name  = mex
-guiname = "United Mexican States"
-description = "Mexico, officially the United Mexican States, is a country in the southern portion of North America. It is bordered to the north by the United States; to the south and west by the Pacific Ocean; to the southeast by Guatemala, Belize, and the Caribbean Sea; and to the east by the Gulf of Mexico. Mexico covers 1,972,550 square kilometers (761,610 sq mi), making it the world's 13th-largest country by area; with approximately 126,014,024 inhabitants, it is the 10th-most-populous country and has the most Spanish-speakers. Mexico is organized as a federation comprising 31 states and Mexico City, its capital and largest metropolis. Other major urban areas include Guadalajara, Monterrey, Puebla, Toluca, Tijuana, Ciudad Juárez, and León."
+guiname = "الولايات المكسيكية المتحدة"
+description = "المكسيك ، رسميا الولايات المكسيكية المتحدة ، هي دولة تقع في الجزء الجنوبي من أمريكا الشمالية. يحدها من الشمال الولايات المتحدة ؛ إلى الجنوب والغرب من المحيط الهادئ ؛ إلى الجنوب الشرقي من غواتيمالا وبليز والبحر الكاريبي ؛ وإلى الشرق من خليج المكسيك. تغطي المكسيك 1 ، 972 ، 550 كيلومترا مربعا (761 ، 610 ميل مربع) ، مما يجعلها أكبر 13 دولة في العالم من حيث المساحة ؛ مع ما يقرب من 126 ، 014 ، 024 نسمة ، فهي الدولة رقم 10 من حيث عدد السكان ولديها أكبر عدد من المتحدثين بالإسبانية. تم تنظيم المكسيك كاتحاد يضم 31 ولاية ومكسيكو سيتي ، عاصمتها وأكبر مدينة فيها. تشمل المناطق الحضرية الرئيسية الأخرى غوادالاخارا, مونتيري, بويبلا, تولوكا, تيخوانا, سيوداد خواريزو و ليفيرن."
 
-jobtitle = "President"
+jobtitle = "الرئيس"
 
 [stats]
-National Anthem: = "The Homeland is First"
-Population: = "1.260 million (2020)"
-Area: = "1,972,550 km2 (761,610 sq mi)"
-Currency: = "Mexican peso $ (MXN)"
-GDP: = "$2.7 trillion"
-GDP per capita: = "$21,362"
-Democracy Index: = "6.07/10 (72rd)"
-Biggest Industry: = "Automotive Sector"
-Capital: = "Mexico City"
-Driving side: =	"Right"
-Calling code: = "+52"
+النشيد الوطني: = "الوطن هو الأول"
+عدد السكان: = " 1.260 مليون (2020)"
+المساحة: = " 1 ، 972 ، 550 كم2 (761 ، 610 ميل مربع)"
+العملة: = "بيزو مكسيكي"
+الناتج المحلي الإجمالي: = "2.7 تريليون دولار"
+نصيب الفرد من الناتج المحلي الإجمالي: = "21362 دولارا"
+مؤشر الديمقراطية: = " 6.07/10 (72)"
+أكبر صناعة: = "قطاع السيارات"
+العاصمة: = "مكسيكو سيتي"
+جانب القيادة: = "صحيح"
+رمز الاتصال: = "+ 52"

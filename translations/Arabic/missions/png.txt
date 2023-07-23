@@ -1,21 +1,21 @@
 [config]
 name  = png
-guiname = "Independent State of Papua New Guinea"
-description = "Papua New Guinea, officially the Independent State of Papua New Guinea, is a country in Oceania that comprises the eastern half of the island of New Guinea and its offshore islands in Melanesia (a region of the southwestern Pacific Ocean north of Australia). Its capital, located along its southeastern coast, is Port Moresby. It is the world's third largest island country with an area of 462,840 km2 (178,700 sq mi).
+guiname = "دولة بابوا غينيا الجديدة المستقلة"
+description = "بابوا غينيا الجديدة ، رسميا دولة بابوا غينيا الجديدة المستقلة ، هي دولة في أوقيانوسيا تضم النصف الشرقي من جزيرة غينيا الجديدة وجزرها البحرية في ميلانيزيا (منطقة جنوب غرب المحيط الهادئ شمال أستراليا). عاصمتها ، الواقعة على طول ساحلها الجنوبي الشرقي ، هي بورت مورسبي. إنها ثالث أكبر دولة جزرية في العالم بمساحة 462 ، 840 كم2 (178 ، 700 ميل مربع)."
 
-jobtitle = "Prime Minister"
+jobtitle = "رئيس الوزراء"
 
 [stats]
-Motto: = "Unity in diversity"
-National Anthem: = "O Arise, All You Sons"
-Royal anthem = "God Save the Queen"
-Population: = "8.9 million (2020)"
-Area: = "462,840 km2 (178,700 sq mi)"
-Currency: = "Kina (PGK)"
-GDP: = "$32.382 billion"
-GDP per capita: = "$3,764"
-Democracy Index: = "~6.10/10 (70th)"
-Biggest Industry: = "Agriculture"
-Capital And Largest City: = "Port Moresby"
-Driving side: =	"Left"
-Calling code: = "+675"
+الشعار: = "الوحدة في التنوع"
+النشيد الوطني: = "يا قوموا ، كلكم أبناء"
+النشيد الملكي = "حفظ الله الملكة"
+عدد السكان: = " 8.9 مليون (2020)"
+المساحة: = " 462 ، 840 كم2 (178 ، 700 ميل مربع)"
+العملة: = "كينا"
+الناتج المحلي الإجمالي: = "32.382 مليار دولار"
+نصيب الفرد من الناتج المحلي الإجمالي: = "3764 دولارا"
+مؤشر الديمقراطية: = " ~6.10/10 (70)"
+أكبر صناعة: = "الزراعة"
+العاصمة وأكبر مدينة: = "بورت مورسبي"
+جانب القيادة: = "يسار"
+رمز الاتصال: = "+ 675"

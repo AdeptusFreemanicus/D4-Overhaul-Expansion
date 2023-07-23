@@ -1,19 +1,19 @@
 [config]
 name  = indo
-guiname = "Republic of Indonesia"
-description = "Indonesia, officially the Republic of Indonesia, is a country in Southeast Asia and Oceania, between the Indian and Pacific oceans. It consists of more than seventeen thousand islands, including Sumatra, Java, Sulawesi, and parts of Borneo (Kalimantan) and New Guinea (Papua). Indonesia is the world's largest island country and the 14th-largest country by land area, at 1,904,569 square kilometres (735,358 square miles). With 270 million people, it is the world's 4th-most populous country as well as the most populous Muslim-majority country. Java, the world's most populous island, is home to more than half of the country's population."
+guiname = "جمهورية إندونيسيا"
+description = "إندونيسيا ، رسميا جمهورية إندونيسيا ، هي دولة تقع في جنوب شرق آسيا وأوقيانوسيا ، بين المحيطين الهندي والهادئ. وتتكون من أكثر من سبعة عشر ألف جزيرة ، بما في ذلك سومطرة وجاوة وسولاويزي وأجزاء من بورنيو (كاليمانتان) وغينيا الجديدة (بابوا). إندونيسيا هي أكبر دولة جزرية في العالم و 14 أكبر دولة من حيث مساحة الأرض ، على مساحة 1 ، 904 ، 569 كيلومتر مربع (735 ، 358 ميل مربع). مع 270 مليون شخص ، هو البلد 4 من حيث عدد السكان في العالم ، فضلا عن الدولة ذات الأغلبية المسلمة من حيث عدد السكان. جاوة ، الجزيرة الأكثر اكتظاظا بالسكان في العالم ، هي موطن لأكثر من نصف سكان البلاد."
 
-jobtitle = "President"
+jobtitle = "الرئيس"
 
 [stats]
-Motto: = "Unity in Diversity"
-National Anthem: = "Great Indonesia"
-Population: = "270 million (2020)"
-Area: = "1,904,569 km2 (735,358 sq mi)"
-Currency: = "Indonesian Rupiah (Rp)"
-GDP: = "$1.089 trillion (14,027,944,154,499,000.00 Rp)"
-GDP per capita: = "$4,038 (56,111,003.76 rp)"
-Democracy Index: = "6.48/10 (64th)"
-Biggest Industry: = "Agriculture"
-Capital And Largest City: = "Jakarta"
-Driving side: =	"left"
+الشعار: = "الوحدة في التنوع"
+النشيد الوطني: = "إندونيسيا العظمى"
+عدد السكان: = " 270 مليون (2020)"
+المساحة: = " 1 ، 904 ، 569 كم2 (735 ، 358 ميل مربع)"
+العملة: = "روبية إندونيسية"
+الناتج المحلي الإجمالي: = " 1.089 تريليون دولار (14 ، 027 ، 944 ، 154 ، 499 ، 000.00 روبية)"
+نصيب الفرد من الناتج المحلي الإجمالي: = " 4 ، 038 دولارا (56 ، 111 ، 003.76 روبية)"
+مؤشر الديمقراطية: = " 6.48/10 (64)"
+أكبر صناعة: = "الزراعة"
+العاصمة وأكبر مدينة: = "جاكرتا"
+جانب القيادة: = "يسار"

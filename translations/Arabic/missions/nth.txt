@@ -1,22 +1,22 @@
 [config]
 name  = nth
-guiname = "Netherlands"
-description = "The Netherlands, informally Holland, is a country located in Western Europe with territories in the Caribbean. It is the largest of four constituent countries of the Kingdom of the Netherlands. In Europe, the Netherlands consists of twelve provinces, bordering Germany to the east, Belgium to the south, and the North Sea to the northwest, with maritime borders in the North Sea with those countries and the United Kingdom. In the Caribbean, it consists of three special municipalities: the islands of Bonaire, Sint Eustatius and Saba."
+guiname = "هولندا"
+description = "هولندا ، هولندا بشكل غير رسمي ، هي دولة تقع في أوروبا الغربية مع مناطق في منطقة البحر الكاريبي. إنها أكبر أربع دول مكونة لمملكة هولندا. في أوروبا ، تتكون هولندا من اثنتي عشرة مقاطعة ، تحد ألمانيا من الشرق ، وبلجيكا من الجنوب ، وبحر الشمال من الشمال الغربي ، مع حدود بحرية في بحر الشمال مع تلك البلدان والمملكة المتحدة. في منطقة البحر الكاريبي ، تتكون من ثلاث بلديات خاصة: جزر بونير وسينت أوستاتيوس وسابا."
 
-jobtitle = "Monarch"
+jobtitle = "عاهل"
 
 [stats]
-National Anthem: = "I will maintain"
-Population: = "17.4 million (2020)"	
-Area: = "41,865 km2 (16,164 sq mi)"
-Currency: = "Euro (EUR)"
-GDP: = "$1.012 (~EUR844452000000.00 EUR)"
-GDP per capita: = "$58,003 (~EUR48980.75 EUR)"
-Democracy Index: = "~9.66/10 (9st)"
-Biggest Industry: = "Agriculture And Food Industry"
-Capital And Largest City: = "Amsterdam"
-Driving side: =	"Right"
-Calling code: = "+31"
+النشيد الوطني: = "سأحافظ"
+عدد السكان: = " 17.4 مليون (2020)"	
+المساحة: = " 41865 كم2 (16164 ميل مربع)"
+العملة: = " اليورو (اليورو)"
+الناتج المحلي الإجمالي: = " 1.012 دولار (~844452000000.00 يورو)"
+نصيب الفرد من الناتج المحلي الإجمالي: = " 58003 دولار (~48980.75 يورو)"
+مؤشر الديمقراطية: = " ~9.66/10 (9)"
+أكبر صناعة: = "الزراعة والصناعات الغذائية"
+العاصمة وأكبر مدينة: = "أمستردام"
+جانب القيادة: = "صحيح"
+رمز الاتصال: = "+ 31"
 
 
 

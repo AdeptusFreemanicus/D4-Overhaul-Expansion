@@ -1,18 +1,18 @@
 [config]
 name  = israel
-guiname = "State of Israel"
-description = "Israel, officially known as the State of Israel, is a country in Western Asia, located on the southeastern shore of the Mediterranean Sea and the northern shore of the Red Sea. It has land borders with Lebanon to the north, Syria to the northeast, Jordan on the east, the Palestinian territories of the West Bank and the Gaza Strip to the east and west, respectively, and Egypt to the southwest. Israel's economic and technological center is Tel Aviv, while its seat of government and proclaimed capital is Jerusalem."
+guiname = "以色列国"
+description = "以色列，正式名称为以色列国，是西亚的一个国家，位于地中海东南岸和红海北岸。 北与黎巴嫩、东北与叙利亚、东与约旦接壤，东与西岸和加沙地带的巴勒斯坦领土接壤，西南与埃及接壤。 以色列的经济和技术中心是特拉维夫，而其政府所在地和宣布的首都是耶路撒冷。"
 
-jobtitle = "President"
+jobtitle = "主席"
 
 [stats]
-National Anthem: = "The Hope"
-Population: = "9.3 million people (2021)"
-Area: = "20,770–22,072 km2 (8,019–8,522 sq mi)"
-Currency: = "New shekel (₪‎) (ILS)"
-GDP: = "$410.501 billion"
-GDP per capita: = "$44,474"
-Democracy Index: = "7.84/10 (27th)"
-Biggest Industry: = "Technology"
-Capital And Largest City: = "Jerusalem"
-Driving side: =	"right"
+国歌：="希望"
+人口：="930万人（2021年）"
+面积:="20,770–22,072km2(8,019–8,522sq mi)"
+货币:="新谢克尔(₪)(ILS)"
+GDP:="$410.501十亿"
+人均国内生产总值：="$44,474"
+民主指数:="7.84/10(27日)"
+最大的行业：="技术"
+首都和最大的城市：="耶路撒冷"
+驾驶侧：="右"

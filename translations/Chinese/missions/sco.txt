@@ -1,18 +1,18 @@
 [config]
 name  = sco
-guiname = "Scotland"
-description = "Scotland is a country that is part of the United Kingdom. Covering the northern third of the island of Great Britain, mainland Scotland has a 96-mile (154-kilometre) border with England to the southeast and is otherwise surrounded by the Atlantic Ocean to the north and west, the North Sea to the northeast and the Irish Sea to the south. The country also contains more than 790 islands, principally in the archipelagos of the Hebrides and the Northern Isles. Most of the population, including the capital Edinburgh, is concentrated in the Central Belt – the plain between the Scottish Highlands and the Southern Uplands – in the Scottish Lowlands."
+guiname = "苏格兰"
+description = "苏格兰是一个国家，是英国的一部分。 苏格兰大陆复盖大不列颠岛的北部三分之一，东南与英格兰接壤96英里（154公里），北部和西部被大西洋包围，东北部被北海包围，南部被爱尔兰海包围。 该国还拥有790多个岛屿，主要位于赫布里底群岛和北三岛群岛。 包括首都爱丁堡在内的大部分人口集中在苏格兰低地的中央地带–苏格兰高地和南部高地之间的平原。"
 
-jobtitle = "Monarch"
+jobtitle = "君主,君主"
 
 [stats]
-National Anthem: = "In my defence God me defend"
-Population: = "5,463,300 people (2019 est)"
-Area: = "77,933 km2 (30,090 sq mi)"
-Currency: = "Pound sterling (GBP; £)"
-GVA: = "£166 billion"
-GVA per capita: = "£30,560"
-Biggest Industry: = "Oil & Gas Exports"
-Capital And Largest City: = "Edinburgh"
-Driving side: =	"left"
-Calling code: = "+44"
+国歌:="为我辩护，上帝为我辩护"
+人口:="5,463,300人(2019est)"
+面积:="77,933km2(30,090sq mi)"
+货币:="英镑(GBP;£)"
+GVA：="£166十亿"
+人均GVA：="£30,560"
+最大的行业：="石油和天然气出口"
+首都和最大城市：="爱丁堡"
+驾驶侧：="左"
+调用代码:="+44"
