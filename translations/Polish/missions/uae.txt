@@ -1,19 +1,19 @@
 [config]
 name  = uae
-guiname = "United Arab Emirates"
-description = "The United Arab Emirates, or simply the Emirates, is a country in Western Asia. It is located at the eastern end of the Arabian Peninsula, and shares borders with Oman and Saudi Arabia, while having maritime borders in the Persian Gulf with Qatar and Iran. Abu Dhabi is the nation's capital, while Dubai, the most populous city, is an international hub."
+guiname = "Zjednoczone Emiraty Arabskie"
+description = "Zjednoczone Emiraty Arabskie, lub po prostu Emiraty, to kraj w Azji Zachodniej. Znajduje się na wschodnim krańcu Półwyspu Arabskiego i graniczy z Omanem i Arabią Saudyjską, mając granice morskie w Zatoce Perskiej z katarem i Iranem. Abu Zabi jest stolicą kraju, podczas gdy Dubaj, najbardziej zaludnione miasto,jest międzynarodowym centrum."
 
-jobtitle = "President"
+jobtitle = "Przewodniczący"
 
 [stats]
-National Anthem: = "Long Live My Country"
-Population: = "9,282,410 people (2020 est)"
-Area: = "83,600 km2 (32,300 sq mi)"
-Currency: = "UAE dirham (AED)"
-GDP: = "$763.182 billion"
-GDP per capita: = "$59,844"
-Democracy Index: = "2.90/10 (134th)"
-Biggest Industry: = "Tourism/Oil Industry"
-Capital and Largest City: = "Abu Dhabi"
-Driving side: =	"right"
-Calling code: = "+971"
+Hymn Narodowy: = "Niech Żyje Mój Kraj"
+Populacja: = "9 282 410 osób (2020 est)"
+Powierzchnia: = " 83 600 km2 (32 300 2)"
+Waluta: = " Dirham ZEA (AED)"
+PKB: = "763,182 mld USD"
+PKB per capita: = "$59,844"
+Indeks demokracji: = " 2.90 / 10 (134.)"
+Największa Branża: = "Turystyka / Przemysł Naftowy",
+Stolica i największe miasto: = "Abu Dhabi"
+Strona jazdy: = "prawo"
+Kod wywołujący: =" + 971"

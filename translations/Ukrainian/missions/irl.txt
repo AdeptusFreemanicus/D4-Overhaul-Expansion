@@ -1,19 +1,19 @@
 [config]
 name  = irl
-guiname = "Republic of Ireland"
-description = "Ireland, Officially the Republic of Ireland, is a country in north-western Europe consisting of 26 of the 32 counties of the island of Ireland. The capital and largest city is Dublin, which is located on the eastern side of the island. Around 40% of the country's population of 5 million people resides in the Greater Dublin Area. The sovereign state shares its only land border with Northern Ireland, which is part of the United Kingdom. It is otherwise surrounded by the Atlantic Ocean, with the Celtic Sea to the south, St George's Channel to the south-east, and the Irish Sea to the east. It is a unitary, parliamentary republic. The legislature, the Oireachtas, consists of a lower house, Dáil Éireann, an upper house, Seanad Éireann, and an elected President (Uachtarán) who serves as the largely ceremonial head of state, but with some important powers and duties. The head of government is the Taoiseach (Prime Minister, literally 'Chief', a title not used in English), who is elected by the Dáil and appointed by the President; the Taoiseach in turn appoints other government ministers."
+guiname = "Ірландська Республіка"
+description = "Ірландія, офіційно Республіка Ірландія, є країною в північно-західній Європі, що складається з 26 з 32 графств острова Ірландія. Столицею і найбільшим містом є Дублін, який розташований на східній стороні острова. Близько 40% населення країни, що налічує 5 мільйонів чоловік, проживає в районі Великого Дубліна. Суверенна держава має свій єдиний сухопутний кордон з Північною Ірландією, яка є частиною Сполученого Королівства. В іншому випадку він оточений Атлантичним океаном, з кельтським морем на півдні, протокою Святого Георгія на південному сході та Ірландським морем на сході. Це унітарна парламентська республіка. Законодавчий орган, Ойреахтас, складається з нижньої палати, Дейл Ейранн, верхньої палати, Сенад Ейранн, та обраного президента (Уахтаран), який виконує переважно церемоніальні функції глави держави, але має деякі важливі повноваження та обов'язки. Главою уряду є прем'єр-міністр (прем'єр-міністр, буквально "начальник", титул, який не використовується в англійській мові), який обирається парламентом і призначається президентом; прем'єр-міністр, у свою чергу, призначає інших міністрів уряду."
 
-jobtitle = "President"
+jobtitle = "Президент"
 
 [stats]
-National Anthem: = "The Soldiers' Song"
-Population: = "5 million (2021 est)"
-Area: = "70,273 km2 (27,133 sq mi)"
-Currency: = "Euro (€) (EUR)"
-GDP: = "$500 billion"
-GDP per capita: = "$99,239"
-Democracy Index: = "~9.05/10 (8th)"
-Biggest Industry: = "Export And Trade"
-Capital And Largest City: = "Dublin"
-Driving side: =	"Left"
-Calling code: = "+353"
+Національний гімн: = "Солдатська пісня"
+Населення: = "5 мільйонів (станом на 2021 рік)"
+Площа: = "70,273 км2 (27,133 кв. милі)"
+Валюта: = "Євро (€) (EUR)"
+ВВП: = "500 мільярдів доларів"
+ВВП на душу населення: = "99 239 доларів США"
+Індекс демократії: = "~9.05/10 (8-е місце)"
+Найбільша галузь: = "Експорт і торгівля"
+Столиця і найбільше місто: = "Дублін"
+Сторона руху: = "ліва"
+Телефонний код: = "+353"

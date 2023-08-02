@@ -2,7 +2,7 @@
 name  = ind
 guiname = "República de la India"
 description = "India, oficialmente la República de la India, es un país del sur de Asia. Es el segundo país más poblado, el séptimo país más grande por área territorial y la democracia más poblada del mundo. Limita con el Océano Índico al sur, el Mar Arábigo al suroeste y la Bahía de Bengala al sureste, comparte fronteras terrestres con Pakistán al oeste; China, Nepal y Bután al norte; y Bangladesh y Myanmar al este. En el Océano Índico, India se encuentra en las proximidades de Sri Lanka y Maldivas; sus islas Andaman y Nicobar comparten una frontera marítima con Tailandia, Myanmar e Indonesia "
-jobtitle = "President"
+jobtitle = "Presidente"
 
 [stats]
 Himno nacional: = "Solo la verdad triunfa"

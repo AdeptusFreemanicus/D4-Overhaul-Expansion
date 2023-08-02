@@ -1,17 +1,17 @@
 [config]
 name  = wal
-guiname = "Wales"
-description = "Wales is a country that is part of the United Kingdom. It is bordered by England to the east, the Irish Sea to the north and west, and the Bristol Channel to the south. It had a population in 2011 of 3,063,456 and has a total area of 20,779 km2 (8,023 sq mi). Wales has over 1,680 miles (2,700 km) of coastline and is largely mountainous with its higher peaks in the north and central areas, including Snowdon (Yr Wyddfa), its highest summit. The country lies within the north temperate zone and has a changeable, maritime climate. The capital and largest city is Cardiff."
+guiname = "Walia"
+description = "Walia to kraj, który jest częścią Wielkiej Brytanii. Graniczy z Anglią na wschodzie, Morzem Irlandzkim na północy i zachodzie oraz Kanałem Bristolskim na południu. W 2011 roku liczyło 3 063 456 mieszkańców i ma łączną powierzchnię 20 779 km2 (8023 2). Walia ma ponad 1680 Mil (2700 km) linii brzegowej i jest w dużej mierze górzysta z wyższymi szczytami na obszarach północnych i centralnych, w tym Snowdon (Yr Wyddfa), jego najwyższy szczyt. Kraj leży w północnej strefie umiarkowanej i ma zmienny, morski klimat. Stolicą i największym miastem jest Cardiff."
 
-jobtitle = "Monarch"
+jobtitle = "Monarcha"
 
 [stats]
-Population: = "3,153,000 million (2019 est)"
-Area: = "20,779 km2 (8,023 sq mi)	"
-Currency: = "Pound sterling (GBP; £)"
-GVA: = "£75 billion"
+Populacja: = "3 153 000 milionów (2019 est)"
+Powierzchnia: = " 20 779 km2 (8 023 2) "
+Waluta: = " Funt szterling (GBP;£)"
+GVA: = "75 miliardów funtów"
 GVA per capita: = "£23,900"
-Largest Industry: = "Sheeeep"
-Capital and largest city: = "Cardiff"
-Driver side: = "left"
-Phone prefix: = "+44"
+Największa Branża: = "Sheeeep"
+Stolica i największe miasto: = "Cardiff"
+Align = "left"
+Prefiks telefonu: =" + 44"

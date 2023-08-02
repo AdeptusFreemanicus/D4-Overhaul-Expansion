@@ -1,21 +1,21 @@
 [config]
 name  = png
-guiname = "Independent State of Papua New Guinea"
-description = "Papua New Guinea, officially the Independent State of Papua New Guinea, is a country in Oceania that comprises the eastern half of the island of New Guinea and its offshore islands in Melanesia (a region of the southwestern Pacific Ocean north of Australia). Its capital, located along its southeastern coast, is Port Moresby. It is the world's third largest island country with an area of 462,840 km2 (178,700 sq mi).
+guiname = "파푸아뉴기니 독립국"
+description = "파푸아뉴기니는 공식적으로 파푸아뉴기니의 독립국가로,오세아니아의 국가로 뉴기니 섬의 동쪽 절반과 멜라네시아(오스트레일리아 북쪽 남서태평양의 지역)의 해안 섬을 포함한다. 그 의 수도 는 남동쪽 해안 에 위치 하고 있으며,포트 모레스비 이다. 그것은 462,840 평방 킬로미터(178,700 평방 마일)의 면적으로 세계에서 세 번째로 큰 섬 나라입니다.
 
-jobtitle = "Prime Minister"
+jobtitle = "총리"
 
 [stats]
-Motto: = "Unity in diversity"
-National Anthem: = "O Arise, All You Sons"
-Royal anthem = "God Save the Queen"
-Population: = "8.9 million (2020)"
-Area: = "462,840 km2 (178,700 sq mi)"
-Currency: = "Kina (PGK)"
-GDP: = "$32.382 billion"
-GDP per capita: = "$3,764"
-Democracy Index: = "~6.10/10 (70th)"
-Biggest Industry: = "Agriculture"
-Capital And Largest City: = "Port Moresby"
-Driving side: =	"Left"
-Calling code: = "+675"
+모토:="다양성의 단결"
+국가:="오 일어나,모든 아들들"
+로얄 애국가="하나님은 여왕을 저장"
+인구:="890 만(2020)"
+지역:="462,840 평방 킬로미터(178,700 평방 마일)"
+통화:="키나(한국)"
+32.382 억 달러
+1 인당 국내 총생산:="$3,764"
+민주주의 지수:="~6.10/10(70 번째)"
+가장 큰 산업:="농업"
+수도 및 최대 도시:="포트 모레스비"
+운전 측면:="왼쪽"
+전화번호:="+675"

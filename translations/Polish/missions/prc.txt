@@ -1,19 +1,19 @@
 [config]
 name  = prc
-guiname = "People's Republic of China"
-description = "China, officially the People's Republic of China, is a country in East Asia. It is the world's most populous country, with a population of around 1.4 billion in 2019. Covering approximately 9.6 million square kilometers (3.7 million mi2), it is the world's third or fourth-largest country by area. As a one-party state led by the Chinese Communist Party (CCP), it exercises jurisdiction over 22 provinces, five autonomous regions, four direct-controlled municipalities Beijing, Tianjin, Shanghai, and Chongqing, and the special administrative regions of Hong Kong and Macau."
+guiname = "Chińska Republika Ludowa"
+description = "Chiny, oficjalnie Chińska Republika Ludowa, to kraj w Azji Wschodniej. Jest to najbardziej zaludniony kraj na świecie, z populacją około 1,4 miliarda w 2019 roku. Zajmuje około 9,6 miliona kilometrów kwadratowych (3,7 miliona mi2), jest trzecim lub czwartym co do wielkości krajem na świecie pod względem powierzchni. Jako państwo jednopartyjne kierowane przez Komunistyczna Partia Chin (KPCh) sprawuje jurysdykcję nad 22 prowincjami, pięcioma regionami autonomicznymi, czterema bezpośrednio kontrolowanymi gminami Pekin, Tianjin, Szanghaj, i Chongqing oraz specjalne regiony administracyjne Hongkongu i Makau."
 
-jobtitle = "President"
+jobtitle = "Przewodniczący"
 
 [stats]
-National Anthem: = "March of the Volunteers"
-Population: = "1.4 billion (2019)"
-Area: = "9,596,961 km2 (3,705,407 sq mi)"
-Currency: = "Renminbi ¥"
-GDP: = "$14.9 trillion (~¥2,279,745,824,694.17 CNY)"
-GDP per capita: = "$10,839 (~¥70,844.82 CNY)"
-Democracy Index: = "2.26/10 (153rd)"
-Biggest Industry: = "Manufacturing"
-Capital (and largest city): = "Beijing"
-Driving side: =	"right"
-Calling code: = "+86"
+Hymn narodowy: = "Marsz wolontariuszy"
+Populacja: = " 1,4 miliarda (2019)"
+Powierzchnia: = " 9 596 961 km2 (3 705 407 2)"
+Waluta: = " Renminbi ¥"
+PKB: = " 14,9 biliona dolarów (~2 279 745 824 694,17 CNY)"
+PKB per capita: = "$10,839 (~¥70,844.82 CNY)"
+Indeks demokracji: = " 2.26 10 (153rd)"
+Największa Branża: = "Produkcja"
+Stolica (i największe miasto): = "Pekin"
+Strona jazdy: = "prawo"
+Kod wywołujący: = "+ 86"

@@ -1,19 +1,19 @@
 [config]
 name  = dprk
-guiname = "Democratic People's Republic of Korea"
-description = "North Korea, officially the Democratic People's Republic of Korea, Chosŏn Minjujuŭi Inmin Konghwaguk, is a country in East Asia constituting the northern part of the Korean Peninsula. The country is bordered to the north by China and by Russia along the Amnok (known as the Yalu in Chinese) and Tumen rivers, and to the south by South Korea, with the heavily fortified Korean Demilitarized Zone (DMZ) separating the two. North Korea, like its southern counterpart, claims to be the legitimate government of the entire peninsula and adjacent islands. Pyongyang is the country's capital and largest city."
+guiname = "조선민주주의인민공화국"
+description = "북한은 한반도의 북부를 구성하는 동아시아의 국가이다. 이 나라는 북쪽으로는 중국과 러시아와 암노크(중국어로 야루라고 알려져 있다)강과 투멘 강을 따라,남쪽으로는 한국과 접하며,두 강을 분리하는 강화된 한국 비무장지대가 있다. 북한은 남부와 마찬가지로 반도 전체와 인접한 섬의 합법적 정부라고 주장합니다. 평양은 국가의 수도이자 가장 큰 도시입니다."
 
-jobtitle = "Supreme Leader"
+jobtitle = "최고 지도자"
 
 [stats]
-National Anthem: = "The Patriotic Song"
-Population: = "25.5 million (2018)"
-Area: = "120,540 km2 (46,540 sq mi)"
-Currency: = "Korean People's won (₩)"
-GDP: = "$30 billion"
-GDP per capita: = "$1,300"
-Democracy Index: = "~1.06/10 (167th Last)"
-Biggest Industry: = "Agriculture/Mining"
-Capital (and largest city): = "Pyongyang"
-Driving side: =	"right"
-Calling code: = "+850"
+애국가:="애국적인 노래"
+인구:="2550 만(2018)"
+지역:="120,540 평방 킬로미터(46,540 평방 마일)"
+Currency:="한국 사람들의 원(₩)"
+300 억 달러
+1 인당 국내 총생산:="$1,300"
+민주주의 지수:="~1.06/10(마지막 167 위)"
+가장 큰 산업:="농업/광업"
+자본(그리고 가장 큰 도시):="평양"
+운전 측면:="오른쪽"
+호출 코드:="+850"

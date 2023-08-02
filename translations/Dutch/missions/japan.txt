@@ -1,18 +1,18 @@
 [config]
 name  = japan
 guiname = "Japan"
-description = "Japan is a parliamentary constitutional monarchy with a ceremonial emperor and bicameral parliament. The current emperor is Naruhito, following the abdication of Akihito in 2019. The house of representatives has 465 seats and the upper house of councillors has 245 seats. Representatives must be at least 25 and councillors at least 30. The minimum voting age was reduced from 20 to 18 in 2016. Japan is divided in 47 prefectures, each overseen by an elected governor."
-jobtitle = "Prime Minister"
+description = "Japan is een parlementaire constitutionele vorst met een ceremoniële keizer en een tweekamerparlement. De huidige keizer is Naruhito, na de abdicatie van Akihito in 2019. Het huis van Afgevaardigden heeft 465 zetels en het hogerhuis van raadsleden heeft 245 zetels. De vertegenwoordigers moeten ten minste 25 zijn en de raadsleden ten minste 30. De minimumleeftijd voor het stemmen werd in 2016 verlaagd van 20 naar 18 jaar. Japan is verdeeld in 47 prefecturen, elk onder toezicht van een gekozen gouverneur."
+jobtitle = "Eerste Minister"
 
 [stats]
-Population:= 	"126.3 million"
-Size:=		"377,975 sq km"
-Ethnicity:= 	"98.1% Japanese 0.5% Chinese 0.4% Korean"
-Religion:= 	"Shintoism(70.4%) Christianity (1.5%)
-Exports:= 	"Cars, Iron, Steel, Semiconductors".
-World Leader:=	"Robotics production"
-Member of:=	"United Nations, OECD, WTO, G7"
-National obsessions:=	"Video Games, Animation"
+Bevolking:= "126,3 miljoen"
+Grootte:= "377.975 km2"
+Etniciteit:= "98.1% Japans 0.5% Chinees 0.4% Koreaans"
+Religie: = " Shintoïsme (70,4%) Christendom (1,5%)
+Export: = "Auto' S, Ijzer, Staal, Halfgeleiders".
+Wereldleider:= "robotica productie"
+Lid van: = "Verenigde Naties, OESO, WTO, G7"
+Nationale obsessies:= "Video Games, animatie"
 
 
 

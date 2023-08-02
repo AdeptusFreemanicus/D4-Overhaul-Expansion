@@ -1,18 +1,18 @@
 [config]
 name  = israel
-guiname = "State of Israel"
-description = "Israel, officially known as the State of Israel, is a country in Western Asia, located on the southeastern shore of the Mediterranean Sea and the northern shore of the Red Sea. It has land borders with Lebanon to the north, Syria to the northeast, Jordan on the east, the Palestinian territories of the West Bank and the Gaza Strip to the east and west, respectively, and Egypt to the southwest. Israel's economic and technological center is Tel Aviv, while its seat of government and proclaimed capital is Jerusalem."
+guiname = "イスラエルの州"
+description = "正式にはイスラエル国家として知られているイスラエルは、地中海の南東岸と紅海の北岸に位置する西アジアの国です。 北はレバノン、北東はシリア、東はヨルダン、東と西はそれぞれ西岸とガザ地区のパレスチナ領、南西はエジプトと国境を接しています。 イスラエルの経済と技術の中心地はテルアビブであり、政府と宣言された首都はエルサレムです。"
 
-jobtitle = "President"
+jobtitle = "プレジデント"
 
 [stats]
-National Anthem: = "The Hope"
-Population: = "9.3 million people (2021)"
-Area: = "20,770–22,072 km2 (8,019–8,522 sq mi)"
-Currency: = "New shekel (₪‎) (ILS)"
-GDP: = "$410.501 billion"
-GDP per capita: = "$44,474"
-Democracy Index: = "7.84/10 (27th)"
-Biggest Industry: = "Technology"
-Capital And Largest City: = "Jerusalem"
-Driving side: =	"right"
+国歌：="希望"
+人口：="930万人（2021年）"
+面積:="20,770–22,072km2(8,019–8,522sq mi)"
+通貨:="新しいシェケル(₪)(ILS)"
+GDP：="$410.501億"
+一人当たりGDP:="$44,474"
+民主主義指数：="7.84/10（第27回）"
+最大の産業：="技術"
+首都と最大の都市：="エルサレム"
+運転側：="右"

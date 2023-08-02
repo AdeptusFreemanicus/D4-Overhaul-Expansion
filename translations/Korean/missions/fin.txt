@@ -1,18 +1,18 @@
 [config]
 name  = fin
-guiname = "Republic of Finland"
-description = "Finland, officially the Republic of Finland is a Nordic country located in Northern Europe. Finland shares land borders with Sweden to the west, Russia to the east, and Norway to the north, Finland has a population of approximately 5.5 million, making it the 25th-most populous country in Europe. The main language is Finnish, Swedish is the second official language of Finland, Finland is a parliamentary republic consisting of 19 regions and 310 municipalities. The climate varies significantly relative to latitude, from Southern Finland's humid continental climate to the boreal climate of the north. Finland is primarily a boreal forest biome, with more than 180,000 recorded lakes, With an area of 338,455 square kilometres (130,678 sq mi), Finland is the eighth-largest country in Europe, and the most sparsely populated country in the European Union. Helsinki, the capital of Finland, is the largest metropolitan area with over 1.5 million people."
+guiname = "핀란드 공화국"
+description = "핀란드,공식적으로 핀란드 공화국은 북유럽에 위치한 북유럽 국가입니다. 핀란드는 서쪽으로는 스웨덴,동쪽으로는 러시아,북쪽으로는 노르웨이와 국경을 접하고 있으며,핀란드의 인구는 약 550 만 명으로 유럽에서 25 번째로 인구가 많은 나라입니다. 주요 언어는 핀란드어이고,스웨덴어는 핀란드의 두 번째 공식 언어이며,핀란드는 19 개 지역과 310 개 지방 자치체로 구성된 의회 공화국입니다. 기후는 남 핀란드의 습한 대륙 기후에서 북쪽의 북부 기후에 이르기까지 위도에 따라 크게 다릅니다. 핀란드는 주로 북부 숲 생물권으로,180,000 개 이상의 호수가 기록되어 있으며,면적은 338,455 평방 킬로미터(130,678 평방 마일)이며,핀란드는 유럽에서 8 번째로 큰 나라이며,유럽 연합에서 가장 인구가 적은 나라입니다. 핀란드의 수도인 헬싱키는 인구가 150 만 명 이상인 가장 큰 대도시 지역입니다."
 
-jobtitle = "President"
+jobtitle = "대통령"
 
 [stats]
-National Anthem: = "Our Land"
-Population: = "5.5 million people (2020)"
-Area: = "338,455 km2 (130,678 sq mi)"
-Currency: = "Euro (€) (EUR)"
-GDP: = "$277 billion (€230,139,104,151.60 EUR)"
-GDP per capita: = "$48,461 (€40,262.42 EUR)"
-Democracy Index: = "9.25/10 (5th)"
-Biggest Industry: = "Electronics"
-Capital And Largest City: = "Helsinki"
-Driving side: =	"right"
+국가:="우리 땅"
+인구:="550 만 명(2020)"
+지역:="338,455 평방 킬로미터(130,678 평방 마일)"
+통화:="유로(유로)"(유로)"(유로)"(유로)"(유로)"(유로)"
+GDP:="$277 억(€230,139,104,151.EUR60)"
+1 인당 국내총생산: = "$48,461 (€40,262.42 "
+민주주의 지수:="9.25/10(5 위)"
+가장 큰 산업:="전자"
+자본과 가장 큰 도시:="헬싱키"
+운전 측면:="오른쪽"

@@ -3,7 +3,7 @@ name  = norway
 guiname = "Regno di Norvegia"
 description = "La Norvegia, ufficialmente Regno di Norvegia, è un paese nordico dell'Europa settentrionale il cui territorio continentale comprende la parte occidentale e settentrionale della penisola scandinava. Anche la remota isola artica di Jan Mayen e l'arcipelago delle Svalbard fanno parte della Norvegia. L'isola Bouvet, situata nel subantartico, è una dipendenza della Norvegia; rivendica anche i territori antartici di Peter I Island e Queen Maud Land. La Norvegia ha una superficie totale di 385.207 chilometri quadrati (148.729 miglia quadrate) e una popolazione di 5.385.300 abitanti a partire da novembre 2020. Il paese condivide un lungo confine orientale con la Svezia (1.619 km o 1.006 mi di lunghezza)."
 
-jobtitle = "primo ministro"
+jobtitle = "Primo Ministro"
 
 [stats]
 Inno Nazionale: = "Sì, amiamo questo paese"

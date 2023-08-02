@@ -1,19 +1,19 @@
 [config]
 name  = prc
-guiname = "People's Republic of China"
-description = "China, officially the People's Republic of China, is a country in East Asia. It is the world's most populous country, with a population of around 1.4 billion in 2019. Covering approximately 9.6 million square kilometers (3.7 million mi2), it is the world's third or fourth-largest country by area. As a one-party state led by the Chinese Communist Party (CCP), it exercises jurisdiction over 22 provinces, five autonomous regions, four direct-controlled municipalities Beijing, Tianjin, Shanghai, and Chongqing, and the special administrative regions of Hong Kong and Macau."
+guiname = "Volksrepublik China"
+description = "China, offiziell die Volksrepublik China, ist ein Land in Ostasien. Es ist das bevölkerungsreichste Land der Welt mit einer Bevölkerung von rund 1,4 Milliarden im Jahr 2019. Mit einer Fläche von rund 9,6 Millionen Quadratkilometern (3,7 Millionen mi2) ist es flächenmäßig das dritt- oder viertgrößte Land der Welt. Als Einparteienstaat unter Führung der Kommunistischen Partei Chinas (KPCh) übt es die Gerichtsbarkeit über 22 Provinzen, fünf autonome Regionen, vier direkt kontrollierte Gemeinden Peking, Tianjin, Shanghai und Chongqing sowie die Sonderverwaltungsregionen Hongkong und Macau aus."
 
-jobtitle = "President"
+jobtitle = "Präsident"
 
 [stats]
-National Anthem: = "March of the Volunteers"
-Population: = "1.4 billion (2019)"
-Area: = "9,596,961 km2 (3,705,407 sq mi)"
-Currency: = "Renminbi ¥"
-GDP: = "$14.9 trillion (~¥2,279,745,824,694.17 CNY)"
-GDP per capita: = "$10,839 (~¥70,844.82 CNY)"
-Democracy Index: = "2.26/10 (153rd)"
-Biggest Industry: = "Manufacturing"
-Capital (and largest city): = "Beijing"
-Driving side: =	"right"
-Calling code: = "+86"
+Nationalhymne: = "Marsch der Freiwilligen"
+Bevölkerung: = "1,4 Milliarden (2019)"
+Fläche: = "9.596.961 km2 (3.705.407 Quadratmeilen)"
+Währung: = "Renminbi ¥"
+BIP: = "14,9 Billionen US-Dollar (~ ¥ 2.279.745.824.694,17 CNY)"
+BIP pro Kopf: = "$10,839 (~¥70,844.82 CNY)"
+Demokratieindex: = "2,26 / 10 (153.)"
+Größte Industrie: = "Verarbeitendes Gewerbe"
+Hauptstadt (und größte Stadt): = "Peking"
+Fahrseite: = "rechts"
+Vorwahl: = "+86"

@@ -3,7 +3,7 @@ name  = taiwan
 guiname = "República de China"
 description = "Taiwán, oficialmente la República de China, es un país del este de Asia. Los países vecinos incluyen la República Popular de China al noroeste, Japón al noreste y Filipinas al sur. La isla principal de Taiwán tiene un área de 35,808 kilómetros cuadrados (13,826 millas cuadradas), con cadenas montañosas que dominan los dos tercios orientales y llanuras en el tercio occidental, donde se concentra su población altamente urbanizada. Taipei es la capital y el área metropolitana más grande de Taiwán. Otras ciudades importantes incluyen New Taipei, Kaohsiung, Taichung, Tainan y Taoyuan. Con 23,57 millones de habitantes, Taiwán se encuentra entre los países más densamente poblados."
 
-jobtitle = "Presidente"
+jobtitle = "Presidentee"
 
 [stats]
 Himno Nacional: = "Himno Nacional de la República de China"

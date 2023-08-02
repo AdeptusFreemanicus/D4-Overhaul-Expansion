@@ -1,19 +1,19 @@
 [config]
 name  = phi
-guiname = "Republic of the Philippines"
-description = "The Philippines, officially the Republic of the Philippines, is an archipelagic country in Southeast Asia. Situated in the western Pacific Ocean, it consists of about 7,641 islands that are broadly categorized under three main geographical divisions from north to south: Luzon, Visayas, and Mindanao. The capital city of the Philippines is Manila and the most populous city is Quezon City, both within the single urban area of Metro Manila. Bounded by the South China Sea to the west, the Philippine Sea to the east, and the Celebes Sea to the southwest, the Philippines shares maritime borders with Taiwan to the north, Japan to the northeast, Palau to the east, Indonesia to the south, Malaysia and Brunei to the southwest, Vietnam to the west, and China to the northwest."
+guiname = "Республіка Філіппіни"
+description = "Філіппіни, офіційно Республіка Філіппіни , є архіпелажною країною в Південно-Східній Азії. Розташований у західній частині Тихого океану, він складається приблизно з 7641 острова, які широко поділяються на три основні географічні підрозділи з півночі на південь: Лусон, Вісаї та Мінданао. Столицею Філіппін є Маніла, а найбільш густонаселеним містом - Кесон-Сіті, обидва вони знаходяться в межах єдиного міського району метро Маніла. Обмежені Південно-Китайським морем на заході, Філіппінським морем на Сході та Целебеським морем на південному заході, Філіппіни мають спільні морські кордони з Тайванем на півночі, Японією на північному сході, Палау на сході, Індонезією на півдні, Малайзією та Брунеєм на південному заході, В'єтнамом на півдні. на Заході і в Китаї на північному заході."
 
-jobtitle = "President"
+jobtitle = "Президент"
 
 [stats]
-Motto: = "For God, People, Nature and Country"
-National Anthem: = "Chosen Land"
-Population: = "109 Million People (2020)"
-Area: = "300,000 km2 (120,000 sq mi)"
-Currency: = "Philippine peso (₱) (PHP)"
-GDP: = "$367.362 billion"
-GDP per capita: = "$3,484"
-Democracy Index: = "6.56/10 (55th)"
-Biggest Industry: = "Agriculture"
-Capital And Largest City: = "Manila"
-Driving side: =	"right"
+Девіз: = "заради Бога, людей, природи та країни"
+Національний гімн: = "обрана земля"
+Населення: = "109 мільйонів людей (2020)"
+Площа: = "300 000 км2 (120 000 кв. миль)"
+Валюта: = "Філіппінське песо (₱) (PHP)"
+ВВП: = "367,362 мільярда доларів"
+ВВП на душу населення: = "3484 долари"
+Індекс демократії: = "6.56/10 (55-е місце)"
+Найбільша ГАЛУЗЬ: = "СІЛЬСЬКЕ ГОСПОДАРСТВО"
+Столиця і найбільше місто: = "Маніла"
+Сторона руху: = "права"

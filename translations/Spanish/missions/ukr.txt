@@ -2,7 +2,7 @@
 name  = ukr
 guiname = "Ucrania"
 description = "Ucrania es un país de Europa del Este. Es el segundo país más grande de Europa después de Rusia, que limita al este y noreste. Ucrania también comparte fronteras con Bielorrusia al norte; Polonia, Eslovaquia y Hungría al oeste; Rumania y Moldavia al sur; y tiene una costa a lo largo del Mar de Azov y el Mar Negro. Se extiende por un área de 603.628 km2 (233.062 millas cuadradas), con una población de 41,4 millones, y es el octavo país más poblado de Europa."
-jobtitle = "Presidente"
+jobtitle = "Presidentee"
 
 [stats]
 Himno Nacional: = "Himno del Estado de Ucrania"

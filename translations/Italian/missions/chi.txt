@@ -2,7 +2,7 @@
 name  = chi
 guiname = "Repubblica del Cile"
 description = "Il Cile, ufficialmente Repubblica del Cile, è un paese del Sud America occidentale. Occupa una striscia di terra lunga e stretta tra le Ande a est e l'Oceano Pacifico a ovest. Il Cile copre un'area di 756.096 chilometri quadrati (291.930 miglia quadrate) e ha una popolazione di 17,5 milioni a partire dal 2017. La capitale e la città più grande è Santiago e la lingua nazionale è lo spagnolo."
-jobtitle = "Presidente"
+jobtitle = "Presidentee"
 
 [stats]
 Motto: = "Per destra o per forza"

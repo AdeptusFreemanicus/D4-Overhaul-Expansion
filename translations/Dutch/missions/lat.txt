@@ -1,19 +1,19 @@
 [config]
 name  = lat
-guiname = "Republic of Latvia"
-description = "Latvia, officially the Republic of Latvia, is a country in the Baltic region of Northern Europe. It is one of the Baltic states; and is bordered by Estonia to the north, Lithuania to the south, Russia to the east, Belarus to the southeast, and shares a maritime border with Sweden to the west. Latvia covers an area of 64,589 km2 (24,938 sq mi), with a population of 1.9 million. The country has a temperate seasonal climate. Its capital and largest city is Riga. Latvians belong to the ethno-linguistic group of the Balts; and speak Latvian, one of the only two surviving Baltic languages. Russians are the most prominent minority in the country, at almost a quarter of the population."
+guiname = "Republiek Letland"
+description = "Letland, officieel de Republiek Letland, is een land in de Baltische regio van Noord-Europa. Het is een van de Baltische staten; en wordt begrensd door Estland in het noorden, Litouwen in het zuiden, Rusland in het oosten, Wit-Rusland in het zuidoosten, en deelt een maritieme grens met Zweden in het westen. Letland heeft een oppervlakte van 64.589 km2 (24.938 sq mi), met een bevolking van 1,9 miljoen. Het land heeft een gematigd seizoensgebonden klimaat. De hoofdstad en grootste stad is Riga. Letten behoren tot de Etno-linguïstische groep van de Baltische landen; en spreken Letlands, een van de twee overgebleven Baltische talen. De Russen zijn de meest prominente minderheid in het land, met bijna een kwart van de bevolking."
 
 jobtitle = "President"
 
 [stats]
-National Anthem: = "God Bless Latvia!"
-Population: = "1.9 million (2018)"
-Area: = "64,589 km2"
-Currency: = "Euro (€) (EUR)"
-GDP: = "$70 billion"
-GDP per capita: = "$37,009
-Democracy Index: = "~7.37/10 (38th)"
-Biggest Industry: = "Industry Sector/Agriculture Sector"
-Capital (and largest city): = "Riga"
-Driving side: =	"right"
-Calling code: = "+371"
+Volkslied: = " God Zegene Letland!"
+Bevolking: = "1,9 miljoen (2018)"
+Oppervlakte: = "64.589 km2"
+Valuta: = "Euro (€) (EUR)"
+BBP: = "$70 miljard"
+BBP per hoofd van de bevolking: = " $37.009
+Democratie Index: = " ~7.37/10 (38e)"
+Grootste Industrie: = "Industrie / Landbouwsector"
+Hoofdstad (en grootste stad): = "Riga"
+Rijzijde: = "rechts"
+Telefooncode: = "+371"

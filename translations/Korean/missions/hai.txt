@@ -1,20 +1,20 @@
 [config]
 name  = hai
-guiname = "Republic of Haiti"
-description = "Haiti, officially the Republic of Haiti, and formerly known as Hayti, is a country located on the island of Hispaniola in the Greater Antilles archipelago of the Caribbean Sea, to the east of Cuba and Jamaica and south of The Bahamas and the Turks and Caicos Islands. It occupies the western three-eighths of the island which it shares with the Dominican Republic. To its south-west lies the small Navassa Island, which is claimed by Haiti but is disputed as a United States territory under federal administration. Haiti is 27,750 km2 (10,714 sq mi) in size, the third largest country in the Caribbean by area, and has an estimated population of 11.4 million, making it the most populous country in the Caribbean. The capital is Port-au-Prince."
+guiname = "아이티 공화국"
+description = "아이티,공식적으로 아이티 공화국,이전 하이티로 알려진,카리브해의 그레이터 앤 틸리 스 제도 히스 파니 올라 섬에 위치한 나라입니다,쿠바와 자메이카의 동쪽과 남쪽 바하마와 터크스 케이 커스 제도. 도미니카 공화국과 공유하는 섬의 서쪽 3/8 을 차지합니다. 남서쪽 에는 작은 나바사 섬 이 있는데,이 섬 은 아이티 가 주장 하지만 연방 관리 하 에 있는 미국 영토 로 분쟁 을 벌이고 있다. 아이티는 27,750 평방 킬로미터(10,714 평방 마일)크기,면적에 의해 카리브해에서 세 번째로 큰 나라이며,카리브해에서 가장 인구가 많은 국가 만들기,11.4 만명의 추정 인구를 가지고있다. 수도는 포트오프랭스입니다."
 
-jobtitle = "President"
+jobtitle = "대통령"
 
 [stats]
-Motto: = "Liberty, Equality, Fraternity"
-National Anthem: = "The Dessalines Song"
-Population: = "11,439,646 (2018 est)"
-Area: = "27,750 km2 (10,710 sq mi)"
-Currency: = "Gourde (G) (HTG)"
-GDP: = "$34.189 billion"
-GDP per capita: = "$2,962"
-Democracy Index: = "~3.48/10 (119th)"
-Biggest Industry: = "Agriculture/Tourism"
-Capital And Largest City: = "Port-au-Prince"
-Driving side: =	"right"
-Calling code: = "+509"
+모토:="자유,평등,형제애"
+국가:="데살린 노래"
+인구:="11,439,646(2018 동부 표준시)"
+지역:="27,750 평방 킬로미터(10,710 평방 마일)"
+통화:="구르 드(지)(지)"
+34.189 억 달러
+1 인당 국내 총생산:="$2,962"
+민주주의 지수:="~3.48/10(119 위)"
+가장 큰 산업:="농업/관광"
+자본과 가장 큰 도시:="포르토 프린스"
+운전 측면:="오른쪽"
+호출 코드:="+509"

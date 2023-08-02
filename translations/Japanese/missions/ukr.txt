@@ -1,18 +1,18 @@
 [config]
 name  = ukr
-guiname = "Ukraine"
-description = "Ukraine is an Eastern European country. It is the second largest country in Europe after Russia, with which it borders to the east and north-east. Ukraine also shares borders with Belarus to the north; Poland, Slovakia and Hungary to the west; Romania and Moldova to the south; and has a coastline along the Azov and Black Seas. It covers an area of 603,628 km2 (233,062 square miles), with a population of 41.4 million, and is the eighth most populous country in Europe. "
-jobtitle = "President"
+guiname = "ウクライナ"
+description = "ウクライナは東ヨーロッパの国です。 それはロシアの後にヨーロッパで2番目に大きい国であり、それは東と北東に接しています。 ウクライナはまた、北にベラルーシと国境を共有しています;西にポーランド,スロバキアとハンガリー;南にルーマニアとモルドバ;アゾフ海と黒海に沿った海岸線があります.ウクライナはまた、ウクライナとの国境を共有しています.ウクライナはまた、ウクライナとの国境を共有しています。 面積は603,628km2（233,062平方マイル）で、人口は4140万人で、ヨーロッパで8番目に人口の多い国です。"
+jobtitle = "プレジデント"
 
 [stats]
-National Anthem: = "State Anthem of Ukraine"
-Population: = "41.3 million (est 2021)"
-Area: = "603,628 km2 (233,062 square miles)"
-Currency: = "Hryvnia (₴) (UAH)"
-GDP: = "$429.947 billion"
-GDP per capita: = "$10,310"
-Democracy index: = "~5.81/10 (4th)"
-Largest Industry: = "Mining Industry"
-Capital and largest city: = "Kyiv"
-Driver side: = "right"
-Phone prefix: = "+380"
+国歌：="ウクライナの国歌"
+人口：="4130万人（2021年推定）"
+面積:="603,628km2(233,062平方マイル)"
+通貨:="グリブナ(₴)(UAH)"
+GDP：="4299億4700万ドル"
+一人当たりGDP:="$10,310"
+5.81/10(第4回)
+最大の産業：="鉱業"
+首都と最大の都市：="キエフ"
+運転席側：="右"
+電話番号:="+380"

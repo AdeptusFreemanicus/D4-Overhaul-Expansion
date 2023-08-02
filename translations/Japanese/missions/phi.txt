@@ -1,19 +1,19 @@
 [config]
 name  = phi
-guiname = "Republic of the Philippines"
-description = "The Philippines, officially the Republic of the Philippines, is an archipelagic country in Southeast Asia. Situated in the western Pacific Ocean, it consists of about 7,641 islands that are broadly categorized under three main geographical divisions from north to south: Luzon, Visayas, and Mindanao. The capital city of the Philippines is Manila and the most populous city is Quezon City, both within the single urban area of Metro Manila. Bounded by the South China Sea to the west, the Philippine Sea to the east, and the Celebes Sea to the southwest, the Philippines shares maritime borders with Taiwan to the north, Japan to the northeast, Palau to the east, Indonesia to the south, Malaysia and Brunei to the southwest, Vietnam to the west, and China to the northwest."
+guiname = "フィリピン共和国"
+description = "フィリピン、正式にはフィリピン共和国は、東南アジアの群島国です。 西太平洋に位置し、ルソン島、ビサヤ島、ミンダナオ島の3つの主要な地理的区分に大きく分類される約7,641の島々から構成されています。 フィリピンの首都はマニラであり、最も人口の多い都市はケソン市であり、両方ともマニラ首都圏の単一都市圏内にあります。 西は南シナ海、東はフィリピン海、南西はセレベス海に囲まれ、フィリピンは北は台湾、北東は日本、東はパラオ、南はインドネシア、南西はマレーシアとブルネイ、西はベトナム、北西は中国と海上国境を接している。"
 
-jobtitle = "President"
+jobtitle = "プレジデント"
 
 [stats]
-Motto: = "For God, People, Nature and Country"
-National Anthem: = "Chosen Land"
-Population: = "109 Million People (2020)"
-Area: = "300,000 km2 (120,000 sq mi)"
-Currency: = "Philippine peso (₱) (PHP)"
-GDP: = "$367.362 billion"
-GDP per capita: = "$3,484"
-Democracy Index: = "6.56/10 (55th)"
-Biggest Industry: = "Agriculture"
-Capital And Largest City: = "Manila"
-Driving side: =	"right"
+座右の銘：＝"神、人、自然、国のために"
+国歌：="選ばれた土地"
+人口：="1億900万人（2020年）"
+面積:="300,000km2(120,000sq mi)"
+通貨:="フィリピンペソ(₱)(PHP)"
+GDP：="$367.362億"
+一人当たりGDP:="$3,484"
+民主主義指数：="6.56/10（55位）"
+最大の産業：="農業"
+首都と最大の都市：="マニラ"
+運転側：="右"

@@ -1,20 +1,20 @@
 [config]
 name  = iran
-guiname = "Islamic Republic of Iran"
-description = "Iran, also called Persia, and officially the Islamic Republic of Iran, is a country in Western Asia; with 83 million inhabitants. It is bordered to the northwest by Armenia and Azerbaijan, to the north by the Caspian Sea, to the northeast by Turkmenistan, to the east by Afghanistan, to the southeast by Pakistan, to the south by the Persian Gulf and the Gulf of Oman, and to the west by Turkey and Iraq. Tehran is the capital and largest city, it is also the most populous city in Western Asia, with more than 8.8 million residents, and up to 15 million including the metropolitan area. Iran is the world's 17th most populous country. Spanning 1,648,195 km2 (636,372 sq mi), it is the second largest country in the Middle East and the 17th largest in the world."
+guiname = "Islamska Republika Iranu"
+description = "Iran, zwany także Persją i oficjalnie Islamską Republiką Iranu, jest krajem w zachodniej Azji; z 83 milionami mieszkańców. Graniczy od północnego zachodu z Armenią i Azerbejdżanem, na północy z Morzem Kaspijskim, na północnym wschodzie z Turkmenistanem, na Wschodzie z Afganistanem, na południowym wschodzie z Pakistanem, na południu z Zatoką Perską i Zatoką Omańską, a na Zachodzie z Turcją i Irakiem. Teheran jest stolicą i największym miastem, jest również najbardziej zaludnionym miastem w Azji Zachodniej, z ponad 8,8 milionami mieszkańców i do 15 milionami, w tym obszarem metropolitalnym. Iran jest 17. najbardziej zaludnionym krajem na świecie. Obejmuje 1 648 195 km2 (636 372 2), jest drugim co do wielkości krajem na Bliskim Wschodzie i 17.co do wielkości na świecie."
 
-jobtitle = "Supreme Leader"
+jobtitle = "Najwyższy Przywódca"
 
 [stats]
-Motto: = "Independence, freedom, the Islamic Republic"
-National Anthem: = "National Anthem of the Islamic Republic of Iran"
-Population: = "83 million (2019)"
-Area: = "1,648,195 km2 (636,372 sq mi)"
-Currency: = "Rial (IRR)"
-GDP: = "$1.007 trillion (~42,254,256,202,146,760.00 IRR)"
-GDP per capita: = "$11,963 (502,130,255.38 IRR)"
-Democracy Index: = "~2.38/10 (151rd)"
-Biggest Industry: = "Oil and Gas"
-Capital: = "Tehran"
-Driving side: =	"right"
-Calling code: = "+98"
+Motto: = "niepodległość, wolność, Republika Islamska"
+Hymn narodowy: = "Hymn Narodowy Islamskiej Republiki Iranu"
+Populacja: = " 83 miliony (2019)"
+Powierzchnia: = "1 648 195 km2 (636 372 2)"
+Waluta: = " Rial (IRR)"
+PKB: = " $ 1.007 bilionów (~42,254,256,202,146,760. 00 IRR)"
+PKB na mieszkańca: = " $11,963 (502,130,255. 38 IRR)"
+Indeks demokracji: = " ~2.38 10 (151 rd)"
+Największy przemysł: = "Ropa i gaz"
+Stolica: = "Teheran",
+Strona jazdy: = "prawo"
+Kod wywołujący: =" + 98"

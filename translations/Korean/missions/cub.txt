@@ -1,20 +1,20 @@
 [config]
 name  = cub
-guiname = "Republic of Cuba"
-description = "Cuba, officially the Republic of Cuba, is a country comprising the island of Cuba, as well as Isla de la Juventud and several minor archipelagos. Cuba is located where the northern Caribbean Sea, Gulf of Mexico, and Atlantic Ocean meet. It is east of the Yucatán Peninsula (Mexico), south of both the U.S. state of Florida and the Bahamas, west of Hispaniola, and north of both Jamaica and the Cayman Islands. Havana is the largest city and capital; other major cities include Santiago de Cuba and Camagüey. The official area of the Republic of Cuba is 109,884 km2 (42,426 sq mi) (without the territorial waters). The main island of Cuba is the largest island in Cuba and in the Caribbean, with an area of 104,556 km2 (40,369 sq mi). Cuba is the second-most populous country in the Caribbean after Haiti, with over 11 million inhabitants."
+guiname = "쿠바 공화국"
+description = "쿠바,공식적으로 쿠바 공화국,쿠바 섬,이슬라 데 라 유벤투드 및 여러 작은 군도를 포함하는 나라입니다. 쿠바 는 카리브 해 북부,멕시코 만,대서양 이 만나는 곳 에 위치 하고 있다. 이 섬 은 유카트 반도(멕시코)의 동쪽,미국 플로리다 주 와 바하마 제도 의 남쪽,히스파니올라 제도 의 서쪽,자메이카 와 케이맨 제도 의 북쪽 에 있다. 하바나는 가장 큰 도시이자 수도이며,다른 주요 도시로는 산티아고 데 쿠바와 카마그 티메이가 있다. 쿠바 공화국의 공식 지역은 109,884 평방 킬로미터(42,426 평방 마일)(영해 물 제외)입니다. 쿠바의 주요 섬은 쿠바와 카리브해에서 가장 큰 섬으로 면적은 104,556 평방 킬로미터(40,369 평방 마일)이다. 쿠바 는 아이티 다음 으로 카리브 해 에서 두 번째로 인구가 많은 나라 이며,인구 가 1 천 1 백만 명 이상 이다."
 
-jobtitle = "First Secretary"
+jobtitle = "제 1 비서"
 
 [stats]
-Motto: = "Homeland or Death, We Shall Overcome"
-National Anthem: = "The Bayamo Song"
-Population: = "11 million (2020)"
-Area: = "109,884 km2 (42,426 sq mi)"
-Currency: = "Cuban peso (CUP)"
-GDP: = "$105.865 billion"
-GDP per capita: = "$22,237"
-Democracy Index: = "~7.51/10 (36th)"
-Biggest Industry: = "Agriculture"
-Capital And Largest City: = "Havana"
-Driving side: =	"right"
-Calling code: = "+53"
+모토:="조국이나 죽음,우리는 극복 할 것이다"
+국가:="바야모 노래"
+인구:="11 백만(2020)"
+지역:="109,884 평방 킬로미터(42,426 평방 마일)"
+통화:="쿠바 페소(컵)"
+2015 년 10 월 15 일(금)~2015 년 10 월 15 일(금)
+1 인당 국내 총생산:="$22,237"
+민주주의 지수:="~7.51/10(36 위)"
+가장 큰 산업:="농업"
+자본과 가장 큰 도시:="하바나"
+운전 측면:="오른쪽"
+호출 코드:="+53"

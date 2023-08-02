@@ -1,19 +1,19 @@
 [config]
 name  = prc
-guiname = "People's Republic of China"
-description = "China, officially the People's Republic of China, is a country in East Asia. It is the world's most populous country, with a population of around 1.4 billion in 2019. Covering approximately 9.6 million square kilometers (3.7 million mi2), it is the world's third or fourth-largest country by area. As a one-party state led by the Chinese Communist Party (CCP), it exercises jurisdiction over 22 provinces, five autonomous regions, four direct-controlled municipalities Beijing, Tianjin, Shanghai, and Chongqing, and the special administrative regions of Hong Kong and Macau."
+guiname = "中華人民共和国"
+description = "正式には中華人民共和国である中国は、東アジアの国です。 世界で最も人口の多い国であり、2019年の人口は約14億人です。 面積は約960万平方キロメートル（370万mi2）で、面積では世界で3番目または4番目に大きい国です。 中国共産党が主導する一党国家として、22の省、5つの自治区、4つの直轄市北京、天津、上海、重慶、および香港とマカオの特別行政区を管轄しています。"
 
-jobtitle = "President"
+jobtitle = "プレジデント"
 
 [stats]
-National Anthem: = "March of the Volunteers"
-Population: = "1.4 billion (2019)"
-Area: = "9,596,961 km2 (3,705,407 sq mi)"
-Currency: = "Renminbi ¥"
-GDP: = "$14.9 trillion (~¥2,279,745,824,694.17 CNY)"
-GDP per capita: = "$10,839 (~¥70,844.82 CNY)"
-Democracy Index: = "2.26/10 (153rd)"
-Biggest Industry: = "Manufacturing"
-Capital (and largest city): = "Beijing"
-Driving side: =	"right"
-Calling code: = "+86"
+国歌：="ボランティアの行進"
+人口:="1.4億(2019)"
+面積:="9,596,961km2(3,705,407平方マイル)"
+通貨:="人民元円"
+GDP：="$14.9兆（〜¥2,279,745,824,694.17CNY）"
+一人当たりGDP: = "$10,839 (~¥70,844.82 CNY）"
+2.26/10(第153回)
+最大の産業：="製造業"
+首都（および最大の都市）：="北京"
+運転側：="右"
+呼び出しコード：="+86"

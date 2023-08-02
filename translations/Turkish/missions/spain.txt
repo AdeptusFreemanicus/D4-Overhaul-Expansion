@@ -1,17 +1,17 @@
 [config]
 name  = spain
-guiname = "Spain"
-description = "The Kingdom of Spain's first democratic election took place in June 1977 after the death of Francisco Franco in 1975 who had ruled Spain under a dictatorship since 1939. In 1978, a new democratic constitution was promulgated and approved by referendum. Spain was declared a constitutional parliamentary monarchy with King Juan Carlos I as Head of State and with universal suffrage."
-jobtitle = "Prime Minister"
+guiname = "İspanya"
+description = "İspanya Krallığı'nın ilk demokratik seçimi, 1939'dan beri İspanya'yı diktatörlük altında yöneten Francisco Franco'nun 1975'te ölümünden sonra Haziran 1977'de gerçekleşti. 1978'de referandumla yeni bir demokratik anayasa ilan edildi ve onaylandı. İspanya, anayasal meclis üyesi cadı Kral ilan edildi Juan Carlos I Devlet Başkanı olarak ve genel oy hakkı ile."
+jobtitle = "Başbakan"
 
 [stats]
-Population:=	46,754,778 (2020) according to UN data.
-Size:=	505,990 km2	
-Religion:= 	68% Catholics, 2.6% other faiths and 28% identify as Atheists.
-Exports:= 	Machinery, motor vehicles; foodstuffs, pharmaceuticals, medicines, other consumer goods
-World Leader:=	Health, Organ donation. The third highest number of UNESCO world heritage sites. Generating and exporting renewable energy.
-Member of:=	European Union, United Nations, NATO, OECD
-National obsessions:=	Long lunch breaks, football, healthy Mediterranean diet, family.
+Nüfus: = BM verilerine göre 46.754.778 (2020).
+Boyut: = 505,990 km2	
+Din: = Katoliklerin% 68'i, diğer inançların% 2,6'sı ve% 28'i kendilerini Ateist olarak tanımlamaktadır.
+İhracat:= Makine, motorlu taşıtlar; gıda maddeleri, ilaçlar, ilaçlar, diğer tüketim malları
+Dünya Lideri:= Sağlık, Organ bağışı. UNESCO dünya mirası Listesi'nin üçüncü en yüksek sayısı. Yenilenebilir enerji üretimi ve ihracatı.
+Üyesi:= Avrupa Birliği, Birleşmiş Milletler, NATO, OECD
+Ulusal takıntılar: = Uzun öğle yemeği molaları, futbol, sağlıklı Akdeniz diyeti, aile.
 
 
 

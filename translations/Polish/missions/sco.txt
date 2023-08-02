@@ -1,18 +1,18 @@
 [config]
 name  = sco
-guiname = "Scotland"
-description = "Scotland is a country that is part of the United Kingdom. Covering the northern third of the island of Great Britain, mainland Scotland has a 96-mile (154-kilometre) border with England to the southeast and is otherwise surrounded by the Atlantic Ocean to the north and west, the North Sea to the northeast and the Irish Sea to the south. The country also contains more than 790 islands, principally in the archipelagos of the Hebrides and the Northern Isles. Most of the population, including the capital Edinburgh, is concentrated in the Central Belt – the plain between the Scottish Highlands and the Southern Uplands – in the Scottish Lowlands."
+guiname = "Szkocja"
+description = "Szkocja jest krajem, który jest częścią Wielkiej Brytanii. Obejmujący północną trzecią część wyspy Wielka Brytania, Szkocja kontynentalna ma 96-milową (154-kilometrową) granicę z Anglią na południowym wschodzie i jest otoczona Oceanem Atlantyckim na północy i zachodzie, Morzem Północnym na północnym wschodzie i Morzem Irlandzkim na południu. Kraj obejmuje również ponad 790 Wysp, głównie w archipelagach Hebrydy i wyspy Północne. Większość ludności, w tym stolica Edynburg, koncentruje się w środkowym pasie – równinie między szkockimi wyżynami a południowymi wyżynami – na szkockich nizinach."
 
-jobtitle = "Monarch"
+jobtitle = "Monarcha"
 
 [stats]
-National Anthem: = "In my defence God me defend"
-Population: = "5,463,300 people (2019 est)"
-Area: = "77,933 km2 (30,090 sq mi)"
-Currency: = "Pound sterling (GBP; £)"
-GVA: = "£166 billion"
-GVA per capita: = "£30,560"
-Biggest Industry: = "Oil & Gas Exports"
-Capital And Largest City: = "Edinburgh"
-Driving side: =	"left"
-Calling code: = "+44"
+Hymn narodowy: = "w mojej obronie Bóg mnie broni"
+Populacja: = "5 463 300 osób (2019 est)"
+Powierzchnia: = " 77 933 km2 (30 090 2)"
+Waluta: = " Funt szterling (GBP;£)"
+GVA: = "166 miliardów funtów"
+GVA na mieszkańca: = "30 560 zł"
+Największy Przemysł: = "Eksport Ropy I Gazu"
+Stolica I Największe Miasto: = "Edynburg"
+Align = "left" 
+Kod wywołujący: =" + 44"

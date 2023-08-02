@@ -1,19 +1,19 @@
 [config]
 name  = lat
-guiname = "Republic of Latvia"
-description = "Latvia, officially the Republic of Latvia, is a country in the Baltic region of Northern Europe. It is one of the Baltic states; and is bordered by Estonia to the north, Lithuania to the south, Russia to the east, Belarus to the southeast, and shares a maritime border with Sweden to the west. Latvia covers an area of 64,589 km2 (24,938 sq mi), with a population of 1.9 million. The country has a temperate seasonal climate. Its capital and largest city is Riga. Latvians belong to the ethno-linguistic group of the Balts; and speak Latvian, one of the only two surviving Baltic languages. Russians are the most prominent minority in the country, at almost a quarter of the population."
+guiname = "Repubblica di Lettonia"
+description = "Lettonia, ufficialmente la Repubblica di Lettonia, è un paese nella regione baltica del Nord Europa. Confina con l'Estonia a nord, la Lituania a sud, la Russia a est, la Bielorussia a sud-est, e condivide un confine marittimo con la Svezia a ovest. Lettonia copre una superficie di 64.589 km2 (24.938 sq mi), con una popolazione di 1,9 milioni. Il paese ha un clima temperato stagionale. La sua capitale e città più grande è Riga. I lettoni appartengono al gruppo etno-linguistico dei Balti e parlano il lettone, una delle uniche due lingue baltiche sopravvissute. I russi sono la minoranza più importante del paese, quasi un quarto della popolazione."
 
-jobtitle = "President"
+jobtitle = "Presidente"
 
 [stats]
-National Anthem: = "God Bless Latvia!"
-Population: = "1.9 million (2018)"
-Area: = "64,589 km2"
-Currency: = "Euro (€) (EUR)"
-GDP: = "$70 billion"
-GDP per capita: = "$37,009
-Democracy Index: = "~7.37/10 (38th)"
-Biggest Industry: = "Industry Sector/Agriculture Sector"
-Capital (and largest city): = "Riga"
-Driving side: =	"right"
-Calling code: = "+371"
+Inno Nazionale: = " Dio benedica la Lettonia!"
+Popolazione: = "1,9 milioni (2018)"
+Superficie: = "64.589 km2"
+Valuta: = "Euro (€) (EUR)"
+PIL: = "$70 miliardi"
+PIL pro capite: = " $37,009
+Indice di democrazia: = "~7.37/10 (38th)"
+Industria più grande: = "Settore industriale/Settore agricolo"
+Capitale (e città più grande): = "Riga"
+Lato guida: = "destra"
+Codice di chiamata: = "+371"

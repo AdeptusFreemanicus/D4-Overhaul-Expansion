@@ -1,18 +1,18 @@
 [config]
 name  = israel
-guiname = "State of Israel"
-description = "Israel, officially known as the State of Israel, is a country in Western Asia, located on the southeastern shore of the Mediterranean Sea and the northern shore of the Red Sea. It has land borders with Lebanon to the north, Syria to the northeast, Jordan on the east, the Palestinian territories of the West Bank and the Gaza Strip to the east and west, respectively, and Egypt to the southwest. Israel's economic and technological center is Tel Aviv, while its seat of government and proclaimed capital is Jerusalem."
+guiname = "Staat Israel"
+description = "Israel, offiziell als Staat Israel bekannt, ist ein Land in Westasien, das am südöstlichen Ufer des Mittelmeers und am nördlichen Ufer des Roten Meeres liegt. Es hat Landgrenzen mit dem Libanon im Norden, Syrien im Nordosten, Jordanien im Osten, den palästinensischen Gebieten der Westbank und dem Gazastreifen im Osten bzw. Westen sowie Ägypten im Südwesten. Israels wirtschaftliches und technologisches Zentrum ist Tel Aviv, während sein Regierungssitz und seine proklamierte Hauptstadt Jerusalem ist."
 
-jobtitle = "President"
+jobtitle = "Präsident"
 
 [stats]
-National Anthem: = "The Hope"
-Population: = "9.3 million people (2021)"
-Area: = "20,770–22,072 km2 (8,019–8,522 sq mi)"
-Currency: = "New shekel (₪‎) (ILS)"
-GDP: = "$410.501 billion"
-GDP per capita: = "$44,474"
-Democracy Index: = "7.84/10 (27th)"
-Biggest Industry: = "Technology"
-Capital And Largest City: = "Jerusalem"
-Driving side: =	"right"
+Nationalhymne: = "Die Hoffnung"
+Bevölkerung: = "9,3 Millionen Menschen (2021)"
+Fläche: = "20.770-22.072 km2 (8.019-8.522 Quadratmeilen)"
+Währung: = "Neuer Schekel (₪) (ILS)"
+BIP: = "410,501 Milliarden US-Dollar"
+BIP pro Kopf: = "$ 44,474"
+Demokratie-Index: = "7,84/10 (27.)"
+Größte Branche: = "Technologie"
+Hauptstadt und größte Stadt: = "Jerusalem"
+Fahrseite: = "rechts"

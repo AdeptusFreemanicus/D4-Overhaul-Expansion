@@ -1,20 +1,20 @@
 [config]
 name  = turkey
-guiname = "Republic of Turkey"
-description = "Turkey, officially the Republic of Turkey, is a transcontinental country located mainly on the Anatolian Peninsula in Western Asia, with a smaller portion on the Balkan Peninsula in Southeastern Europe. Turkey is bordered on its northwest by Greece and Bulgaria; north by the Black Sea; northeast by Georgia; east by Armenia, Azerbaijan, and Iran; southeast by Iraq; south by Syria and the Mediterranean Sea; and west by the Aegean Sea. Approximately 70 to 80 percent of the country's citizens are Turkish. Istanbul, which straddles Europe and Asia, is the country's largest city, while Ankara is the capital."
+guiname = "トルコ共和国"
+description = "トルコ、正式にはトルコ共和国は、主に西アジアのアナトリア半島に位置する大陸横断国であり、ヨーロッパ南東部のバルカン半島には小さな部分があ トルコは北西にギリシャとブルガリア、北に黒海、北東にジョージア、東にアルメニア、アゼルバイジャン、イラン、南東にイラク、南にシリアと地中海、西にエーゲ海と国境を接している。 国の市民の約70〜80％がトルコ人です。 ヨーロッパとアジアにまたがるイスタンブールは国の最大の都市であり、アンカラは首都です。"
 
-jobtitle = "President"
+jobtitle = "プレジデント"
 
 [stats]
-National Anthem: = "The Independence March"
-Population: = "83 million (2019)"
-Area: = "783,356 km2 (302,455 sq mi)"
-Currency: = "Turkish lira (₺) (TRY)"
-GDP: = "$760.940 billion (₺5,946,686,237,230.67 TRY)"
-GDP per capita: = "$30,644 (₺239,469.87 TRY)"
-Democracy Index: = "~4.09/10 (110th)"
-Biggest Industry: = "Agriculture"
-Capital: = "Ankara"
-Largest City: = "Istanbul"
-Driving side: =	"right"
-Calling code: = "+90"
+国歌：="独立行進曲"
+人口：="8300万人（2019年）"
+面積:="783,356km2(302,455sq mi)"
+通貨:="トルコリラ(₺)(TRY)"
+GDP：="$760.940億（₺5,946,686,237,230.67トライ）"
+一人当たりGDP: = "$30,644 (₺239,469.87 トライ）"
+-4.09/10(第110回)
+最大の産業：="農業"
+首都:="アンカラ"
+最大の都市：="イスタンブール"
+運転側：="右"
+呼び出しコード：="+90"

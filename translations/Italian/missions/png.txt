@@ -2,7 +2,7 @@
 name  = png
 guiname = "Stato Indipendente di Papua Nuova Guinea"
 description = "La Papua Nuova Guinea, ufficialmente Stato Indipendente della Papua Nuova Guinea, è un paese dell'Oceania che comprende la metà orientale dell'isola della Nuova Guinea e le sue isole al largo della Melanesia (una regione dell'Oceano Pacifico sudoccidentale a nord dell'Australia). La sua capitale, situata lungo la costa sud-orientale, è Port Moresby. È il terzo paese insulare più grande del mondo con una superficie di 462.840 km2 (178.700 miglia quadrate)"
-jobtitle = "primo ministro"
+jobtitle = "Primo Ministro"
 
 [stats]
 Motto: = "Unità nella diversità"

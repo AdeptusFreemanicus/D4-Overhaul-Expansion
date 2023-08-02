@@ -1,20 +1,20 @@
 [config]
 name  = sth
-guiname = "Republic of South Africa"
-description = "South Africa, officially the Republic of South Africa, is the southernmost country in Africa. With over 60 million people, it is the world's 23rd-most populous nation. South Africa has three capital cities: executive Pretoria, judicial Bloemfontein and legislative Cape Town. The largest city is Johannesburg. About 80% of South Africans are of Black African ancestry, divided among a variety of ethnic groups speaking different African languages. The remaining population consists of Africa's largest communities of European (White South Africans), Asian (Indian South Africans and Chinese South Africans), and Multiracial (Coloured South Africans) ancestry."
+guiname = "Republika Południowej Afryki"
+description = "Republika Południowej Afryki, oficjalnie Republika Południowej Afryki, jest najbardziej wysuniętym na południe krajem Afryki. Z ponad 60 milionami ludzi jest 23.najbardziej zaludnionym narodem na świecie. Republika Południowej Afryki ma trzy stolice: executive Pretoria, judicial Bloemfontein i legislacyjny Kapsztad. Największym miastem jest Johannesburg. Około 80% mieszkańców RPA ma czarne afrykańskie pochodzenie, podzielone między różne grupy etniczne mówiące różnymi językami afrykańskimi. Pozostała populacja składa się z największych afrykańskich społeczności pochodzenia europejskiego (biali mieszkańcy RPA), azjatyckiego (indyjscy mieszkańcy RPA i chińscy mieszkańcy RPA) oraz wielorasowego (kolorowi mieszkańcy RPA)."
 
-jobtitle = "President"
+jobtitle = "Przewodniczący"
 
 [stats]
-National Anthem: = "Unity in diversity"
-Population: = "66 million (2021)"
-Area: = "1,221,037 km2 (471,445 sq mi)"
-Currency: = "South African rand R (ZAR)"
-GDP: = "$748 billion"
-GDP per capita: = "$12,351"
-Democracy Index: = "7.05/10 (45th)"
-Biggest Industry: = "Mining Sector"
-Capitals: = "Pretoria (executive) Cape Town (legislative) Bloemfontein (judicial)"
-Largest City: = "Johannesburg"
-Driving side: =	"Left"
-Calling code: = "+27"
+Hymn narodowy: = "jedność w różnorodności"
+Populacja: = " 66 milionów (2021)"
+Powierzchnia: = "1 221 037 km2 (471 445 2)"
+Waluta: = " Rand południowoafrykański R (ZAR)"
+PKB: = "748 miliardów dolarów"
+PKB per capita: = "$12,351"
+Indeks demokracji: = " 7.05 /10 (45.)"
+Największy Przemysł: = "Sektor Górniczy"
+Stolice: = " Pretoria (wykonawcza) Kapsztad (legislacyjna) Bloemfontein (sądowa)",
+Największe Miasto: = "Johannesburg"
+Align = "Left" 
+Kod wywołujący: =" + 27"

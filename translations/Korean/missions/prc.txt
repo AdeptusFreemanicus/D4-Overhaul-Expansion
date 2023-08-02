@@ -1,19 +1,19 @@
 [config]
 name  = prc
-guiname = "People's Republic of China"
-description = "China, officially the People's Republic of China, is a country in East Asia. It is the world's most populous country, with a population of around 1.4 billion in 2019. Covering approximately 9.6 million square kilometers (3.7 million mi2), it is the world's third or fourth-largest country by area. As a one-party state led by the Chinese Communist Party (CCP), it exercises jurisdiction over 22 provinces, five autonomous regions, four direct-controlled municipalities Beijing, Tianjin, Shanghai, and Chongqing, and the special administrative regions of Hong Kong and Macau."
+guiname = "중화인민공화국"
+description = "중국,공식적으로 중화인민공화국,동아시아에 있는 나라입니다. 2019 년 기준으로 인구는 약 14 억 명으로 세계에서 가장 인구가 많은 나라입니다. 약 960 만 평방 킬로미터(370 만 마일 2)를 차지하며 면적에 따라 세계에서 세 번째 또는 네 번째로 큰 국가입니다. 중국 공산당이 이끄는 일당국으로서 22 개 지방,5 개 자치구,4 개 직접 통제되는 베이징,천진,상하이,충칭,홍콩,마카오 특별 행정 구역에 대한 관할권을 행사한다."
 
-jobtitle = "President"
+jobtitle = "대통령"
 
 [stats]
-National Anthem: = "March of the Volunteers"
-Population: = "1.4 billion (2019)"
-Area: = "9,596,961 km2 (3,705,407 sq mi)"
-Currency: = "Renminbi ¥"
-GDP: = "$14.9 trillion (~¥2,279,745,824,694.17 CNY)"
-GDP per capita: = "$10,839 (~¥70,844.82 CNY)"
-Democracy Index: = "2.26/10 (153rd)"
-Biggest Industry: = "Manufacturing"
-Capital (and largest city): = "Beijing"
-Driving side: =	"right"
-Calling code: = "+86"
+국가:="자원 봉사자의 행진"
+인구:="14 억(2019)"
+지역:="9,596,961 평방 킬로미터(3,705,407 평방 마일)"
+통화:="위안화"="위안화"
+GDP:="$14.9 조(~¥2,279,745,824,694.17CNY)"
+1 인당 국내총생산: = "$10,839 (~¥70,844.82 "
+민주주의 지수:="2.26/10(153 위)"
+가장 큰 산업:="제조"
+수도(그리고 가장 큰 도시):="베이징"
+운전 측면:="오른쪽"
+호출 코드:="+86"

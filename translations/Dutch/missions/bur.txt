@@ -1,20 +1,20 @@
 [config]
 name  = bur
 guiname = "Brunei Darussalamt"
-description = "Brunei, formally Brunei Darussalamt, is a country located on the north coast of the island of Borneo in Southeast Asia. Apart from its South China Sea coast, it is completely surrounded by the Malaysian state of Sarawak. It is separated into two parts by the Sarawak district of Limbang. Brunei is the only sovereign state entirely on Borneo; the remainder of the island is divided between Malaysia and Indonesia. As of 2020, its population was 460,345 of whom about 100,000 live in the capital and largest city, Bandar Seri Begawan. The government is an absolute monarchy ruled by its Sultan, entitled the Yang di-Pertuan, and implements a combination of English common law and sharia law, as well as general Islamic practices."
+description = "Brunei, officieel Brunei Darussalam, is een land gelegen aan de noordkust van het eiland Borneo in Zuidoost-Azië. Naast de kust van de Zuid-Chinese Zee is het volledig omringd door de Maleisische staat Sarawak. Het wordt in twee delen gescheiden door het district Sarawak van Limbang. Brunei is de enige soevereine staat die volledig op Borneo ligt; de rest van het eiland is verdeeld tussen Maleisië en Indonesië. In 2020 had het 460.345 inwoners, waarvan ongeveer 100.000 in de hoofdstad en grootste stad Bandar Seri Begawan wonen. De regering is een absolute vorst die wordt geregeerd door haar Sultan, De Yang di-Pertuan, en implementeert een combinatie van het Engelse common law en de sharia, evenals algemene Islamitische praktijken."
 
 jobtitle = "Sultan"
 
 [stats]
-Motto: = "Always in service with God's guidance"
-National Anthem: = "God Bless the Sultan"
-Population: = "460,345 (2020 est)"
-Area: = "5,765 km2 (2,226 sq mi)"
-Currency: = "Brunei dollar (BND)"
-GDP: = "$36.854 billion"
-GDP per capita: = "$85,011"
-Democracy Index: = "No Data"
-Biggest Industry: = "Oil And Gas Industry"
-Capital And Largest City: = "Bandar Seri Begawan"
-Driving Side: =	"Left"
-Calling Code: = "+673"
+Motto: "Altijd in dienst met Gods leiding"
+Volkslied:"God zegene de Sultan"
+Bevolking: = "460,345 (2020 est)"
+Oppervlakte: = "5.765 km2 (2.226 sq mi)"
+Valuta: = " Brunei dollar (BND)"
+BBP: = "$36.854 miljard"
+BBP per hoofd van de bevolking: = "$85.011"
+Democratie Index: = "Geen Gegevens"
+Grootste Industrie: = "Olie-En Gasindustrie"
+Hoofdstad En Grootste Stad: = "Bandar Seri Begawan"
+Rijzijde: = "Links"
+Telefooncode: = "+673"

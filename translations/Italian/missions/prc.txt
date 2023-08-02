@@ -3,7 +3,7 @@ name  = prc
 guiname = "Repubblica Popolare Cinese"
 description = "La Cina, ufficialmente Repubblica Popolare Cinese, è un paese dell'Asia orientale. È il paese più popoloso del mondo, con una popolazione di circa 1,4 miliardi nel 2019. Coprendo circa 9,6 milioni di chilometri quadrati (3,7 milioni di mi2), è il terzo o il quarto paese del mondo per area. Come Stato a partito unico guidato dal Partito Comunista Cinese (PCC), esercita giurisdizione su 22 province, cinque regioni autonome, quattro municipalità a controllo diretto Pechino, Tianjin, Shanghai e Chongqing e le regioni amministrative speciali di Hong Kong e Macao."
 
-jobtitle = "Presidente"
+jobtitle = "Presidentee"
 
 [stats]
 Inno Nazionale: = "Marcia dei Volontari"

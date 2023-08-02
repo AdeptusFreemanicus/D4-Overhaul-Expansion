@@ -1,19 +1,19 @@
 [config]
 name  = lit
-guiname = "Republic of Lithuania"
-description = "Lithuania, officially the Republic of Lithuania, is a country in the Baltic region of Europe. It is one of three Baltic states and lies on the eastern shore of the Baltic Sea. Lithuania shares land borders with Latvia to the north, Belarus to the east and south, Poland to the south, and Kaliningrad Oblast of Russia to the southwest. It has a maritime border with Sweden to the west on the Baltic Sea. Lithuania covers an area of 65,300 km2 (25,200 sq mi), with a population of 2.8 million. Its capital and largest city is Vilnius; other major cities are Kaunas and Klaipėda. Lithuanians belong to the ethno-linguistic group of the Balts and speak Lithuanian, one of only a few living Baltic languages."
+guiname = "리투아니아 공화국"
+description = "리투아니아 는 유럽 의 발트 해 지역 에 있는 나라 이다. 3 개 발트 국가 중 하나이며 발트 해 동쪽 연안에 있다. 리투아니아는 북쪽으로는 라트비아,동쪽과 남쪽으로는 벨라루스,남쪽으로는 폴란드,남서쪽으로는 러시아의 칼리닌그라드 주와 국경을 접한다. 서쪽으로는 발트 해에 스웨덴과 해상 국경이 있다. 리투아니아는 65,300 평방 킬로미터(25,200 평방 마일)의 면적을 차지하며 인구는 280 만 명입니다. 수도이자 가장 큰 도시는 빌뉴스이며,다른 주요 도시는 카우나스와 클라이프다다다. 리투아니아 인 들 은 발트족 의 민족 언어 집단 에 속하며,현재 살아 있는 발트어족 의 몇 안 되는 언어 중 하나 인 리투아니아어 를 사용 한다."
 
-jobtitle = "President"
+jobtitle = "대통령"
 
 [stats]
-National Anthem: = "National Hymn"
-Population: = "2,795,680 million (2021 est)"
-Area: = "65,300 km2 (25,200 sq mi)"
-Currency: = "Euro (€) (EUR)"
-GDP: = "$107 billion"
-GDP per capita: = "$41,288"
-Democracy Index: = "~7.18/10 (40th)"
-Biggest Industry: = "Manufacturing"
-Capital (and largest city): = "Vilnius"
-Driving side: =	"right"
-Calling code: = "+370"
+국가:="국가 찬송가"
+인구:="2,795,680 백만(2021 년 동부 표준시)"
+지역:="65,300 평방 킬로미터(25,200 평방 마일)"
+통화:="유로(유로)"(유로)"(유로)"(유로)"(유로)"(유로)"
+1,070 억 달러
+1 인당 국내 총생산:="$41,288"
+민주주의 지수:="~7.18/10(40 위)"
+가장 큰 산업:="제조"
+수도(그리고 가장 큰 도시):="빌니우스"
+운전 측면:="오른쪽"
+호출 코드:="+370"

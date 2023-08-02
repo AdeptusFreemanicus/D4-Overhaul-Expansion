@@ -1,20 +1,17 @@
 [config]
 name  = italy
-guiname = "Italy"
-description = "Italy is a parliamentary republic with a multi-party system. Italy became a democracy in 1946, when the monarchy was abolished by popular referendum. Italy operates a a mixed system, with 37% of seats allocated using a first past the post electoral system and 61% using a proportional method, with one round of voting. As recently as 2019, due to frequent failures of coalitions, Italy was considered a flawed democracy."
-jobtitle = "President"
+guiname = "Італія"
+description = "Італія-парламентська республіка з багатопартійною системою. Італія стала демократичною країною в 1946 році, коли монархія була скасована на всенародному референдумі. В Італії діє змішана система, при якій 37% місць розподіляються за мажоритарною системою, а 61% - за пропорційною системою з одним туром голосування. Ще в 2019 році через часті провали коаліцій Італію вважали збитковою демократією."
+jobtitle = "Президент"
 
 [stats]
-Population:= 	60,461,826 people at mid 2020 according to UN data.
-Size:=	301,340 km²
-
-Religion:= 	Catholic (69%), Eastern Orthodox (4%), Atheism and Agnostic (14%). 
-Exports:= 	Machinery including computers, vehicles & parts, pharmaceuticals, electrical machinery, plastics, gems & precious metals, articles of iron or steel.
-World Leader:=	Heritage (culture, history, food). The most UNESCO sites. The world's largest wine producer. First country with compulsory climate change lessons for all children.
-Member of:=	European Union, United Nations, NATO, OECD
-National obsessions:=	Coffee, football, healthy Mediterranean diet, family.
-
-
+Населення: = 60 461 826 осіб на середину 2020 року за даними ООН.
+Площа: = 301,340 км2
+Релігія: = католики (69%), східні православні (4%), атеїсти та агностики (14%). 
+Експорт: = обладнання, включаючи комп'ютери, транспортні засоби та запчастини до них, фармацевтичні препарати, Електротехнічне обладнання, пластмаси, дорогоцінні камені і дорогоцінні метали, вироби із заліза або сталі.
+Світовий лідер:= Спадщина (культура, історія, їжа). Більшість ОБ'ЄКТІВ ЮНЕСКО. Найбільший у світі виробник вина. Перша країна з обов'язковими уроками зі зміни клімату для всіх дітей.
+Член: = Європейського Союзу, Організації Об'єднаних Націй, НАТО, ОЕСР
+Національні захоплення: = Кава, футбол, здорова середземноморська дієта, сім'я.
 
 
 

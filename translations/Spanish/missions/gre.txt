@@ -2,7 +2,7 @@
 name  = gre
 guiname = "República Helénica"
 description = "Grecia, oficialmente República Helénica, es un país ubicado en el sudeste de Europa. Su población es de aproximadamente 10,7 millones a partir de 2018; Atenas es su ciudad más grande y capital, seguida de Salónica. Situada en el extremo sur de los Balcanes, Grecia se encuentra en la encrucijada de Europa, Asia y África. Comparte fronteras terrestres con Albania al noroeste, Macedonia del Norte y Bulgaria al norte y Turquía al noreste. El mar Egeo se encuentra al este del continente, el mar Jónico al oeste, el mar de Creta y el mar Mediterráneo al sur. Grecia tiene la costa más larga de la cuenca mediterránea y la undécima línea costera más larga del mundo con 13.676 km (8.498 millas) de longitud, con muchas islas, de las cuales 227 están habitadas. El ochenta por ciento de Grecia es montañoso, siendo el Monte Olimpo el pico más alto con 2.918 metros (9.573 pies). El país consta de nueve regiones geográficas tradicionales: Macedonia, Grecia central, Peloponeso, Tesalia, Epiro, las islas del Egeo (incluidas las islas del Dodecaneso y las Cícladas), Tracia, Creta y las islas Jónicas."
-jobtitle = "Presidente"
+jobtitle = "Presidentee"
 
 [stats]
 Lema: = "Libertad o Muerte"

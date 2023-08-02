@@ -1,21 +1,21 @@
 [config]
 name  = png
-guiname = "Independent State of Papua New Guinea"
-description = "Papua New Guinea, officially the Independent State of Papua New Guinea, is a country in Oceania that comprises the eastern half of the island of New Guinea and its offshore islands in Melanesia (a region of the southwestern Pacific Ocean north of Australia). Its capital, located along its southeastern coast, is Port Moresby. It is the world's third largest island country with an area of 462,840 km2 (178,700 sq mi).
+guiname = "Niezależne państwo Papua - Nowa Gwinea"
+description = "Papua Nowa Gwinea, oficjalnie niepodległe państwo Papua Nowa Gwinea, to kraj w Oceanii, który obejmuje wschodnią połowę wyspy Nowa Gwinea i jej przybrzeżne wyspy w Melanezji (region południowo-zachodniego Oceanu Spokojnego na północ od Australii). Jego stolicą, położoną wzdłuż południowo-wschodniego wybrzeża, jest Port Moresby. Jest trzecim co do wielkości krajem wyspiarskim na świecie o powierzchni 462 840 km2 (178 700 2)."
 
-jobtitle = "Prime Minister"
+jobtitle = "Premier"
 
 [stats]
-Motto: = "Unity in diversity"
-National Anthem: = "O Arise, All You Sons"
-Royal anthem = "God Save the Queen"
-Population: = "8.9 million (2020)"
-Area: = "462,840 km2 (178,700 sq mi)"
-Currency: = "Kina (PGK)"
-GDP: = "$32.382 billion"
-GDP per capita: = "$3,764"
-Democracy Index: = "~6.10/10 (70th)"
-Biggest Industry: = "Agriculture"
-Capital And Largest City: = "Port Moresby"
-Driving side: =	"Left"
-Calling code: = "+675"
+Motto: = "jedność w różnorodności"
+Hymn Narodowy: = "O Powstań, Wszyscy Synowie"
+Hymn Królewski = "God Save The Queen"
+Populacja: = " 8,9 miliona (2020)"
+Powierzchnia: = " 462 840 km2 (178 700 2)"
+Waluta: = " Kina (PGK)"
+PKB: = "32,382 mld USD"
+PKB na mieszkańca: = "3764 USD"
+Indeks demokracji: = " ~6.10 /10 (70.)"
+Największy Przemysł: = "Rolnictwo"
+Stolica I Największe Miasto: = "Port Moresby"
+Align = "Left" 
+Kod wywołujący: =" + 675"

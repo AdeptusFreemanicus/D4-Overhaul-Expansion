@@ -1,21 +1,21 @@
 [config]
 name  = mal
-guiname = "Malaysia"
-description = "Malaysia is a country in Southeast Asia. The federal constitutional monarchy consists of thirteen states and three federal territories, separated by the South China Sea into two regions, Peninsular Malaysia and Borneo's East Malaysia. Peninsular Malaysia shares a land and maritime border with Thailand and maritime borders with Singapore, Vietnam, and Indonesia. East Malaysia shares land and maritime borders with Brunei and Indonesia and a maritime border with the Philippines and Vietnam. Kuala Lumpur is the national capital, largest city and the seat of the legislative branch of the federal government. The nearby planned capital of Putrajaya is the administrative capital; which represents the seat of both the executive branch (Cabinet, federal ministries and agencies) and the judicial branch of the federal government. With a population of over 32 million, Malaysia is the world's 43rd-most populous country. The southernmost point of continental Eurasia is in Tanjung Piai. In the tropics, Malaysia is one of 17 megadiverse countries, home to a number of endemic species."
+guiname = "マレーシア"
+description = "マレーシアは東南アジアの国です。 連邦憲法は、南シナ海によってマレーシア半島とボルネオ島の東マレーシアの二つの地域に分離された十三の州と三つの連邦領土で構成されている。 マレーシア半島はタイと陸海の国境を共有し、シンガポール、ベトナム、インドネシアと海の国境を共有しています。 東マレーシアはブルネイとインドネシアと陸海の国境を共有し、フィリピンとベトナムと海の国境を共有しています。 クアラルンプールは首都であり、最大の都市であり、連邦政府の立法府の所在地です。 プトラジャヤの近くの計画された首都は行政首都であり、行政府（内閣、連邦省庁）と連邦政府の司法支部の両方の所在地を表しています。 人口は3,200万人を超え、マレーシアは世界で43番目に人口の多い国です。 大陸ユーラシアの最南端はタンジュンピアイにあります。 熱帯地方では、マレーシアは17の巨大な国の1つであり、多くの固有種が生息しています。"
 
-jobtitle = "Yang di-Pertuan Agong"
+jobtitle = "ヤン・ディ・ペルチュアン・アゴン"
 
 [stats]
-Motto: = "Unity Is Strength"
-National Anthem: = "My Country"
-Population: = "32,7 million (2020 est)"
-Area: = "330,803 km2 (127,724 sq mi)"
-Currency: = "Ringgit (RM) (MYR)"
-GDP: = "$900.426 billion"
-GDP per capita: = "$27,287"
-Democracy Index: = "~7.19/10 (39th)"
-Biggest Industry: = "Electrical And Electronics Sector"
-Capitals: = "Kuala Lumpur - Putrajaya (Administrative)"
-Largest City: = "Kuala Lumpur"
-Driving side: =	"Left"
-Calling code: = "+60"
+モットー：="団結は強さです"
+国歌：="私の国"
+人口:="32,7百万人(2020est)"
+面積:="330,803km2(127,724平方マイル)"
+通貨:="リンギット(RM)(MYR)"
+GDP：="$900.426億"
+一人当たりGDP:="$27,287"
+-7.19/10(第39回)
+最大の産業：="電気-電子部門"
+首都:="クアラルンプール-プトラジャヤ(行政)"
+最大の都市：="クアラルンプール"
+運転側：="左"
+呼び出しコード：="+60"

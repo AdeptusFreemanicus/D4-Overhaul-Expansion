@@ -1,20 +1,20 @@
 [config]
 name  = afghan
-guiname = "Islamic Emirate of Afghanistan"
-description = "Afghanistan, officially the Islamic Republic of Afghanistan, is a landlocked country at the crossroads of Central and South Asia. Afghanistan is bordered by Pakistan to the east and south; Iran to the west; Turkmenistan, Uzbekistan, and Tajikistan to the north; and China to the northeast. Occupying 652,000 square kilometers (252,000 sq mi), it is a mountainous country with plains in the north and southwest. Kabul is the capital and largest city. The population is around 32 million, composed mostly of ethnic Pashtuns, Tajiks, Hazaras, and Uzbeks."
+guiname = "아프가니스탄 이슬람 에미레이트"
+description = "아프가니스탄은 공식적으로 아프가니스탄 이슬람 공화국이며,중앙아시아와 남아시아의 교차로에 있는 내륙 국가입니다. 아프가니스탄 은 동쪽 과 남쪽 으로 파키스탄,서쪽 으로 이란,북쪽 으로 투르크메니스탄,우즈베키스탄,타지키스탄,북동쪽 으로 중국 과 접해 있다. 652,000 평방 킬로미터(252,000 평방 마일)를 차지하고 있으며,북쪽과 남서쪽에는 평야가 있는 산악 국가입니다. 카불은 수도이자 가장 큰 도시입니다. 인구는 약 3200 만 명으로,대부분 파슈툰족,타지크족,하자라족,우즈베크족으로 구성되어 있다."
 
-jobtitle = "President"
+jobtitle = "대통령"
 
 [stats]
-Motto: = "There is no God but Allah; Muhammad is the messenger of Allah."
-National Anthem: = "National Anthem (Very Original)"
-Population: = "32.2 million (2019)"
-Area: = "652,230 km2 (251,830 sq mi)"
-Currency: = "Afghani (AFN)"
-GDP: = "$72 billion (5,557,550,600,448,000.00 AFN)"
-GDP per capita: = "$2,024 (156,228.92 AFN)"
-Democracy Index: = "2.85/10 (141st)"
-Biggest Industry: = "Mining industry"
-Capital And Largest City: = "Kabul"
-Driving side: =	"right"
-Calling code: = "+93"
+모토:="알라 외에는 신이 없으며 무함마드는 알라의 선지자입니다."
+국가:="국가(매우 원본)"
+인구:="32.2 백만(2019)"
+지역:="652,230 평방 킬로미터(251,830 평방 마일)"
+통화:="아프가니(아프가니)"
+2015 년 10 월 15 일(금)
+1 인당 국내 총생산:="$2,024(156,228.92 아프 엔)"
+민주주의 지수:="2.85/10(141 위)"
+가장 큰 산업:="광산업"
+자본과 가장 큰 도시:="카불"
+운전 측면:="오른쪽"
+호출 코드:="+93"

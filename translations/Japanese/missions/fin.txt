@@ -1,18 +1,18 @@
 [config]
 name  = fin
-guiname = "Republic of Finland"
-description = "Finland, officially the Republic of Finland is a Nordic country located in Northern Europe. Finland shares land borders with Sweden to the west, Russia to the east, and Norway to the north, Finland has a population of approximately 5.5 million, making it the 25th-most populous country in Europe. The main language is Finnish, Swedish is the second official language of Finland, Finland is a parliamentary republic consisting of 19 regions and 310 municipalities. The climate varies significantly relative to latitude, from Southern Finland's humid continental climate to the boreal climate of the north. Finland is primarily a boreal forest biome, with more than 180,000 recorded lakes, With an area of 338,455 square kilometres (130,678 sq mi), Finland is the eighth-largest country in Europe, and the most sparsely populated country in the European Union. Helsinki, the capital of Finland, is the largest metropolitan area with over 1.5 million people."
+guiname = "フィンランド共和国"
+description = "フィンランド、正式にはフィンランド共和国は北ヨーロッパに位置する北欧の国です。 フィンランドは西はスウェーデン、東はロシア、北はノルウェーと国境を接しており、フィンランドの人口は約5.5万人で、ヨーロッパで25番目に人口の多い国です。 主な言語はフィンランド語、スウェーデン語はフィンランドの第2公用語であり、フィンランドは19の地域と310の自治体からなる議会共和国です。 気候は、フィンランド南部の湿気の多い大陸性気候から北部の北方性気候まで、緯度に比べて大きく異なります。 フィンランドは主に北方林のバイオームであり、180,000以上の湖が記録されており、面積は338,455平方キロメートル（130,678平方マイル）であり、フィンランドはヨーロッパで8番目に大きい国であり、欧州連合で最も人口の少ない国である。 フィンランドの首都ヘルシンキは、150万人以上の人口を持つ最大の大都市圏です。"
 
-jobtitle = "President"
+jobtitle = "プレジデント"
 
 [stats]
-National Anthem: = "Our Land"
-Population: = "5.5 million people (2020)"
-Area: = "338,455 km2 (130,678 sq mi)"
-Currency: = "Euro (€) (EUR)"
-GDP: = "$277 billion (€230,139,104,151.60 EUR)"
-GDP per capita: = "$48,461 (€40,262.42 EUR)"
-Democracy Index: = "9.25/10 (5th)"
-Biggest Industry: = "Electronics"
-Capital And Largest City: = "Helsinki"
-Driving side: =	"right"
+国歌：="私たちの土地"
+人口：="550万人（2020年）"
+面積:="338,455km2(130,678平方マイル)"
+通貨:="ユーロ(€)(EUR)"
+GDP：="277億ドル（€230,139,104,151.60EUR）"
+一人当たりGDP: = "$48,461 (€40,262.42 ユーロ）"
+9.25/10（第5回）
+最大の産業：="エレクトロニクス"
+首都と最大の都市：="ヘルシンキ"
+運転側：="右"

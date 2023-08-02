@@ -1,19 +1,19 @@
 [config]
 name  = russia
-guiname = "The Russian Federation"
-description = "Russia, or the Russian Federation, is a transcontinental country located in Eastern Europe and Northern Asia. It extends from the Baltic Sea in the west to the Pacific Ocean in the east, and from the Arctic Ocean in the north to the Black Sea and the Caspian Sea in the south. Russia covers over 17,125,200 square kilometres (6,612,100 sq mi), spanning more than one-eighth of the Earth's inhabited land area, stretching eleven time zones, and bordering 16 sovereign nations. Moscow is the country's capital and largest city, other major cities include Saint Petersburg, Novosibirsk, Yekaterinburg, Kazan, Nizhny Novgorod, Chelyabinsk and Samara."
+guiname = "ロシア連邦"
+description = "ロシア、またはロシア連邦は、東ヨーロッパと北アジアに位置する大陸横断国です。 それは西のバルト海から東の太平洋まで、そして北の北極海から南の黒海とカスピ海まで伸びています。 ロシアは17,125,200平方キロメートル（6,612,100平方マイル）以上をカバーし、地球の居住土地面積の八分の一以上にまたがる、十一のタイムゾーンを伸ばし、16の主権国家と国境を接している。 モスクワは国の首都で最大の都市であり、他の主要都市にはサンクトペテルブルク、ノボシビルスク、エカテリンブルク、カザン、ニジニノヴゴロド、チェリャビンスク、サマラが含まれます。"
 
-jobtitle = "President"
+jobtitle = "プレジデント"
 
 [stats]
-National Anthem: = "State Anthem of the Russian Federation"
-Population: = "146.7 million (2020)"
-Area: = "17,098,246 km2 (6,601,670 sq mi)"
-Currency: = "Russian ruble (₽) (RUB)"
-GDP: = "$4.135 trillion (3.079 quadrillion Russian Rubles)"
-GDP per capita: = "$28,184 (~₽2096728.95 Russian Rubles)"
-Democracy Index: = "3.31/10 (134th)"
-Biggest Industry: = "Services Sector"
-Capital (and largest city): = "Moscow"
-Driving side: =	"right"
-Calling code: = "+7"
+国歌：="ロシア連邦の国歌"
+人口：="1億4670万人（2020年）"
+面積:="17,098,246km2(6,601,670平方マイル)"
+通貨:="ロシアルーブル(₽)(RUB)"
+GDP：="4.135兆ドル（3.079兆ロシアルーブル）"
+一人当たりGDP：="$28,184（-Russian2096728.95ロシアルーブル）"
+3.31/10(第134回)
+最大の産業：="サービス部門"
+首都（および最大の都市）：="モスクワ"
+運転側：="右"
+呼び出しコード：="+7"

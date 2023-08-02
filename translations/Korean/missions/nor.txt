@@ -1,18 +1,18 @@
 [config]
 name  = nor
-guiname = "Northern Ireland"
-description = "Northern Ireland is a part of the United Kingdom that is variously described as a country, province, territory or region. Located in the northeast of the island of Ireland, Northern Ireland shares a border to the south and west with the Republic of Ireland. In 2011, its population was 1,810,863, constituting about 30% of the island's population and about 3% of the UK's population. The Northern Ireland Assembly (colloquially referred to as Stormont after its location), established by the Northern Ireland Act 1998, holds responsibility for a range of devolved policy matters, while other areas are reserved for the British government. Northern Ireland co-operates with the Republic of Ireland in several areas."
+guiname = "북아일랜드"
+description = "북아일랜드는 영국의 일부로 국가,주,영토 또는 지역으로 다양하게 묘사됩니다. 아일랜드 섬의 북동쪽에 위치한 북아일랜드는 남쪽과 서쪽으로는 아일랜드 공화국과 국경을 접한다. 2011 년 인구는 1,810,863 명으로 섬 인구의 약 30%와 영국 인구의 약 3%를 차지했다. 1998 년 북아일랜드 법에 의해 설립된 북아일랜드 의회(일반적으로 그 위치에서 스토르몬트라고 불린다)는 여러 가지 전권 정책 문제에 대한 책임을 지고 있으며 다른 지역은 영국 정부에 예약되어 있습니다. 북아일랜드는 여러 분야에서 아일랜드 공화국과 협력하고 있습니다."
 
-jobtitle = "Monarch"
+jobtitle = "군주"
 
 [stats]
-National Anthem: = "Londonderry Air Or God Save the Queen"
-Population: = "1,900,000 (2019 est)"
-Area: = "14,130 km2 (5,460 sq mi)"
-Currency: = "Pound sterling (GBP; £)"
-GVA: = "£49 billion?"
-GVA per capita: = "£26,000?"
-Biggest Industry: = "Pharmaceutical And Medical Technology Industries"
-Capital And Largest City: = "Belfast"
-Driving side: =	"left"
-Calling code: = "+44"
+애국가:="런던 데리 에어 또는 하나님 여왕을 저장"
+인구:="1,900,000(2019 동부 표준시)"
+지역:="14,130 평방 킬로미터(5,460 평방 마일)"
+Currency:="파운드(GBP;£)"
+490 억원?"
+1 인당 1 인당 1 인당 1 인당 1 인당 1 인당 1 인당 1 인당 1 인당 1 인당 1 인당 1 인당 1 인당 1 인당 1 인당 1 인당"
+가장 큰 산업:="제약 및 의료 기술 산업"
+자본과 가장 큰 도시:="벨파스트"
+운전 측면:="왼쪽"
+호출 코드:="+44"

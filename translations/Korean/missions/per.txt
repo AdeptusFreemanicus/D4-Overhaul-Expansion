@@ -1,19 +1,19 @@
 [config]
 name  = per
-guiname = "Republic of Peru"
-description = "Peru, officially the Republic of Peru, is a country in western South America. It is bordered in the north by Ecuador and Colombia, in the east by Brazil, in the southeast by Bolivia, in the south by Chile, and in the south and west by the Pacific Ocean. Peru is a megadiverse country with habitats ranging from the arid plains of the Pacific coastal region in the west to the peaks of the Andes mountains extending from the north to the southeast of the country to the tropical Amazon Basin rainforest in the east with the Amazon river. At 1.28 million km2 (0.5 million mi2), Peru is the 19th largest country in the world, and the third largest in South America."
+guiname = "페루 공화국"
+description = "페루,공식적으로 페루 공화국은 남미 서부에 있는 나라입니다. 북쪽으로는 에콰도르와 콜롬비아,동쪽으로는 브라질,남동쪽으로는 볼리비아,남쪽으로는 칠레,남쪽과 서쪽으로는 태평양과 접한다. 페루는 서쪽에있는 태평양 연안 지역의 건조한 평원에서 아마존 강과 동쪽의 열대 아마존 분지 열대 우림에 대한 국가의 남동쪽으로 북쪽에서 확장 안데스 산맥의 봉우리에 이르기까지 서식지와 메가 다양성 나라입니다. 페루는 세계에서 19 번째로 큰 나라이며 남아메리카에서 3 번째로 큰 나라입니다."
 
-jobtitle = "President"
+jobtitle = "대통령"
 
 [stats]
-Motto: = "Firm and Happy for the Union"
-National Anthem: = "National Anthem of Peru"
-Population: = "32.8 million people (2020)"
-Area: = "1,285,216 km2 (496,225 sq mi)"
-Currency: = "Sol (PEN)"
-GDP: = "$195.761 billion"
-GDP per capita: = "$5,845"
-Democracy Index: = "6.53/10 (57th)"
-Biggest Industry: = "Mining Industry"
-Capital And Largest City: = "Lima"
-Driving side: =	"right"
+모토:="회사 및 연합에 대 한 행복"
+국가:="페루의 국가"
+인구:="3280 만 명(2020)"
+지역:="1,285,216 평방 킬로미터(496,225 평방 마일)"
+통화:="솔(펜)"
+$195.761 억"
+1 인당 국내 총생산:="$5,845"
+민주주의 지수:="6.53/10(57 위)"
+가장 큰 산업:="광산업"
+자본과 가장 큰 도시:="리마"
+운전 측면:="오른쪽"

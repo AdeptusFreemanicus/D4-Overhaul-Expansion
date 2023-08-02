@@ -3,7 +3,7 @@ name  = hun
 guiname = "Hungría"
 description = "Hungría es un país de Europa Central. Con una extensión de 93.030 kilómetros cuadrados (35.920 millas cuadradas) en la cuenca de los Cárpatos, limita con Eslovaquia al norte, Ucrania al noreste, Rumania al este y sureste, Serbia al sur, Croacia y Eslovenia al suroeste y Austria al oeste. . Con unos 10 millones de habitantes, Hungría es un estado miembro de tamaño medio de la Unión Europea. El idioma oficial es el húngaro, que es el idioma urálico más hablado en el mundo y uno de los pocos idiomas no indoeuropeos que se hablan ampliamente en Europa. La capital y ciudad más grande de Hungría es Budapest; otras áreas urbanas importantes incluyen Debrecen, Szeged, Miskolc, Pécs y Győr."
 
-jobtitle = "Presidente"
+jobtitle = "Presidentee"
 
 [stats]
 Himno Nacional: = "Himno"

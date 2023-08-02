@@ -1,20 +1,19 @@
 [config]
 name  = norway
-guiname = "Kingdom of Norway"
-description = "Norway, officially the Kingdom of Norway, is a Nordic country in Northern Europe whose mainland territory comprises the western and northernmost portion of the Scandinavian Peninsula. The remote Arctic island of Jan Mayen as well as the archipelago of Svalbard also form part of Norway. Bouvet Island, located in the Subantarctic, is a dependency of Norway; it also lays claims to the Antarctic territories of Peter I Island and Queen Maud Land.
-Norway has a total area of 385,207 square kilometres (148,729 sq mi) and a population of 5,385,300 as of November 2020. The country shares a long eastern border with Sweden (1,619 km or 1,006 mi long)."
+guiname = "Королівство Норвегія"
+description = "Норвегія, офіційно Королівство Норвегія, є скандинавською країною в Північній Європі, материкова територія якої включає західну і найпівнічнішу частину Скандинавського півострова. Віддалений арктичний острів Ян-Маєн, а також архіпелаг Шпіцберген також є частиною Норвегії. Острів Буве, розташований в Субантарктиці, залежить від Норвегії; він також претендує на Антарктичні території - Острів Петра I і землю Королеви Мод. Загальна площа Норвегії становить 385 207 квадратних кілометрів (148 729 квадратних миль), а населення - 5 385 300 станом на листопад 2020 року. Країна має довгий східний кордон зі Швецією (1619 км або 1006 миль)."
 
-jobtitle = "Prime Minister"
+jobtitle = "прем'єр-міністр"
 
 [stats]
-National Anthem: = "Yes, we love this country"
-Population: = "5.3 million (2020)"
-Area: = "385,207 km2 (148,729 sq mi)"
-Currency: = "Norwegian krone kr (NOK)"
-GDP: = "$397 billion (~kr3,419,256,419,163,400.00 NOK)"
-GDP per capita: = "$79,638 (kr685,901.12 NOK)"
-Democracy Index: = "~9.87/10 (1st)"
-Biggest Industry: = "Oil And Gas Exports"
-Capital And Largest City: = "Oslo"
-Driving side: =	"right"
-Calling code: = "+47"
+Національний гімн: = "так, ми любимо цю країну"
+Населення: = "5,3 мільйона (2020)"
+Площа: = "385,207 км2 (148,729 кв. милі)"
+Валюта: = "Норвезька крона kr (NOK)"
+ВВП: = " 397 мільярдів доларів (~3 крон,419,256,419,163,400.00 Норвезьких крон)"
+ВВП на душу населення: = " 79 638 доларів США (685 901,12 Норвезьких крон)"
+Індекс демократії: = "~9,87/10 (1-е місце)"
+Найбільша галузь: = "експорт нафти і газу"
+Столиця і найбільше місто: = "Осло"
+Сторона руху: = "права"
+Телефонний код: = "+47"

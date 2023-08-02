@@ -3,7 +3,7 @@ name  = rom
 guiname = "Romania"
 description = "La Romania è un paese alla confluenza dell'Europa centrale, orientale e sudorientale. Confina a sud con la Bulgaria, a nord con l'Ucraina, a ovest con l'Ungheria, a sud-ovest con la Serbia, a est con la Moldova e a sud-est con il Mar Nero. Ha un clima prevalentemente temperato-continentale e una superficie di 238.397 km2 (92.046 miglia quadrate), con una popolazione di circa 19 milioni. La Romania è il dodicesimo paese più grande d'Europa e il sesto stato membro più popoloso dell'Unione Europea. La sua capitale e città più grande è Bucarest; altre importanti aree urbane includono Cluj-Napoca, Timișoara, Iași, Constanța, Craiova, Brașov e Galați."
 
-jobtitle = "Presidente"
+jobtitle = "Presidentee"
 
 [stats]
 Inno nazionale: = "Svegliati, rumeno"

@@ -1,20 +1,20 @@
 [config]
 name  = taiwan
-guiname = "Republic of China"
-description = "Taiwan, officially the Republic of China, is a country in East Asia. Neighbouring countries include the People's Republic of China to the northwest, Japan to the northeast, and the Philippines to the south. The main island of Taiwan has an area of 35,808 square kilometres (13,826 sq mi), with mountain ranges dominating the eastern two-thirds and plains in the western third, where its highly urbanised population is concentrated. Taipei is the capital as well as the largest metropolitan area of Taiwan. Other major cities include New Taipei, Kaohsiung, Taichung, Tainan and Taoyuan. With 23.57 million inhabitants, Taiwan is among the most densely populated countries."
+guiname = "中華民国"
+description = "正式には中華民国である台湾は、東アジアの国です。 近隣諸国には、北西に中華人民共和国、北東に日本、南にフィリピンがあります。 台湾本島の面積は35,808平方キロメートル（13,826平方マイル）で、東部三分の二を山脈が支配し、西部三分の二を平野が支配しており、高度に都市化された人口が集中している。 台北は首都であり、台湾最大の都市圏でもあります。 その他の主要都市には、新北市、高雄市、台中市、台南市、桃園市などがあります。 人口は2,357万人で、台湾は最も人口密度の高い国の一つです。"
 
-jobtitle = "President"
+jobtitle = "プレジデント"
 
 [stats]
-National Anthem: = "National Anthem of the Republic of China"
-Population: = "~23.5 million (2020)"
-Area: = "36,197 km2 (13,976 sq mi)"
-Currency: = "New Taiwan dollar (NT$) (TWD)"
-GDP: = "$635.547 billion (~NT$17,935,652,706,112,380.00 TWD)"
-GDP per capita: = "$26,910 (~NT$759,302.84 TWD)"
-Democracy Index: = "~7.73/10 (31th)"
-Biggest Industry: = "Services Sector"
-Capital: = "Taipei"
-Largest City: = "New Taipei"
-Driving side: =	"right"
-Calling code: = "+886"
+国歌：="中華民国の国歌"
+人口:="~23.5万人(2020)"
+面積:="36,197km2(13,976sq mi)"
+通貨:="新台湾ドル(NT$)(TWD)"
+GDP：=""635.547億（〜NT$17,935,652,706,112,380.00TWD）"
+一人当たりGDP:="2 26,910(~NT$759,302.84TWD)"
+7.73/10(31日)
+最大の産業：="サービス部門"
+首都:="台北"
+最大の都市：="新北"
+運転側：="右"
+呼び出しコード：="+886"

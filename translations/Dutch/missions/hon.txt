@@ -1,18 +1,18 @@
 [config]
 name  = hon
-guiname = "Hong Kong Special Administrative Region of the People's Republic of China"
-description = "Hong Kong, officially the Hong Kong Special Administrative Region of the People's Republic of China, is a city and special administrative region of China on the eastern Pearl River Delta in South China. With over 7.5 million residents of various nationalities in a 1,104-square-kilometre (426 sq mi) territory, Hong Kong is one of the most densely populated places in the world. Hong Kong is also one of the three global financial centres and one of the most developed cities in the world."
+guiname = "Hong Kong Speciale Administratieve Regio van de Volksrepubliek China"
+description = "Hong Kong, officieel de Speciale Administratieve Regio Hong Kong van de Volksrepubliek China, is een stad en speciale administratieve regio van China aan de oostelijke Pearl River Delta in Zuid-China. Met meer dan 7,5 miljoen inwoners van verschillende nationaliteiten in een gebied van 1.104 vierkante kilometer (426 sq mi), is Hong Kong een van de dichtstbevolkte plaatsen ter wereld. Hong Kong is ook een van de drie wereldwijde financiële centra en een van de meest ontwikkelde steden ter wereld."
 
-jobtitle = "Chief Executive"
+jobtitle = "Directeur"
 
 [stats]
-Population: = "7,413,070 million (2021)"
-Area: = "2,754.97 km2 (1,063.70 sq mi)"
-Currency: = "Hong Kong dollar (HK$) (HKD)"
-GDP: = "$472.395 billion"
-GDP per capita: = "$62,839"
-Democracy index: = "~5.60/10 (85th)"
-Largest Industry: = "Toursim/Service Sector"
-Capital and largest city: = "Hanoi"
-Driver side: = "left"
-Phone prefix: = "+852"
+Bevolking: = "7.413.070 miljoen (2021)"
+Oppervlakte: = "2.754, 97 km2 (1.063, 70 sq mi)"
+Valuta: = "Hong Kong dollar (HK$) (HKD)"
+BBP: = "$472.395 miljard"
+BBP per hoofd van de bevolking: = "$62,839"
+Democratie index: = "~5.60/10 (85e)"
+Grootste Industrie: = "Toursim/Dienstensector"
+Hoofdstad en grootste stad: = "Hanoi"
+Bestuurderszijde: = "links"
+Telefoon prefix: = "+852"

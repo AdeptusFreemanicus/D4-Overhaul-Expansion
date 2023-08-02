@@ -1,17 +1,17 @@
 [config]
 name  = wal
-guiname = "Wales"
-description = "Wales is a country that is part of the United Kingdom. It is bordered by England to the east, the Irish Sea to the north and west, and the Bristol Channel to the south. It had a population in 2011 of 3,063,456 and has a total area of 20,779 km2 (8,023 sq mi). Wales has over 1,680 miles (2,700 km) of coastline and is largely mountainous with its higher peaks in the north and central areas, including Snowdon (Yr Wyddfa), its highest summit. The country lies within the north temperate zone and has a changeable, maritime climate. The capital and largest city is Cardiff."
+guiname = "ウェールズ"
+description = "ウェールズはイギリスの一部である国です。 東はイングランド、北と西はアイリッシュ海、南はブリストル海峡と国境を接しています。 2011年の人口は3,063,456人で、総面積は20,779km2（8,023平方マイル）である。 ウェールズには1,680マイル(2,700km)以上の海岸線があり、最も高い頂上であるスノードン（Yr Wyddfa）を含む北部と中央部の高いピークを持つ大部分が山岳地帯である。 国は北の温帯内にあり、変更可能な、海洋気候を持っています。 首都と最大の都市はカーディフです。"
 
-jobtitle = "Monarch"
+jobtitle = "モナーク"
 
 [stats]
-Population: = "3,153,000 million (2019 est)"
-Area: = "20,779 km2 (8,023 sq mi)	"
-Currency: = "Pound sterling (GBP; £)"
-GVA: = "£75 billion"
-GVA per capita: = "£23,900"
-Largest Industry: = "Sheeeep"
-Capital and largest city: = "Cardiff"
-Driver side: = "left"
-Phone prefix: = "+44"
+人口：="3,153,000百万（2019est）"
+面積:="20,779km2(8,023sq mi)"
+通貨:="英ポンド(GBP;£)"
+GVA：="£75億"
+一人当たりのGVA：="£23,900"
+最大の産業：="Sheeeep"
+首都と最大の都市：="カーディフ"
+運転席側：="左"
+電話の接頭辞:="+44"

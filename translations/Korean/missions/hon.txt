@@ -1,18 +1,18 @@
 [config]
 name  = hon
-guiname = "Hong Kong Special Administrative Region of the People's Republic of China"
-description = "Hong Kong, officially the Hong Kong Special Administrative Region of the People's Republic of China, is a city and special administrative region of China on the eastern Pearl River Delta in South China. With over 7.5 million residents of various nationalities in a 1,104-square-kilometre (426 sq mi) territory, Hong Kong is one of the most densely populated places in the world. Hong Kong is also one of the three global financial centres and one of the most developed cities in the world."
+guiname = "중화인민공화국 홍콩 특별 행정구"
+description = "홍콩은 공식적으로 중화인민공화국의 홍콩 특별 행정구역으로,중국 남부의 진주강 동쪽 델타에 있는 중국의 도시이자 특별 행정구역이다. 1,104 평방 킬로미터(426 평방 마일)의 영토에 다양한 국적의 750 만 명이 넘는 주민이 거주하는 홍콩은 세계에서 가장 인구 밀도가 높은 곳 중 하나입니다. 홍콩은 또한 3 개의 글로벌 금융 중심지 중 하나이며 세계에서 가장 발달된 도시 중 하나입니다."
 
-jobtitle = "Chief Executive"
+jobtitle = "최고 경영자"
 
 [stats]
-Population: = "7,413,070 million (2021)"
-Area: = "2,754.97 km2 (1,063.70 sq mi)"
-Currency: = "Hong Kong dollar (HK$) (HKD)"
-GDP: = "$472.395 billion"
-GDP per capita: = "$62,839"
-Democracy index: = "~5.60/10 (85th)"
-Largest Industry: = "Toursim/Service Sector"
-Capital and largest city: = "Hanoi"
-Driver side: = "left"
-Phone prefix: = "+852"
+인구:="7,413,070 백만(2021)"
+지역:="2,754.97 평방 킬로미터(1,063.70 평방 마일)"
+통화:="홍콩 달러(홍콩 달러)(홍콩 달러)"
+총생산:="$472.395 억"
+1 인당 국내 총생산:="$62,839"
+민주주의 지수:="~5.60/10(85 위)"
+가장 큰 산업:="관광/서비스 부문"
+자본과 가장 큰 도시:="하노이"
+드라이버 측:="왼쪽"
+전화 번호:="+852"

@@ -1,19 +1,19 @@
 [config]
 name  = chi
-guiname = "Republic of Chile"
-description = "Chile, officially the Republic of Chile, is a country in western South America. It occupies a long, narrow strip of land between the Andes to the east and the Pacific Ocean to the west. Chile covers an area of 756,096 square kilometres (291,930 sq mi) and has a population of 17.5 million as of 2017. The capital and largest city is Santiago and the national language is Spanish."
+guiname = "Republika Chile"
+description = "Chile, oficjalnie Republika Chile, to kraj w zachodniej Ameryce Południowej. Zajmuje długi, wąski pas lądu między Andami na Wschodzie a Oceanem Spokojnym na zachodzie. Chile zajmuje powierzchnię 756 096 kilometrów kwadratowych (291 930 2) i liczy 17,5 miliona mieszkańców w 2017 roku. Stolicą i największym miastem jest Santiago, a językiem narodowym jest Hiszpański."
 
-jobtitle = "President"
+jobtitle = "Przewodniczący"
 
 [stats]
-Motto: = "By Right or Might"
-National Anthem: = "Himno Nacional de Chile"
-Population: = "17.5 million people (2017)"
-Area: = "756,096.3 km2 (291,930.4 sq mi)"
-Currency: = "Chilean peso (CLP)"
-GDP: = "$245.414 billion"
-GDP per capita: = "$12,612"
-Democracy Index: = "8.28/10 (17th)"
-Biggest Industry: = "Agriculture"
-Capital And Largest City: = "Santiago"
-Driving side: =	"right"
+Motto: = "by Right or Might"
+Hymn narodowy: = "Himno Nacional de Chile",
+Populacja: = " 17,5 miliona osób (2017)"
+Powierzchnia: = "756 096,3 km2 (291 930,4 2)"
+Waluta: = " peso chilijskie (CLP)"
+PKB: = "245,414 mld USD"
+PKB per capita: = "$12,612"
+Indeks demokracji: = " 8.28 10 (17)"
+Największy Przemysł: = "Rolnictwo"
+Stolica I Największe Miasto: = "Santiago"
+Strona jazdy: = "prawo"

@@ -1,20 +1,20 @@
 [config]
 name  = drc
-guiname = "Democratic Republic of the Congo"
-description = "The Democratic Republic of the Congo, informally Congo-Kinshasa, DR Congo, the DRC, the DROC, or the Congo, and formerly and also coloquially Zaire, is a country in Central Africa. It is, by area, the second largest country in Africa (after Algeria), and the 11th-largest in the world. With a population of around 92 million, the Democratic Republic of the Congo is the most populous officially Francophone country in the world. It is a member of the United Nations, Non-Aligned Movement, African Union, COMESA, and the East African Community. The capital and largest city is Kinshasa, which is also the world's most populous Francophone city."
+guiname = "Демократична Республіка Конго"
+description = "Демократична Республіка Конго, неофіційно Конго-Кіншаса, ДР Конго, ДРК, ДРКП або Конго, а раніше і також в просторіччі Заїр, є країною в Центральній Африці. За площею це друга за величиною країна в Африці (після Алжиру) і 11-а за величиною в світі. Демократична Республіка Конго з населенням близько 92 мільйонів чоловік є найбільш густонаселеною офіційно франкомовною країною в світі. Вона є членом Організації Об'єднаних Націй, Руху неприєднання, Африканського союзу, КОМЕСА та східноафриканської громади. Столицею і найбільшим містом є Кіншаса, яка також є найбільш густонаселеним франкомовним містом у світі."
 
 
-jobtitle = "President"
+jobtitle = "Президент"
 
 [stats]
-National Anthem: = "Justice – Peace – Work"
-Population: = "92 million (2021)"
-Area: = "2,345,409 km2"
-Currency: = "Congolese franc (CDF)"
-GDP: = "$46 billion"
-GDP per capita: = "$501"
-Democracy Index: = "~2.76/10 (164th)"
-Biggest Industry: = "Agriculture Sector/Mining Sector"
-Capital (and largest city): = "Kinshasa"
-Driving side: =	"right"
-Calling code: = "+243"
+Національний гімн: = "справедливість – мир – праця"
+Населення: = "92 мільйони (2021)"
+Площа: = "2,345,409 км2"
+Валюта: = "Конголезький франк (CDF)"
+ВВП: = "46 мільярдів доларів"
+ВВП на душу населення: = "501 долар"
+Індекс демократії: = "~2,76/10 (164-е місце)"
+Найбільша галузь: = "сільськогосподарський сектор/гірничодобувний сектор"
+Столиця (і найбільше місто): = "Кіншаса"
+Сторона руху: = "права"
+Телефонний код: = "+243"

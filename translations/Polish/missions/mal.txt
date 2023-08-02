@@ -1,21 +1,21 @@
 [config]
 name  = mal
 guiname = "Malaysia"
-description = "Malaysia is a country in Southeast Asia. The federal constitutional monarchy consists of thirteen states and three federal territories, separated by the South China Sea into two regions, Peninsular Malaysia and Borneo's East Malaysia. Peninsular Malaysia shares a land and maritime border with Thailand and maritime borders with Singapore, Vietnam, and Indonesia. East Malaysia shares land and maritime borders with Brunei and Indonesia and a maritime border with the Philippines and Vietnam. Kuala Lumpur is the national capital, largest city and the seat of the legislative branch of the federal government. The nearby planned capital of Putrajaya is the administrative capital; which represents the seat of both the executive branch (Cabinet, federal ministries and agencies) and the judicial branch of the federal government. With a population of over 32 million, Malaysia is the world's 43rd-most populous country. The southernmost point of continental Eurasia is in Tanjung Piai. In the tropics, Malaysia is one of 17 megadiverse countries, home to a number of endemic species."
+description = "Malezja to kraj w Azji Południowo-Wschodniej. Federalny monarchia konstytucyjna składa się z trzynastu stanów i trzech terytoriów federalnych, oddzielonych przez Morze Południowochińskie na dwa regiony, Półwysep Malezyjski i Borneojest Malezja Wschodnia. Półwysep Malezji dzieli granicę lądową i morską z Tajlandią oraz granice morskie z Singapurem, Wietnamem i Indonezją. Malezja Wschodnia dzieli granice lądowe i morskie z Brunei i Indonezją oraz granicę morską z Filipinami i Wietnamem. Kuala Lumpur jest stolicą kraju, największym miastem i siedzibą władzy ustawodawczej rządu federalnego. Pobliska planowana stolica Putrajaya jest stolicą administracyjną; który reprezentuje siedzibę zarówno władzy wykonawczej (gabinetu, ministerstw i agencji federalnych), jak i władzy sądowniczej rządu federalnego. Z populacją ponad 32 milionów, Malezja jest 43. najbardziej zaludnionym krajem na świecie. Najbardziej wysunięty na południe punkt kontynentalnej Eurazji znajduje się w Tanjung Piai. W tropikach Malezja jest jednym z 17 krajów megadiverse, domem dla wielu gatunków endemicznych."
 
 jobtitle = "Yang di-Pertuan Agong"
 
 [stats]
-Motto: = "Unity Is Strength"
-National Anthem: = "My Country"
-Population: = "32,7 million (2020 est)"
-Area: = "330,803 km2 (127,724 sq mi)"
-Currency: = "Ringgit (RM) (MYR)"
-GDP: = "$900.426 billion"
-GDP per capita: = "$27,287"
-Democracy Index: = "~7.19/10 (39th)"
-Biggest Industry: = "Electrical And Electronics Sector"
-Capitals: = "Kuala Lumpur - Putrajaya (Administrative)"
-Largest City: = "Kuala Lumpur"
-Driving side: =	"Left"
-Calling code: = "+60"
+Motto: = "Jedność Jest Siłą"
+Hymn Narodowy: = "Mój Kraj"
+Populacja: = " 32,7 mln (2020 est)"
+Powierzchnia: = "330 803 km2 (127 724 2)"
+Waluta: = " Ringgit (RM) (MYR)"
+PKB: = "900,426 mld USD"
+PKB per capita: = "$27,287"
+Indeks demokracji: = " ~7.19 10 (39.)"
+Największy Przemysł: = "Sektor Elektryczny I Elektroniczny"
+Capitals: = " Kuala Lumpur-Putrajaya (Administracyjna)",
+Największe Miasto: Kuala Lumpur
+Align = "Left" 
+Kod wywołujący: =" + 60"

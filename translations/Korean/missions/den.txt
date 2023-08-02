@@ -1,20 +1,20 @@
 [config]
 name  = den
-guiname = "Kingdom of Denmark"
-description = "Denmark, officially the Kingdom of Denmark, is a Nordic country in Northern Europe. European Denmark, which is the southernmost of the Scandinavian countries, consists of a peninsula, Jutland, and an archipelago of 443 named islands, with the largest being Zealand, Funen and the North Jutlandic Island. The islands are characterised by flat, arable land and sandy coasts, low elevation and a temperate climate. Denmark lies southwest of Sweden and south of Norway, and is bordered to the south by Germany. The Kingdom of Denmark is constitutionally a unitary state comprising metropolitan Denmark and the two autonomous territories in the North Atlantic Ocean: the Faroe Islands and Greenland."
+guiname = "덴마크 왕국"
+description = "덴마크,공식적으로 덴마크 왕국은 북유럽의 북유럽 국가입니다. 스칸디나비아 국가 중 가장 남쪽에 위치한 유럽 덴마크는 반도인 유틀랜드와 443 개의 섬으로 이루어진 군도로 구성되어 있으며,가장 큰 섬은 지랜드,피넨,북유틀란드 섬이다. 섬들은 평평하고 경작 가능한 땅과 모래로 된 해안,낮은 고도 및 온화한 기후로 특징지어집니다. 덴마크는 스웨덴 남서쪽과 노르웨이 남쪽에 위치하며 남쪽으로는 독일과 접한다. 덴마크 왕국은 헌법상 덴마크 대도시와 북대서양의 두 자치 영토인 페로 제도와 그린란드를 포함하는 단일 국가입니다."
 
-jobtitle = "Monarch"
+jobtitle = "군주"
 
 [stats]
-National Anthem: = "There is a lovely country"
-Royal Anthem: = "King Christian stood by the lofty mast"
-Population: = "5,8 million (2021 est)"
-Area: = "42,933 km2 (16,577 sq mi)"
-Currency: = "Danish Krone (DKK)"
-GDP: = "$370 billion"
-GDP per capita: = "$63,829"
-Democracy Index: = "~9.15/10 (7th)"
-Biggest Industry: = "Agriculture/Tourism"
-Capital And Largest City: = "Copenhagen"
-Driving side: =	"Right"
-Calling code: = "+45"
+애국가:="아름다운 나라가있다"
+왕실 애국가:="기독교 왕은 높은 돛대에 서 있었다"
+인구:="5,8 백만(2021 동부 표준시)"
+지역:="42,933 평방 킬로미터(16,577 평방 마일)"
+통화:="덴마크 크로네(덴마크 크로네)"
+3,700 억 달러
+1 인당 국내 총생산:="$63,829"
+민주주의 지수:="~9.15/10(7 위)"
+가장 큰 산업:="농업/관광"
+자본과 가장 큰 도시:="코펜하겐"
+운전 측면:="오른쪽"
+호출 코드:="+45"

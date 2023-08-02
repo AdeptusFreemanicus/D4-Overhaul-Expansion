@@ -1,21 +1,21 @@
 [config]
 name  = brz
-guiname = "Federative Republic of Brazil"
-description = "Brazil, officially the Federative Republic of Brazil, is the largest country in both South America and Latin America. At 8.5 million square kilometers (3.2 million square miles) and with over 211 million people, Brazil is the world's fifth-largest country by area and the sixth most populous. Its capital is Brasília, and its most populous city is São Paulo. The federation is composed of the union of the 26 states and the Federal District. It is the largest country to have Portuguese as an official language and the only one in the Americas; it is also one of the most multicultural and ethnically diverse nations, due to over a century of mass immigration from around the world; as well as the most populous Roman Catholic-majority country."
+guiname = "ブラジル連邦共和国"
+description = "正式にはブラジル連邦共和国であるブラジルは、南アメリカとラテンアメリカの両方で最大の国です。 850万平方キロメートル(320万平方マイル)、2億1,100万人以上の人口を擁するブラジルは、面積で世界第5位の国であり、6番目に人口が多い国です。 首都はブラジリアであり、その最も人口の多い都市はサンパウロです。 連邦は、26の州と連邦地区の連合で構成されています。 ポルトガル語を公用語として持つ最大の国であり、南北アメリカで唯一の国です; また、世界中からの大量移民の世紀以上のために、最も多文化と民族的に多様な国の一つであります;だけでなく、最も人口の多いローマカトリック大多数"
 
-jobtitle = "President"
+jobtitle = "プレジデント"
 
 [stats]
-Motto: = "Order and Progress"
-National Anthem: = "Brazilian National Anthem"
-Population: = "210 million (2019)"
-Area: = "8,515,767 km2 (3,287,956 sq mi)"
-Currency: = "Real (R$) (BRL)"
-GDP: = "$3.078 trillion (~R$15,516,802,336,500.00 BRL )"
-GDP per capita: = "$6,450 (R$33,361.13 BRL )"
-Democracy Index: = "~6.86/10 (52nd)"
-Biggest Industry: = "Manufacturing Automobiles"
-Capital: = "Brasília"
-Largest City: = "São Paulo"
-Driving side: =	"right"
-Calling code: = "+55"
+座右の銘：＝"秩序と進歩"
+国歌：="ブラジル国歌"
+人口：="210万人（2019年）"
+面積:="8,515,767km2(3,287,956平方マイル)"
+通貨:="リアル(R$)(BRL)"
+GDP：="$3.078兆（〜R$15,516,802,336,500.00BRL）"
+一人当たりGDP:="$6,450(R3 33,361.13BRL)"
+6.86/10(第52回)
+最大の産業：="自動車を製造する"
+首都:="ブラジリア"
+最大の都市：="サンパウロ"
+運転側：="右"
+呼び出しコード：="+55"

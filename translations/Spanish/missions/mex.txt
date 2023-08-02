@@ -2,7 +2,7 @@
 name  = mex
 guiname = "Estados Unidos Mexicanos"
 description = "México, oficialmente los Estados Unidos Mexicanos, es un país en la parte sur de América del Norte. Limita al norte con los Estados Unidos; al sur y al oeste por el Océano Pacífico; al sureste con Guatemala, Belice y el Mar Caribe; y al este con el Golfo de México. México cubre 1.972.550 kilómetros cuadrados (761.610 millas cuadradas), lo que lo convierte en el decimotercer país más grande del mundo por área; con aproximadamente 126.014.024 habitantes, es el décimo país más poblado y el que más hispanohablantes tiene. México está organizado como una federación que comprende 31 estados y la Ciudad de México, su capital y metrópoli más grande. Otras áreas urbanas importantes incluyen Guadalajara, Monterrey, Puebla, Toluca, Tijuana, Ciudad Juárez y León."
-jobtitle = "Presidente"
+jobtitle = "Presidentee"
 
 [stats]
 Himno Nacional: = "La Patria es Primero"

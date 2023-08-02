@@ -1,20 +1,20 @@
 [config]
 name  = bar
 guiname = "Barbados"
-description = "Barbados is an island country in the Lesser Antilles of the West Indies, in the Caribbean region of the Americas, and the most easterly of the Caribbean Islands. It occupies an area of 432 km2 (167 sq mi) and has a population of about 287,000. Its capital and largest city is Bridgetown."
+description = "Barbados è un paese insulare nelle Piccole Antille delle Indie Occidentali, nella regione caraibica delle Americhe e la più orientale delle isole Caraibiche. Occupa una superficie di 432 km2 (167 miglia quadrate) e ha una popolazione di circa 287.000 abitanti. La sua capitale e città più grande è Bridgetown."
 
-jobtitle = "President"
+jobtitle = "Presidente"
 
 [stats]
-Motto: = "Pride and Industry"
-National Anthem: = "In Plenty and In Time of Need"
-Population: = "287,025 (2019 est)"
+Motto: = "Orgoglio e industria"
+Inno nazionale: "In Plenty and In Time of Need"
+Popolazione: = "287,025 (2019 est)"
 Area: = "439 km2 (169 sq mi)"
-Currency: = "Barbadian dollar ($) (BBD)"
-GDP: = $5.398 billion"
-GDP per capita: = "$18,798"
-Democracy Index: = "No Data"
-Biggest Industry: = "Tourism/Agriculture"
-Capital And Largest City: = "Bridgetown"
-Driving side: =	"left"
-Calling code: = "+1 -246"
+Valuta: = "Dollaro delle Barbados ($) (BBD)"
+PIL: = $5.398 miliardi"
+PIL pro capite: = "$18,798"
+Indice di democrazia: = "Nessun dato"
+Più grande industria: = "Turismo/Agricoltura"
+Capitale e città più grande: = "Bridgetown"
+Lato guida: = "sinistra"
+Codice di chiamata: = "+1 -246"

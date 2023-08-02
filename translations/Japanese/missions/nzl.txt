@@ -1,21 +1,21 @@
 [config]
 name  = nzl
-guiname = "New Zealand"
-description = "New Zealand is an island country in the southwestern Pacific Ocean. It consists of two main landmasses—the North Island and the South Island and more than 700 smaller islands, covering a total area of 268,021 square kilometres (103,500 sq mi). New Zealand is about 2,000 kilometres (1,200 mi) east of Australia across the Tasman Sea and 1,000 kilometres (600 mi) south of the islands of New Caledonia, Fiji, and Tonga. The country's varied topography and sharp mountain peaks, including the Southern Alps, owe much to tectonic uplift and volcanic eruptions. New Zealand's capital city is Wellington, and its most populous city is Auckland."
+guiname = "ニュージーランド"
+description = "ニュージーランドは南西太平洋の島国です。 それは2つの主要な陸地で構成されています—北島と南島と700以上の小さな島、268,021平方キロメートル（103,500平方マイル）の総面積をカバーしています。 ニュージーランドは、タスマン海を渡ってオーストラリアの東に約2,000キロメートル（1,200マイル）、ニューカレドニア、フィジー、トンガの島々の南に1,000キロメートル（600 南アルプスを含む国の多様な地形と鋭い山頂は、構造的な隆起と火山噴火に大きく依存しています。 ニュージーランドの首都はウェリントンであり、その最も人口の多い都市はオークランドです。"
 
-jobtitle = "Prime Minister"
+jobtitle = "内閣総理大臣"
 
 [stats]
-National Anthem: = "God Defend New Zealand"
-Royal Anthem: = "God Save the Queen"
-Population: = "5,1 million (2021 est)"
-Area: = "268,021 km2 (103,483 sq mi)"
-Currency: = "New Zealand Dollar (NZD) (NZ$)"
-GDP: = "$226.566 billion"
-GDP per capita: = "$44,226"
-Democracy Index: = "~9.25/10 (4th)"
-Biggest Industry: = "Agriculture"
-Capital: = "Wellington"
-Largest City: = "Auckland"
-Driving side: =	"Left"
-Calling code: = "+64"
+国歌：="神はニュージーランドを守る"
+ロイヤルアンセム：="神は女王を救う"
+人口：="5,1百万（2021est）"
+面積:="268,021km2(103,483平方マイル)"
+通貨:="ニュージーランドドル(NZD)(NZ$)"
+GDP：="2265億6600万ドル"
+一人当たりGDP:="$44,226"
+-9.25/10(第4回)
+最大の産業：="農業"
+首都:="ウェリントン"
+最大の都市：="オークランド"
+運転側：="左"
+呼び出しコード：="+64"

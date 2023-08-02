@@ -1,19 +1,19 @@
 [config]
 name  = mol
-guiname = "Republic of Moldova"
-description = "Moldova, officially the Republic of Moldova is a country in Eastern Europe. It is bordered by Romania to the west and Ukraine to the north, east, and south. Ukraine and Moldova reached an agreement in 2005 ensuring Moldova's access to the Black Sea and ending its landlocked status. The unrecognised breakaway region of Transnistria lies across the Dniester on the country's eastern border with Ukraine. The capital and largest city is Chișinău."
+guiname = "Moldova Cumhuriyeti"
+description = "Moldova, resmi adıyla Moldova Cumhuriyeti, Doğu Avrupa'da yer alan bir ülkedir. Batıda Romanya, kuzeyde, doğuda ve güneyde Ukrayna ile sınırlanmıştır. Ukrayna ve Moldova, 2005 yılında Moldova'nın Karadeniz'e erişimini sağlayan ve karayla çevrili statüsüne son veren bir anlaşmaya vardı. Tanınmayan ayrılıkçı bölge Transdinyester karşısında yatıyor Dinyester ülkenin doğu sınırında Ukrayna. Başkent ve en büyük şehir Kişinev'dir."
 
-jobtitle = "President"
+jobtitle = "Başkan"
 
 [stats]
-National Anthem: = "Our language"
-Population: = "2,597,100 million people (2021 est)"
-Area: = "33,843.5 km2 (13,067.0 sq mi)" 
-Currency: = "Moldovan leu (MDL)"
-GDP: = "$36.886 billion"
-GDP per capita: = "$14,257"
-Democracy Index: = "~6.10/10 (69th)"
-Biggest Industry: = "Food Processing"
-Capital and Largest city: = "Chișinău"
-Driving Side: =	"right"
-Calling Code: = "+373"
+İstiklal Marşı: = "Dilimiz"
+Nüfus: = "2.597.100 milyon kişi (2021 tahmini)"
+Yüzölçümü: = "33.843,5 km2 (13.067,0 mil kare)" 
+Para birimi: = "Moldova lei (MDL)"
+GSYİH: = "36.886 milyar dolar"
+Kişi başına düşen GSYİH: = "14.257 $"
+Demokrasi Endeksi: = "~ 6.10 / 10 (69.)"
+En Büyük Endüstri: = "Gıda İşleme"
+Başkent ve En Büyük şehir: = "Kişinev"
+Sürüş Tarafı: = "sağ"
+Telefon Kodu: = "+373"

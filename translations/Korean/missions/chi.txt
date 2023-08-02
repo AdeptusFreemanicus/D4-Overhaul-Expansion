@@ -1,19 +1,19 @@
 [config]
 name  = chi
-guiname = "Republic of Chile"
-description = "Chile, officially the Republic of Chile, is a country in western South America. It occupies a long, narrow strip of land between the Andes to the east and the Pacific Ocean to the west. Chile covers an area of 756,096 square kilometres (291,930 sq mi) and has a population of 17.5 million as of 2017. The capital and largest city is Santiago and the national language is Spanish."
+guiname = "칠레 공화국"
+description = "칠레 는 공식적으로 칠레 공화국 으로,남미 서부 에 있는 나라 이다. 동쪽 으로 안데스 산맥 과 서쪽 으로 태평양 사이 에 있는 길고 좁은 땅 지대 를 차지 하고 있다. 칠레는 756,096 평방 킬로미터(291,930 평방 마일)의 면적을 차지하며 2017 년 기준 인구는 1750 만 명입니다. 수도이자 가장 큰 도시는 산티아고이며 국어는 스페인어입니다."
 
-jobtitle = "President"
+jobtitle = "대통령"
 
 [stats]
-Motto: = "By Right or Might"
-National Anthem: = "Himno Nacional de Chile"
-Population: = "17.5 million people (2017)"
-Area: = "756,096.3 km2 (291,930.4 sq mi)"
-Currency: = "Chilean peso (CLP)"
-GDP: = "$245.414 billion"
-GDP per capita: = "$12,612"
-Democracy Index: = "8.28/10 (17th)"
-Biggest Industry: = "Agriculture"
-Capital And Largest City: = "Santiago"
-Driving side: =	"right"
+모토:="권리 또는 힘으로"
+국가:="칠레 국립 음악"
+인구:="1750 만 명(2017)"
+지역:="756,096.3 평방 킬로미터(291,930.4 평방 마일)"
+통화:="칠레 페소"
+국내 총생산:="$245.414 억"
+1 인당 국내 총생산:="$12,612"
+민주주의 지수:="8.28/10(17 위)"
+가장 큰 산업:="농업"
+자본과 가장 큰 도시:="산티아고"
+운전 측면:="오른쪽"

@@ -1,0 +1,79 @@
+[names]
+Adalet Koalisyonu
+Aile Değerleri Partisi
+İşçi Birliği
+Adalet Birliği
+Yeşil Kolektif
+Hakimiyet
+Halkların Seçimi Partisi
+Liberal Adalet Kanadı
+Adalet Hareketi
+Özgürlük Tugayı
+Kutsal Adalet İttifakı
+Fütürist Parti
+Halk Demokratları
+Popüler Cumhuriyetçiler
+Cumhuriyetçi Parti'nin
+Demokrat Parti'nin
+Yeni Teknokratlar
+Ulusal Teknokratlar Partisi
+Eşitlik Partisi
+Geleceğin Demokratları
+Bilim Partisi
+Sanayi Partisi
+Sivil Haklar Birliği
+Modern Aile Partisi
+Doğal Hukuk Partisi
+Radikal Demokratlar
+Radikal Sadıklar
+Değişim Partisi
+Gerçek Özgürlük Hareketi
+Eşitlikçi Demokratlar
+Eşitlikçi Cumhuriyetçiler
+Yeni Sömürgeciler Birliği
+Sosyal Adalet Partisi
+Anayasa Partisi
+Yolsuzlukla Mücadele Hareketi
+Sosyalist Devrimci Parti'nin
+Özgürlükçü Özgürlük Birliği
+Vatansever İttifakı
+İnancın Savunucuları
+Komünist İttifak
+İlerici Değişim Partisi
+Radikal Değişim Hareketi
+Geri Dönüş Yok Partisi
+Birleşik Çeşitlilik İttifakı
+Ataerkilliği Durdurma Partisi
+Ebedi Özgürlük Partisi
+Birlik Pasifistleri
+Demokratik Ilımlılar
+Birleşik Ilımlılar
+Yeni Ilımlılar
+Birleşik Cumhuriyetçiler
+Sosyalistler Federasyonu
+Devrimci Kapitalistler
+Mülkiyet Hakları Partisi
+Temel Haklar Partisi
+İlerici Köktendinciler
+Eko Birliği
+Tekno-Çevreciler
+Yeşil İttifak
+Vatandaşlar İttifakı
+Mutlak Birlik Partisi
+Sosyal Demokratlar
+Sendikacılar
+Birleşik Sağ
+Birleşik Sol
+Yeni Sağ
+Yeni Sol
+İlerici Faşist Parti
+Refah Reform Partisi
+Reform Derneği
+Radikal Reform Partisi
+
+
+
+
+
+
+

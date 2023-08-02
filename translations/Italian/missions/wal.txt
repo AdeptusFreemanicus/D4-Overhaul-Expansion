@@ -1,17 +1,17 @@
 [config]
 name  = wal
-guiname = "Wales"
-description = "Wales is a country that is part of the United Kingdom. It is bordered by England to the east, the Irish Sea to the north and west, and the Bristol Channel to the south. It had a population in 2011 of 3,063,456 and has a total area of 20,779 km2 (8,023 sq mi). Wales has over 1,680 miles (2,700 km) of coastline and is largely mountainous with its higher peaks in the north and central areas, including Snowdon (Yr Wyddfa), its highest summit. The country lies within the north temperate zone and has a changeable, maritime climate. The capital and largest city is Cardiff."
+guiname = "Galles"
+description = "Il Galles è un paese che fa parte del Regno Unito. Confina con l'Inghilterra a est, il Mare d'Irlanda a nord e ad ovest, e il Canale di Bristol a sud. Aveva una popolazione nel 2011 di 3.063.456 e ha una superficie totale di 20.779 km2 (8.023 sq mi). Il Galles ha oltre 1.680 miglia (2.700 km) di costa ed è in gran parte montuoso con le sue cime più alte nelle aree settentrionali e centrali, tra cui Snowdon (Yr Wyddfa), la sua vetta più alta. Il paese si trova all'interno della zona temperata settentrionale e ha un clima mutevole e marittimo. La capitale e la città più grande è Cardiff."
 
-jobtitle = "Monarch"
+jobtitle = "Monarca"
 
 [stats]
-Population: = "3,153,000 million (2019 est)"
-Area: = "20,779 km2 (8,023 sq mi)	"
-Currency: = "Pound sterling (GBP; £)"
-GVA: = "£75 billion"
-GVA per capita: = "£23,900"
-Largest Industry: = "Sheeeep"
-Capital and largest city: = "Cardiff"
-Driver side: = "left"
-Phone prefix: = "+44"
+Popolazione: = "3,153,000 milioni (2019 est)"
+Area: = " 20,779 km2 (8,023 sq mi) "
+Valuta: = "Sterlina inglese (GBP; £)"
+GVA: = "£75 miliardi"
+GVA pro capite: = "£23,900"
+Più grande industria: = "Sheeeep"
+Capitale e città più grande: = "Cardiff"
+Lato guida: = "sinistra"
+Prefisso telefonico: = "+44"

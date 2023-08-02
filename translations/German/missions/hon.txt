@@ -1,18 +1,18 @@
 [config]
 name  = hon
-guiname = "Hong Kong Special Administrative Region of the People's Republic of China"
-description = "Hong Kong, officially the Hong Kong Special Administrative Region of the People's Republic of China, is a city and special administrative region of China on the eastern Pearl River Delta in South China. With over 7.5 million residents of various nationalities in a 1,104-square-kilometre (426 sq mi) territory, Hong Kong is one of the most densely populated places in the world. Hong Kong is also one of the three global financial centres and one of the most developed cities in the world."
+guiname = "Sonderverwaltungsregion Hongkong der Volksrepublik China"
+description = "Hongkong, offiziell Sonderverwaltungsregion Hongkong der Volksrepublik China, ist eine Stadt und Sonderverwaltungsregion Chinas am östlichen Perlflussdelta in Südchina. Mit über 7,5 Millionen Einwohnern verschiedener Nationalitäten auf einem 1.104 Quadratkilometer (426 Quadratmeilen) großen Territorium ist Hongkong einer der am dichtesten besiedelten Orte der Welt. Hongkong ist auch eines der drei globalen Finanzzentren und eine der am weitesten entwickelten Städte der Welt."
 
-jobtitle = "Chief Executive"
+jobtitle = "Hauptgeschäftsführer"
 
 [stats]
-Population: = "7,413,070 million (2021)"
-Area: = "2,754.97 km2 (1,063.70 sq mi)"
-Currency: = "Hong Kong dollar (HK$) (HKD)"
-GDP: = "$472.395 billion"
-GDP per capita: = "$62,839"
-Democracy index: = "~5.60/10 (85th)"
-Largest Industry: = "Toursim/Service Sector"
-Capital and largest city: = "Hanoi"
-Driver side: = "left"
-Phone prefix: = "+852"
+Bevölkerung: = "7,413,070 Millionen (2021)"
+Fläche: = "2.754,97 km2 (1.063,70 Quadratmeilen)"
+Währung: = "Hongkong-Dollar (HK$) (HKD)"
+BIP: = "472,395 Milliarden US-Dollar"
+BIP pro Kopf: = "$ 62,839"
+Demokratie-Index: = "~5,60/10 (85.)"
+Größte Branche: = "Tourismus-/Dienstleistungssektor"
+Hauptstadt und größte Stadt: = "Hanoi"
+Fahrerseite: = "links"
+Telefonvorwahl: = "+852"

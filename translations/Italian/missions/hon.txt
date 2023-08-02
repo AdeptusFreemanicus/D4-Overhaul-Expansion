@@ -1,18 +1,18 @@
 [config]
 name  = hon
-guiname = "Hong Kong Special Administrative Region of the People's Republic of China"
-description = "Hong Kong, officially the Hong Kong Special Administrative Region of the People's Republic of China, is a city and special administrative region of China on the eastern Pearl River Delta in South China. With over 7.5 million residents of various nationalities in a 1,104-square-kilometre (426 sq mi) territory, Hong Kong is one of the most densely populated places in the world. Hong Kong is also one of the three global financial centres and one of the most developed cities in the world."
+guiname = "Regione Amministrativa speciale di Hong Kong della Repubblica Popolare Cinese"
+description = "Hong Kong, ufficialmente Regione amministrativa speciale di Hong Kong della Repubblica Popolare Cinese, è una città e regione amministrativa speciale della Cina sul Delta orientale del fiume delle Perle nel sud della Cina. Con oltre 7,5 milioni di residenti di varie nazionalità in un territorio di 1.104 chilometri quadrati (426 miglia quadrate), Hong Kong è uno dei luoghi più densamente popolati del mondo. Hong Kong è anche uno dei tre centri finanziari globali e una delle città più sviluppate del mondo."
 
-jobtitle = "Chief Executive"
+jobtitle = "Amministratore Delegato"
 
 [stats]
-Population: = "7,413,070 million (2021)"
-Area: = "2,754.97 km2 (1,063.70 sq mi)"
-Currency: = "Hong Kong dollar (HK$) (HKD)"
-GDP: = "$472.395 billion"
-GDP per capita: = "$62,839"
-Democracy index: = "~5.60/10 (85th)"
-Largest Industry: = "Toursim/Service Sector"
-Capital and largest city: = "Hanoi"
-Driver side: = "left"
-Phone prefix: = "+852"
+Popolazione: = "7.413.070 milioni (2021)"
+Area: = " 2,754. 97 km2 (1,063. 70 sq mi)"
+Valuta: = " Dollaro di Hong Kong (HK$) (HKD)"
+PIL: = "$472.395 miliardi"
+PIL pro capite: = "$62,839"
+Indice di democrazia: = "~5.60/10 (85th)"
+Settore più grande: = "Toursim / Settore dei servizi"
+Capitale e città più grande: = "Hanoi"
+Lato guida: = "sinistra"
+Prefisso telefonico: = "+852"

@@ -1,19 +1,19 @@
 [config]
 name  = lit
-guiname = "Republic of Lithuania"
-description = "Lithuania, officially the Republic of Lithuania, is a country in the Baltic region of Europe. It is one of three Baltic states and lies on the eastern shore of the Baltic Sea. Lithuania shares land borders with Latvia to the north, Belarus to the east and south, Poland to the south, and Kaliningrad Oblast of Russia to the southwest. It has a maritime border with Sweden to the west on the Baltic Sea. Lithuania covers an area of 65,300 km2 (25,200 sq mi), with a population of 2.8 million. Its capital and largest city is Vilnius; other major cities are Kaunas and Klaipėda. Lithuanians belong to the ethno-linguistic group of the Balts and speak Lithuanian, one of only a few living Baltic languages."
+guiname = "Republik Litauen"
+description = "Litauen, offiziell die Republik Litauen, ist ein Land im Baltikum Europas. Es ist einer von drei baltischen Staaten und liegt am Ostufer der Ostsee. Litauen grenzt im Norden an Lettland, im Osten und Süden an Weißrussland, im Süden an Polen und im Südwesten an das russische Gebiet Kaliningrad. Es hat eine Seegrenze mit Schweden im Westen an der Ostsee. Litauen umfasst eine Fläche von 65.300 km2 (25.200 Quadratmeilen) mit einer Bevölkerung von 2,8 Millionen. Die Hauptstadt und größte Stadt ist Vilnius; Andere große Städte sind Kaunas und Klaipėda. Litauer gehören zur ethnolinguistischen Gruppe der Balten und sprechen Litauisch, eine der wenigen lebenden baltischen Sprachen."
 
-jobtitle = "President"
+jobtitle = "Präsident"
 
 [stats]
-National Anthem: = "National Hymn"
-Population: = "2,795,680 million (2021 est)"
-Area: = "65,300 km2 (25,200 sq mi)"
-Currency: = "Euro (€) (EUR)"
-GDP: = "$107 billion"
-GDP per capita: = "$41,288"
-Democracy Index: = "~7.18/10 (40th)"
-Biggest Industry: = "Manufacturing"
-Capital (and largest city): = "Vilnius"
-Driving side: =	"right"
-Calling code: = "+370"
+Nationalhymne: = "Nationalhymne"
+Bevölkerung: = "2.795.680 Millionen (2021 est)"
+Fläche: = "65.300 km2 (25.200 Quadratmeilen)"
+Währung: = "Euro (€) (EUR)"
+BIP: = "107 Milliarden US-Dollar"
+BIP pro Kopf: = "$ 41,288"
+Demokratie-Index: = "~7,18/10 (40.)"
+Größte Industrie: = "Verarbeitendes Gewerbe"
+Hauptstadt (und größte Stadt): = "Vilnius"
+Fahrseite: = "rechts"
+Vorwahl: = "+370"

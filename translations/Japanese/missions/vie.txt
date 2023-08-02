@@ -1,19 +1,19 @@
 [config]
 name  = vie
-guiname = "The Socialist Republic of Vietnam"
-description = "Vietnam, officially the Socialist Republic of Vietnam, is a country in Southeast Asia. Located at the eastern edge of mainland Southeast Asia, it covers 311,699 square kilometres. With a population of over 96 million, it is the world's fifteenth-most populous country. Vietnam borders China to the north, Laos and Cambodia to the west, and shares maritime borders with Thailand through the Gulf of Thailand, and the Philippines, Indonesia, and Malaysia through the South China Sea. Its capital is Hanoi and its largest city is Ho Chi Minh City."
+guiname = "ベトナム社会主義共和国"
+description = "正式にはベトナム社会主義共和国であるベトナムは、東南アジアの国です。 東南アジア本土の東端に位置し、311,699平方キロメートルをカバーしています。 人口は9,600万人を超え、世界で15番目に人口の多い国です。 ベトナムは北に中国、西にラオス、カンボジアと国境を接し、タイ湾を介してタイと、南シナ海を介してフィリピン、インドネシア、マレーシアと海上国境を共有しています。 その首都はハノイであり、その最大の都市はホーチミン市です。"
 
-jobtitle = "General Secretary"
+jobtitle = "事務局長"
 
 [stats]
-National Anthem: = "Independence – Liberty – Happiness"
-Population: = "96,208,984 million (2019 est)"
-Area: = "331,699 km2 (128,070 sq mi)"
-Currency: = "đồng (₫) (VND)"
-GDP: = "$1.047 trillion"
-GDP per capita: = "$10,755"
-Democracy index: = "~2.94/10 (131st)"
-Largest Industry: = "Retail Industry"
-Capital and largest city: = "Hanoi"
-Driver side: = "right"
-Phone prefix: = "+84"
+国歌：="独立-自由-幸福"
+人口：="96,208,984百万（2019est）"
+面積:="331,699km2(128,070sq mi)"
+通貨:="ng(₫)(vnd)"
+GDP：="$1.047兆"
+一人当たりGDP:="$10,755"
+2.94/10(131位)
+最大の産業：="小売業"
+首都と最大の都市：="ハノイ"
+運転席側：="右"
+電話の接頭辞:="+84"

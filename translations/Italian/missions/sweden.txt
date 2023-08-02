@@ -2,7 +2,7 @@
 name  = sweden
 guiname = "Regno di Svezia"
 description = "La Svezia, ufficialmente Regno di Svezia, è un paese nordico del Nord Europa. Confina con la Norvegia a ovest ea nord, la Finlandia a est ed è collegata alla Danimarca a sud-ovest da un ponte-tunnel attraverso lo stretto di Öresund. A 450.295 chilometri quadrati (173.860 miglia quadrate), la Svezia è il paese più grande del Nord Europa, il terzo paese più grande dell'Unione Europea e il quinto paese più grande d'Europa per area. La capitale è Stoccolma. La Svezia ha una popolazione totale di 10,4 milioni di cui 2,6 milioni di origine straniera. Le persone con origini straniere sono definite come persone nate all'estero o nate in Svezia con genitori nati all'estero. Ha una bassa densità di popolazione di 25 abitanti per chilometro quadrato (65/sq mi), con 1 437 persone per km2 in località. L'87% degli svedesi vive in aree urbane, che coprono l'1,5% dell'intera superficie terrestre. La concentrazione più alta è nella metà centro-meridionale del Paese."
-jobtitle = "primo ministro"
+jobtitle = "Primo Ministro"
 
 [stats]
 Motto: = "Per la Svezia - Con i tempi"

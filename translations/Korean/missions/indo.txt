@@ -1,19 +1,19 @@
 [config]
 name  = indo
-guiname = "Republic of Indonesia"
-description = "Indonesia, officially the Republic of Indonesia, is a country in Southeast Asia and Oceania, between the Indian and Pacific oceans. It consists of more than seventeen thousand islands, including Sumatra, Java, Sulawesi, and parts of Borneo (Kalimantan) and New Guinea (Papua). Indonesia is the world's largest island country and the 14th-largest country by land area, at 1,904,569 square kilometres (735,358 square miles). With 270 million people, it is the world's 4th-most populous country as well as the most populous Muslim-majority country. Java, the world's most populous island, is home to more than half of the country's population."
+guiname = "인도네시아 공화국"
+description = "인도네시아,공식적으로 인도네시아 공화국은 인도양과 태평양 사이에 있는 동남아시아와 오세아니아의 국가입니다. 수마트라,자바,술라웨시,보르네오(칼리만탄)와 뉴기니(파푸아)의 일부를 포함하여 17,000 개 이상의 섬으로 구성되어 있습니다. 인도네시아는 세계에서 가장 큰 섬나라이자 1,904,569 평방 킬로미터(735,358 평방 마일)의 면적에 따라 14 번째로 큰 나라입니다. 2 억 7 천만 명의 인구로 세계에서 4 번째로 인구가 많은 나라이자 가장 인구가 많은 이슬람교도 국가입니다. 세계에서 가장 인구가 많은 섬인 자바에는 인구의 절반 이상이 살고 있습니다."
 
-jobtitle = "President"
+jobtitle = "대통령"
 
 [stats]
-Motto: = "Unity in Diversity"
-National Anthem: = "Great Indonesia"
-Population: = "270 million (2020)"
-Area: = "1,904,569 km2 (735,358 sq mi)"
-Currency: = "Indonesian Rupiah (Rp)"
-GDP: = "$1.089 trillion (14,027,944,154,499,000.00 Rp)"
-GDP per capita: = "$4,038 (56,111,003.76 rp)"
-Democracy Index: = "6.48/10 (64th)"
-Biggest Industry: = "Agriculture"
-Capital And Largest City: = "Jakarta"
-Driving side: =	"left"
+모토:="다양성의 단결"
+국가:="위대한 인도네시아"
+인구:="2 억 7 천만(2020)"
+지역:="1,904,569 평방 킬로미터(735,358 평방 마일)"
+통화:="인도네시아 루피아(라인란)"
+1.089 조 달러(14,027,944,154,499,000.00 라인란)"
+1 인당 국내 총생산:="$4,038(56,111,003.76 라인란)"
+민주주의 지수:="6.48/10(64 위)"
+가장 큰 산업:="농업"
+자본과 가장 큰 도시:="자카르타"
+운전 측면:="왼쪽"

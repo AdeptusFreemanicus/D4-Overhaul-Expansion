@@ -1,29 +1,29 @@
 [config]
 name  = usa
-guiname = "United States of America"
-description = "The United States of America is the world's third or fourth largest country by total area, and the third most populous country in the world. Americans are a racially and ethnically diverse population that has been shaped through centuries of immigration.The United States is a federal republic and a representative democracy. It is a founding member of the United Nations, World Bank, International Monetary Fund and NATO. The USA is a permanent member of the United Nations Security Council."
+guiname = "Сполучені Штати Америки"
+description = "Сполучені Штати Америки є третьою або четвертою за величиною країною в світі за загальною площею і третьою за чисельністю населення країною в світі. Американці-це расово та етнічно різноманітне населення, яке сформувалося в результаті багатовікової імміграції.Сполучені Штати є федеративною республікою та представницькою демократією. Вона є одним із засновників Організації Об'єднаних Націй, Світового банку, Міжнародного валютного фонду та НАТО. США є постійним членом Ради Безпеки Організації Об'єднаних Націй."
 
-jobtitle = "President"
+jobtitle = "Президент"
 
 [stats]
-Population: = "328 million (Jan 2020)"
-Size: = "9.8 million sq km"
-Largest City: = "New York City"
-Agricultural Land: = "44.5% of total"
-Ethnicity: = "76.5% White (18.3% Latino) 13.4% Black"
-National Anthem: = "The Star-Spangled Banner"
-Top Tourist Destination: = "The Grand Canyon"
-Most popular food: = "Cheeseburger"
-Biggest Industry: = "Real Estate"
+Населення: = "328 мільйонів (Січень 2020)"
+Розмір: = "9,8 мільйона квадратних кілометрів"
+Найбільше місто: = "Нью-Йорк Сіті"
+Сільськогосподарські угіддя: = "44,5% від загальної площі"
+Етнічна приналежність: = "76,5% білих (18,3% латиноамериканців) 13,4% чорних"
+Національний гімн: = "Зірково-смугастий прапор"
+Найкращий туристичний напрямок: = "Гранд-Каньйон"
+Найпопулярніша страва: = "Чізбургер"
+Найбільша галузь: = "Нерухомість"
 
 [jobs]
-FOREIGNPOLICY = "Secretary of State"
-WELFARE = "Secretary of Housing and Urban Development"
-ECONOMY = "Secretary of Commerce"
-TAX = "Secretary of the Treasury"
-PUBLICSERVICES = "Secretary of Health and Human Services"
-LAWANDORDER = "Attorney General"
-TRANSPORT = "Secretary of Transportation"
+FOREIGNPOLICY = "Державний секретар"
+WELFARE = "Міністр житлового будівництва та міського розвитку"
+ECONOMY = "Міністр торгівлі"
+TAX = "Міністр фінансів"
+PUBLICSERVICES = "Міністр охорони здоров'я та соціальних служб"
+LAWANDORDER = "Генеральний прокурор"
+TRANSPORT = "Міністр транспорту"
 
 
 

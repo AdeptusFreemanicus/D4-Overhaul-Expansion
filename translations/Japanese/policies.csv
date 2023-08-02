@@ -1,9 +1,11 @@
-#,mpt,New World's Tallest Building,"Building a structure that is the tallest in the world is a big message for the whole world, our friends and enemies alike will be amazed at our achievement."
-#,revenueservice,Revenue Service,"A revenue service ensures that people pay their taxes and pay them on time, many say that this stands to hurt the middle and low class more but others say otherwise, no matter, our nation needs this agency to secure the government's taxes."
-#,freetaxpreparationclasses,Free Tax Preparation Classes,"Offering classes for anyone on how to pay taxes and everything that concerns that is very important, This ensures everyone and most importantly the youth know to how pay taxes and can avoid any issues by doing it incorrectly."
-#,pandemicpreparationfund,PPF,"A PPF Short for (P)andemic (P)reparation (F)und is used to safeguard civilians and government officials from diseases that endanger our nation."
-#,sas,"State Animal Shelters","Providing animal shelters gives stray animals or animals in-need a temporary home where they get fed, washed, and trained.",
-#,sac,"State Animal Control","Funding and operating an Animal control service or agancy will allow animal control officers to handle wild, dangerous, and or animals in-need of help and either put them down, or take them to an animal shelter or other holding facility.",
-#,so,"State Orphanages","State built and managed orphanages provide a home for orphans and homeless minors that are in-need of help and care.",
-#,pt,"Police Training","The better training we give our officers the better they preform!",
-#,interest_rate,"Interest Rate","Interest Rates influnce many acpects of our economy, higher interest rates are generaly bad for most people, while a lower one hurts our banks.",
+#,mpt,新世界で一番高いビル,"世界で最も高い構造を構築することは,全世界にとって大きなメッセージであり,私たちの友人や敵も同様に私たちの成果に驚かれることでしょう。"
+#,revenueservice,収益サービス,"歳入庁は,人々が税金を支払い,時間通りに支払うことを保証します。多くの人は,これが中流階級をより傷つけることになると言いますが,他の人はそうでなければ,どんなに,私たちの国が政府の税金を確保するためにこの機関を必要としていると言います。"
+#,freetaxpreparationclasses,無料税務対策講座,"税金を支払う方法と非常に重要である懸念すべての人のためのクラスを提供し,これは誰もが保証し,最も重要なのは,若者が税金を支払う方法に知っていて,間違ってそれを行うことによって,任意の問題を回避することができます。"
+#,pandemicpreparationfund,PPF,"パンデミック準備基金 の略であるPPFは,民間人や政府関係者を私たちの国を危険にさらす病気から守るために使用されています。"
+#,sas,"動物保護施設","動物保護施設を提供することは,彼らが供給され,洗浄され,訓練を受ける一時的な家を必要としている野良動物や動物を提供します。",
+#,sac,"動物管理","動物管理サービスまたはagancyに資金を提供し,運営することにより,動物管理官は野生,危険,または助けを必要としている動物を扱い,それらを置くか,動物保護施設または他の収容施設に連れて行くことができます。",
+#,so,"国の孤児","州の建設および管理された孤児院は,助けとケアを必要としている孤児やホームレスの未成年者のための家を提供します。",
+#,pt,"私たちが役員に与えるより良い訓練は","彼らがより良い準備をしています！","私たちが役員に与えるより良い訓練は,",
+#,landvaluetax,"地価税","地価税 (LVT) は、建物、動産、その他の改良物に関係なく、土地の価値に課される課税です。[1] これは、所在地価値税、地点評価税、敷地評価税、分割率税、または敷地価値評価としても知られています。",
+#,vat,"付加価値税","付加価値税 (VAT) は、一部の国では物品サービス税 (GST) として知られており、段階的に課される税金の一種です。 これは、生産、流通、最終消費者への販売の各段階で製品またはサービスの価格に課されます。 最終的な消費者がその製品またはサービスに対して VAT を徴収して政府に支払う企業である場合、その企業は支払った税金を取り戻すことができます。 これは消費税に似ており、よく比較されます。 VAT は間接税です。なぜなら、最終的に税を負担する人は、税務当局に税を支払う人と必ずしも同じ人ではないからです。",
+#,interest_rate,"金利","金利は私達の経済の多くのacpectsに影響を与えます,より高い金利はより低いものが私達の銀行および私達の経済の他の部分を傷つけるが,ほとんどの人々",

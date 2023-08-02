@@ -1,18 +1,18 @@
 [config]
 name  = fin
-guiname = "Republic of Finland"
-description = "Finland, officially the Republic of Finland is a Nordic country located in Northern Europe. Finland shares land borders with Sweden to the west, Russia to the east, and Norway to the north, Finland has a population of approximately 5.5 million, making it the 25th-most populous country in Europe. The main language is Finnish, Swedish is the second official language of Finland, Finland is a parliamentary republic consisting of 19 regions and 310 municipalities. The climate varies significantly relative to latitude, from Southern Finland's humid continental climate to the boreal climate of the north. Finland is primarily a boreal forest biome, with more than 180,000 recorded lakes, With an area of 338,455 square kilometres (130,678 sq mi), Finland is the eighth-largest country in Europe, and the most sparsely populated country in the European Union. Helsinki, the capital of Finland, is the largest metropolitan area with over 1.5 million people."
+guiname = "Фінляндська Республіка"
+description = "Фінляндія, офіційно Фінляндська Республіка, є скандинавською країною, розташованою в Північній Європі. Фінляндія межує по суші зі Швецією на заході, Росією на Сході та Норвегією на півночі. Населення Фінляндії становить близько 5,5 мільйонів, що робить її 25-ю країною за чисельністю населення в Європі. Основною мовою є фінська, шведська є другою офіційною мовою Фінляндії, Фінляндія-парламентська республіка, що складається з 19 регіонів і 310 муніципалітетів. Клімат значно варіюється в залежності від широти - від вологого континентального клімату Південної Фінляндії до бореального клімату півночі. Фінляндія-це перш за все біом бореальних лісів, з більш ніж 180 000 зареєстрованих озер, площею 338 455 квадратних кілометрів (130 678 квадратних миль), Фінляндія є восьмою за величиною країною в Європі і найбільш малонаселеною країною в Європейському Союзі. Гельсінкі, столиця Фінляндії, є найбільшим мегаполісом з населенням понад 1,5 мільйона чоловік."
 
-jobtitle = "President"
+jobtitle = "Президент"
 
 [stats]
-National Anthem: = "Our Land"
-Population: = "5.5 million people (2020)"
-Area: = "338,455 km2 (130,678 sq mi)"
-Currency: = "Euro (€) (EUR)"
-GDP: = "$277 billion (€230,139,104,151.60 EUR)"
-GDP per capita: = "$48,461 (€40,262.42 EUR)"
-Democracy Index: = "9.25/10 (5th)"
-Biggest Industry: = "Electronics"
-Capital And Largest City: = "Helsinki"
-Driving side: =	"right"
+Національний гімн: = "наша земля"
+Населення: = "5,5 мільйона людей (2020)"
+Площа: = "338,455 км2 (130,678 кв. милі)"
+Валюта: = "Євро (€) (EUR)"
+ВВП: = " 277 мільярдів доларів (230,139,104,151. 60 євро)"
+ВВП на душу населення: = "$48,461 (€40,262.42 євро)"
+Індекс демократії: = "9,25/10 (5-е місце)"
+Найбільша галузь: = "Електроніка"
+Столиця і найбільше місто: = "Гельсінкі"
+Сторона руху: = "права"

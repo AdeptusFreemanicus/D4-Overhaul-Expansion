@@ -2,7 +2,7 @@
 name  = taiwan
 guiname = "Repubblica della Cina"
 description = "Taiwan, ufficialmente Repubblica di Cina, è un paese dell'Asia orientale. I paesi vicini includono la Repubblica Popolare Cinese a nord-ovest, il Giappone a nord-est e le Filippine a sud. L'isola principale di Taiwan ha una superficie di 35.808 chilometri quadrati (13.826 miglia quadrate), con catene montuose che dominano i due terzi orientali e pianure nel terzo occidentale, dove si concentra la sua popolazione altamente urbanizzata. Taipei è la capitale e la più grande area metropolitana di Taiwan. Altre grandi città includono New Taipei, Kaohsiung, Taichung, Tainan e Taoyuan. Con 23,57 milioni di abitanti, Taiwan è tra i Paesi più densamente popolati."
-jobtitle = "Presidente"
+jobtitle = "Presidentee"
 
 [stats]
 Inno Nazionale: = "Inno Nazionale della Repubblica di Cina"

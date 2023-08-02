@@ -1,18 +1,18 @@
 [config]
 name  = hun
-guiname = "Hungary"
-description = "Hungary is a country in Central Europe. Spanning 93,030 square kilometres (35,920 sq mi) in the Carpathian Basin, it borders Slovakia to the north, Ukraine to the northeast, Romania to the east and southeast, Serbia to the south, Croatia and Slovenia to the southwest, and Austria to the west. With about 10 million inhabitants, Hungary is a medium-sized member state of the European Union. The official language is Hungarian, which is the most widely spoken Uralic language in the world, and among the few non-Indo-European languages to be widely spoken in Europe. Hungary's capital and largest city is Budapest; other major urban areas include Debrecen, Szeged, Miskolc, Pécs, and Győr."
+guiname = "Угорщина"
+description = "Угорщина-країна в Центральній Європі. Займаючи площу 93 030 квадратних кілометрів (35 920 кв.миль) у Карпатському басейні, він межує зі Словаччиною на півночі, Україною на північному сході, Румунією на Сході та південному сході, Сербією на півдні, Хорватією та Словенією на південному заході та Австрією на заході. Угорщина з населенням близько 10 мільйонів чоловік є державою - членом Європейського Союзу середнього розміру. Офіційною мовою є Угорська, яка є найпоширенішою уральською мовою у світі та однією з небагатьох неіндоєвропейських мов, широко розповсюджених у Європі. Столицею та найбільшим містом Угорщини є Будапешт; інші великі міські райони включають Дебрецен, Сегед, Мішкольц, Пікс та Глорі."
 
-jobtitle = "President"
+jobtitle = "Президент"
 
 [stats]
-National Anthem: = "Hymn"
-Population: = "10 million (2020)"
-Area: = "93,030 km2 (35,920 sq mi)"
-Currency: = "Forint (HUF)"
-GDP: = "$149.939 billion (Ft44,158,764,279,374.45 HUF)"
-GDP per capita: = "$15,373 (Ft4,544,164.16 HUF)"
-Democracy Index: = "6.63/10 (55th)"
-Biggest Industry: = "Electronics"
-Capital And Largest City: = "Budapest"
-Driving side: =	"right"
+Національний Гімн: = "гімн"
+Населення: = "10 мільйонів (2020)"
+Площа: = "93,030 км2 (35,920 кв. милі)"
+Валюта: = "Форинт (Угорські форинти)"
+ВВП: = " 149,939 мільярда доларів (44,158,764,279,374,45 форинтів)"
+ВВП на душу населення: = " 15 373 долари США (4544 фути 164,16 форинтів)"
+Індекс демократії: = "6,63/10 (55-е місце)"
+Найбільша галузь: = "Електроніка"
+Столиця і найбільше місто: = "Будапешт"
+Сторона руху: = "права"

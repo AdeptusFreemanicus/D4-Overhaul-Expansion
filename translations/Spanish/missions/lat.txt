@@ -1,19 +1,19 @@
 [config]
 name  = lat
-guiname = "Republic of Latvia"
-description = "Latvia, officially the Republic of Latvia, is a country in the Baltic region of Northern Europe. It is one of the Baltic states; and is bordered by Estonia to the north, Lithuania to the south, Russia to the east, Belarus to the southeast, and shares a maritime border with Sweden to the west. Latvia covers an area of 64,589 km2 (24,938 sq mi), with a population of 1.9 million. The country has a temperate seasonal climate. Its capital and largest city is Riga. Latvians belong to the ethno-linguistic group of the Balts; and speak Latvian, one of the only two surviving Baltic languages. Russians are the most prominent minority in the country, at almost a quarter of the population."
+guiname = "República de Letonia"
+description = "Letonia, oficialmente la República de Letonia, es un país en la región báltica del norte de Europa. Es uno de los Estados bálticos; y limita con Estonia al norte, Lituania al sur, Rusia al este, Bielorrusia al sureste, y comparte una frontera marítima con Suecia al oeste. Letonia cubre un área de 64,589 km2( 24,938 millas cuadradas), con una población de 1.9 millones. El país tiene un clima estacional templado. Su capital y ciudad más poblada es Riga. Los letones pertenecen al grupo etnolingüístico de los bálticos; y hablan letón, una de las dos únicas lenguas bálticas supervivientes. Los rusos son la minoría más prominente del país, con casi una cuarta parte de la población."
 
-jobtitle = "President"
+jobtitle = "Presidente"
 
 [stats]
-National Anthem: = "God Bless Latvia!"
-Population: = "1.9 million (2018)"
-Area: = "64,589 km2"
-Currency: = "Euro (€) (EUR)"
-GDP: = "$70 billion"
-GDP per capita: = "$37,009
-Democracy Index: = "~7.37/10 (38th)"
-Biggest Industry: = "Industry Sector/Agriculture Sector"
-Capital (and largest city): = "Riga"
-Driving side: =	"right"
-Calling code: = "+371"
+Himno Nacional: = " Dios bendiga a Letonia!"
+Población: = "1,9 millones (2018)"
+Superficie: = "64.589 km2"
+Moneda: = " Euro ( € ) (EUR)"
+PIB: = "$70 mil millones"
+PIB per cápita: = " $37,009
+Índice de democracia: = "~7.37/10 (38vo)"
+Industria más Grande: = "Sector Industrial / Sector Agrícola"
+Capital (y ciudad más grande): = "Riga"
+Lado de conducción: = "derecho"
+Código de llamada: = "+371"

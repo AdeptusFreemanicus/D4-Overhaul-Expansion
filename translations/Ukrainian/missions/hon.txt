@@ -1,18 +1,18 @@
 [config]
 name  = hon
-guiname = "Hong Kong Special Administrative Region of the People's Republic of China"
-description = "Hong Kong, officially the Hong Kong Special Administrative Region of the People's Republic of China, is a city and special administrative region of China on the eastern Pearl River Delta in South China. With over 7.5 million residents of various nationalities in a 1,104-square-kilometre (426 sq mi) territory, Hong Kong is one of the most densely populated places in the world. Hong Kong is also one of the three global financial centres and one of the most developed cities in the world."
+guiname = "Спеціальний адміністративний район Гонконгу Китайської Народної Республіки"
+description = "Гонконг, офіційно Спеціальний адміністративний район Гонконг Китайської Народної Республіки, є містом і спеціальним адміністративним районом Китаю в східній частині дельти річки Чжуцзян на півдні Китаю. Маючи понад 7,5 мільйонів жителів різних національностей на території площею 1104 квадратних кілометри (426 квадратних миль), Гонконг є одним з найбільш густонаселених місць у світі. Гонконг також є одним з трьох світових фінансових центрів і одним з найбільш розвинених міст світу."
 
-jobtitle = "Chief Executive"
+jobtitle = "виконавчий директор"
 
 [stats]
-Population: = "7,413,070 million (2021)"
-Area: = "2,754.97 km2 (1,063.70 sq mi)"
-Currency: = "Hong Kong dollar (HK$) (HKD)"
-GDP: = "$472.395 billion"
-GDP per capita: = "$62,839"
-Democracy index: = "~5.60/10 (85th)"
-Largest Industry: = "Toursim/Service Sector"
-Capital and largest city: = "Hanoi"
-Driver side: = "left"
-Phone prefix: = "+852"
+Населення: = "7,413,070 мільйонів (2021)"
+Площа: = "2754,97 км2 (1063,70 кв. милі)"
+Валюта: = "Гонконгський долар (HK$) (HKD)"
+ВВП: = "472,395 мільярда доларів"
+ВВП на душу населення: = "62 839 доларів"
+Індекс демократії: = "~5.60/10 (85-е місце)"
+Найбільша галузь: = "Туризм/Сфера послуг"
+Столиця і найбільше місто: = "Ханой"
+Сторона водія: = "ліва"
+Телефонний префікс: = "+852"

@@ -1,19 +1,19 @@
 [config]
 name  = dprk
-guiname = "Democratic People's Republic of Korea"
-description = "North Korea, officially the Democratic People's Republic of Korea, Chosŏn Minjujuŭi Inmin Konghwaguk, is a country in East Asia constituting the northern part of the Korean Peninsula. The country is bordered to the north by China and by Russia along the Amnok (known as the Yalu in Chinese) and Tumen rivers, and to the south by South Korea, with the heavily fortified Korean Demilitarized Zone (DMZ) separating the two. North Korea, like its southern counterpart, claims to be the legitimate government of the entire peninsula and adjacent islands. Pyongyang is the country's capital and largest city."
+guiname = "Demokratische Volksrepublik Korea"
+description = "Nordkorea, offiziell die Demokratische Volksrepublik Korea, ChosŏN MinjujuŭI Inmin Konghwaguk, ist ein Land in Ostasien, das den nördlichen Teil der koreanischen Halbinsel bildet. Das Land grenzt im Norden an China und Russland entlang der Flüsse Amnok (auf Chinesisch als Yalu bekannt) und Tumen sowie im Süden an Südkorea, wobei die stark befestigte koreanische Entmilitarisierte Zone (DMZ) die beiden trennt. Nordkorea behauptet wie sein südliches Gegenstück, die legitime Regierung der gesamten Halbinsel und der angrenzenden Inseln zu sein. Pjöngjang ist die Hauptstadt und größte Stadt des Landes."
 
-jobtitle = "Supreme Leader"
+jobtitle = "Oberster Führer"
 
 [stats]
-National Anthem: = "The Patriotic Song"
-Population: = "25.5 million (2018)"
-Area: = "120,540 km2 (46,540 sq mi)"
-Currency: = "Korean People's won (₩)"
-GDP: = "$30 billion"
-GDP per capita: = "$1,300"
-Democracy Index: = "~1.06/10 (167th Last)"
-Biggest Industry: = "Agriculture/Mining"
-Capital (and largest city): = "Pyongyang"
-Driving side: =	"right"
-Calling code: = "+850"
+Nationalhymne: = "Das patriotische Lied"
+Bevölkerung: = "25,5 Millionen (2018)"
+Fläche: = "120.540 km2 (46.540 Quadratmeilen)"
+Währung: = "Koreanischer Volkswon (₩)"
+BIP: = "30 Milliarden US-Dollar"
+BIP pro Kopf: = "1.300 USD"
+Demokratie-Index: = "~ 1,06 / 10 (167. Letzter)"
+Größter Wirtschaftszweig: = "Landwirtschaft/Bergbau"
+Hauptstadt (und größte Stadt): = "Pjöngjang"
+Fahrseite: = "rechts"
+Vorwahl: = "+850"

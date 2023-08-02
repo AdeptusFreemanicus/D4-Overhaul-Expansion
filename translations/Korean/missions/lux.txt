@@ -1,19 +1,19 @@
 [config]
 name  = lux
-guiname = "Grand Duchy of Luxembourg"
-description = "Luxembourg, officially the Grand Duchy of Luxembourg, is a landlocked country in Western Europe. It is bordered by Belgium to the west and north, Germany to the east, and France to the south. Its capital, Luxembourg City, is one of the four official capitals of the European Union (together with Brussels, Frankfurt, and Strasbourg) and the seat of the Court of Justice of the European Union, the highest judicial authority in the EU. Its culture, people, and languages are highly intertwined with its neighbours, making it a mixture of French and German cultures. It has three official languages: French, German, and the national language of Luxembourgish."
+guiname = "룩셈부르크 대공국"
+description = "룩셈부르크 는 공식적으로 룩셈부르크 대공국 이며,서유럽 에 있는 내륙국 이다. 서쪽과 북쪽으로는 벨기에,동쪽으로는 독일,남쪽으로는 프랑스와 접한다. 그 수도인 룩셈부르크 시는 유럽 연합의 4 개의 공식 수도 중 하나이며(브뤼셀,프랑크푸르트,스트라스부르와 함께)유럽 연합의 최고 사법 기관인 유럽 연합 법원의 본부입니다. 그 문화,사람,언어는 이웃 나라들과 매우 얽혀 있어 프랑스와 독일 문화가 섞여 있습니다. 프랑스어,독일어,룩셈부르크어 의 국어 로 세 가지 공식 언어 를 가지고 있다."
 
-jobtitle = "Grand Duke"
+jobtitle = "대공"
 
 [stats]
-Motto: = "We want to remain what we are"
-National Anthem: = "Our Homeland"
-Population: = "626 Hundred Thousand People (2020)"
-Area: = "2,586.4 km2 (998.6 sq mi)"
-Currency: = "Euro (€) (EUR)"
-GDP: = "$69.453 billion"
-GDP per capita: = "$113,196"
-Democracy Index: = "8.68/10 (13th)"
-Biggest Industry: = "Banking"
-Capital And Largest City: = "Luxembourg City"
-Driving side: =	"right"
+모토:="우리는 우리가 무엇을 유지하려면"
+국가:="우리 고향"
+인구:="626 십만 명(2020)"
+지역:="2,586.4 평방 킬로미터(998.6 평방 마일)"
+통화:="유로(유로)"(유로)"(유로)"(유로)"(유로)"(유로)"
+694 억 5300 만 달러
+1 인당 국내 총생산:="$113,196"
+민주주의 지수:="8.68/10(13 위)"
+가장 큰 산업:="은행"
+수도 및 최대 도시:="룩셈부르크 시티"
+운전 측면:="오른쪽"

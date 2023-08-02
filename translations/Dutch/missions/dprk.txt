@@ -1,19 +1,19 @@
 [config]
 name  = dprk
-guiname = "Democratic People's Republic of Korea"
-description = "North Korea, officially the Democratic People's Republic of Korea, Chosŏn Minjujuŭi Inmin Konghwaguk, is a country in East Asia constituting the northern part of the Korean Peninsula. The country is bordered to the north by China and by Russia along the Amnok (known as the Yalu in Chinese) and Tumen rivers, and to the south by South Korea, with the heavily fortified Korean Demilitarized Zone (DMZ) separating the two. North Korea, like its southern counterpart, claims to be the legitimate government of the entire peninsula and adjacent islands. Pyongyang is the country's capital and largest city."
+guiname = "Democratische Volksrepubliek Korea"
+description = "Noord-Korea, officieel de Democratische Volksrepubliek Korea, Chosŏn Minjujuŭi Inmin Konghwaguk, is een land in Oost-Azië dat het noordelijke deel van het Koreaanse schiereiland vormt. Het land wordt begrensd in het noorden door China en door Rusland langs de amnok (bekend als de Yalu in het Chinees) en Tumen rivieren, en in het zuiden door Zuid-Korea, met de zwaar versterkte Koreaanse gedemilitariseerde Zone (DMZ) die de twee scheidt. Noord-Korea beweert, net als zijn zuidelijke tegenhanger, de legitieme regering van het hele schiereiland en de aangrenzende eilanden te zijn. Pyongyang is de hoofdstad en grootste stad van het land."
 
-jobtitle = "Supreme Leader"
+jobtitle = "Opperste Leider"
 
 [stats]
-National Anthem: = "The Patriotic Song"
-Population: = "25.5 million (2018)"
-Area: = "120,540 km2 (46,540 sq mi)"
-Currency: = "Korean People's won (₩)"
-GDP: = "$30 billion"
-GDP per capita: = "$1,300"
-Democracy Index: = "~1.06/10 (167th Last)"
-Biggest Industry: = "Agriculture/Mining"
-Capital (and largest city): = "Pyongyang"
-Driving side: =	"right"
-Calling code: = "+850"
+Volkslied: "Het Patriottische Lied"
+Bevolking: = "25,5 miljoen (2018)"
+Oppervlakte: = "120.540 km2 (46.540 sq mi)"
+Valuta: = "Korean People' s won (₩)"
+BBP: = "$30 miljard"
+BBP per hoofd van de bevolking: = "$1.300"
+Democratie Index: = "~1.06/10 (167e Laatste)"
+Grootste Industrie: = "Landbouw/Mijnbouw"
+Hoofdstad (en grootste stad): = "Pyongyang"
+Rijzijde: = "rechts"
+Telefooncode: = "+850"

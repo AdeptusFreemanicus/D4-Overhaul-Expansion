@@ -1,19 +1,19 @@
 [config]
 name  = uae
-guiname = "United Arab Emirates"
-description = "The United Arab Emirates, or simply the Emirates, is a country in Western Asia. It is located at the eastern end of the Arabian Peninsula, and shares borders with Oman and Saudi Arabia, while having maritime borders in the Persian Gulf with Qatar and Iran. Abu Dhabi is the nation's capital, while Dubai, the most populous city, is an international hub."
+guiname = "アラブ首長国連邦"
+description = "アラブ首長国連邦、または単に首長国連邦は、西アジアの国です。 アラビア半島の東端に位置し、オマーンとサウジアラビアと国境を接していますが、ペルシャ湾にはカタールとイランとの海上国境があります。 アブダビは国の首都であり、最も人口の多い都市であるドバイは国際的なハブです。"
 
-jobtitle = "President"
+jobtitle = "プレジデント"
 
 [stats]
-National Anthem: = "Long Live My Country"
-Population: = "9,282,410 people (2020 est)"
-Area: = "83,600 km2 (32,300 sq mi)"
-Currency: = "UAE dirham (AED)"
-GDP: = "$763.182 billion"
-GDP per capita: = "$59,844"
-Democracy Index: = "2.90/10 (134th)"
-Biggest Industry: = "Tourism/Oil Industry"
-Capital and Largest City: = "Abu Dhabi"
-Driving side: =	"right"
-Calling code: = "+971"
+国歌：="長い私の国を生きます"
+人口：="9,282,410人（2020est）"
+面積:="83,600km2(32,300sq mi)"
+通貨:="アラブ首長国連邦ディルハム(AED)"
+GDP：="7631億8200万ドル"
+一人当たりGDP:="$59,844"
+民主主義指数:="2.90/10(134位)"
+最大の産業：="観光/石油産業"
+首都と最大の都市：="アブダビ"
+運転側：="右"
+呼び出しコード：="+971"

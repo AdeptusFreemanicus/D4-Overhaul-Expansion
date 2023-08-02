@@ -2,7 +2,7 @@
 name  = israel
 guiname = "Estado de Israel"
 description = "Israel, oficialmente conocido como el Estado de Israel, es un país de Asia occidental, ubicado en la costa sureste del Mar Mediterráneo y la costa norte del Mar Rojo. Tiene fronteras terrestres con Líbano al norte, Siria al noreste, Jordania al este, los territorios palestinos de Cisjordania y la Franja de Gaza al este y oeste, respectivamente, y Egipto al suroeste. El centro económico y tecnológico de Israel es Tel Aviv, mientras que su sede de gobierno y proclamada capital es Jerusalén ".
-jobtitle = "President"
+jobtitle = "Presidente"
 
 [stats]
 Himno Nacional: = "La Esperanza"

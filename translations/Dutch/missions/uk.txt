@@ -1,18 +1,18 @@
 [config]
 name  = uk
-guiname = "United Kingdom"
-description = "The United Kingdom of Great Britain and Northern Ireland actually consists of four countries. England, Scotland, Wales and Northern Ireland. The UK is a 'constitutional monarchy', effectively meaning the monarchy is symbolic. The head of state is the King, but the country is governed by a Prime Minister, defined as anybody who can command a majority of support in the 'House of Commons', which is the elected chamber. A second unelected chamber called the 'House of Lords' exists to scrutinize legislation."
-jobtitle = "Prime Minister"
+guiname = "Verenigd Koninkrijk"
+description = "Het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland bestaat eigenlijk uit vier landen. Engeland, Schotland, Wales en Noord-Ierland. Het Verenigd Koninkrijk is een 'constitutionele vorst', wat in feite betekent dat het ergste symbolisch is. Het staatshoofd is de koning, maar het land wordt bestuurd door een eerste Minister, gedefinieerd als iedereen die een meerderheid van de steun kan krijgen in het 'House of Commons', de gekozen kamer. Een tweede niet-gekozen kamer, het 'House of Lords', bestaat om wetgeving te onderzoeken."
+jobtitle = "Eerste Minister"
 
 [stats]
-Population: = "65.1 million (July 2018)"
-Size: = "243,610 sq km"
-Ethnicity: = "87.1% White 3% Black 6.9% Asian"
-Religion: = "Christian(59.5%) Muslim (4.4%) Hindu (1.3%)"
-Exports: = "Cars, Turbo-jets, Crude oil, Gold, Medication"
-Most Popular Food: = "Fish and Chips"
-National Anthem: = "God Save The Queen"
-Wealthiest Citizen: = "Sir James Dyson (2020)"
+Bevolking: = "65,1 miljoen (juli 2018)"
+Grootte: = "243.610 km2"
+Etniciteit: = "87.1% Wit 3% Zwart 6.9% Aziatisch"
+Religie: = "Christelijk(59,5%) Moslim (4,4%) Hindoe (1,3%)"
+Export: = "auto' s, turbojets, Ruwe olie, goud, medicijnen"
+Meest populaire Eten: = "Fish And Chips"
+Volkslied:"God Save The Queen"
+Rijkste Burger: = "Sir James Dyson (2020)"
 
 
 

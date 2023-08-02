@@ -1,18 +1,18 @@
 [config]
 name  = sco
-guiname = "Scotland"
-description = "Scotland is a country that is part of the United Kingdom. Covering the northern third of the island of Great Britain, mainland Scotland has a 96-mile (154-kilometre) border with England to the southeast and is otherwise surrounded by the Atlantic Ocean to the north and west, the North Sea to the northeast and the Irish Sea to the south. The country also contains more than 790 islands, principally in the archipelagos of the Hebrides and the Northern Isles. Most of the population, including the capital Edinburgh, is concentrated in the Central Belt – the plain between the Scottish Highlands and the Southern Uplands – in the Scottish Lowlands."
+guiname = "スコットランド"
+description = "スコットランドはイギリスの一部である国です。 グレートブリテン島の北3分の1をカバーするスコットランド本土は、南東にイングランドと96マイル（154キロメートル）の国境を持ち、北と西に大西洋、北東に北海、南にアイリッシュ海に囲まれています。 この国には、主にヘブリディーズ諸島と北諸島の群島にある790以上の島も含まれています。 首都エディンバラを含む人口のほとんどは、スコットランド低地の中央ベルト（スコットランド高地と南部高地の間の平野）に集中しています。"
 
-jobtitle = "Monarch"
+jobtitle = "モナーク"
 
 [stats]
-National Anthem: = "In my defence God me defend"
-Population: = "5,463,300 people (2019 est)"
-Area: = "77,933 km2 (30,090 sq mi)"
-Currency: = "Pound sterling (GBP; £)"
-GVA: = "£166 billion"
-GVA per capita: = "£30,560"
-Biggest Industry: = "Oil & Gas Exports"
-Capital And Largest City: = "Edinburgh"
-Driving side: =	"left"
-Calling code: = "+44"
+国歌：="私の防衛の中で神は私を守る"
+人口：="5,463,300人（2019est）"
+面積:="77,933km2(30,090sq mi)"
+通貨:="英ポンド(GBP;£)"
+GVA：="£166億"
+一人当たりのGVA：="£30,560"
+最大の産業：="石油＆ガス輸出"
+首都と最大の都市：="エジンバラ"
+運転側：="左"
+呼び出しコード：="+44"

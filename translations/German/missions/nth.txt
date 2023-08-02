@@ -1,23 +1,22 @@
 [config]
 name  = nth
-guiname = "Netherlands"
-description = "The Netherlands, informally Holland, is a country located in Western Europe with territories in the Caribbean. It is the largest of four constituent countries of the Kingdom of the Netherlands. In Europe, the Netherlands consists of twelve provinces, bordering Germany to the east, Belgium to the south, and the North Sea to the northwest, with maritime borders in the North Sea with those countries and the United Kingdom. In the Caribbean, it consists of three special municipalities: the islands of Bonaire, Sint Eustatius and Saba."
+guiname = "Niederlande"
+description = "Die Niederlande, informell Holland, sind ein Land in Westeuropa mit Territorien in der Karibik. Es ist das größte von vier konstituierenden Ländern des Königreichs der Niederlande. In Europa bestehen die Niederlande aus zwölf Provinzen, die im Osten an Deutschland, im Süden an Belgien und im Nordwesten an die Nordsee grenzen, mit Seegrenzen in der Nordsee mit diesen Ländern und dem Vereinigten Königreich. In der Karibik besteht es aus drei speziellen Gemeinden: den Inseln Bonaire, Sint Eustatius und Saba."
 
 jobtitle = "Monarch"
 
 [stats]
-National Anthem: = "I will maintain"
-Population: = "17.4 million (2020)"	
-Area: = "41,865 km2 (16,164 sq mi)"
-Currency: = "Euro (EUR)"
-GDP: = "$1.012 (~EUR844452000000.00 EUR)"
-GDP per capita: = "$58,003 (~EUR48980.75 EUR)"
-Democracy Index: = "~9.66/10 (9st)"
-Biggest Industry: = "Agriculture And Food Industry"
-Capital And Largest City: = "Amsterdam"
-Driving side: =	"Right"
-Calling code: = "+31"
-
+Nationalhymne: = "Ich werde beibehalten"
+Bevölkerung: = "17,4 Millionen (2020)"	
+Fläche: = "41.865 km2 (16.164 Quadratmeilen)"
+Währung: = "Euro (EUR)"
+BIP: = "$1.012 (~EUR844452000000.00 EUR)"
+BIP pro Kopf: = "$ 58,003 (~ EUR48980.75 EUR)"
+Demokratieindex: = "~ 9,66 / 10 (9. Platz)"
+Größte Branche: = "Landwirtschaft und Lebensmittelindustrie"
+Hauptstadt und größte Stadt: = "Amsterdam"
+Fahrseite: = "Rechts"
+Vorwahl: = "+31"
 
 
 

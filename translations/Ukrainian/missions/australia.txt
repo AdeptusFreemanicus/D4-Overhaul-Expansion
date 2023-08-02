@@ -1,18 +1,17 @@
 [config]
 name  = australia
-guiname = "Australia"
-description = "The Commonwealth of Australia is a federal parliamentary constitutional monarchy. It is comprised of the mainland Australian continent, Tasmania, and many smaller islands. The former British colony first became a democracy in 1901. In 1902 women were given the right to vote at a federal level. Compulsory voting was introduced in 1924. In 1962 voting rights were expanded to include all Aboriginal peoples."
-jobtitle = "Prime Minister"
+guiname = "Австралія"
+description = "Австралійська Співдружність-Федеральна парламентська конституційна монархія. Він складається з материкової частини австралійського континенту, Тасманії та багатьох менших островів. Колишня британська колонія вперше стала демократичною в 1901 році. У 1902 році жінкам було надано право голосу на федеральному рівні. Обов'язкове голосування було введено в 1924 році. У 1962 році виборчі права були розширені і поширилися на всі корінні народи."
+jobtitle = "прем'єр-міністр"
 
 [stats]
-Population: = "25,499,884 (2020)"
-Size: =	"7,692,024 sq km"
-Religion: = "None (30.1%), Catholic (22.6%), Anglican (13.3%), Other Christian (16.3%), Islam (2.6%)"
-Exports: = "Iron ore, coal, natural gas, education-related services, personal travel services, gold"
-World Leader: =	"Largest island, well-being of youth"
-Member of: = "G20, APEC, NPDI"
-National obsessions: = "Informality, BBQs, private schools, beach life"
-
+Населення: = "25 499 884 (2020)"
+Розмір: = "7,692,024 кв. км"
+Релігія: = "ні (30,1%), Католик (22,6%), англіканець (13,3%), інші християни (16,3%), Іслам (2,6%)"
+Експорт: = "залізна руда, вугілля, природний газ, послуги, пов'язані з освітою, особисті туристичні послуги, золото"
+Світовий лідер: = "найбільший острів, добробут молоді"
+Член: = "G20, АТЕС, NPDI"
+Національні нав'язливості: = "неформальність, барбекю, приватні школи, пляжне життя"
 
 
 

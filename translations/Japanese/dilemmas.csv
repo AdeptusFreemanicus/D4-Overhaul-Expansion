@@ -1,88 +1,88 @@
-#,TerroristAttack,Terrorists Attack Moscow Theater!,"60-70 terrorists attacked a Moscow theater, we have been told that at least 800 hostages have been taken, the terrorists have many explosives inside, Our Spetsnaz Forces, SOBR, Police, And FSB are ready to storm the building and take down the threat, Or we can give in to the demands of the terrorist.", 
-#,TerroristAttack_0,Given In To Demands,"Ivan Petrov, Your trusted prime minister says, These terrorists have no fear of killing every one of those hostages and fight to the last man, we should give in to their demands so we can avoid losing many lives.",
-#,TerroristAttack_1,Storm The Building,"Your Minister of Defence, Army General Victor Molotov, Says, We Simply Cannot throw down our weapons and give up! what do you think the other superpowers will say? do you think that will stop other terrorists from doing the same? We must storm the building at once!",
-#,AttackUkraine,Should We Declare War On Ukraine?,"Ukraine has been apart of Russia for hundreds of years, but after the fall of the Soviet Union they have declared independence, should we take back what was ours? or do we focus on other things?", 
-#,AttackUkraine_0,Don't Attack,"We cannot afford to attack Ukraine right now.",
-#,AttackUkraine_1,Attack!,"We must take back what's rightfully ours!",
-#,AttackMongolia,Should We Declare War On Mongolia?,"Mongolia has been an ally of the Soviet Union for a few years back in WW2, but after the fall of the Soviet Union now they can be best described as "Friendly", should we take back what was ours? or do focus on other things?", 
-#,AttackMongolia_0,Don't Attack,"We cannot afford to attack Mongolia right now.",
-#,AttackMongolia_1,Attack!,"We must take back what's rightfully ours!",
-#,ChineseAlert,One Of Our Spies Has Been Arrested!,"While on a mission one of our best spies has been arrested after a mission failure, Thankfully he is not a Taiwanese citizen and they don't know that he works for us, The Chinese have announced that if no government steps up and addresses the situation then the spy will be punished by death! What should we do?", 
-#,ChineseAlert_0,Don't Do Anything,"We cannot risk a war or other issues with the rebels right now!",
-#,ChineseAlert_1,Comply,"We must take action now! We cannot let our spy die!",
-#,NativeTribe,An Explorer Just Found a Native Tribe!,"While exploring the amazon forest an explorer found a native tribe, They don't seem to have seen the explorer, What do we do?", 
-#,NativeTribe_0,Leave Them Alone,"We should not interfere with the tribe.",
-#,NativeTribe_1,Interact With The Tribe,"We should send a team and interact with the tribe",
-#,NATOSanctions,NATO Make An Offer!,"The President of the United States offers to lift all NATO sanctions if we accept his demands, What should we do?", 
-#,NATOSanctions_0,Capitate And Accept Demands,"For the good of our people, we must agree.",
-#,NATOSanctions_1,Decline The Offer,"We shall not make deals with those who have wronged us!",
-#,RussianArmsDeal,Russia Made An Offer!,"We just received an offer from Russia for an arms deal, we have already had an arms deal with Russia that NATO didn't like, Do we dare make another one?", 
-#,RussianArmsDeal_0,Kindly Decline,"We should not antagonize our allies.",
-#,RussianArmsDeal_1,Accept The Offer,"We are still loyal to our allies, We are simply getting stronger for the good of defense.",
-#,SouthKoreanDeal,South Korea Made An Offer!,"We just received an offer from the rebels, They offer to make a small deal that will benefit us both.", 
-#,SouthKoreanDeal_0,Decline,"We should not deal with rebel scum.",
-#,SouthKoreanDeal_1,Accept The Offer,"We shall accept the offer for the good of the Korean people.",
-#,NorthKoreanDeal,South Korea Made An Offer!,"We just received an offer from the rebels, They offer to make a small deal that will benefit us both.", 
-#,NorthKoreanDeal_0,Decline,"We should not deal with rebel scum.",
-#,NorthKoreanDeal_1,Accept The Offer,"We shall accept the offer for the good of the Korean people.",
-#,GreekCyberAttack,We Have Been Attacked!,"We have just been attacked! it's a cyber attack that leaked information to the attackers! we have enough info to indicate it's a greek attack, But not enough to convince the other nations.",
-#,GreekCyberAttack_0,ATTACK THEM HARDER!,"We cannot let this go unanswered, We must attack them with our hackers to show them we will not let them step over us! - Said your top general",
-#,GreekCyberAttack_1,Investigate and report to the world!,"Us attacking them might make us look like the attacker, we must try to find any information then report it to the UN. - Says your top adviser",
-#,GreekCyberAttack_2,Modernize our systems!,"If to prevent this from happening again we must improve our systems to better protect our nation. - Says the IT manager while annoyingly typing on his laptop after managing to sneak in the meeting.",
-#,RussianDeal,We Have a Deal Comrade,"We have a deal for you comrade, we will supply you with weapons and we will protect you from the USA and the terrorists, we will send more men and equipment then the USA did, What do you say?.",
-#,RussianDeal_0,It's Not Right,"Who makes a deal like this? they asked for nothing, they must be trying to do something, we cannot be tricked by them, even if they will supply and help us. - Says your top adviser",
-#,RussianDeal_1,We Should Trust Them,"Yes, It seems a bit off but it's a great deal, either way, We are sick of fighting, no matter what they will do it's better then fighting those investigate terrorists. - Says your Vice President",
-#,SaudiDeal,We have a deal!,"We have an urgent deal to discuss, The Saudis are offering a small oil deal.",
-#,SaudiDeal_0,It's a great deal!!,"We must accept! this deal will stop a rivalry that costs both sides a lot of money, this can improve our economy a lot, They are risking their alliance with the USA to make this deal, Lets sign it!",
-#,SaudiDeal_1,NO, WE CANNOT!,"Please think of this, we will be selling our oil at a way cheaper price, yes we can't sell much of oil but we cannot just hand it to them, it's smarter to make a counter deal or to simply refuse!",
-#,USDemands,US Demands,"The United States, Or simply Trump, demands us to increase our defense spending to at least 3% of our GDP, It's currently 1.04%.",
-#,USDemands_0,Let's Do It!,"It's for the good of the people, We must defend ourselves, So let's do it!",
-#,USDemands_1,We don't have to,"Sweden survived by itself in WW1 and WW2, We can leave NATO if it comes to it, Let them not control us.",
-#,Rainforest Defense Project,Defending Our Great Nature Wonder,"The Amazon Rainforest, Our greatest natural wonder, The world's largest rainforest, and a simple of Brazil is threatened!!",
-#,Rainforest Defense Project_0,WE MUST DEFEND THE AMAZON FOREST,"We cannot let the amazon rainforest burn and be cut down! we must defend it, For good of our people, For good of the world and for the sake of all of the animals living in it!",
-#,Rainforest Defense Project_1,LET'S RELY ON GOD,"God protects all, Without him, we would have not had the forest, Our Lord watches over us and he can protect us, and our great forest, so pray with me and let God save us all.",
-#,NewDams,Building New Dams,"We need the power to support our people and economy, Let's build more dams!",
-#,NewDams_0,It's a Bad Idea,"We need the power but the plan provided means we cut water sources to other nations that need the water, The world will hate us!",
-#,NewDams_1,We Must Build Them!,"Most of those nations don't like us anyways, we are fighting them in the china sea to get control, so let's show them the power of china!",
-#,NorthenBridgeIncident,We Have An Issue!,"A Chinese family made it to our border, They committed some minor crimes in china, but they are scared and trying to flee to our country, What do we do?",
-#,NorthenBridgeIncident_0,Send Them Back,"We cannot afford to damage our relations with china! send them back now before we invoke china!",
-#,NorthenBridgeIncident_1,Save them!,"My supreme leader, We must keep them, can't you see? they only committed minor crimes, should they really die for them? Please, Save them!",
-#,NorthKoreanSub,We Have An Issue!,"We just spotted an old rusted sub off our western coast, we are pretty sure we can see North Korean insignia on the sub, What's Your Orders?",
-#,NorthKoreanSub_0,Send The Black Berets!,"We need to clear the sub, It might contain weapons of mass destruction or chemical weapons!",
-#,NorthKoreanSub_1,Send A Rescue Team!,"They must be North Korean escapees! We must help them! Give Us The Order!",
-#,GreekOffer,We Have An Offer!,"Greece just offered to settle the Cyprus issue, They agree to fully withdraw from the region if we do, Do We Agree?",
-#,GreekOffer_0,Let's Trust Them!,"We can resolve this issue and many others if we trust them! We cannot act like apes fighting all the time!",
-#,GreekOffer_1,We Cannot Trust Them!,"When we withdraw they will invade Northern Cyprus! We cannot allow that!",
-#,AdvancedPoliceTraining,New Police Training?,"Our Law Enforcement has been using almost the same training for years now, many people of the Law Enforcement community and government ask to get a new training module, One that's newer and more advanced to help protect us from terrorism and crime makers.",
-#,AdvancedPoliceTraining_0,It's a Great Idea,"We can always use better training to protect our people and to take down law breakers around our country.",
-#,AdvancedPoliceTraining_1,We Don't Need It!,"Our training is good enough, our country doesn't have much crime therefore we don't need it!",
-#,OilOrGreenPower,Oil Or Green Power?,"Since the discovery of electricity the whole world has almost only used non renewable sources for electricity are we ready to change that?",
-#,OilOrGreenPower_0,Yes!,"Our nation and the entire world only stand to benefit from this! We must do it!",
-#,OilOrGreenPower_1,No!,"The rest of the world shows no real sign of change, why should we?",
-#,NorwegianGovermentScandal,Our Monarch Has Made A Mistake!,"Our Monarch has been caught having sexual relations with a known po*n star! Do We Publicly Support Him?",
-#,NorwegianGovermentScandal_0,Yes!,"Even though he made a mistake we must support him!",
-#,NorwegianGovermentScandal_1,No!,"We cannot support him after doing that!",
-#,Artifacts,Indigenous people claim relics!,"Since a century ago, one of our museums has had a display of sacred relics from an indigenous tribe in a former colony. Representatives of the tribe say that the relics were stolen, and have requested them to be returned to their homeland. The tribe has offered us newly crafted replicas as a replacement."
-#,Artifacts_0,Give back relics,"We have stolen land and freedom from indigenous people. The least thing we can do today, is giving back these relics. We will take their word that they will put them on display in their homeland."
-#,Artifacts_1,Keep relics on display,"We have kept the relics safe for a hundred years, and displayed them to the public. If we give them away, they might be damaged or stolen. These relics belong in a museum!"
-#,Autonomy,Autonomy for indigenous nation?,"Since time immemorial, an indigenous tribe has lived in a province, which was annexed by our country a few centuries ago. Today, some of these people request a local legislature. Autonomy would promote their native language and culture, as well as reducing racial tension. More patriotic members of the tribe are concerned that an autonomous province would become poorer than our country as a whole."
-#,Autonomy_0,Grant autonomy,"Long ago, we stole the land from this tribe, and is about time we give it back. It might be a setback for welfare, but you cannot put a price on freedom. All peoples should be able to elect politicians who speak their own language."
-#,Autonomy_1,Integrate indigenous people,"Our nation rests on unity in diversity. Our government has functioned well, and we shall not send these people into a poverty trap. Their culture has survived until today, and it will survive in the future, as part of our national heritage."
-#,CartoonCrisis,Prophet Cartoon Crisis!,"A national newspaper has posted a series of cartoons which mock a foreign religious prophet. Religious leaders complain that the cartoons are racist, and suggest an international boycott against our country. In an unusual alliance, liberals and patriots argue that all religious authorities should be subject to criticism."
-#,CartoonCrisis_0,Condemn cartoons,"We are a privileged people, who need to be sensitive about anything similar to racism. Of course we cannot legally censor the newspaper, but punishing the media company by boycotting them, and siding with the religious congregation, would calm down the complaints."
-#,CartoonCrisis_1,Defend cartoons,"Free speech is a cornerstone of a civilized society, especially when it comes to questioning of religious dogma. Domestic and foreign figures of authority, should not be able to evade criticism and satire."
-#,CitizenByBirth,Citizenship by birth?,"With increasing immigration, we need to review our citizenship law. Who should be born a citizen of our country?"
-#,CitizenByBirth_0,Citizenship by birthplace,"Immigrant families argue that all children born here should become citizens, regardless of parents' citizenship."
-#,CitizenByBirth_1,Citizenship by lineage,"Conservatives argue that lineage is more important than birthplace. Children born to a mother, or a proved father, who is citizen of our country, should be citizens here. In practice, this means that we will have less immigration, and more emigration."
-#,HolyLand,Palestinian conflict,"The neverending conflict between Israel and Palestine has escalated again. Israel makes clear that they will terminate diplomatic relations with any nation that recognizes their rival. What side shall we choose?"
-#,HolyLand_0,Do not recognize Palestine,"Capitalists point out that Israel is the only democratic nation in the Middle East, and an important provider of high technology. Palestine lacks control of most of its claimed territory, and is not a functional country."
-#,HolyLand_1,Recognize Palestine,"Socialists emphasize that Israel is is an oppressive occupation government, responsible of most deaths in the conflict. The international community prefers a two-state solution, so we need to recognize Palestine sooner or later. If we do, we would also improve relations with oil-exporting Arab countries."
-#,RaceCensus,Census based on race,"As a new census is coming up, there is debate whether the government should record citizens' self-identified ethnic background, religious creed, or "race". Socialists claim that these records would be useful to highlight and counter discrimination. Liberals and religious people warn about the risk that the system could be abused."
-#,RaceCensus_0,Record ethnicity,"Although modern science has disproved the concept of "race", we cannot ignore the existence of discrimination against people of certain appearance. This reform will make government and private sector more aware to treat citizens equally, and provide data useful to social scientists."
-#,RaceCensus_1,Do not record ethnicity,"History has taught us the dangers of records based on ethnic background. There is risk that the government, or another body, surveys people based on their ethnicity or creed; or even worse, that some of these groups would be rounded up and detained. There is only one race; the human one."
-#,LegalizeBribery,Legalize Bribery,"Bribery has become commonplace amongst our country's politicians. The situation is so bad that even the most routine pieces of legislation are being held up by political favors. This must be addressed."
-#,LegalizeBribery_0,Increase Oversight,"Horsetrading, whether referred to as lobbying or bribery, is destroying our country. We need to cut off this culture of corruption at the source."
-#,LegalizeBribery_1,Legalize Bribery,"Why beat around the bush? Politicians do favors for each other all the time, that's the only way anything gets done. All of this secrecy is why things are moving so slowly in the first place!"
-#,ContributionLimits,Contribution Limits,"Large, anonymous contributions have become commonplace in our society. There are many who question the fairness of this practice and insist that it subverts democracy and the principle of 'one person, one vote'. Others insist that this falls under free speech."
-#,ContributionLimits_0,Increase Contribution Limits,"Politics is for the big sharks. Sharks are winners. And they don't look back. 'Cause they don't have necks. Necks are for sheep. We need a proud shephard for this herd of sharks."
-#,ContributionLimits_1,Lower Contribution Limits,"Anonymous political contributions from the super-rich are overly distorting the political debate in our country. Furthermore, multinational corporations can exploit this and potentially allow foreign interests to influence our policy. This should be considered an outrage in any country that calls itself a democracy."
+#,TerroristAttack,テロリストがモスクワ劇場を攻撃！,"60-70テロリストがモスクワの劇場を攻撃し、我々は、少なくとも800人質が撮影されていることを言われている、テロリストが内部に多くの爆発物を持って、私たちのスペツナズ軍、SOBR、警察、およびFSBは、建物を襲撃し、脅威を降ろす準備ができている、または我々はテロリストの要求に屈することができます。", 
+#,TerroristAttack_0,要求に与えられて,"イワン-ペトロフ、あなたの信頼できる首相は言う、これらのテロリストは、それらの人質の一人一人を殺し、最後の男に戦うことを恐れていない、我々は多くの命を失うことを避けることができるように、我々は彼らの要求に屈する必要があります。",
+#,TerroristAttack_1,建物を襲って,"あなたの国防大臣、陸軍将軍Victor Molotovは、私たちは単に私たちの武器を捨ててあきらめることはできないと言います！ 他の超大国は何を言うと思いますか？ あなたはそれが同じことをやってから他のテロリストを停止すると思いますか？ 私たちはすぐに建物を襲撃しなければなりません！",
+#,AttackUkraine,私たちはウクライナに戦争を宣言すべきですか？,"ウクライナは何百年もの間ロシアから離れていましたが、ソビエト連邦の崩壊後、彼らは独立を宣言しました、私たちは私たちのものを取り戻すべき または私達は他の事に焦点を合わせるか。", 
+#,AttackUkraine_0,攻撃しないで,"我々は今、ウクライナを攻撃する余裕はありません。",
+#,AttackUkraine_1,攻撃！,"私たちは正当に私たちのものを取り戻さなければなりません！",
+#,AttackMongolia,モンゴルに宣戦布告すべきか？,"モンゴルは第二次世界大戦で数年前からソ連の同盟国でしたが、ソ連崩壊後、彼らは最高の"友好的"として記述することができます、我々は私たちが何であったかを取り戻す必要がありますか？ または他のものに焦点を当てていますか？", 
+#,AttackMongolia_0,攻撃しないで,"私たちは今、モンゴルを攻撃する余裕はありません。",
+#,AttackMongolia_1,攻撃！,"私たちは正当に私たちのものを取り戻さなければなりません！",
+#,ChineseAlert,私たちのスパイの一人が逮捕されました！,"ミッションで私たちの最高のスパイの一つは、ミッションの失敗の後に逮捕されましたが、ありがたいことに、彼は台湾の市民ではなく、彼らは彼が私たちのために働いていることを知らない、中国は政府がステップアップし、状況に対処しない場合、スパイは死によって処罰されることを発表しました！ どうすればいいの?", 
+#,ChineseAlert_0,何もしないで,"私たちは今、反政府勢力との戦争やその他の問題を危険にさらすことはできません！",
+#,ChineseAlert_1,遵守,"私たちは今行動を起こさなければなりません！ スパイを死なせることはできません！",
+#,NativeTribe,探検家はちょうどネイティブの部族を見つけました！,"アマゾンの森を探索している間、探検家はネイティブの部族を見つけましたが、彼らは探検家を見たことがないようです、私たちは何をしますか？", 
+#,NativeTribe_0,放っておいて,"私たちは部族に干渉すべきではありません。",
+#,NativeTribe_1,部族との交流,"私たちはチームを送り、部族と交流する必要があります」,
+#,NATOSanctions,NATOはオファーを作ります！,"米国大統領は、私たちが彼の要求を受け入れるならば、すべてのNATO制裁を解除することを申し出ます、私たちは何をすべきですか？", 
+#,NATOSanctions_0,要求を受け入れて,"私たちの人々の利益のために、私たちは同意しなければなりません。",
+#,NATOSanctions_1,オファーを辞退し,"わたしたちを不当に扱った者たちとは，決して取引しないであろう。",
+#,RussianArmsDeal,ロシアは申し出をしました！,"私たちはロシアから武器取引の申し出を受けたばかりです、私たちはすでにNATOが気に入らなかったロシアと武器取引をしています、私たちは別のも", 
+#,RussianArmsDeal_0,親切に断る,"私たちは同盟国に敵対すべきではありません。",
+#,RussianArmsDeal_1,オファーを受け入れる,"私たちはまだ同盟国に忠実であり、防衛のために単に強くなっています。",
+#,SouthKoreanDeal,韓国がオファーをしました！,"我々はちょうど反政府勢力からの申し出を受け、彼らは私たちの両方に利益をもたらす小さな取引をすることを提供しています。", 
+#,SouthKoreanDeal_0,減少,"私たちは反逆者のスカムに対処すべきではありません。",
+#,SouthKoreanDeal_1,オファーを受け入れる,"私たちは韓国の人々の利益のための申し出を受け入れるものとします。",
+#,NorthKoreanDeal,韓国がオファーをしました！,"我々はちょうど反政府勢力からの申し出を受け、彼らは私たちの両方に利益をもたらす小さな取引をすることを提供しています。", 
+#,NorthKoreanDeal_0,減少,"私たちは反逆者のスカムに対処すべきではありません。",
+#,NorthKoreanDeal_1,オファーを受け入れる,"私たちは韓国の人々の利益のための申し出を受け入れるものとします。",
+#,GreekCyberAttack,私たちは攻撃されました！,"私たちは攻撃されたばかりです！ それは攻撃者に情報を漏らしたサイバー攻撃です！ 我々はそれがギリシャの攻撃であることを示すのに十分な情報を持っていますが、他の国を説得するのに十分ではありません。",
+#,GreekCyberAttack_0,それらをより強く攻撃！,"私たちはこれを未回答にさせることはできません、私たちは彼らに私たちを踏み越させないことを示すために私たちのハッカーで彼らを攻撃しなけ -あなたのトップ将軍は言った",
+#,GreekCyberAttack_1,調査し,世界に報告！,"私たちはそれらを攻撃すると、私たちは攻撃者のように見えるかもしれない、我々は国連にそれを報告し、任意の情報を見つけようとする必要があり -あなたの最高顧問は言う",
+#,GreekCyberAttack_2,私たちのシステムを近代化！,"これが再び起こらないようにするには、国家をよりよく保護するためにシステムを改善しなければなりません。 -Itマネージャーは、会議でこっそり管理した後、彼のラップトップに迷惑をかけて入力している間に言います。",
+#,RussianDeal,私たちは取引同志を持っています,"私たちはあなたの同志のための契約を持っています、私たちはあなたに武器を供給します、そして私たちはあなたをアメリカとテロリストから守ります、私たちはより多くの男性と装備を送りますそしてアメリカはしました、あなたは何を言いますか?あなたは何を言いますか?あなたは何を言いますか?.",
+#,RussianDeal_0,それは右ではありません,"誰がこのような取引をしますか？ 彼らは何も求めませんでした、彼らは何かをしようとしているに違いありません、彼らが私たちを供給して助けてくれるとしても、私たちは彼らに -あなたの最高顧問は言う",
+#,RussianDeal_1,我々は彼らを信頼する必要があります,"はい、それは少しオフに思えるが、それは大いにだ、いずれにせよ、我々は関係なく、彼らが何をするか、それはそれらの調査テロリストと戦って、より良い -あなたの副社長は言う",
+#,SaudiDeal,私たちは取引を持っています！,"我々は議論するために緊急の契約を持って、サウジアラビアは、小さな石油契約を提供しています。",
+#,SaudiDeal_0,それはお得です！!,"私たちは受け入れなければなりません！ この取引は、両側に多くのお金を要する競争を止めるでしょう、これは私たちの経済を大いに改善することができます、彼らはこの取引をするために米国との同盟を危険にさらしています、それに署名することができます!",
+#,SaudiDeal_1,いいえ,できません！,"これについて考えなさい、私達は方法より安い価格で私達のオイルを販売する、はい私達はオイルの多くを販売できないが、私達はちょうどそれらにそれを渡すことができない、反対の取り引きをするか、または単に断るためによりスマートである!",
+#,USDemands,米国の要求,"米国、または単にトランプは、国防費をGDPの少なくとも3％に増やすことを要求しており、現在は1.04％です。",
+#,USDemands_0,それをやろう！,"それは人々の利益のためです、私たちは自分自身を守らなければなりません、それでそれをしましょう！",
+#,USDemands_1,私たちはする必要はありません,"スウェーデンは第一次世界大戦と第二次世界大戦で単独で生き残った、それがそれに来るならば、我々はNATOを残すことができます、彼らが私たちを制御しないようにしましょう。",
+#,Rainforest Defense Project,私たちの偉大な自然の驚異を守る,"アマゾンの熱帯雨林、私たちの最大の自然の驚異、世界最大の熱帯雨林、そしてブラジルの単純なものが脅かされています！!",
+#,Rainforest Defense Project_0,アマゾンの森を守らなければならない,"アマゾンの熱帯雨林を燃やして切り倒すことはできません！ 私たちはそれを守らなければなりません,私たちの人々の利益のために,世界の利益のために、そしてそこに住むすべての動物のために!",
+#,Rainforest Defense Project_1,神に頼りましょう」God protects all, Without him, we would have not had the forest, Our Lord watches over us and he can protect us, and our great forest, so pray with me and let God save us all.",
+#,NewDams,新しいダムの建設,"私たちは人々と経済を支える力を必要としています、より多くのダムを建設しましょう！",
+#,NewDams_0,それは悪い考えです,"私たちは力を必要としますが、提供された計画は、私たちが水を必要とする他の国に水源をカットすることを意味し、世界は私たちを憎むでしょう！",
+#,NewDams_1,私たちはそれらを構築する必要があります！,"これらの国のほとんどはとにかく私たちを好きではありません、私たちは支配権を得るために中国海で彼らと戦っているので、彼らに中国の力を示",
+#,NorthenBridgeIncident,私たちは問題があります！,"中国の家族が私たちの国境に到着し、彼らは中国でいくつかの軽微な犯罪を犯しましたが、彼らは怖くて私たちの国に逃げようとしています、私たちは何をしますか?",
+#,NorthenBridgeIncident_0,それらを送り返す,"私たちは中国との関係を損なう余裕はありません！ 私たちが中国を呼び出す前に、今すぐ送り返してください！",
+#,NorthenBridgeIncident_1,それらを保存！,"私の最高指導者、私たちはそれらを維持しなければなりません、あなたは見ることができませんか？ 彼らは軽微な犯罪を犯しただけです、彼らは本当に彼らのために死ぬべきですか？ お願い、それらを保存してください！",
+#,NorthKoreanSub,私たちは問題があります！,"私たちはちょうど私たちの西海岸オフ古い錆びたサブを発見し、我々はサブに北朝鮮の記章を見ることができると確信しています、あなたの命令は何ですか？",
+#,NorthKoreanSub_0,黒いベレー帽を送ってください！,"我々は、サブをクリアする必要があります、それは大量破壊兵器や化学兵器が含まれている可能性があります！",
+#,NorthKoreanSub_1,救助隊を送ってください！,"彼らは北朝鮮の脱走者でなければなりません！ 私たちは彼らを助けなければなりません！ 私達に順序を与えて下さい!",
+#,GreekOffer,私たちはオファーを持っています！,"ギリシャはちょうどキプロスの問題を解決するために提供され、彼らは完全に我々が行う場合、我々は同意するか、地域から撤退することに同意しますか？",
+#,GreekOffer_0,彼らを信頼しましょう！,"私たちが彼らを信頼すれば、この問題や他の多くの問題を解決することができます！ 我々はすべての時間を戦って類人猿のように行動することはできません！",
+#,GreekOffer_1,私たちは彼らを信頼することはできません！,"私たちが撤退するとき、彼らは北キプロスに侵入します！ 私たちはそれを許すことはできません！",
+#,AdvancedPoliceTraining,新しい警察の訓練？,"私たちの法執行機関は何年もの間、ほぼ同じトレーニングを使用してきましたが、法執行機関のコミュニティと政府の多くの人々は、テロや犯罪から私たちを守るために、より新しく、より高度な新しいトレーニングモジュールを入手するように求めています。",
+#,AdvancedPoliceTraining_0,それは素晴らしいアイデアだ,"私たちは、常に私たちの人々を保護し、私たちの国の周りの法律違反者を倒すために、より良い訓練を使用することができます。",
+#,AdvancedPoliceTraining_1,私たちはそれを必要としません！,"私たちの訓練は十分に良いです、私たちの国はそれほど犯罪を持っていないので、私たちはそれを必要としません！",
+#,OilOrGreenPower,オイルまたはグリーン電力か。,"電気の発見以来、全世界はほぼ唯一の電気のための非再生可能なソースを使用しています我々はそれを変更する準備ができていますか？",
+#,OilOrGreenPower_0,はい！,"私たちの国と全世界は、これから利益を得るために立っているだけです！ 私たちはそれをしなければなりません！",
+#,OilOrGreenPower_1,いや！,"世界の残りの部分は変化の本当の兆候を示していません、なぜ私たちはすべきですか？",
+#,NorwegianGovermentScandal,私たちの君主は間違いを犯しました！,"私たちの君主は、知られているpo*nスターと性的関係を持ってキャッチされています！ 私たちは公に彼をサポートしていますか？",
+#,NorwegianGovermentScandal_0,はい！,"彼が間違いを犯したとしても、私たちは彼をサポートしなければなりません！",
+#,NorwegianGovermentScandal_1,いや！,"それをした後、私たちは彼をサポートすることはできません！",
+#,Artifacts,先住民族は遺物を主張！,"一世紀前から、私たちの博物館の一つは、かつての植民地の先住民族からの神聖な遺物の展示を持っていました。 部族の代表者は、遺物が盗まれたと言い、彼らに故郷に戻るように要求しました。 部族は私たちに新たに細工されたレプリカを交換として提供しています。"
+#,Artifacts_0,遺物を返して,"私たちは土地を盗み、先住民からの自由を奪ってきました。 私たちが今日できる最も少ないことは、これらの遺物を返すことです。 私たちは彼らが彼らを彼らの故郷に展示するという彼らの言葉を取ります。"
+#,Artifacts_1,遺物を展示しておく,"私たちは100年間遺物を安全に保管し、一般に公開してきました。 我々はそれらを離れて与える場合、彼らは破損したり盗まれる可能性があります。 これらの遺物は博物館に属しています！"
+#,Autonomy,先住民族のための自治？,"太古の昔から、先住民族は数世紀前に私たちの国に併合された州に住んでいました。 今日、これらの人々の何人かは地方議会を要求しています。 自治は彼らの母国語と文化を促進するだけでなく、人種的緊張を軽減するでしょう。 部族のより多くの愛国的なメンバーは、自治州が私たちの国全体よりも貧しくなることを懸念しています。"
+#,Autonomy_0,自治権付与,"ずっと前に、私たちはこの部族から土地を盗んだ、と私たちはそれを返す時間についてです。 それは福祉のための後退かもしれないが、自由に価格を置くことはできません。 すべての人々は、自分の言語を話す政治家を選出することができるはずです。"
+#,Autonomy_1,先住民族を統合し,"私たちの国は多様性の統一にかかっています。 私たちの政府はうまく機能しており、私たちはこれらの人々を貧困の罠に陥らせてはなりません。 彼らの文化は今日まで生き残っており、それは私たちの国の遺産の一部として、将来的に生き残るでしょう。"
+#,CartoonCrisis,預言者漫画の危機！,"全国の新聞は、外国の宗教的な預言者を嘲笑する一連の漫画を掲載しています。 宗教指導者たちは、漫画が人種差別主義者であると不平を言い、私たちの国に対する国際的なボイコットを示唆しています。 異常な同盟では、自由主義者と愛国者は、すべての宗教当局が批判の対象となるべきであると主張している。"
+#,CartoonCrisis_0,漫画を非難する,"私たちは特権的な人々であり、人種差別に似たものに敏感である必要があります。 もちろん、私たちは法的に新聞を検閲することはできませんが、それらをボイコットし、宗教的な会衆とサイディングすることによってメディア会社を罰することは、苦情を落ち着かせるでしょう。"
+#,CartoonCrisis_1,漫画を守る,"言論の自由は、特に宗教的教義の疑問に関しては、文明社会の礎石です。 権威の国内および外国の数字は、批判や風刺を回避することができないはずです。"
+#,CitizenByBirth,出生による市民権？,"移民の増加に伴い、私たちは市民権法を見直す必要があります。 誰が私たちの国の市民に生まれるべきですか？"
+#,CitizenByBirth_0,出身地別市民権,"移民の家族は、両親の市民権に関係なく、ここで生まれたすべての子供たちが市民になるべきだと主張しています。"
+#,CitizenByBirth_1,系統別市民権,"保守派は、血統が出生地よりも重要であると主張しています。 私たちの国の市民である母親、または証明された父親に生まれた子供たちは、ここでは市民でなければなりません。 実際には、これは私たちがより少ない移民、そしてより多くの移民を持つことを意味します。"
+#,HolyLand,パレスチナ紛争,"イスラエルとパレスチナの間の終わりのない紛争は再びエスカレートしました。 イスラエルは、彼らのライバルを認識している国との外交関係を終了することを明確にしています。 私たちはどの側を選びましょうか？"
+#,HolyLand_0,パレスチナを認識しないでください,"資本家は、イスラエルは中東で唯一の民主主義国家であり、ハイテクの重要な提供者であることを指摘しています。 パレスチナは、その主張された領土の大部分の支配権を欠いており、機能的な国ではありません。"
+#,HolyLand_1,パレスチナを認識し,"社会主義者は、イスラエルが抑圧的な占領政府であり、紛争でのほとんどの死を担当していることを強調しています。 国際社会は二国家の解決策を好むので、遅かれ早かれパレスチナを認識する必要があります。 そうすれば、石油輸出国であるアラブ諸国との関係も改善するでしょう。"
+#,RaceCensus,人種に基づく国勢調査,"新しい国勢調査が来ているので、政府が市民の自己識別された民族的背景、宗教的信条、または"人種」を記録するべきかどうかは議論があります。 社会主義者は、これらの記録は差別を強調し、対抗するのに有用であると主張する。 自由主義者や宗教的な人々は、システムが悪用される可能性があるというリスクについて警告しています。"
+#,RaceCensus_0,記録的な民族性,"現代科学は"人種」の概念を反証してきましたが、特定の外見の人々に対する差別の存在を無視することはできません。 この改革は、政府と民間部門が市民を平等に扱うことをより認識し、社会科学者に有用なデータを提供するでしょう。"
+#,RaceCensus_1,民族性を記録しないでください,"歴史は民族的背景に基づいて記録の危険性を教えてくれました。 政府や他の団体が民族や信条に基づいて人々を調査したり、さらに悪いことに、これらのグループのいくつかが切り上げられて拘留されるリスクがあ ただ一つの種族があります。人間の種族です。"
+#,LegalizeBribery,贈収賄を合法化,"贈収賄は、私たちの国の政治家の間で一般的になっています。 状況は非常に悪いので、最も日常的な法律でさえ、政治的な好意によって保持されています。 これに対処する必要があります。"
+#,LegalizeBribery_0,監視を増やし,"競馬は、ロビー活動や贈収賄と呼ばれるかどうかにかかわらず、私たちの国を破壊しています。 私たちは、ソースで腐敗のこの文化を遮断する必要があります。"
+#,LegalizeBribery_1,贈収賄を合法化,"なぜ茂みの周りを打つのですか？ 政治家はお互いのためにすべての時間を好意を行う、それは何かが行われる唯一の方法です。 この秘密のすべては、物事が最初の場所でとてもゆっくりと動いている理由です！"
+#,ContributionLimits,貢献限度額,"大規模な、匿名の貢献は、私たちの社会では一般的になっています。 この慣行の公平性に疑問を呈し、それが民主主義と"一人、一票"の原則を覆すと主張する多くの人がいます。 他の人は、これが言論の自由の下にあると主張しています。"
+#,ContributionLimits_0,貢献限度額を増やす,"政治は大きなサメのためのものです。 サメは勝者です。 そして、彼らは振り返ることはありません。 首がないから 首は羊のためのものです。 私たちはこのサメの群れのために誇りに思っているシェパードを必要としています。"
+#,ContributionLimits_1,貢献限度額を下げる,"超富裕層からの匿名の政治献金は、私たちの国の政治的議論を過度に歪めています。 さらに、多国籍企業はこれを悪用し、潜在的に外国の利益が私たちの政策に影響を与えることを可能にすることができます。 これは、自分自身を民主主義と呼ぶどの国でも怒りと見なされるべきです。"

@@ -1,18 +1,18 @@
 [config]
 name  = pol
-guiname = "Republic of Poland"
-description = "Poland, officially the Republic of Poland, is a country located in Central Europe. It is divided into 16 administrative provinces, covering an area of 312,696 square kilometres (120,733 sq mi), and has a largely temperate seasonal climate. With a population of nearly 38.5 million people, Poland is the fifth most populous member state of the European Union. Poland's capital and largest metropolis is Warsaw. Other major cities include Kraków, Łódź, Wrocław, Poznań, Gdańsk, and Szczecin."
+guiname = "ポーランド共和国"
+description = "ポーランド、正式にはポーランド共和国は、中央ヨーロッパに位置する国です。 それは312,696平方キロメートル（120,733平方マイル）の面積をカバーする16の行政省に分かれており、主に温暖な季節性気候を持っています。 ほぼ38.5万人の人口を持つポーランドは、欧州連合の第五最も人口の多い加盟国です。 ポーランドの首都で最大の大都市はワルシャワです。 他の主要都市には、クラクフ、ウッチ、ヴロツワフ、ポズナン、グダニスク、シュチェチンが含まれます。"
 
-jobtitle = "President"
+jobtitle = "プレジデント"
 
 [stats]
-National Anthem: = "Poland Is Not Yet Lost"
-Population: = "38.5 million people (2019)"
-Area: = "312,696 km2 (120,733 sq mi)"
-Currency: = "Złoty (PLN)"
-GDP: = "$607 billion (Zł2,259,500,538,937.90 PLN)"
-GDP per capita: = "$15,988 (Zł59,513.26 PLN)"
-Democracy Index: = "6.62/10 (57th)"
-Biggest Industry: = "Agriculture"
-Capital And Largest City: = "Warsaw"
-Driving side: =	"right"
+国歌：="ポーランドはまだ失われていない"
+人口：="3850万人（2019年）"
+面積:="312,696km2(120,733平方マイル)"
+通貨:="Złoty(PLN)"
+GDP：="607億ドル（Zł2,259,500,538,937.90PLN）"
+一人当たりGDP:="$15,988(Zł59,513.26PLN)"
+民主主義指数：="6.62/10（57位）"
+最大の産業：="農業"
+首都と最大の都市：="ワルシャワ"
+運転側：="右"

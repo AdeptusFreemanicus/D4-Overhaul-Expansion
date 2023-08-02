@@ -1,19 +1,19 @@
 [config]
 name  = uae
-guiname = "United Arab Emirates"
-description = "The United Arab Emirates, or simply the Emirates, is a country in Western Asia. It is located at the eastern end of the Arabian Peninsula, and shares borders with Oman and Saudi Arabia, while having maritime borders in the Persian Gulf with Qatar and Iran. Abu Dhabi is the nation's capital, while Dubai, the most populous city, is an international hub."
+guiname = "Birleşik Arap Emirlikleri"
+description = "Birleşik Arap Emirlikleri ya da sadece Emirlikler, Batı Asya'da bir ülkedir. Arap Yarımadası'nın doğu ucunda yer alır ve Umman ve Suudi Arabistan ile sınırları paylaşırken, Basra Körfezi'nde Katar ve İran ile deniz sınırları vardır. Abu Dabi ülkenin başkentidir, en kalabalık şehir olan Dubai ise uluslararası bir merkezdir."
 
-jobtitle = "President"
+jobtitle = "Başkan"
 
 [stats]
-National Anthem: = "Long Live My Country"
-Population: = "9,282,410 people (2020 est)"
-Area: = "83,600 km2 (32,300 sq mi)"
-Currency: = "UAE dirham (AED)"
-GDP: = "$763.182 billion"
-GDP per capita: = "$59,844"
-Democracy Index: = "2.90/10 (134th)"
-Biggest Industry: = "Tourism/Oil Industry"
-Capital and Largest City: = "Abu Dhabi"
-Driving side: =	"right"
-Calling code: = "+971"
+Milli Marş: = "Yaşasın Ülkem"
+Nüfus: = "9.282.410 kişi (2020 tahmini)"
+Yüzölçümü: = "83.600 km2 (32.300 mil kare)"
+Para birimi: = "BAE dirhemi (AED)"
+GSYİH: = "763.182 milyar dolar"
+Kişi başına düşen GSYİH: = "59.844 $"
+Demokrasi Endeksi: = "2.90 / 10 (134.)"
+En Büyük Endüstri: = "Turizm / Petrol Endüstrisi"
+Başkent ve En Büyük Şehir: = "Abu Dabi"
+Sürüş tarafı: = "sağ"
+Telefon kodu: = "+971"

@@ -1,19 +1,19 @@
 [config]
 name  = dprk
-guiname = "Democratic People's Republic of Korea"
-description = "North Korea, officially the Democratic People's Republic of Korea, Chosŏn Minjujuŭi Inmin Konghwaguk, is a country in East Asia constituting the northern part of the Korean Peninsula. The country is bordered to the north by China and by Russia along the Amnok (known as the Yalu in Chinese) and Tumen rivers, and to the south by South Korea, with the heavily fortified Korean Demilitarized Zone (DMZ) separating the two. North Korea, like its southern counterpart, claims to be the legitimate government of the entire peninsula and adjacent islands. Pyongyang is the country's capital and largest city."
+guiname = "Koreańska Republika Ludowo-Demokratyczna"
+description = "Korea Północna, oficjalnie Koreańska Republika Ludowo-Demokratyczna, Chosŏn Minjujuŭi Inmin Konghwaguk, to kraj w Azji Wschodniej stanowiący północną część Półwyspu Koreańskiego. Kraj graniczy od północy z Chinami i Rosją wzdłuż Amnok (znany jako Yalu w Języku Chińskim) i Tumen rzek, a na południu przez Koreę Południową, z silnie ufortyfikowaną koreańską strefą zdemilitaryzowaną (DMZ) oddzielającą te dwa. Korea Północna, podobnie jak jej Południowy odpowiednik, twierdzi, że jest prawowitym rządem całego półwyspu i sąsiednich wysp. Pjongjang jest stolicą i największym miastem kraju."
 
-jobtitle = "Supreme Leader"
+jobtitle = "Najwyższy Przywódca"
 
 [stats]
-National Anthem: = "The Patriotic Song"
-Population: = "25.5 million (2018)"
-Area: = "120,540 km2 (46,540 sq mi)"
-Currency: = "Korean People's won (₩)"
-GDP: = "$30 billion"
-GDP per capita: = "$1,300"
-Democracy Index: = "~1.06/10 (167th Last)"
-Biggest Industry: = "Agriculture/Mining"
-Capital (and largest city): = "Pyongyang"
-Driving side: =	"right"
-Calling code: = "+850"
+Hymn Narodowy: = "Pieśń Patriotyczna"
+Populacja: = " 25,5 miliona (2018)"
+Powierzchnia: = " 120 540 km2 (46 540 2)"
+Waluta: = " won ludu koreańskiego (₩)"
+PKB: = "30 miliardów dolarów"
+PKB per capita: = "$1,300"
+Indeks demokracji: = " ~1.06 10 (167. ostatni)"
+Największa Branża: = "Rolnictwo Górnictwo"
+Stolica (i największe miasto): = "Pjongjang"
+Strona jazdy: = "prawo"
+Kod wywołujący: = "+ 850"

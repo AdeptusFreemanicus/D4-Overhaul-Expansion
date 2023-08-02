@@ -1,20 +1,20 @@
 [config]
 name  = drc
-guiname = "Democratic Republic of the Congo"
-description = "The Democratic Republic of the Congo, informally Congo-Kinshasa, DR Congo, the DRC, the DROC, or the Congo, and formerly and also coloquially Zaire, is a country in Central Africa. It is, by area, the second largest country in Africa (after Algeria), and the 11th-largest in the world. With a population of around 92 million, the Democratic Republic of the Congo is the most populous officially Francophone country in the world. It is a member of the United Nations, Non-Aligned Movement, African Union, COMESA, and the East African Community. The capital and largest city is Kinshasa, which is also the world's most populous Francophone city."
+guiname = "República Democrática del Congo"
+description = "La República Democrática del Congo, informalmente Congo-Kinshasa, República Democrática del Congo, República Democrática del Congo, República Democrática del Congo o Congo, y anteriormente y también coloquialmente Zaire, es un país de África Central. Es, por área, el segundo país más grande de África (después de Argelia) y el undécimo más grande del mundo. Con una población de alrededor de 92 millones de habitantes, la República Democrática del Congo es el país oficialmente francófono más poblado del mundo. Es miembro de las Naciones Unidas, el Movimiento de Países No Alineados, la Unión Africana, COMESA y la Comunidad de África Oriental. La capital y ciudad más grande es Kinshasa, que también es la ciudad francófona más poblada del mundo."
 
 
-jobtitle = "President"
+jobtitle = "Presidente"
 
 [stats]
-National Anthem: = "Justice – Peace – Work"
-Population: = "92 million (2021)"
-Area: = "2,345,409 km2"
-Currency: = "Congolese franc (CDF)"
-GDP: = "$46 billion"
-GDP per capita: = "$501"
-Democracy Index: = "~2.76/10 (164th)"
-Biggest Industry: = "Agriculture Sector/Mining Sector"
-Capital (and largest city): = "Kinshasa"
-Driving side: =	"right"
-Calling code: = "+243"
+Himno Nacional: = "Justicia – Paz-Trabajo"
+Población: = "92 millones (2021)"
+Superficie: = "2.345.409 km2"
+Moneda: = "Franco congoleño (CDF)"
+PIB: = "$46 mil millones"
+PIB per cápita: = "$501"
+Índice de democracia: = " ~2.76/10 (164º)"
+Industria más Grande: = "Sector Agrícola / Sector Minero"
+Capital (y ciudad más grande): = "Kinshasa"
+Lado de conducción: = "derecho"
+Código de llamada: = "+243"

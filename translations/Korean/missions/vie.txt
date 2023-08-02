@@ -1,19 +1,19 @@
 [config]
 name  = vie
-guiname = "The Socialist Republic of Vietnam"
-description = "Vietnam, officially the Socialist Republic of Vietnam, is a country in Southeast Asia. Located at the eastern edge of mainland Southeast Asia, it covers 311,699 square kilometres. With a population of over 96 million, it is the world's fifteenth-most populous country. Vietnam borders China to the north, Laos and Cambodia to the west, and shares maritime borders with Thailand through the Gulf of Thailand, and the Philippines, Indonesia, and Malaysia through the South China Sea. Its capital is Hanoi and its largest city is Ho Chi Minh City."
+guiname = "베트남 사회주의 공화국"
+description = "베트남은 공식적으로 베트남 사회주의 공화국으로 동남아시아에 있는 나라입니다. 동남아 대륙의 동쪽 가장자리에 위치하고 있으며,311,699 평방 킬로미터에 달한다. 인구 가 9600 만 명 이상 인 이 나라 는 세계 에서 15 번째로 인구가 많은 나라 이다. 베트남은 북쪽으로는 중국,서쪽으로는 라오스,캄보디아와 국경을 접하고 있으며,태국 만을 통해 태국,남중국해를 통해 필리핀,인도네시아,말레이시아와 해상 국경을 공유하고 있다. 수도는 하노이이며 가장 큰 도시는 호치민시입니다."
 
-jobtitle = "General Secretary"
+jobtitle = "사무총장"
 
 [stats]
-National Anthem: = "Independence – Liberty – Happiness"
-Population: = "96,208,984 million (2019 est)"
-Area: = "331,699 km2 (128,070 sq mi)"
-Currency: = "đồng (₫) (VND)"
-GDP: = "$1.047 trillion"
-GDP per capita: = "$10,755"
-Democracy index: = "~2.94/10 (131st)"
-Largest Industry: = "Retail Industry"
-Capital and largest city: = "Hanoi"
-Driver side: = "right"
-Phone prefix: = "+84"
+애국가:="독립–자유–행복"
+인구:="96,208,984 백만(2019 동부 표준시)"
+지역:="331,699 평방 킬로미터(128,070 평방 마일)"
+이 예제에서는 두 가지 유형의 통화 중 하나를 사용할 수 있습니다.
+$1.047 조"
+1 인당 국내 총생산:="$10,755"
+민주주의 지수:="~2.94/10(131 위)"
+가장 큰 산업:="소매 산업"
+자본과 가장 큰 도시:="하노이"
+드라이버 측:="오른쪽"
+전화 접두사:="+84"

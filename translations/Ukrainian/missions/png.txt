@@ -1,21 +1,21 @@
 [config]
 name  = png
-guiname = "Independent State of Papua New Guinea"
-description = "Papua New Guinea, officially the Independent State of Papua New Guinea, is a country in Oceania that comprises the eastern half of the island of New Guinea and its offshore islands in Melanesia (a region of the southwestern Pacific Ocean north of Australia). Its capital, located along its southeastern coast, is Port Moresby. It is the world's third largest island country with an area of 462,840 km2 (178,700 sq mi).
+guiname = "Незалежна держава Папуа-Нова Гвінея"
+description = "Папуа-Нова Гвінея, офіційно незалежна держава Папуа-Нова Гвінея, є країною в Океанії, яка включає східну половину острова Нова Гвінея і прилеглі до нього прибережні острови в Меланезії (регіон Південно-західної частини Тихого океану на північ від Австралії). Його столицею, розташованою вздовж південно-східного узбережжя, є Порт-Морсбі. Це третя за величиною острівна держава у світі з площею 462 840 км2 (178 700 кв.миль)."
 
-jobtitle = "Prime Minister"
+jobtitle = "прем'єр-міністр"
 
 [stats]
-Motto: = "Unity in diversity"
-National Anthem: = "O Arise, All You Sons"
-Royal anthem = "God Save the Queen"
-Population: = "8.9 million (2020)"
-Area: = "462,840 km2 (178,700 sq mi)"
-Currency: = "Kina (PGK)"
-GDP: = "$32.382 billion"
-GDP per capita: = "$3,764"
-Democracy Index: = "~6.10/10 (70th)"
-Biggest Industry: = "Agriculture"
-Capital And Largest City: = "Port Moresby"
-Driving side: =	"Left"
-Calling code: = "+675"
+Девіз: = "єдність у різноманітності"
+Національний гімн: = "о, повстань, всі ти, сини"
+Королівський гімн = "Боже, Бережи королеву"
+Населення: = "8,9 мільйона (2020)"
+Площа: = "462,840 км2 (178,700 кв. милі)"
+Валюта: = "Кіна (PGK)"
+ВВП: = "32,382 мільярда доларів"
+ВВП на душу населення: = "3 764 долари"
+Індекс демократії: = "~6.10/10 (70-е місце)"
+Найбільша ГАЛУЗЬ: = "СІЛЬСЬКЕ ГОСПОДАРСТВО"
+Столиця і найбільше місто: = "Порт-Морсбі"
+Сторона руху: = "ліва"
+Телефонний код: = "+675"

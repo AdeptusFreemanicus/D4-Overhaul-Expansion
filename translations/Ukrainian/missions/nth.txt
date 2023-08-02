@@ -1,22 +1,22 @@
 [config]
 name  = nth
-guiname = "Netherlands"
-description = "The Netherlands, informally Holland, is a country located in Western Europe with territories in the Caribbean. It is the largest of four constituent countries of the Kingdom of the Netherlands. In Europe, the Netherlands consists of twelve provinces, bordering Germany to the east, Belgium to the south, and the North Sea to the northwest, with maritime borders in the North Sea with those countries and the United Kingdom. In the Caribbean, it consists of three special municipalities: the islands of Bonaire, Sint Eustatius and Saba."
+guiname = "Нідерланди"
+description = "Нідерланди, неофіційно Голландія, - це країна, розташована в Західній Європі з територіями в Карибському басейні. Це найбільша з чотирьох країн, що входять до складу Королівства Нідерланди. У Європі Нідерланди складаються з дванадцяти провінцій, що межують з Німеччиною на сході, Бельгією на півдні та Північним морем на північному заході, з морськими кордонами в Північному морі з цими країнами та Великобританією. У Карибському басейні він складається з трьох особливих муніципалітетів: островів Бонайре, Сінт-Естатіус і Саба."
 
-jobtitle = "Monarch"
+jobtitle = "Монарх"
 
 [stats]
-National Anthem: = "I will maintain"
-Population: = "17.4 million (2020)"	
-Area: = "41,865 km2 (16,164 sq mi)"
-Currency: = "Euro (EUR)"
-GDP: = "$1.012 (~EUR844452000000.00 EUR)"
-GDP per capita: = "$58,003 (~EUR48980.75 EUR)"
-Democracy Index: = "~9.66/10 (9st)"
-Biggest Industry: = "Agriculture And Food Industry"
-Capital And Largest City: = "Amsterdam"
-Driving side: =	"Right"
-Calling code: = "+31"
+Національний гімн: = "я буду підтримувати"
+Населення: = "17,4 мільйона (2020)"	
+Площа: = "41,865 км2 (16,164 кв. милі)"
+Валюта: = "Євро (EUR)"
+ВВП: = " 1,012 долара США (~844452000000,00 Євро)"
+ВВП на душу населення: = " 58 003 долари США(~ 48 980,75 Євро)"
+Індекс демократії: = "~9.66/10 (9-е місце)"
+Найбільша ГАЛУЗЬ: = "СІЛЬСЬКЕ ГОСПОДАРСТВО та харчова промисловість"
+Столиця і найбільше місто: = "Амстердам"
+Сторона руху: = "права"
+Телефонний код: = "+31"
 
 
 

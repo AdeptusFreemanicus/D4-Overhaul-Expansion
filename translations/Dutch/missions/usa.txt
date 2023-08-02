@@ -1,29 +1,29 @@
 [config]
 name  = usa
-guiname = "United States of America"
-description = "The United States of America is the world's third or fourth largest country by total area, and the third most populous country in the world. Americans are a racially and ethnically diverse population that has been shaped through centuries of immigration.The United States is a federal republic and a representative democracy. It is a founding member of the United Nations, World Bank, International Monetary Fund and NATO. The USA is a permanent member of the United Nations Security Council."
+guiname = "Verenigde Staten"
+description = "De Verenigde Staten Van Amerika is ' s werelds derde of vierde grootste land door de totale oppervlakte, en de derde meest bevolkte land in de wereld. Amerikanen zijn een raciaal en etnisch diverse bevolking die is gevormd door eeuwen van immigratie.De Verenigde Staten zijn een federale republiek en een representatieve democratie. Het is een van de oprichters van de Verenigde Naties, de Wereldbank, het Internationaal Monetair Fonds en de NAVO. De Verenigde Staten zijn permanent lid van de Veiligheidsraad van de Verenigde Naties."
 
 jobtitle = "President"
 
 [stats]
-Population: = "328 million (Jan 2020)"
-Size: = "9.8 million sq km"
-Largest City: = "New York City"
-Agricultural Land: = "44.5% of total"
-Ethnicity: = "76.5% White (18.3% Latino) 13.4% Black"
-National Anthem: = "The Star-Spangled Banner"
-Top Tourist Destination: = "The Grand Canyon"
-Most popular food: = "Cheeseburger"
-Biggest Industry: = "Real Estate"
+Bevolking: = "328 miljoen (Jan 2020)"
+Grootte: = "9,8 miljoen km2"
+Grootste Stad: = "New York City"
+Landbouwgrond: = "44,5% van het totaal"
+Etniciteit: = "76,5% Met (18,3% Latino) 13,4% Zwart"
+Volkslied: = "The Star-Spangled Banner"
+Top Toeristische Bestemming: = "Canion"
+Meest populaire gerechten: = "Cheeseburger"
+Grootste industrie: = "onroerend"
 
 [jobs]
-FOREIGNPOLICY = "Secretary of State"
-WELFARE = "Secretary of Housing and Urban Development"
-ECONOMY = "Secretary of Commerce"
-TAX = "Secretary of the Treasury"
-PUBLICSERVICES = "Secretary of Health and Human Services"
-LAWANDORDER = "Attorney General"
-TRANSPORT = "Secretary of Transportation"
+FOREIGNPOLICY = "staatssecretaris"
+WELFARE = "Minister van huisvesting en Stedelijke Ontwikkeling"
+ECONOMY = "Minister van Handel"
+TAX = "Minister van Financiën"
+PUBLICSERVICES = "Minister van Volksgezondheid en Human Services"
+LAWANDORDER = "Procureur-Generaal"
+TRANSPORT = "Minister van vervoer"
 
 
 

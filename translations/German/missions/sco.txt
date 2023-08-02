@@ -1,18 +1,18 @@
 [config]
 name  = sco
-guiname = "Scotland"
-description = "Scotland is a country that is part of the United Kingdom. Covering the northern third of the island of Great Britain, mainland Scotland has a 96-mile (154-kilometre) border with England to the southeast and is otherwise surrounded by the Atlantic Ocean to the north and west, the North Sea to the northeast and the Irish Sea to the south. The country also contains more than 790 islands, principally in the archipelagos of the Hebrides and the Northern Isles. Most of the population, including the capital Edinburgh, is concentrated in the Central Belt – the plain between the Scottish Highlands and the Southern Uplands – in the Scottish Lowlands."
+guiname = "Schottland"
+description = "Schottland ist ein Land, das Teil des Vereinigten Königreichs ist. Das schottische Festland erstreckt sich über das nördliche Drittel der Insel Großbritannien und hat eine 96 Meilen (154 Kilometer) lange Grenze zu England im Südosten und ist ansonsten im Norden und Westen vom Atlantik, im Nordosten von der Nordsee und umgeben die Irische See im Süden. Das Land enthält auch mehr als 790 Inseln, hauptsächlich in den Archipelen der Hebriden und der Nördlichen Inseln. Der größte Teil der Bevölkerung, einschließlich der Hauptstadt Edinburgh, konzentriert sich auf den Zentralgürtel – die Ebene zwischen den schottischen Highlands und den südlichen Hochländern – in den schottischen Lowlands."
 
 jobtitle = "Monarch"
 
 [stats]
-National Anthem: = "In my defence God me defend"
-Population: = "5,463,300 people (2019 est)"
-Area: = "77,933 km2 (30,090 sq mi)"
-Currency: = "Pound sterling (GBP; £)"
-GVA: = "£166 billion"
-GVA per capita: = "£30,560"
-Biggest Industry: = "Oil & Gas Exports"
-Capital And Largest City: = "Edinburgh"
-Driving side: =	"left"
-Calling code: = "+44"
+Nationalhymne: = "Zu meiner Verteidigung verteidigt Gott mich"
+Bevölkerung: = "5.463.300 Menschen (2019 est)"
+Fläche: = "77.933 km2 (30.090 Quadratmeilen)"
+Währung: = "Pfund Sterling (GBP; £)"
+BWS: = "£166 Milliarden"
+Bruttowertschöpfung pro Kopf: = "£30,560"
+Größte Branche: = "Öl- und Gasexporte"
+Hauptstadt und größte Stadt: = "Edinburgh"
+Fahrseite: = "links"
+Vorwahl: = "+44"

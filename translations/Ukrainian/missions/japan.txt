@@ -1,18 +1,18 @@
 [config]
 name  = japan
-guiname = "Japan"
-description = "Japan is a parliamentary constitutional monarchy with a ceremonial emperor and bicameral parliament. The current emperor is Naruhito, following the abdication of Akihito in 2019. The house of representatives has 465 seats and the upper house of councillors has 245 seats. Representatives must be at least 25 and councillors at least 30. The minimum voting age was reduced from 20 to 18 in 2016. Japan is divided in 47 prefectures, each overseen by an elected governor."
-jobtitle = "Prime Minister"
+guiname = "Японія"
+description = "Японія-парламентська конституційна монархія з церемоніальним імператором і двопалатним парламентом. Нинішнім імператором є Нарухіто, після зречення Акіхіто в 2019 році. Палата представників має 465 місць, а верхня палата радників - 245 місць. Представників має бути не менше 25, а радників - не менше 30. У 2016 році мінімальний вік для голосування був знижений з 20 до 18 років. Японія розділена на 47 префектур, кожна з яких управляється обраним губернатором."
+jobtitle = "прем'єр-міністр"
 
 [stats]
-Population:= 	"126.3 million"
-Size:=		"377,975 sq km"
-Ethnicity:= 	"98.1% Japanese 0.5% Chinese 0.4% Korean"
-Religion:= 	"Shintoism(70.4%) Christianity (1.5%)
-Exports:= 	"Cars, Iron, Steel, Semiconductors".
-World Leader:=	"Robotics production"
-Member of:=	"United Nations, OECD, WTO, G7"
-National obsessions:=	"Video Games, Animation"
+Населення:= "126,3 мільйона"
+Розмір:= "377,975 кв. км"
+Етнічна приналежність:= "98,1% японців, 0,5% китайців, 0,4% корейців"
+Релігія:= " Синтоїзм(70,4%) Християнство (1,5%)
+Експорт:= "автомобілі, залізо, сталь, напівпровідники".
+Світовий лідер:= "виробництво робототехніки"
+Член:= "організація Об'єднаних Націй, ОЕСР, СОТ, G7"
+Національні захоплення:= "відеоігри, анімація"
 
 
 

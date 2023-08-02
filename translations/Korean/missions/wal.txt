@@ -1,17 +1,17 @@
 [config]
 name  = wal
-guiname = "Wales"
-description = "Wales is a country that is part of the United Kingdom. It is bordered by England to the east, the Irish Sea to the north and west, and the Bristol Channel to the south. It had a population in 2011 of 3,063,456 and has a total area of 20,779 km2 (8,023 sq mi). Wales has over 1,680 miles (2,700 km) of coastline and is largely mountainous with its higher peaks in the north and central areas, including Snowdon (Yr Wyddfa), its highest summit. The country lies within the north temperate zone and has a changeable, maritime climate. The capital and largest city is Cardiff."
+guiname = "웨일스"
+description = "웨일스는 영국에 속하는 나라입니다. 동쪽으로는 영국,북쪽과 서쪽으로는 아일랜드 해,남쪽으로는 브리스톨 해협과 접한다. 2011 년 인구는 3,063,456 명이며 총 면적은 20,779 평방 킬로미터(8,023 평방 마일)이다. 웨일스는 2,700 킬로미터 이상의 해안선을 가지고 있으며,가장 높은 정상인 스노우돈(예르 와이드파)을 포함한 북부와 중앙 지역의 높은 봉우리로 대부분 산악 지대입니다. 이 나라 는 북부 온대 지역 에 속하며,변화 하는 해양 기후 를 가지고 있다. 수도이자 가장 큰 도시는 카디프입니다."
 
-jobtitle = "Monarch"
+jobtitle = "군주"
 
 [stats]
-Population: = "3,153,000 million (2019 est)"
-Area: = "20,779 km2 (8,023 sq mi)	"
-Currency: = "Pound sterling (GBP; £)"
-GVA: = "£75 billion"
-GVA per capita: = "£23,900"
-Largest Industry: = "Sheeeep"
-Capital and largest city: = "Cardiff"
-Driver side: = "left"
-Phone prefix: = "+44"
+인구:="3,153,000 백만(2019 동부 표준시)"
+지역:="20,779 평방 킬로미터(8,023 평방 마일)"
+Currency:="파운드(GBP;£)"
+2018 년 10 월 15 일에 확인함.
+2018 년 11 월 19 일에 확인함.
+가장 큰 산업:="쉽"
+자본과 가장 큰 도시:="카디프"
+드라이버 측:="왼쪽"
+전화 접두사:="+44"

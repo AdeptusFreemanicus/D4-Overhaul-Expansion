@@ -1,18 +1,18 @@
 [config]
 name  = pol
-guiname = "Republic of Poland"
-description = "Poland, officially the Republic of Poland, is a country located in Central Europe. It is divided into 16 administrative provinces, covering an area of 312,696 square kilometres (120,733 sq mi), and has a largely temperate seasonal climate. With a population of nearly 38.5 million people, Poland is the fifth most populous member state of the European Union. Poland's capital and largest metropolis is Warsaw. Other major cities include Kraków, Łódź, Wrocław, Poznań, Gdańsk, and Szczecin."
+guiname = "Республіка Польща"
+description = "Польща, офіційно Республіка Польща, - це країна, розташована в Центральній Європі. Він розділений на 16 адміністративних провінцій площею 312 696 квадратних кілометрів (120 733 кв.милі) і має переважно помірний сезонний Клімат. З населенням майже в 38,5 мільйона чоловік Польща є п'ятою за чисельністю населення державою - членом Європейського Союзу. Столицею і найбільшим мегаполісом Польщі є Варшава. Інші великі міста включають Краків, Лодзь, Вроцлав, Познань, Гданськ та Щецин."
 
-jobtitle = "President"
+jobtitle = "Президент"
 
 [stats]
-National Anthem: = "Poland Is Not Yet Lost"
-Population: = "38.5 million people (2019)"
-Area: = "312,696 km2 (120,733 sq mi)"
-Currency: = "Złoty (PLN)"
-GDP: = "$607 billion (Zł2,259,500,538,937.90 PLN)"
-GDP per capita: = "$15,988 (Zł59,513.26 PLN)"
-Democracy Index: = "6.62/10 (57th)"
-Biggest Industry: = "Agriculture"
-Capital And Largest City: = "Warsaw"
-Driving side: =	"right"
+Національний гімн: = "Польща ще не втрачена"
+Населення: = "38,5 мільйона людей (2019)"
+Площа: = "312,696 км2 (120,733 кв. милі)"
+Валюта: = "злотий (PLN)"
+ВВП: = " 607 мільярдів доларів (2 259 500 538 937,90 злотих)"
+ВВП на душу населення: = " 15 988 доларів США (59 513,26 злотих)"
+Індекс демократії: = "6,62/10 (57-е місце)"
+Найбільша ГАЛУЗЬ: = "СІЛЬСЬКЕ ГОСПОДАРСТВО"
+Столиця і найбільше місто: = "Варшава"
+Сторона руху: = "права"

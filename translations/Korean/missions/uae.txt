@@ -1,19 +1,19 @@
 [config]
 name  = uae
-guiname = "United Arab Emirates"
-description = "The United Arab Emirates, or simply the Emirates, is a country in Western Asia. It is located at the eastern end of the Arabian Peninsula, and shares borders with Oman and Saudi Arabia, while having maritime borders in the Persian Gulf with Qatar and Iran. Abu Dhabi is the nation's capital, while Dubai, the most populous city, is an international hub."
+guiname = "아랍 에미리트"
+description = "아랍 에미리트,또는 단순히 에미레이트,서아시아에 있는 나라입니다. 아라비아 반도의 동쪽 끝에 위치하고 있으며 오만과 사우디아라비아와 국경을 접하고 있으며 페르시아 만에서 카타르와 이란과 해상 국경을 접하고 있습니다. 아부 다비는 국가의 수도,두바이 동안,가장 인구가 많은 도시,국제 허브입니다."
 
-jobtitle = "President"
+jobtitle = "대통령"
 
 [stats]
-National Anthem: = "Long Live My Country"
-Population: = "9,282,410 people (2020 est)"
-Area: = "83,600 km2 (32,300 sq mi)"
-Currency: = "UAE dirham (AED)"
-GDP: = "$763.182 billion"
-GDP per capita: = "$59,844"
-Democracy Index: = "2.90/10 (134th)"
-Biggest Industry: = "Tourism/Oil Industry"
-Capital and Largest City: = "Abu Dhabi"
-Driving side: =	"right"
-Calling code: = "+971"
+국가:="긴 내 나라 라이브"
+인구:="9,282,410 명(2020 동부 표준시)"
+지역:="83,600 평방 킬로미터(32,300 평방 마일)"
+통화:="아랍 에미리트 디르함(에이드)"
+국내 총생산:="$763.182 억"
+1 인당 국내 총생산:="$59,844"
+민주주의 지수:="2.90/10(134 위)"
+가장 큰 산업:="관광/석유 산업"
+자본과 가장 큰 도시:="아부 다비"
+운전 측면:="오른쪽"
+전화번호:="+971"

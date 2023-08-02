@@ -1,19 +1,19 @@
 [config]
 name  = lux
-guiname = "Grand Duchy of Luxembourg"
-description = "Luxembourg, officially the Grand Duchy of Luxembourg, is a landlocked country in Western Europe. It is bordered by Belgium to the west and north, Germany to the east, and France to the south. Its capital, Luxembourg City, is one of the four official capitals of the European Union (together with Brussels, Frankfurt, and Strasbourg) and the seat of the Court of Justice of the European Union, the highest judicial authority in the EU. Its culture, people, and languages are highly intertwined with its neighbours, making it a mixture of French and German cultures. It has three official languages: French, German, and the national language of Luxembourgish."
+guiname = "Велике герцогство Люксембург"
+description = "Люксембург, офіційно Велике герцогство Люксембург, є країною Західної Європи, яка не має виходу до моря. Межує з Бельгією на заході та півночі, Німеччиною на Сході та Францією на півдні. Його столиця, місто Люксембург, є однією з чотирьох офіційних столиць Європейського Союзу (разом з Брюсселем, Франкфуртом і Страсбургом) і резиденцією Суду Європейського Союзу, вищого судового органу в ЄС. Його культура, люди та мови тісно переплітаються з сусідніми, що робить його сумішшю французької та німецької культур. У країні три офіційні мови: французька, німецька та національна мова Люксембургу."
 
-jobtitle = "Grand Duke"
+jobtitle = "Великий герцог"
 
 [stats]
-Motto: = "We want to remain what we are"
-National Anthem: = "Our Homeland"
-Population: = "626 Hundred Thousand People (2020)"
-Area: = "2,586.4 km2 (998.6 sq mi)"
-Currency: = "Euro (€) (EUR)"
-GDP: = "$69.453 billion"
-GDP per capita: = "$113,196"
-Democracy Index: = "8.68/10 (13th)"
-Biggest Industry: = "Banking"
-Capital And Largest City: = "Luxembourg City"
-Driving side: =	"right"
+Девіз: = "Ми хочемо залишатися тими, хто ми є"
+Національний гімн: = "Наша Батьківщина"
+Населення: = "626 сотень тисяч людей (2020)"
+Площа: = "2586,4 км2 (998,6 кв. милі)"
+Валюта: = "Євро (€) (EUR)"
+ВВП: = "69,453 мільярда доларів"
+ВВП на душу населення: = "113 196 доларів"
+Індекс демократії: = "8,68/10 (13-е місце)"
+Найбільша галузь: = "Банківська справа"
+Столиця і найбільше місто: = "Люксембург Сіті"
+Сторона руху: = "права"

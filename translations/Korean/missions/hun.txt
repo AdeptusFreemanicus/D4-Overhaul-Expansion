@@ -1,18 +1,18 @@
 [config]
 name  = hun
-guiname = "Hungary"
-description = "Hungary is a country in Central Europe. Spanning 93,030 square kilometres (35,920 sq mi) in the Carpathian Basin, it borders Slovakia to the north, Ukraine to the northeast, Romania to the east and southeast, Serbia to the south, Croatia and Slovenia to the southwest, and Austria to the west. With about 10 million inhabitants, Hungary is a medium-sized member state of the European Union. The official language is Hungarian, which is the most widely spoken Uralic language in the world, and among the few non-Indo-European languages to be widely spoken in Europe. Hungary's capital and largest city is Budapest; other major urban areas include Debrecen, Szeged, Miskolc, Pécs, and Győr."
+guiname = "헝가리"
+description = "헝가리는 중앙 유럽에 있는 나라입니다. 카르 파 티아 분지에서 93,030 평방 킬로미터(35,920 평방 마일)에 걸쳐 있으며 북쪽으로는 슬로바키아,북동쪽으로는 우크라이나,동쪽과 남동쪽으로는 루마니아,남쪽으로는 세르비아,남서쪽으로는 크로아티아 및 슬로베니아,서쪽으로는 오스트리아와 접해 있습니다. 약 1 천만 명의 주민이 거주하는 헝가리는 유럽 연합의 중소 규모의 회원국입니다. 공식 언어는 헝가리어이며,세계에서 가장 널리 사용되는 우랄어이며,유럽에서 널리 사용되는 몇 안 되는 인도유럽어 이외의 언어 중 하나입니다. 헝가리의 수도이자 가장 큰 도시는 부다페스트이며,다른 주요 도시 지역에는 데브레첸,세게드,미스코츠,픽스,글로리가 있다."
 
-jobtitle = "President"
+jobtitle = "대통령"
 
 [stats]
-National Anthem: = "Hymn"
-Population: = "10 million (2020)"
-Area: = "93,030 km2 (35,920 sq mi)"
-Currency: = "Forint (HUF)"
-GDP: = "$149.939 billion (Ft44,158,764,279,374.45 HUF)"
-GDP per capita: = "$15,373 (Ft4,544,164.16 HUF)"
-Democracy Index: = "6.63/10 (55th)"
-Biggest Industry: = "Electronics"
-Capital And Largest City: = "Budapest"
-Driving side: =	"right"
+국가:="찬송가"
+인구:="1,000 만(2020)"
+지역:="93,030 평방 킬로미터(35,920 평방 마일)"
+통화:="포린트(후프)"
+2015 년 11 월 15 일(금)
+1 인당 국내 총생산:="$15,373(제 4,544,164.16)"
+민주주의 지수:="6.63/10(55 위)"
+가장 큰 산업:="전자"
+자본과 가장 큰 도시:="부다페스트"
+운전 측면:="오른쪽"

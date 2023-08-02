@@ -1,19 +1,19 @@
 [config]
 name  = lux
-guiname = "Grand Duchy of Luxembourg"
-description = "Luxembourg, officially the Grand Duchy of Luxembourg, is a landlocked country in Western Europe. It is bordered by Belgium to the west and north, Germany to the east, and France to the south. Its capital, Luxembourg City, is one of the four official capitals of the European Union (together with Brussels, Frankfurt, and Strasbourg) and the seat of the Court of Justice of the European Union, the highest judicial authority in the EU. Its culture, people, and languages are highly intertwined with its neighbours, making it a mixture of French and German cultures. It has three official languages: French, German, and the national language of Luxembourgish."
+guiname = "Wielkie Księstwo Luksemburga"
+description = "Luksemburg, oficjalnie Wielkie Księstwo Luksemburga, jest krajem śródlądowym w Europie Zachodniej. Graniczy z Belgią na Zachodzie i północy, Niemcami na wschodzie i Francją na południu. Jej stolica, miasto Luksemburg, jest jedną z czterech oficjalnych stolic Unii Europejskiej (wraz z Brukselą, Frankfurtem i Strasburgiem) oraz siedzibą Trybunału Sprawiedliwości Unii Europejskiej, najwyższego organu sądowego w UE. Jego kultura, ludzie i języki są silnie splecione z sąsiadami, co czyni go mieszanką kultury francuskiej i niemieckiej. Ma trzy języki urzędowe: francuski, niemiecki i język narodowy Luksemburski."
 
-jobtitle = "Grand Duke"
+jobtitle = "Wielki Książę"
 
 [stats]
-Motto: = "We want to remain what we are"
-National Anthem: = "Our Homeland"
-Population: = "626 Hundred Thousand People (2020)"
-Area: = "2,586.4 km2 (998.6 sq mi)"
-Currency: = "Euro (€) (EUR)"
-GDP: = "$69.453 billion"
-GDP per capita: = "$113,196"
-Democracy Index: = "8.68/10 (13th)"
-Biggest Industry: = "Banking"
-Capital And Largest City: = "Luxembourg City"
-Driving side: =	"right"
+Motto: = "chcemy pozostać tym, kim jesteśmy"
+Hymn Narodowy: = "Nasza Ojczyzna"
+Populacja: = " 626 Sto Tysięcy Osób (2020)"
+Powierzchnia: = " 2586,4 km2 (998,6 2)"
+Waluta: = " Euro ( € ) (EUR)"
+PKB: = "69,453 mld USD"
+PKB per capita: = "$113,196"
+Indeks demokracji: = " 8.68 10 (13)"
+Największa Branża: = "Bankowość"
+Stolica I Największe Miasto: = "Miasto Luksemburg"
+Strona jazdy: = "prawo"

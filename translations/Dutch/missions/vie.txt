@@ -1,19 +1,19 @@
 [config]
 name  = vie
-guiname = "The Socialist Republic of Vietnam"
-description = "Vietnam, officially the Socialist Republic of Vietnam, is a country in Southeast Asia. Located at the eastern edge of mainland Southeast Asia, it covers 311,699 square kilometres. With a population of over 96 million, it is the world's fifteenth-most populous country. Vietnam borders China to the north, Laos and Cambodia to the west, and shares maritime borders with Thailand through the Gulf of Thailand, and the Philippines, Indonesia, and Malaysia through the South China Sea. Its capital is Hanoi and its largest city is Ho Chi Minh City."
+guiname = "De Socialistische Republiek Vietnam"
+description = "Vietnam, officieel de Socialistische Republiek Vietnam, is een land in Zuidoost-Azië. Het ligt aan de oostelijke rand van het vasteland van Zuidoost-Azië en beslaat 311.699 vierkante kilometer. Met een bevolking van meer dan 96 miljoen is het het vijftiende meest bevolkte land ter wereld. Vietnam grenst aan China in het noorden, Laos en Cambodja in het westen, en deelt zeegrenzen met Thailand via de Golf van Thailand, en de Filippijnen, Indonesië en Maleisië via de Zuid-Chinese Zee. De hoofdstad is Hanoi en de grootste stad is Ho Chi Minh City."
 
-jobtitle = "General Secretary"
+jobtitle = "Secretaris"
 
 [stats]
-National Anthem: = "Independence – Liberty – Happiness"
-Population: = "96,208,984 million (2019 est)"
-Area: = "331,699 km2 (128,070 sq mi)"
-Currency: = "đồng (₫) (VND)"
-GDP: = "$1.047 trillion"
-GDP per capita: = "$10,755"
-Democracy index: = "~2.94/10 (131st)"
-Largest Industry: = "Retail Industry"
-Capital and largest city: = "Hanoi"
-Driver side: = "right"
-Phone prefix: = "+84"
+Volkslied: "Independence-Liberty-Happiness"
+Bevolking: = "96,208,984 miljoen (2019 est)"
+Oppervlakte: = "331.699 km2 (128.070 sq mi)"
+Valuta: = "đồng (₫) (VND)"
+BBP: = "$1.047 biljoen"
+BBP per hoofd van de bevolking: = "$10.755"
+Democratie index: = " ~2.94/10 (131st)"
+Grootste Industrie: = "Retail Industrie"
+Hoofdstad en grootste stad: = "Hanoi"
+Bestuurderszijde: = "rechts"
+Telefoonprefix: = "+84"

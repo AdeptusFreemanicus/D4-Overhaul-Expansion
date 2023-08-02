@@ -1,18 +1,18 @@
 [config]
 name  = sco
-guiname = "Scotland"
-description = "Scotland is a country that is part of the United Kingdom. Covering the northern third of the island of Great Britain, mainland Scotland has a 96-mile (154-kilometre) border with England to the southeast and is otherwise surrounded by the Atlantic Ocean to the north and west, the North Sea to the northeast and the Irish Sea to the south. The country also contains more than 790 islands, principally in the archipelagos of the Hebrides and the Northern Isles. Most of the population, including the capital Edinburgh, is concentrated in the Central Belt – the plain between the Scottish Highlands and the Southern Uplands – in the Scottish Lowlands."
+guiname = "Scozia"
+description = "La Scozia è un paese che fa parte del Regno Unito. Coprendo il terzo settentrionale dell'isola della Gran Bretagna, la Scozia continentale ha un confine di 96 miglia (154 chilometri) con l'Inghilterra a sud-est ed è altrimenti circondata dall'Oceano Atlantico a nord e ad ovest, dal Mare del Nord a nord-est e dal Mare d'Irlanda a sud. Il paese contiene anche più di 790 isole, principalmente negli arcipelaghi delle Ebridi e delle Isole settentrionali. La maggior parte della popolazione, compresa la capitale Edimburgo, è concentrata nella Cintura centrale - la pianura tra le Highlands scozzesi e le Southern Uplands – nelle Lowlands scozzesi."
 
-jobtitle = "Monarch"
+jobtitle = "Monarca"
 
 [stats]
-National Anthem: = "In my defence God me defend"
-Population: = "5,463,300 people (2019 est)"
-Area: = "77,933 km2 (30,090 sq mi)"
-Currency: = "Pound sterling (GBP; £)"
-GVA: = "£166 billion"
-GVA per capita: = "£30,560"
-Biggest Industry: = "Oil & Gas Exports"
-Capital And Largest City: = "Edinburgh"
-Driving side: =	"left"
-Calling code: = "+44"
+Inno nazionale: = "In my defense God me defend"
+Popolazione: = "5.463.300 persone (2019 est)"
+Area: = " 77,933 km2 (30,090 sq mi)"
+Valuta: = "Sterlina inglese (GBP; £)"
+GVA: = "£166 miliardi"
+GVA pro capite: = "£30,560"
+Più grande industria: = "Esportazioni di petrolio e gas"
+Capitale e città più grande: = "Edimburgo"
+Lato guida: = "sinistra"
+Codice di chiamata: = "+44"

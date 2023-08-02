@@ -1,19 +1,19 @@
 [config]
 name  = vie
-guiname = "The Socialist Republic of Vietnam"
-description = "Vietnam, officially the Socialist Republic of Vietnam, is a country in Southeast Asia. Located at the eastern edge of mainland Southeast Asia, it covers 311,699 square kilometres. With a population of over 96 million, it is the world's fifteenth-most populous country. Vietnam borders China to the north, Laos and Cambodia to the west, and shares maritime borders with Thailand through the Gulf of Thailand, and the Philippines, Indonesia, and Malaysia through the South China Sea. Its capital is Hanoi and its largest city is Ho Chi Minh City."
+guiname = "Die Sozialistische Republik Vietnam"
+description = "Vietnam, offiziell die Sozialistische Republik Vietnam, ist ein Land in Südostasien. Es liegt am östlichen Rand des südostasiatischen Festlandes und umfasst 311.699 Quadratkilometer. Mit einer Bevölkerung von über 96 Millionen ist es das fünfzehntbevölkerungsreichste Land der Welt. Vietnam grenzt im Norden an China, im Westen an Laos und Kambodscha und teilt die Seegrenzen mit Thailand durch den Golf von Thailand und den Philippinen, Indonesien und Malaysia durch das Südchinesische Meer. Die Hauptstadt ist Hanoi und die größte Stadt ist Ho-Chi-Minh-Stadt."
 
-jobtitle = "General Secretary"
+jobtitle = "Generalsekretär"
 
 [stats]
-National Anthem: = "Independence – Liberty – Happiness"
-Population: = "96,208,984 million (2019 est)"
-Area: = "331,699 km2 (128,070 sq mi)"
-Currency: = "đồng (₫) (VND)"
-GDP: = "$1.047 trillion"
-GDP per capita: = "$10,755"
-Democracy index: = "~2.94/10 (131st)"
-Largest Industry: = "Retail Industry"
-Capital and largest city: = "Hanoi"
-Driver side: = "right"
-Phone prefix: = "+84"
+Nationalhymne: = "Unabhängigkeit - Freiheit - Glück"
+Bevölkerung: = "96,208,984 Millionen (2019 est)"
+Fläche: = "331.699 km2 (128.070 Quadratmeilen)"
+Währung: = "đồng (₫) (VND)"
+BIP: = "1,047 Billionen US-Dollar"
+BIP pro Kopf: = "$ 10,755"
+Demokratieindex: = "~ 2,94 / 10 (131.)"
+Größte Branche: = "Einzelhandel"
+Hauptstadt und größte Stadt: = "Hanoi"
+Fahrerseite: = "rechts"
+Telefonvorwahl: = "+84"

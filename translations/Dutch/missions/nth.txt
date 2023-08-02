@@ -1,23 +1,22 @@
 [config]
 name  = nth
 guiname = "Netherlands"
-description = "The Netherlands, informally Holland, is a country located in Western Europe with territories in the Caribbean. It is the largest of four constituent countries of the Kingdom of the Netherlands. In Europe, the Netherlands consists of twelve provinces, bordering Germany to the east, Belgium to the south, and the North Sea to the northwest, with maritime borders in the North Sea with those countries and the United Kingdom. In the Caribbean, it consists of three special municipalities: the islands of Bonaire, Sint Eustatius and Saba."
+description = "Nederland, informeel Holland, is een land in West-Europa met gebieden in het Caribisch gebied. Het is het grootste van de vier landen die deel uitmaken van het Koninkrijk der Nederlanden. In Europa bestaat Nederland uit twaalf provincies, grenzend aan Duitsland in het oosten, België in het zuiden en de Noordzee in het noordwesten, met zeegrenzen in de Noordzee met die landen en het Verenigd Koninkrijk. In het Caribisch gebied bestaat het uit drie speciale gemeenten: de eilanden Bonaire, Sint Eustatius en Saba."
 
-jobtitle = "Monarch"
+jobtitle = "Vorst"
 
 [stats]
-National Anthem: = "I will maintain"
-Population: = "17.4 million (2020)"	
-Area: = "41,865 km2 (16,164 sq mi)"
-Currency: = "Euro (EUR)"
-GDP: = "$1.012 (~EUR844452000000.00 EUR)"
-GDP per capita: = "$58,003 (~EUR48980.75 EUR)"
-Democracy Index: = "~9.66/10 (9st)"
-Biggest Industry: = "Agriculture And Food Industry"
-Capital And Largest City: = "Amsterdam"
-Driving side: =	"Right"
-Calling code: = "+31"
-
+Volkslied: "I will maintain"
+Bevolking: = "17,4 miljoen (2020)"	
+Oppervlakte: = "41.865 km2 (16.164 sq mi)"
+Valuta: = "Euro (EUR)"
+BBP: = " $1.012 (~EUR844452000000.00 EUR)"
+BBP per hoofd van de bevolking: = " $58.003 (~EUR48980, 75 EUR)"
+Democratie Index: = " ~9.66/10 (9st)"
+Grootste Industrie: = "Landbouw En Voedselindustrie"
+Hoofdstad En Grootste Stad: = "Amsterdam"
+Rijzijde: = "rechts"
+Telefooncode: = "+31"
 
 
 

@@ -1,19 +1,19 @@
 [config]
 name  = russia
-guiname = "The Russian Federation"
-description = "Russia, or the Russian Federation, is a transcontinental country located in Eastern Europe and Northern Asia. It extends from the Baltic Sea in the west to the Pacific Ocean in the east, and from the Arctic Ocean in the north to the Black Sea and the Caspian Sea in the south. Russia covers over 17,125,200 square kilometres (6,612,100 sq mi), spanning more than one-eighth of the Earth's inhabited land area, stretching eleven time zones, and bordering 16 sovereign nations. Moscow is the country's capital and largest city, other major cities include Saint Petersburg, Novosibirsk, Yekaterinburg, Kazan, Nizhny Novgorod, Chelyabinsk and Samara."
+guiname = "Російська Федерація"
+description = "Росія, або Російська Федерація, - трансконтинентальна країна, розташована у Східній Європі та Північній Азії. Вона простягається від Балтійського моря на заході до Тихого океану на Сході і від Північного Льодовитого океану на півночі до Чорного і Каспійського морів на півдні. Росія займає площу понад 17 125 200 квадратних кілометрів (6 612 100 квадратних миль), охоплюючи більше однієї восьмої населеної території Землі, простягаючись на одинадцять часових поясів і межуючи з 16 суверенними державами. Москва-столиця і найбільше місто країни, інші великі міста включають Санкт-Петербург, Новосибірськ, Єкатеринбург, Казань, Нижній Новгород, Челябінськ і Самару."
 
-jobtitle = "President"
+jobtitle = "Президент"
 
 [stats]
-National Anthem: = "State Anthem of the Russian Federation"
-Population: = "146.7 million (2020)"
-Area: = "17,098,246 km2 (6,601,670 sq mi)"
-Currency: = "Russian ruble (₽) (RUB)"
-GDP: = "$4.135 trillion (3.079 quadrillion Russian Rubles)"
-GDP per capita: = "$28,184 (~₽2096728.95 Russian Rubles)"
-Democracy Index: = "3.31/10 (134th)"
-Biggest Industry: = "Services Sector"
-Capital (and largest city): = "Moscow"
-Driving side: =	"right"
-Calling code: = "+7"
+Державний гімн: = "Державний гімн Російської Федерації"
+Населення: = "146,7 мільйона людей (2020)"
+Площа: = "17 098 246 км2 (6 601 670 кв. миль)"
+Валюта: = "Російський рубль (₽) (RUB)"
+ВВП: = " 4,135 трлн доларів США (3,079 квадрильйона Російських рублів)"
+ВВП на душу населення: = " 28 184 долари США (~2096728,95 Російських рублів)"
+Індекс демократії: = "3,31/10 (134-е місце)"
+Найбільша галузь: = "Сектор послуг"
+Столиця (і найбільше місто): = "Москва"
+Сторона руху: = "права"
+Телефонний код: = "+7"

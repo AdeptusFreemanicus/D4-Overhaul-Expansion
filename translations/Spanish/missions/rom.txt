@@ -2,7 +2,7 @@
 name  = rom
 guiname = "Rumania"
 description = "Rumania es un país en la confluencia de Europa central, oriental y sudoriental. Limita con Bulgaria al sur, Ucrania al norte, Hungría al oeste, Serbia al suroeste, Moldavia al este y el Mar Negro al sureste. Tiene un clima predominantemente templado-continental y un área de 238,397 km2 (92,046 millas cuadradas), con una población de aproximadamente 19 millones. Rumania es el duodécimo país más grande de Europa y el sexto estado miembro más poblado de la Unión Europea. Su capital y ciudad más grande es Bucarest; otras áreas urbanas importantes incluyen Cluj-Napoca, Timișoara, Iași, Constanța, Craiova, Brașov y Galați."
-jobtitle = "Presidente"
+jobtitle = "Presidentee"
 
 [stats]
 Himno nacional: = "Despierta, rumano"

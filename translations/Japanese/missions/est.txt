@@ -1,19 +1,19 @@
 [config]
 name  = est
-guiname = "Republic of Estonia"
-description = "Estonia, officially the Republic of Estonia, is a country in northern Europe. It is bordered to the north by the Gulf of Finland across from Finland, to the west by the Baltic Sea across from Sweden, to the south by Latvia, and to the east by Lake Peipus and Russia. The territory of Estonia consists of the mainland, the larger islands of Saaremaa and Hiiumaa, and over 2,200 other islands and islets on the eastern coast of the Baltic Sea, covering a total area of 47 549 km2. The size of the territory without Lake Peipsi is 43,432.31  km2. The capital city Tallinn and Tartu are the two largest urban areas of the country. The Estonian language is the autochthonous and the official language of Estonia; it is the first language of the majority of its people, as well as the world's second most spoken Finnic language."
+guiname = "エストニア共和国"
+description = "エストニア、正式にはエストニア共和国は、北ヨーロッパの国です。 北はフィンランドの向かいにあるフィンランド湾、西はスウェーデンの向かいにあるバルト海、南はラトビア、東はペイプス湖とロシアと国境を接しています。 エストニアの領土は、本土、SaaremaaとHiiumaaのより大きな島々、およびバルト海の東海岸にある2,200以上の他の島と小島で構成され、総面積は47,549km²です。 ペイプシ湖のない領土の大きさは43,432.31km²です。 首都タリンとタルトゥは、国の二つの最大の都市部です。 エストニア語は母国語であり、エストニアの公用語であり、大多数の人々の第一言語であり、世界で2番目に話されているフィンランド語でもあります。"
 
-jobtitle = "President"
+jobtitle = "プレジデント"
 
 [stats]
-National Anthem: = "My Fatherland, My Happiness and Joy"
-Population: = "1.328 million (2018)"
-Area: = "47,549 km2"
-Currency: = "Euro (€) (EUR)"
-GDP: = "$49 billion"
-GDP per capita: = "$44,853"
-Democracy Index: = "~7.74/10 (27th)"
-Biggest Industry: = "Industry Sector/Energy Sector"
-Capital (and largest city): = "Tallinn"
-Driving side: =	"right"
-Calling code: = "+372"
+国歌：="私の祖国、私の幸せと喜び"
+人口:="1.328百万(2018)"
+面積:="47,549km2"
+通貨:="ユーロ(€)(EUR)"
+GDP：="490億ドル"
+一人当たりGDP:="$44,853"
+7.74/10(第27回)
+最大の産業：="産業部門/エネルギー部門"
+首都（および最大の都市）：="タリン"
+運転側：="右"
+呼び出しコード：="+372"

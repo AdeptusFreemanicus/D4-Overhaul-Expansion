@@ -1,19 +1,19 @@
 [config]
 name  = dprk
-guiname = "Democratic People's Republic of Korea"
-description = "North Korea, officially the Democratic People's Republic of Korea, Chosŏn Minjujuŭi Inmin Konghwaguk, is a country in East Asia constituting the northern part of the Korean Peninsula. The country is bordered to the north by China and by Russia along the Amnok (known as the Yalu in Chinese) and Tumen rivers, and to the south by South Korea, with the heavily fortified Korean Demilitarized Zone (DMZ) separating the two. North Korea, like its southern counterpart, claims to be the legitimate government of the entire peninsula and adjacent islands. Pyongyang is the country's capital and largest city."
+guiname = "Корейська Народно-Демократична Республіка"
+description = "Північна Корея, офіційно Корейська Народно-Демократична Республіка, Чосон Мінджуджуї Інмін Конгвагук-держава в Східній Азії, що становить північну частину Корейського півострова. Країна межує на півночі з Китаєм і Росією вздовж річок Амнок (відома по-китайськи як Ялу) і Тюмень, а на півдні - з Південною Кореєю, розділяючи їх сильно укріпленої корейської демілітаризованої зоною (ДМЗ). Північна Корея, як і її Південний колега, претендує на те, щоб бути законним урядом усього півострова і прилеглих островів. Пхеньян-столиця і найбільше місто країни."
 
-jobtitle = "Supreme Leader"
+jobtitle = "Верховний лідер"
 
 [stats]
-National Anthem: = "The Patriotic Song"
-Population: = "25.5 million (2018)"
-Area: = "120,540 km2 (46,540 sq mi)"
-Currency: = "Korean People's won (₩)"
-GDP: = "$30 billion"
-GDP per capita: = "$1,300"
-Democracy Index: = "~1.06/10 (167th Last)"
-Biggest Industry: = "Agriculture/Mining"
-Capital (and largest city): = "Pyongyang"
-Driving side: =	"right"
-Calling code: = "+850"
+Національний гімн: = "Патріотична пісня"
+Населення: = "25,5 мільйонів (2018)"
+Площа: = "120 540 км2 (46 540 кв. миль)"
+Валюта: = "Корейська Народна вона (₩)"
+ВВП: = "30 мільярдів доларів"
+ВВП на душу населення: = "1300 доларів"
+Індекс демократії: = "~1.06/10 (167-е останнє)"
+Найбільша ГАЛУЗЬ: = "СІЛЬСЬКЕ ГОСПОДАРСТВО/гірничодобувна промисловість"
+Столиця (і найбільше місто): = "Пхеньян"
+Сторона руху: = "права"
+Телефонний код: = "+850"

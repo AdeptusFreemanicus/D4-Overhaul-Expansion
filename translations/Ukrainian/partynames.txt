@@ -1,75 +1,75 @@
 [names]
-De Justitie Coalitie
-De familie waarden partij
-de Labour League
-De Justice League
-Het Groene Collectief
-De heerschappij
-The Peoples Choice Party
-De liberale rechtvaardigheidsvleugel
-De beweging voor gerechtigheid
-De Vrijheidsbrigade
-De Heilige Justitie Alliantie
-De futuristische partij
-De populaire democraten
-De populaire republikeinen
-De Republikeinse Partij
-De Democratische Partij
-De nieuwe technocraten
-De Nationale Technocratenpartij
-De Gelijkheidspartij
-De toekomstige democraten
-Het Wetenschapsfeest
-De industriële partij
-De Liga voor Burgerrechten
-Het moderne familiefeest
-The Natural Law Party
-De radicale democraten
-De radicale loyalisten
-De partij voor verandering
-De beweging voor ware vrijheid
-De egalitaire democraten
-De Egalitaire Republikeinen
-De Neokolonialistische Liga
-De Sociale Rechtvaardigheidspartij
-De constitutionele partij
-De anti-corruptiebeweging
-De Sociaal-Revolutionaire Partij
-De Libertarian Freedom League
-De patriottische alliantie
-De verdedigers van het geloof
-De Communistische Alliantie
-De Progressieve Veranderingspartij
-De beweging voor radicale verandering
-De no-go back-party
-De Verenigde Diversiteitsalliantie
-De Stop The Patriarchy Party
-De Eeuwige Vrijheidspartij
-De eenheidspacifisten
-De democratische gematigden
-De Verenigde Gematigden
-De nieuwe gematigden
-De Verenigde Republikeinen
-De Federatie van Socialisten
-De revolutionaire kapitalisten
-De partij voor eigendomsrechten
-De partij voor de grondrechten
-De progressieve fundamentalisten
-De Eco-Unie
-De Techno-Environmentalists
-De Groene Alliantie
-De Burger Alliantie
-De Absolute Eenheidspartij
-De sociaal-democraten
-de Unionisten
-Het Verenigd Rechts
-Verenigd Links
-Het nieuwe rechts
-Het nieuwe links
-De progressieve fascistische partij
-De Welzijnshervormingspartij
-De Hervormde Maatschappij
-De Radicale Hervormingspartij
+Коаліція за справедливість
+Вечірка сімейних цінностей
+Ліга праці
+Ліга справедливості
+Зелений колектив
+Домініон
+Партія "Народний вибір"
+Крило ліберальної юстиції
+Рух за справедливість
+Бригада свободи
+Альянс Святого правосуддя
+Партія футуристів
+Народні демократи
+Популярні республіканці
+Республіканська партія
+Демократична партія
+Нові технократи
+Національна партія технократів
+Партія рівності
+Майбутні демократи
+Наукова партія
+Промислова партія
+Ліга за громадянські права
+Сучасна сімейна вечірка
+Партія природного права
+Радикальні демократи
+Радикальні лоялісти
+Партія змін
+Рух за справжню свободу
+Егалітарні демократи
+Республіканці-егалітаристи
+Ліга неоколоніалістів
+Партія соціальної справедливості
+Конституційна партія
+Антикорупційний рух
+Партія соціалістів-революціонерів
+Лібертаріанська ліга свободи
+Патріотичний альянс
+Захисники Віри
+Комуністичний альянс
+Партія прогресивних змін
+Рух за радикальні зміни
+Вечірка "шляху назад немає"
+Об'єднаний альянс за різноманітність
+Партія "зупини Патріархат"
+Партія вічної свободи
+Пацифісти"Єдності"
+Демократичні помірковані
+Об'єднані помірні
+Нові помірні
+Об'єднані республіканці
+Федерація Соціалістів
+Революційні капіталісти
+Сторона, яка відстоює права власності
+Партія За основні права
+Прогресивні фундаменталісти
+Екологічний союз
+Техно-захисники навколишнього середовища
+Альянс зелених
+Громадянський альянс
+Партія абсолютної єдності
+Соціал-демократи
+Профспілкові діячі
+Об'єднане право
+Об'єднані ліві
+Нове право
+Нові ліві
+Прогресивна фашистська партія
+Партія реформ соціального забезпечення
+Реформаторське ТОВАРИСТВО
+Партія радикальних реформ
 
 
 

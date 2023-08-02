@@ -1,19 +1,19 @@
 [config]
 name  = per
-guiname = "Republic of Peru"
-description = "Peru, officially the Republic of Peru, is a country in western South America. It is bordered in the north by Ecuador and Colombia, in the east by Brazil, in the southeast by Bolivia, in the south by Chile, and in the south and west by the Pacific Ocean. Peru is a megadiverse country with habitats ranging from the arid plains of the Pacific coastal region in the west to the peaks of the Andes mountains extending from the north to the southeast of the country to the tropical Amazon Basin rainforest in the east with the Amazon river. At 1.28 million km2 (0.5 million mi2), Peru is the 19th largest country in the world, and the third largest in South America."
+guiname = "Республіка Перу"
+description = "Перу, офіційно Республіка Перу, - держава на заході Південної Америки. На півночі він межує з Еквадором і Колумбією, на сході - з Бразилією, на південному сході-з Болівією, на півдні - з Чилі, а на півдні і заході омивається Тихим океаном. Перу - країна з мегавсесвітом, ареали проживання якої простягаються від посушливих рівнин Тихоокеанського узбережжя на заході до вершин гір Анд, що тягнуться з півночі на південний схід країни, до тропічних лісів басейну Амазонки на сході з річкою Амазонкою. Займаючи площу 1,28 млн км2 (0,5 млн миль 2), Перу є 19-ю за величиною країною у світі та третьою за величиною в Південній Америці."
 
-jobtitle = "President"
+jobtitle = "Президент"
 
 [stats]
-Motto: = "Firm and Happy for the Union"
-National Anthem: = "National Anthem of Peru"
-Population: = "32.8 million people (2020)"
-Area: = "1,285,216 km2 (496,225 sq mi)"
-Currency: = "Sol (PEN)"
-GDP: = "$195.761 billion"
-GDP per capita: = "$5,845"
-Democracy Index: = "6.53/10 (57th)"
-Biggest Industry: = "Mining Industry"
-Capital And Largest City: = "Lima"
-Driving side: =	"right"
+Девіз: = "твердий і щасливий за союз"
+Національний гімн: = "національний гімн Перу"
+Населення: = "32,8 мільйона людей (2020)"
+Площа: = " 1,285,216 км2 (496,225 кв. милі)"
+Валюта: = "сіль (ПЕРО)"
+ВВП: = "195,761 мільярда доларів"
+ВВП на душу населення: = "5 845 доларів"
+Індекс демократії: = "6.53/10 (57-е місце)"
+Найбільша галузь: = "гірничодобувна промисловість"
+Столиця і найбільше місто: = "Ліма"
+Сторона руху: = "права"

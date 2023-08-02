@@ -1,8 +1,7 @@
 [config]
 name  = norway
 guiname = "Kingdom of Norway"
-description = "Norway, officially the Kingdom of Norway, is a Nordic country in Northern Europe whose mainland territory comprises the western and northernmost portion of the Scandinavian Peninsula. The remote Arctic island of Jan Mayen as well as the archipelago of Svalbard also form part of Norway. Bouvet Island, located in the Subantarctic, is a dependency of Norway; it also lays claims to the Antarctic territories of Peter I Island and Queen Maud Land.
-Norway has a total area of 385,207 square kilometres (148,729 sq mi) and a population of 5,385,300 as of November 2020. The country shares a long eastern border with Sweden (1,619 km or 1,006 mi long)."
+description = "Norway, officially the Kingdom of Norway, is a Nordic country in Northern Europe whose mainland territory comprises the western and northernmost portion of the Scandinavian Peninsula. The remote Arctic island of Jan Mayen as well as the archipelago of Svalbard also form part of Norway. Bouvet Island, located in the Subantarctic, is a dependency of Norway; it also lays claims to the Antarctic territories of Peter I Island and Queen Maud Land. Norway has a total area of 385,207 square kilometres (148,729 sq mi) and a population of 5,385,300 as of November 2020. The country shares a long eastern border with Sweden (1,619 km or 1,006 mi long)."
 
 jobtitle = "Prime Minister"
 

@@ -1,19 +1,19 @@
 [config]
 name  = chi
-guiname = "Republic of Chile"
-description = "Chile, officially the Republic of Chile, is a country in western South America. It occupies a long, narrow strip of land between the Andes to the east and the Pacific Ocean to the west. Chile covers an area of 756,096 square kilometres (291,930 sq mi) and has a population of 17.5 million as of 2017. The capital and largest city is Santiago and the national language is Spanish."
+guiname = "Republiek Chili"
+description = "Chili, officieel de Republiek Chili, is een land in het westen van Zuid-Amerika. Het beslaat een lange, smalle strook land tussen de Andes in het oosten en de Stille Oceaan in het westen. Chili heeft een oppervlakte van 756.096 vierkante kilometer (291.930 vierkante mijl) en heeft een bevolking van 17,5 miljoen vanaf 2017. De hoofdstad en grootste stad is Santiago en de nationale taal is Spaans."
 
 jobtitle = "President"
 
 [stats]
-Motto: = "By Right or Might"
-National Anthem: = "Himno Nacional de Chile"
-Population: = "17.5 million people (2017)"
-Area: = "756,096.3 km2 (291,930.4 sq mi)"
-Currency: = "Chilean peso (CLP)"
-GDP: = "$245.414 billion"
-GDP per capita: = "$12,612"
-Democracy Index: = "8.28/10 (17th)"
-Biggest Industry: = "Agriculture"
-Capital And Largest City: = "Santiago"
-Driving side: =	"right"
+Motto: = "door recht of macht"
+Nationaal volkslied: = "Himno Nacional de Chile"
+Bevolking: = "17,5 miljoen mensen (2017)"
+Oppervlakte: = "756.096, 3 km2 (291.930, 4 sq mi)"
+Valuta: = " Chileense peso (CLP)"
+BBP: = "$245.414 miljard"
+BBP per hoofd van de bevolking: = "$12,612"
+Democratie Index: = "8.28/10 (17e)"
+Grootste Industrie: = "Landbouw"
+Hoofdstad En Grootste Stad: = "Santiago"
+Rijzijde: = "rechts"

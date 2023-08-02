@@ -1,19 +1,19 @@
 [config]
 name  = vie
-guiname = "The Socialist Republic of Vietnam"
-description = "Vietnam, officially the Socialist Republic of Vietnam, is a country in Southeast Asia. Located at the eastern edge of mainland Southeast Asia, it covers 311,699 square kilometres. With a population of over 96 million, it is the world's fifteenth-most populous country. Vietnam borders China to the north, Laos and Cambodia to the west, and shares maritime borders with Thailand through the Gulf of Thailand, and the Philippines, Indonesia, and Malaysia through the South China Sea. Its capital is Hanoi and its largest city is Ho Chi Minh City."
+guiname = "Socjalistyczna Republika Wietnamu"
+description = "Wietnam, oficjalnie Socjalistyczna Republika Wietnamu, to kraj w Azji Południowo-Wschodniej. Znajduje się na wschodnim krańcu kontynentalnej Azji Południowo-Wschodniej i obejmuje 311 699 kilometrów kwadratowych. Z populacją ponad 96 milionów jest piętnastym najbardziej zaludnionym krajem na świecie. Wietnam graniczy z Chinami na północy, Laosem i Kambodżą na Zachodzie i dzieli granice morskie z Tajlandią przez Zatokę Tajlandzką oraz Filipiny, Indonezję i Malezję przez Morze Południowochińskie. Jego stolicą jest Hanoi, a największym miastem jest Ho Chi Minh City."
 
-jobtitle = "General Secretary"
+jobtitle = "Sekretarz Generalny"
 
 [stats]
-National Anthem: = "Independence – Liberty – Happiness"
-Population: = "96,208,984 million (2019 est)"
-Area: = "331,699 km2 (128,070 sq mi)"
-Currency: = "đồng (₫) (VND)"
-GDP: = "$1.047 trillion"
-GDP per capita: = "$10,755"
-Democracy index: = "~2.94/10 (131st)"
-Largest Industry: = "Retail Industry"
-Capital and largest city: = "Hanoi"
-Driver side: = "right"
-Phone prefix: = "+84"
+Hymn Narodowy: = "Niepodległość-Wolność-Szczęście"
+Populacja: = " 96 208 984 milionów (2019 est)"
+Powierzchnia: = "331 699 km2 (128 070 2)"
+Waluta: = " đngng (đ) (VND)"
+PKB : ="1,047 biliona dolarów"
+PKB per capita: = "$10,755"
+Indeks demokracji: = " ~2.94 / 10 (131st)"
+Największa Branża: = "Przemysł Detaliczny"
+Stolica i największe miasto: = "Hanoi"
+Strona kierowcy: = "prawo"
+Prefiks telefonu: =" + 84"

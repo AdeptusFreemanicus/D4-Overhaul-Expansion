@@ -1,7 +1,7 @@
 [config]
 name  = canada
 guiname = "Canada"
-description = "Canada is een federale parlementaire democratie met een constitutionele monarchie. De premier wordt gekozen. Formeel een kolonie van Groot-Brittannië, werd de nieuwe natie Canada voor het eerst een democratie in 1867. In 1919 wonnen vrouwen de stam, maar tot 1960 toen alle Canadese burgers, stemmen hun etniciteit, en algemeen kiesrecht de wet werden."
+description = "Canada is een federale parlementaire democratie met een constitutionele Vorstie. De premier wordt gekozen. Formeel een kolonie van Groot-Brittannië, werd de nieuwe natie Canada voor het eerst een democratie in 1867. In 1919 wonnen vrouwen de stam, maar tot 1960 toen alle Canadese burgers, stemmen hun etniciteit, en algemeen kiesrecht de wet werden."
 
 jobtitle = "Premier"
 

@@ -1,20 +1,20 @@
 [config]
 name  = bur
-guiname = "Brunei Darussalamt"
-description = "Brunei, formally Brunei Darussalamt, is a country located on the north coast of the island of Borneo in Southeast Asia. Apart from its South China Sea coast, it is completely surrounded by the Malaysian state of Sarawak. It is separated into two parts by the Sarawak district of Limbang. Brunei is the only sovereign state entirely on Borneo; the remainder of the island is divided between Malaysia and Indonesia. As of 2020, its population was 460,345 of whom about 100,000 live in the capital and largest city, Bandar Seri Begawan. The government is an absolute monarchy ruled by its Sultan, entitled the Yang di-Pertuan, and implements a combination of English common law and sharia law, as well as general Islamic practices."
+guiname = "브루나이 다루사람트"
+description = "브루나이는 동남아시아의 보르네오 섬 북쪽 해안에 위치한 나라이다. 남중국해 연안을 제외하고 말레이시아의 사라 주에 완전히 둘러싸여 있다. 사라와크 림팡 구에 의해 두 부분으로 분리되어 있다. 브루나이는 보르네오에 완전히 있는 유일한 주권 국가이며,섬의 나머지 부분은 말레이시아와 인도네시아 사이에 분할되어 있다. 2020 년 기준으로 인구는 460,345 명으로,이 중 약 100,000 명이 수도이자 가장 큰 도시인 반다르 세리 베가완에 살고 있다. 이 정부는 양 디 퍼투안이라는 이름의 술탄이 통치하는 절대적인 정부이며,영국 상법과 샤리아 법,그리고 일반적인 이슬람 관습을 결합합니다."
 
-jobtitle = "Sultan"
+jobtitle = "술탄"
 
 [stats]
-Motto: = "Always in service with God's guidance"
-National Anthem: = "God Bless the Sultan"
-Population: = "460,345 (2020 est)"
-Area: = "5,765 km2 (2,226 sq mi)"
-Currency: = "Brunei dollar (BND)"
-GDP: = "$36.854 billion"
-GDP per capita: = "$85,011"
-Democracy Index: = "No Data"
-Biggest Industry: = "Oil And Gas Industry"
-Capital And Largest City: = "Bandar Seri Begawan"
-Driving Side: =	"Left"
-Calling Code: = "+673"
+모토:="항상 하나님의 인도로 봉사"
+국가:="하나님은 술탄을 축복"
+인구:="460,345(2020 동부 표준시)"
+지역:="5,765 평방 킬로미터(2,226 평방 마일)"
+통화:="브루나이 달러"
+368 억 5400 만 달러
+1 인당 국내 총생산:="$85,011"
+민주주의 지수:="데이터 없음"
+가장 큰 산업:="석유 및 가스 산업"
+자본과 가장 큰 도시:="반다르 세리 베가완"
+운전 측면:="왼쪽"
+전화번호:="+673"

@@ -1,19 +1,19 @@
 [config]
 name  = lat
-guiname = "Republic of Latvia"
-description = "Latvia, officially the Republic of Latvia, is a country in the Baltic region of Northern Europe. It is one of the Baltic states; and is bordered by Estonia to the north, Lithuania to the south, Russia to the east, Belarus to the southeast, and shares a maritime border with Sweden to the west. Latvia covers an area of 64,589 km2 (24,938 sq mi), with a population of 1.9 million. The country has a temperate seasonal climate. Its capital and largest city is Riga. Latvians belong to the ethno-linguistic group of the Balts; and speak Latvian, one of the only two surviving Baltic languages. Russians are the most prominent minority in the country, at almost a quarter of the population."
+guiname = "Republik Lettland"
+description = "Lettland, offiziell die Republik Lettland, ist ein Land im Ostseeraum Nordeuropas. Es ist einer der baltischen Staaten; und grenzt im Norden an Estland, im Süden an Litauen, im Osten an Russland, im Südosten an Weißrussland und im Westen an Schweden. Lettland umfasst eine Fläche von 64.589 km2 (24.938 Quadratmeilen) mit einer Bevölkerung von 1,9 Millionen. Das Land hat ein gemäßigtes saisonales Klima. Die Hauptstadt und größte Stadt ist Riga. Letten gehören zur ethnolinguistischen Gruppe der Balten; und sprechen Lettisch, eine der wenigen überlebenden baltischen Sprachen. Russen sind mit fast einem Viertel der Bevölkerung die prominenteste Minderheit des Landes."
 
-jobtitle = "President"
+jobtitle = "Präsident"
 
 [stats]
-National Anthem: = "God Bless Latvia!"
-Population: = "1.9 million (2018)"
-Area: = "64,589 km2"
-Currency: = "Euro (€) (EUR)"
-GDP: = "$70 billion"
-GDP per capita: = "$37,009
-Democracy Index: = "~7.37/10 (38th)"
-Biggest Industry: = "Industry Sector/Agriculture Sector"
-Capital (and largest city): = "Riga"
-Driving side: =	"right"
-Calling code: = "+371"
+Nationalhymne: = "Gott segne Lettland!"
+Bevölkerung: = "1,9 Millionen (2018)"
+Fläche: = "64.589 km2"
+Währung: = "Euro (€) (EUR)"
+BIP: = "70 Milliarden US-Dollar"
+BIP pro Kopf: = "$ 37,009
+Demokratie-Index: = "~7,37/10 (38.)"
+Größte Branche: = "Branche/Agrarsektor"
+Hauptstadt (und größte Stadt): = "Riga"
+Fahrseite: = "rechts"
+Vorwahl: = "+371"

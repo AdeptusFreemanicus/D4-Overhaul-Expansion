@@ -1,19 +1,19 @@
 [config]
 name  = per
-guiname = "Republic of Peru"
-description = "Peru, officially the Republic of Peru, is a country in western South America. It is bordered in the north by Ecuador and Colombia, in the east by Brazil, in the southeast by Bolivia, in the south by Chile, and in the south and west by the Pacific Ocean. Peru is a megadiverse country with habitats ranging from the arid plains of the Pacific coastal region in the west to the peaks of the Andes mountains extending from the north to the southeast of the country to the tropical Amazon Basin rainforest in the east with the Amazon river. At 1.28 million km2 (0.5 million mi2), Peru is the 19th largest country in the world, and the third largest in South America."
+guiname = "Republiek Peru"
+description = "Peru, officieel de Republiek Peru, is een land in het westen van Zuid-Amerika. Het wordt begrensd in het noorden door Ecuador en Colombia, in het oosten door Brazilië, in het zuidoosten door Bolivia, in het zuiden door Chili en in het zuiden en westen door de Stille Oceaan. Peru is een megadivers land met habitats variërend van de dorre vlakten van de Pacifische kuststreek in het westen tot de toppen van het Andesgebergte die zich uitstrekken van het noorden naar het zuidoosten van het land tot het tropische Amazone-bekken regenwoud in het oosten met de Amazone-rivier. Met 1,28 miljoen km2 is Peru het 19e grootste land ter wereld en het derde grootste in Zuid-Amerika."
 
 jobtitle = "President"
 
 [stats]
-Motto: = "Firm and Happy for the Union"
-National Anthem: = "National Anthem of Peru"
-Population: = "32.8 million people (2020)"
-Area: = "1,285,216 km2 (496,225 sq mi)"
-Currency: = "Sol (PEN)"
-GDP: = "$195.761 billion"
-GDP per capita: = "$5,845"
-Democracy Index: = "6.53/10 (57th)"
-Biggest Industry: = "Mining Industry"
-Capital And Largest City: = "Lima"
-Driving side: =	"right"
+Motto: "stevig en blij voor de Unie"
+Nationaal volkslied: = "Nationaal volkslied van Peru"
+Bevolking: = "32,8 miljoen mensen (2020)"
+Oppervlakte: = "1.285.216 km2 (496.225 sq mi)"
+Valuta: = " Sol (PEN)"
+BBP: = "$195.761 miljard"
+BBP per hoofd van de bevolking: = "$5,845"
+Democratie Index: = "6.53/10 (57e)"
+Grootste Industrie: = "Mijnbouw"
+Hoofdstad En Grootste Stad: = "Lima"
+Rijzijde: = "rechts"

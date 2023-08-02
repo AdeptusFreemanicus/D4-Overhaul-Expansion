@@ -3,7 +3,7 @@ name  = sth
 guiname = "Republica de Sudafrica"
 description = "Sudáfrica, oficialmente la República de Sudáfrica (RSA), es el país más austral de África. Con más de 60 millones de habitantes, es la 23a nación más poblada del mundo y cubre un área de 1.221.037 kilómetros cuadrados (471.445 millas cuadradas). Sudáfrica tiene tres capitales: la ejecutiva Pretoria, la judicial Bloemfontein y la legislativa Ciudad del Cabo. La ciudad más grande es Johannesburgo. Aproximadamente el 80% de los sudafricanos son de ascendencia africana negra, [9] divididos entre una variedad de grupos étnicos que hablan diferentes idiomas africanos. [15] La población restante consiste en las comunidades más grandes de África de ascendencia europea (sudafricanos blancos), asiáticos (sudafricanos indios y sudafricanos chinos) y multirraciales (sudafricanos de color)."
 
-jobtitle = "Presidente"
+jobtitle = "Presidentee"
 
 [stats]
 Himno Nacional: = "Unidad en la diversidad"

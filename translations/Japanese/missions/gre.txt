@@ -1,20 +1,20 @@
 [config]
 name  = gre
-guiname = "Hellenic Republic"
-description = "Greece, officially the Hellenic Republic, is a country located in Southeast Europe. Its population is approximately 10.7 million as of 2018; Athens is its largest and capital city, followed by Thessaloniki. Situated on the southern tip of the Balkans, Greece is located at the crossroads of Europe, Asia, and Africa. It shares land borders with Albania to the northwest, North Macedonia and Bulgaria to the north, and Turkey to the northeast. The Aegean Sea lies to the east of the mainland, the Ionian Sea to the west, the Cretan Sea and the Mediterranean Sea to the south. Greece has the longest coastline on the Mediterranean Basin and the 11th longest coastline in the world at 13,676 km (8,498 mi) in length, featuring many islands, of which 227 are inhabited. Eighty percent of Greece is mountainous, with Mount Olympus being the highest peak at 2,918 metres (9,573 ft). The country consists of nine traditional geographic regions: Macedonia, Central Greece, the Peloponnese, Thessaly, Epirus, the Aegean Islands (including the Dodecanese and Cyclades), Thrace, Crete, and the Ionian Islands."
+guiname = "ギリシャ共和国"
+description = "ギリシャ、正式にはギリシャ共和国は、南東ヨーロッパに位置する国です。 2018年現在の人口は約1,070万人であり、アテネはその最大かつ首都であり、テッサロニキに続いています。 ギリシャはバルカン半島の南端に位置し、ヨーロッパ、アジア、アフリカの交差点に位置しています。 北西はアルバニア、北は北マケドニア、ブルガリア、北東はトルコと国境を接している。 エーゲ海は本土の東にあり、西はイオニア海、南はクレタ海、地中海にあります。 ギリシャは地中海沿岸で最も長い海岸線を持ち、長さは13,676km（8,498マイル）で世界で11番目に長い海岸線を持ち、多くの島があり、そのうち227人が住んでい ギリシャの80％は山岳地帯であり、オリンパス山は2,918メートル（9,573フィート）の最高峰です。 マケドニア、中央ギリシャ、ペロポネソス半島、テッサリア、エピラス、エーゲ海諸島（ドデカネス諸島とキクラデス諸島を含む）、トラキア、クレタ島、イオニア諸島の九つの伝統的な地理的地域で構成されている。"
 
-jobtitle = "President"
+jobtitle = "プレジデント"
 
 [stats]
-Motto: = "Freedom or Death"
-National Anthem: = "Hymn to Liberty"
-Population: = "10.7 million (2020)"
-Area: = "131,957 km2 (50,949 sq mi)"
-Currency: = "Euro (€) (EUR)"
-GDP: = "$310.743 billion"
-GDP per capita: = "$29,045"
-Democracy Index: = "~7.39/10 (37th)"
-Biggest Industry: = "Agriculture/Tourism"
-Capital And Largest City: = "Athens"
-Driving side: =	"right"
-Calling code: = "+30"
+モットー：="自由か死か"
+国歌：="自由への賛美歌"
+人口：="1070万人（2020年）"
+面積:="131,957km2(50,949sq mi)"
+通貨:="ユーロ(€)(EUR)"
+GDP：="3107億4300万ドル"
+一人当たりGDP:="$29,045"
+7.39/10(第37回)
+最大の産業：="農業/観光"
+首都と最大の都市：="アテネ"
+運転側：="右"
+呼び出しコード：="+30"

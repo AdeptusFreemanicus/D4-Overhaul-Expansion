@@ -1,18 +1,18 @@
 [config]
 name  = por
-guiname = "Portuguese Republic"
-description = "Portugal, officially the Portuguese Republic, is a country located on the Iberian Peninsula in southwestern Europe. It is the westernmost sovereign state of continental Europe, bordered to the west and south by the Atlantic Ocean and to the north and east by Spain, the only country to have a land border with Portugal. The territory of Portugal also includes the Atlantic archipelagos of the Azores and Madeira, both autonomous regions with their own regional governments. The official and national language is Portuguese. Lisbon is the capital and the largest city "
-jobtitle = "President"
+guiname = "포르투갈 공화국"
+description = "포르투갈,공식적으로 포르투갈 공화국,남서부 유럽의 이베리아 반도에 위치한 나라입니다. 유럽 대륙 의 가장 서쪽 에 있는 주권 국가 이며,서쪽 과 남쪽 으로 대서양 과 북쪽 과 동쪽 으로 포르투갈 과 육상 국경 을 가진 유일한 나라 인 스페인 과 접해 있다. 포르투갈의 영토에는 아조레스 제도와 마데이라의 대서양 군도도 포함됩니다.두 지역 모두 자치 지역으로 자체 지역 정부를 가지고 있습니다. 공식 언어 와 국어 는 포르투갈어 이다. 리스본은 수도이자 가장 큰 도시입니다"
+jobtitle = "대통령"
 
 [stats]
-National anthem: = "The Portuguese song"
-Population: = "10.3 million (2021)"
-Area: = "92,212 km2 (35,603 square miles)"
-Currency: = "Euro (€) (EUR)"
-GDP: = "$ 370.5 billion"
-GDP per capita: = "$ 36,079"
-Democracy index: = "~ 7.90 / 10 (26 °)"
-Largest Industry: = "Export and Trade"
-Capital and largest city: = "Lisbon"
-Driver side: = "Right"
-Phone prefix: = "+351"
+국가:="포르투갈 노래"
+인구:="1030 만(2021)"
+지역:="92,212 평방 킬로미터(35,603 평방 마일)"
+통화:="유로(유로)"(유로)"(유로)"(유로)"(유로)"(유로)"
+370.5 억 달러
+1 인당 국내 총생산:="$36,079"
+민주주의 지수: = "~ 7.90 / 10 (26 °)"
+최대 산업:="수출 및 무역"
+자본과 가장 큰 도시:="리스본"
+드라이버 측:="오른쪽"
+전화 접두사:="+351"

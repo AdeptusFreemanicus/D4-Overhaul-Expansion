@@ -1,19 +1,19 @@
 [config]
 name  = uae
-guiname = "United Arab Emirates"
-description = "The United Arab Emirates, or simply the Emirates, is a country in Western Asia. It is located at the eastern end of the Arabian Peninsula, and shares borders with Oman and Saudi Arabia, while having maritime borders in the Persian Gulf with Qatar and Iran. Abu Dhabi is the nation's capital, while Dubai, the most populous city, is an international hub."
+guiname = "Verenigde Arabische Emiraten"
+description = "De Verenigde Arabische Emiraten, of kortweg de Emiraten, is een land in West-Azië. Het is gelegen aan het oostelijke uiteinde van het Arabische schiereiland en grenst aan Oman en Saoedi-Arabië, terwijl het maritieme grenzen heeft in de Perzische Golf met Qatar en Iran. Abu Dhabi is de hoofdstad van het land, terwijl Dubai, de dichtstbevolkte stad, een internationaal knooppunt is."
 
 jobtitle = "President"
 
 [stats]
-National Anthem: = "Long Live My Country"
-Population: = "9,282,410 people (2020 est)"
-Area: = "83,600 km2 (32,300 sq mi)"
-Currency: = "UAE dirham (AED)"
-GDP: = "$763.182 billion"
-GDP per capita: = "$59,844"
-Democracy Index: = "2.90/10 (134th)"
-Biggest Industry: = "Tourism/Oil Industry"
-Capital and Largest City: = "Abu Dhabi"
-Driving side: =	"right"
-Calling code: = "+971"
+Volkslied: "Lang Leve Mijn Land"
+	Bevolking: = "9.282.410 mensen (2020 est)"
+	Oppervlakte: = "83.600 km2 (32.300 sq mi)"
+	Valuta: = "UAE dirham (AED)"
+	BBP: = "$763.182 miljard"
+	BBP per hoofd van de bevolking: = "$59,844"
+	Democratie Index: = "2.90/10 (134e)"
+	Grootste Industrie: = "Toerisme/Olie-Industrie"
+	Hoofdstad en grootste stad: = "Abu Dhabi"
+	Rijzijde: = "rechts"
+	Telefooncode: = "+971"

@@ -1,18 +1,18 @@
 [config]
 name  = som
-guiname = "Federal Republic of Somalia"
-description = "Somalia, officially the Federal Republic of Somalia is a country in the Horn of Africa. It is bordered by Ethiopia to the west, Djibouti to the northwest, the Gulf of Aden to the north, the Indian Ocean to the east, and Kenya to the southwest. Somalia has the longest coastline on Africa's mainland. Its terrain consists mainly of plateaus, plains, and highlands. Hot conditions prevail year-round, with periodic monsoon winds and irregular rainfall, Somalia has an estimated population of around 15 million and has been described as Africa's most culturally homogeneous country."
+guiname = "Федеративна Республіка Сомалі"
+description = "Сомалі, офіційно Федеративна Республіка Сомалі, є країною на Африканському Розі. Межує з Ефіопією на заході, Джибуті на північному заході, Аденською затокою на півночі, Індійським океаном на Сході та Кенією на південному заході. Сомалі має найдовшу берегову лінію на материковій частині Африки. Його рельєф складається в основному з плато, рівнин і високогір'я. Круглий рік переважають спекотні умови, з періодичними мусонними вітрами і нерегулярними опадами. Населення Сомалі, за оцінками, становить близько 15 мільйонів чоловік, і її називають найбільш однорідною в культурному відношенні країною Африки."
 
-jobtitle = "President"
+jobtitle = "Президент"
 
 [stats]
-National Anthem: = "Qolobaa Calankeed"
-Population: = "15 million people (2020)"
-Area: = "637,657 km2 (246,201 sq mi)"
-Currency: = "Somali shilling (SOS)"
-GDP: = "$5.218 billion"
-GDP per capita: = "$348"
-Democracy Index: = "?/10 (?th) Unknown"
-Biggest Industry: = "Agriculture"
-Capital And Largest City: = "Mogadishu"
-Driving side: =	"right"
+Національний гімн: = "Колобаа Каланкід"
+Населення: = "15 мільйонів людей (2020)"
+Площа: = "637,657 км2 (246,201 кв. милі)"
+Валюта: = "Сомалійський шилінг (SOS)"
+ВВП: = "5,218 мільярда доларів"
+ВВП на душу населення: = "348 доларів"
+Індекс демократії:="?/10 (?- й) невідомий"
+Найбільша ГАЛУЗЬ: = "СІЛЬСЬКЕ ГОСПОДАРСТВО"
+Столиця і найбільше місто: = "Могадішо"
+Сторона руху: = "права"

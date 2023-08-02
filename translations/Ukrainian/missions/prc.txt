@@ -1,19 +1,19 @@
 [config]
 name  = prc
-guiname = "People's Republic of China"
-description = "China, officially the People's Republic of China, is a country in East Asia. It is the world's most populous country, with a population of around 1.4 billion in 2019. Covering approximately 9.6 million square kilometers (3.7 million mi2), it is the world's third or fourth-largest country by area. As a one-party state led by the Chinese Communist Party (CCP), it exercises jurisdiction over 22 provinces, five autonomous regions, four direct-controlled municipalities Beijing, Tianjin, Shanghai, and Chongqing, and the special administrative regions of Hong Kong and Macau."
+guiname = "Китайська Народна Республіка"
+description = "Китай, офіційно Китайська Народна Республіка, є країною Східної Азії. Це найбільш густонаселена країна у світі, населення якої в 2019 році становило близько 1,4 мільярда. Займаючи площу близько 9,6 мільйона квадратних кілометрів (3,7 мільйона миль 2), це третя чи четверта за величиною країна у світі за площею. Будучи однопартійною державою, очолюваною Комуністичною партією Китаю (КПК), вона здійснює юрисдикцію над 22 провінціями, п'ятьма автономними районами, чотирма муніципалітетами прямого підпорядкування - Пекіном, Тяньцзінем, Шанхаєм і Чунцином, а також спеціальними адміністративними районами Гонконг і Макао."
 
-jobtitle = "President"
+jobtitle = "Президент"
 
 [stats]
-National Anthem: = "March of the Volunteers"
-Population: = "1.4 billion (2019)"
-Area: = "9,596,961 km2 (3,705,407 sq mi)"
-Currency: = "Renminbi ¥"
-GDP: = "$14.9 trillion (~¥2,279,745,824,694.17 CNY)"
-GDP per capita: = "$10,839 (~¥70,844.82 CNY)"
-Democracy Index: = "2.26/10 (153rd)"
-Biggest Industry: = "Manufacturing"
-Capital (and largest city): = "Beijing"
-Driving side: =	"right"
-Calling code: = "+86"
+Національний гімн: = "Марш добровольців"
+Населення: = "1,4 мільярда людей (2019)"
+Площа: = " 9,596,961 км2 (3,705,407 кв. милі)"
+Валюта: = " Юань ¥"
+ВВП: = " 14,9 трлн доларів США (~2 279 745 824 694,17 юанів)"
+ВВП на душу населення: = "$10,839 (~¥70,844.82 CNY)"
+Індекс демократії: = "2,26/10 (153-е місце)"
+Найбільша галузь: = "обробна промисловість"
+Столиця (і найбільше місто): = "Пекін"
+Сторона руху: = "права"
+Телефонний код: = "+86"

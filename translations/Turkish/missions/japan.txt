@@ -1,18 +1,18 @@
 [config]
 name  = japan
-guiname = "Japan"
-description = "Japan is a parliamentary constitutional monarchy with a ceremonial emperor and bicameral parliament. The current emperor is Naruhito, following the abdication of Akihito in 2019. The house of representatives has 465 seats and the upper house of councillors has 245 seats. Representatives must be at least 25 and councillors at least 30. The minimum voting age was reduced from 20 to 18 in 2016. Japan is divided in 47 prefectures, each overseen by an elected governor."
-jobtitle = "Prime Minister"
+guiname = "Japonya"
+description = "Japonya, tören imparatoru ve iki meclisli parlamentosu olan parlamenter anayasal bir Hükümdardır. Mevcut imparator, 2019'da Akihito'nun tahttan çekilmesinin ardından Naruhito'dur. Temsilciler meclisi'nin 465 sandalyesi ve üst meclis üyelerinin 245 sandalyesi vardır. Temsilciler en az 25, meclis üyeleri en az 30 olmalıdır. 2016 yılında asgari oy kullanma yaşı 20'den 18'e düşürüldü. Japonya, her biri seçilmiş bir vali tarafından denetlenen 47 vilayete bölünmüştür."
+jobtitle = "Başbakan"
 
 [stats]
-Population:= 	"126.3 million"
-Size:=		"377,975 sq km"
-Ethnicity:= 	"98.1% Japanese 0.5% Chinese 0.4% Korean"
-Religion:= 	"Shintoism(70.4%) Christianity (1.5%)
-Exports:= 	"Cars, Iron, Steel, Semiconductors".
-World Leader:=	"Robotics production"
-Member of:=	"United Nations, OECD, WTO, G7"
-National obsessions:=	"Video Games, Animation"
+Nüfus: = "126,3 milyon"
+Boyut: = "377.975 km kare"
+Etnik Köken: = "% 98,1 Japon% 0,5 Çin% 0,4 Koreli"
+Din: = "Şintoizm (% 70,4) Hristiyanlık (% 1,5)
+İhracat: = "Arabalar, Demir, Çelik, Yarı İletkenler".
+Dünya Lideri: = "Robotik üretim"
+Üye:= "Birleşmiş Milletler, OECD, DTÖ, G7"
+Ulusal takıntılar: = "Video Oyunları, Animasyon"
 
 
 

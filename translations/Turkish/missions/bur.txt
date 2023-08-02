@@ -1,20 +1,20 @@
 [config]
 name  = bur
 guiname = "Brunei Darussalamt"
-description = "Brunei, formally Brunei Darussalamt, is a country located on the north coast of the island of Borneo in Southeast Asia. Apart from its South China Sea coast, it is completely surrounded by the Malaysian state of Sarawak. It is separated into two parts by the Sarawak district of Limbang. Brunei is the only sovereign state entirely on Borneo; the remainder of the island is divided between Malaysia and Indonesia. As of 2020, its population was 460,345 of whom about 100,000 live in the capital and largest city, Bandar Seri Begawan. The government is an absolute monarchy ruled by its Sultan, entitled the Yang di-Pertuan, and implements a combination of English common law and sharia law, as well as general Islamic practices."
+description = "Brunei, resmi adıyla Brunei Sultanlığı, Güneydoğu Asya'daki Borneo adasının kuzey kıyısında yer alan bir ülkedir. Güney Çin Denizi kıyısının yanı sıra tamamen Malezya'nın Sarawak eyaleti ile çevrilidir. Limbang'ın Sarawak bölgesi tarafından ikiye ayrılmıştır. Brunei, tamamen Borneo'daki tek egemen devlettir; Adanın geri kalanı Malezya ve Endonezya arasında bölünmüştür. 2020 itibariyle nüfusu 460.345'ti ve bunların yaklaşık 100.000'i başkentte ve en büyük şehir olan Bandar Seri Begawan'da yaşıyor. Hükümet, Padişahı tarafından yönetilen, Yang di-Pertuan adlı mutlak bir Hükumettir ve ingiliz ortak hukuku ile şeriat hukukunun yanı sıra genel islami uygulamaların bir kombinasyonunu uygular."
 
 jobtitle = "Sultan"
 
 [stats]
-Motto: = "Always in service with God's guidance"
-National Anthem: = "God Bless the Sultan"
-Population: = "460,345 (2020 est)"
-Area: = "5,765 km2 (2,226 sq mi)"
-Currency: = "Brunei dollar (BND)"
-GDP: = "$36.854 billion"
-GDP per capita: = "$85,011"
-Democracy Index: = "No Data"
-Biggest Industry: = "Oil And Gas Industry"
-Capital And Largest City: = "Bandar Seri Begawan"
-Driving Side: =	"Left"
-Calling Code: = "+673"
+Slogan: = "Her zaman Tanrı'nın rehberliği ile hizmette"
+İstiklal Marşı: = "Allah Padişahı Korusun"
+Nüfus: = "460.345 (2020 tahmini)"
+Yüzölçümü: = "5.765 km2 (2.226 mil kare)"
+Para birimi: = "Brunei doları (BND)"
+GSYİH: = "36.854 milyar dolar"
+Kişi başına GSYİH: = "85.011 $"
+Demokrasi Endeksi: = "Veri Yok"
+En Büyük Endüstri: = "Petrol ve Gaz Endüstrisi"
+Başkent ve En Büyük Şehir: = "Bandar Seri Begawan"
+Sürüş Tarafı: = "Sol"
+Telefon Kodu: = "+673"

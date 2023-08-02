@@ -1,17 +1,17 @@
 [config]
 name  = france
-guiname = "France"
-description = "France, or the French Republic was an absolute monarchy at the time of the French Revolution in 1789. In 1792, with the motto ‘Liberty, Equality and Fraternity’, France became one of the earliest modern republics. It took another 80 years for France to become a democracy. Even then, democratic rights were sometimes derailed, including during World War II and it wasn't until the Fifth Republic was established in 1958 that democratic rule stabilised. France has an elected President and a Prime Minister appointed by the President. France is a leading member of the European Union and a member of NATO."
-jobtitle = "President"
+guiname = "Fransa"
+description = "Fransa ya da Fransız Cumhuriyeti, 1789'daki Fransız Devrimi sırasında mutlak bir Hükümdar idi. 1792'de ‘Özgürlük, Eşitlik ve Kardeşlik’ sloganıyla Fransa, en eski modern cumhuriyetlerden biri oldu. Fransa'nın demokrasiye dönüşmesi 80 yıl daha sürdü. O zaman bile, II. Dünya Savaşı da dahil olmak üzere demokratik haklar bazen raydan çıktı ve demokratik yönetimin istikrara kavuşması 1958'de Beşinci Cumhuriyet kuruluncaya kadar değildi. Fransa'nın seçilmiş bir Baskını ve Balkanlar tarafından atanan bir Başbakanı var. Fransa, Avrupa Birliği'nin önde gelen bir üyesi ve NATO üyesidir."
+jobtitle = "Başkan"
 
 [stats]
-Population: = "65,273,511"
-Size: = "643,801 sq km"
-Religion: = "Catholicism 41%, None 40%, Islam 5%"
-Exports: = "Machinery, aircraft, vehicles, pharmaceuticals, plastics, cosmetics, beverages. "
-World Leader: = "Luxury goods, tourism, welfare state funding, exporting electricity."
-Member of: = "Eurozone, EU single market, NATO, G4"
-National obsessions: = "Gastronomy, equality, wine, competitive cycling."
+Nüfus: = "65,273,511"
+Boyut: = "643.801 km kare"
+Din: = "Katoliklik% 41, Hiçbiri% 40, islam% 5"
+İhracat: = "Makine, uçak, taşıt, ilaç, plastik, kozmetik, içecek. "
+Dünya Lideri: = "Lüks mallar, turizm, refah devleti finansmanı, elektrik ihracatı."
+Üye: = "Euro Bölgesi, AB tek pazarı, NATO, G4"
+Ulusal takıntılar: = "Gastronomi, eşitlik, şarap, rekabetçi bisiklet."
 
 
 

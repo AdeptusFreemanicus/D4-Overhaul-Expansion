@@ -1,18 +1,18 @@
 [config]
 name  = israel
-guiname = "State of Israel"
-description = "Israel, officially known as the State of Israel, is a country in Western Asia, located on the southeastern shore of the Mediterranean Sea and the northern shore of the Red Sea. It has land borders with Lebanon to the north, Syria to the northeast, Jordan on the east, the Palestinian territories of the West Bank and the Gaza Strip to the east and west, respectively, and Egypt to the southwest. Israel's economic and technological center is Tel Aviv, while its seat of government and proclaimed capital is Jerusalem."
+guiname = "이스라엘 국가"
+description = "이스라엘 은 서아시아 의 나라 로,지중해 의 남동쪽 해안 과 홍해 의 북쪽 해안 에 위치 하고 있다. 북쪽으로는 레바논,북동쪽으로는 시리아,동쪽으로는 요르단,동쪽과 서쪽으로는 서안과 가자 지구의 팔레스타인 영토,남서쪽으로는 이집트와 국경을 접한다. 이스라엘의 경제 및 기술 중심지는 텔 아비브이며 정부의 본부이자 선포 된 수도는 예루살렘입니다."
 
-jobtitle = "President"
+jobtitle = "대통령"
 
 [stats]
-National Anthem: = "The Hope"
-Population: = "9.3 million people (2021)"
-Area: = "20,770–22,072 km2 (8,019–8,522 sq mi)"
-Currency: = "New shekel (₪‎) (ILS)"
-GDP: = "$410.501 billion"
-GDP per capita: = "$44,474"
-Democracy Index: = "7.84/10 (27th)"
-Biggest Industry: = "Technology"
-Capital And Largest City: = "Jerusalem"
-Driving side: =	"right"
+국가:="희망"
+인구:="930 만 명(2021)"
+지역:="20,770–22,072 평방 킬로미터(8,019–8,522 평방 마일)"
+Currency:="새로운 셰캘(₪)(ILS)"
+국내 총생산:="$410.501 억"
+1 인당 국내 총생산:="$44,474"
+민주주의 지수:="7.84/10(27 위)"
+가장 큰 산업:="기술"
+자본과 가장 큰 도시:="예루살렘"
+운전 측면:="오른쪽"

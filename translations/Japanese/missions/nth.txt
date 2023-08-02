@@ -1,23 +1,22 @@
 [config]
 name  = nth
-guiname = "Netherlands"
-description = "The Netherlands, informally Holland, is a country located in Western Europe with territories in the Caribbean. It is the largest of four constituent countries of the Kingdom of the Netherlands. In Europe, the Netherlands consists of twelve provinces, bordering Germany to the east, Belgium to the south, and the North Sea to the northwest, with maritime borders in the North Sea with those countries and the United Kingdom. In the Caribbean, it consists of three special municipalities: the islands of Bonaire, Sint Eustatius and Saba."
+guiname = "オランダ"
+description = "オランダ、非公式にオランダは、カリブ海に領土を持つ西ヨーロッパに位置する国です。 それはオランダ王国の4つの構成国の中で最大です。 ヨーロッパでは、オランダは東にドイツ、南にベルギー、北西に北海と国境を接する12の州で構成されており、北海にはこれらの国とイギリスとの海上国境があります。 カリブ海では、ボネール島、シントユスタティウス島、サバ島の3つの特別な自治体で構成されています。"
 
-jobtitle = "Monarch"
+jobtitle = "モナーク"
 
 [stats]
-National Anthem: = "I will maintain"
-Population: = "17.4 million (2020)"	
-Area: = "41,865 km2 (16,164 sq mi)"
-Currency: = "Euro (EUR)"
-GDP: = "$1.012 (~EUR844452000000.00 EUR)"
-GDP per capita: = "$58,003 (~EUR48980.75 EUR)"
-Democracy Index: = "~9.66/10 (9st)"
-Biggest Industry: = "Agriculture And Food Industry"
-Capital And Largest City: = "Amsterdam"
-Driving side: =	"Right"
-Calling code: = "+31"
-
+国歌：="私は維持します"
+人口：="1740万人（2020年）"	
+面積:="41,865km2(16,164平方マイル)"
+通貨:="ユーロ(EUR)"
+GDP:="$1.012(~EUR844452000000.00EUR)"
+一人当たりGDP:="$58,003(~EUR48980.75EUR)"
+9.66/10(9位)
+最大の産業：="農業と食品産業"
+首都と最大の都市：="アムステルダム"
+運転側：="右"
+呼び出しコード：="+31"
 
 
 

@@ -3,7 +3,7 @@ name  = russia
 guiname = "la Federazione Russa"
 description = "La Russia, o Federazione Russa, è un paese transcontinentale situato nell'Europa orientale e nell'Asia settentrionale. Si estende dal Mar Baltico a ovest all'Oceano Pacifico a est e dall'Oceano Artico a nord fino al Mar Nero e al Mar Caspio a sud. La Russia copre oltre 17.125.200 chilometri quadrati (6.612.100 miglia quadrate), coprendo più di un ottavo della superficie terrestre abitata della Terra, estendendo undici fusi orari e confinando con 16 nazioni sovrane. Mosca è la capitale e la città più grande del paese, altre grandi città includono San Pietroburgo, Novosibirsk, Ekaterinburg, Kazan, Nizhny Novgorod, Chelyabinsk e Samara."
 
-jobtitle = "Presidente"
+jobtitle = "Presidentee"
 
 [stats]
 Inno Nazionale: = "Inno di Stato della Federazione Russa"

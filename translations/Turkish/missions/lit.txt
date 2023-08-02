@@ -1,19 +1,19 @@
 [config]
 name  = lit
-guiname = "Republic of Lithuania"
-description = "Lithuania, officially the Republic of Lithuania, is a country in the Baltic region of Europe. It is one of three Baltic states and lies on the eastern shore of the Baltic Sea. Lithuania shares land borders with Latvia to the north, Belarus to the east and south, Poland to the south, and Kaliningrad Oblast of Russia to the southwest. It has a maritime border with Sweden to the west on the Baltic Sea. Lithuania covers an area of 65,300 km2 (25,200 sq mi), with a population of 2.8 million. Its capital and largest city is Vilnius; other major cities are Kaunas and Klaipėda. Lithuanians belong to the ethno-linguistic group of the Balts and speak Lithuanian, one of only a few living Baltic languages."
+guiname = "Litvanya Cumhuriyeti"
+description = "Litvanya, resmi adıyla Litvanya Cumhuriyeti, Avrupa'nın Baltık bölgesinde yer alan bir ülkedir. Baltık Denizi'nin doğu kıyısında yer alan üç Baltık ülkesinden biridir. Litvanya, kuzeyde Letonya, doğuda ve güneyde Belarus, güneyde Polonya ve güneybatıda Rusya'nın Kaliningrad Oblastı ile kara sınırlarını paylaşıyor. Baltık Denizi'nin batısında İsveç ile deniz sınırı vardır. Litvanya, 2,8 milyon nüfusuyla 65.300 km2'lik (25.200 mil kare) bir alanı kaplamaktadır. Başkenti ve en büyük şehri Vilnius'tur; diğer büyük şehirler Kaunas ve Klaipeda'dır. Litvanyalılar, Baltıkların etno-dilbilimsel grubuna aittir ve yaşayan birkaç Baltık dilinden biri olan Litvanca konuşurlar."
 
-jobtitle = "President"
+jobtitle = "Başkan"
 
 [stats]
-National Anthem: = "National Hymn"
-Population: = "2,795,680 million (2021 est)"
-Area: = "65,300 km2 (25,200 sq mi)"
-Currency: = "Euro (€) (EUR)"
-GDP: = "$107 billion"
-GDP per capita: = "$41,288"
-Democracy Index: = "~7.18/10 (40th)"
-Biggest Industry: = "Manufacturing"
-Capital (and largest city): = "Vilnius"
-Driving side: =	"right"
-Calling code: = "+370"
+Milli Marş: = "Milli Marş"
+Nüfus: = "2.795.680 milyon (2021 tahmini)"
+Alan: = "65.300 km2 (25.200 mil kare)"
+Para birimi: = "Euro (€) (EUR)"
+GSYİH: = "107 milyar dolar"
+Kişi başına GSYİH: = "41.288 $"
+Demokrasi Endeksi: = "~ 7.18 / 10 (40.)"
+En Büyük Endüstri: = "İmalat"
+Başkent (ve en büyük şehir): = "Vilnius"
+Sürüş tarafı: = "sağ"
+Telefon kodu: = "+370"

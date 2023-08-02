@@ -1,18 +1,18 @@
 [config]
 name  = israel
-guiname = "State of Israel"
-description = "Israel, officially known as the State of Israel, is a country in Western Asia, located on the southeastern shore of the Mediterranean Sea and the northern shore of the Red Sea. It has land borders with Lebanon to the north, Syria to the northeast, Jordan on the east, the Palestinian territories of the West Bank and the Gaza Strip to the east and west, respectively, and Egypt to the southwest. Israel's economic and technological center is Tel Aviv, while its seat of government and proclaimed capital is Jerusalem."
+guiname = "Держава Ізраїль"
+description = "Ізраїль, офіційно відомий як держава Ізраїль, - країна в Західній Азії, розташована на південно-східному березі Середземного моря та північному березі Червоного моря. Він має сухопутні кордони з Ліваном на півночі, Сирією на північному сході, Йорданією на сході, палестинськими територіями Західного берега та Сектором Гази на Сході та заході відповідно та Єгиптом на південному заході. Економічним і технологічним центром Ізраїлю є Тель-Авів, в той час як резиденцією уряду і проголошеною столицею є Єрусалим."
 
-jobtitle = "President"
+jobtitle = "Президент"
 
 [stats]
-National Anthem: = "The Hope"
-Population: = "9.3 million people (2021)"
-Area: = "20,770–22,072 km2 (8,019–8,522 sq mi)"
-Currency: = "New shekel (₪‎) (ILS)"
-GDP: = "$410.501 billion"
-GDP per capita: = "$44,474"
-Democracy Index: = "7.84/10 (27th)"
-Biggest Industry: = "Technology"
-Capital And Largest City: = "Jerusalem"
-Driving side: =	"right"
+Національний гімн: = "Надія"
+Населення: = "9,3 мільйона людей (2021)"
+Площа: = "20,770–22,072 км2 (8,019–8,522 кв. милі)"
+Валюта: = "новий шекель (₪) (ILS)"
+ВВП: = "410,501 мільярда доларів"
+ВВП на душу населення: = "44 474 долари США"
+Індекс демократії: = "7,84/10 (27-е місце)"
+Найбільша галузь: = "технологія"
+Столиця і найбільше місто: = "Єрусалим"
+Сторона руху: = "права"

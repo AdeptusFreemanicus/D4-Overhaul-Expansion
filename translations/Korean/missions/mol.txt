@@ -1,19 +1,19 @@
 [config]
 name  = mol
-guiname = "Republic of Moldova"
-description = "Moldova, officially the Republic of Moldova is a country in Eastern Europe. It is bordered by Romania to the west and Ukraine to the north, east, and south. Ukraine and Moldova reached an agreement in 2005 ensuring Moldova's access to the Black Sea and ending its landlocked status. The unrecognised breakaway region of Transnistria lies across the Dniester on the country's eastern border with Ukraine. The capital and largest city is Chișinău."
+guiname = "몰도바 공화국"
+description = "몰도바,공식적으로 몰도바 공화국은 동유럽의 국가입니다. 서쪽으로는 루마니아,북쪽,동쪽,남쪽으로는 우크라이나와 접한다. 우크라이나와 몰도바는 2005 년에 몰도바의 흑해 접근을 보장하고 내륙 지위를 끝내는 합의에 도달했습니다. 인정되지 않은 분리 독립 지역인 트란스니스트리아는 우크라이나와의 동쪽 국경에 있는 드네스터 강 건너편에 있습니다. 수도이자 가장 큰 도시는 치인치인치인치이다."
 
-jobtitle = "President"
+jobtitle = "대통령"
 
 [stats]
-National Anthem: = "Our language"
-Population: = "2,597,100 million people (2021 est)"
-Area: = "33,843.5 km2 (13,067.0 sq mi)" 
-Currency: = "Moldovan leu (MDL)"
-GDP: = "$36.886 billion"
-GDP per capita: = "$14,257"
-Democracy Index: = "~6.10/10 (69th)"
-Biggest Industry: = "Food Processing"
-Capital and Largest city: = "Chișinău"
-Driving Side: =	"right"
-Calling Code: = "+373"
+국가:="우리의 언어"
+인구:="2,597,100 백만 명(2021 년 동부 표준시)"
+지역:="33,843.5 평방 킬로미터(13,067.0 평방 마일)"
+통화:="몰도바 레우(주)"
+368 억 8600 만 달러
+1 인당 국내 총생산:="$14,257"
+민주주의 지수:="~6.10/10(69 위)"
+가장 큰 산업:="식품 가공"
+자본과 가장 큰 도시:="키시나우"
+운전 측면:="오른쪽"
+전화번호:="+373"

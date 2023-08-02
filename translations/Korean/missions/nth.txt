@@ -1,22 +1,22 @@
 [config]
 name  = nth
-guiname = "Netherlands"
-description = "The Netherlands, informally Holland, is a country located in Western Europe with territories in the Caribbean. It is the largest of four constituent countries of the Kingdom of the Netherlands. In Europe, the Netherlands consists of twelve provinces, bordering Germany to the east, Belgium to the south, and the North Sea to the northwest, with maritime borders in the North Sea with those countries and the United Kingdom. In the Caribbean, it consists of three special municipalities: the islands of Bonaire, Sint Eustatius and Saba."
+guiname = "네덜란드"
+description = "네덜란드,비공식적으로 네덜란드는 카리브해에 영토를 가진 서유럽에 위치한 국가입니다. 네덜란드 왕국의 4 개 구성국 중 가장 큰 나라입니다. 유럽에서 네덜란드는 12 개의 지방으로 구성되어 있으며,동쪽으로는 독일,남쪽으로는 벨기에,북서쪽으로는 북해와 접해 있으며,북해에서는 이들 국가와 영국과 해상 국경이 있다. 카리브해에서는 세 개의 특별 지방 자치체로 구성되어 있습니다.보네이르 섬,신트 유스타티우스 섬,사바 섬입니다."
 
-jobtitle = "Monarch"
+jobtitle = "군주"
 
 [stats]
-National Anthem: = "I will maintain"
-Population: = "17.4 million (2020)"	
-Area: = "41,865 km2 (16,164 sq mi)"
-Currency: = "Euro (EUR)"
-GDP: = "$1.012 (~EUR844452000000.00 EUR)"
-GDP per capita: = "$58,003 (~EUR48980.75 EUR)"
-Democracy Index: = "~9.66/10 (9st)"
-Biggest Industry: = "Agriculture And Food Industry"
-Capital And Largest City: = "Amsterdam"
-Driving side: =	"Right"
-Calling code: = "+31"
+국가:="나는 유지할 것이다"
+인구:="17.4 백만(2020)"	
+지역:="41,865 평방 킬로미터(16,164 평방 마일)"
+통화:="유로(유로)"
+2015 년 11 월 15 일(금)~2015 년 11 월 15 일(금)
+1 인당 국내 총생산:$58,003(~48980.75 유로)"
+민주주의 지수:="~9.66/10(9 위)"
+가장 큰 산업:="농업 및 식품 산업"
+자본과 가장 큰 도시:="암스테르담"
+운전 측면:="오른쪽"
+호출 코드:="+31"
 
 
 

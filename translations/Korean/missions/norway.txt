@@ -1,20 +1,19 @@
 [config]
 name  = norway
-guiname = "Kingdom of Norway"
-description = "Norway, officially the Kingdom of Norway, is a Nordic country in Northern Europe whose mainland territory comprises the western and northernmost portion of the Scandinavian Peninsula. The remote Arctic island of Jan Mayen as well as the archipelago of Svalbard also form part of Norway. Bouvet Island, located in the Subantarctic, is a dependency of Norway; it also lays claims to the Antarctic territories of Peter I Island and Queen Maud Land.
-Norway has a total area of 385,207 square kilometres (148,729 sq mi) and a population of 5,385,300 as of November 2020. The country shares a long eastern border with Sweden (1,619 km or 1,006 mi long)."
+guiname = "노르웨이 왕국"
+description = "노르웨이는 공식적으로 노르웨이 왕국으로,북유럽의 북유럽 국가로,본토의 영토는 스칸디나비아 반도의 서쪽과 가장 북쪽 부분을 포함한다. 북극 의 외딴 섬 인 얀마옌 과 스발바르드 열도 도 노르웨이 의 일부 이다. 남극 하부에 위치한 부베 섬은 노르웨이의 종속국이며,페터 1 세 섬과 모드 여왕의 남극 영토에 대한 주장도 가지고 있다. 노르웨이는 총 면적은 385,207 평방 킬로미터(148,729 평방 마일)이며 인구는 2020 년 11 월 기준 5,385,300 명입니다. 이 나라는 스웨덴과 긴 동쪽 국경(1,619 킬로미터 또는 1,006 마일 길이)을 공유합니다."
 
-jobtitle = "Prime Minister"
+jobtitle = "총리"
 
 [stats]
-National Anthem: = "Yes, we love this country"
-Population: = "5.3 million (2020)"
-Area: = "385,207 km2 (148,729 sq mi)"
-Currency: = "Norwegian krone kr (NOK)"
-GDP: = "$397 billion (~kr3,419,256,419,163,400.00 NOK)"
-GDP per capita: = "$79,638 (kr685,901.12 NOK)"
-Democracy Index: = "~9.87/10 (1st)"
-Biggest Industry: = "Oil And Gas Exports"
-Capital And Largest City: = "Oslo"
-Driving side: =	"right"
-Calling code: = "+47"
+애국가:="예,우리는이 나라를 사랑합니다"
+인구:="530 만(2020)"
+지역:="385,207 평방 킬로미터(148,729 평방 마일)"
+통화:="노르웨이 크로네 크로네(노르웨이 크로네)"
+397 억 달러(~3 억원),419,256,419,163,400.00 "
+1 인당 국내 총생산:="$79,638(685,901.12 크라운)"
+민주주의 지수:="~9.87/10(1 위)"
+가장 큰 산업:="석유 및 가스 수출"
+자본과 가장 큰 도시:="오슬로"
+운전 측면:="오른쪽"
+호출 코드:="+47"

@@ -1,20 +1,20 @@
 [config]
 name  = drc
-guiname = "Democratic Republic of the Congo"
-description = "The Democratic Republic of the Congo, informally Congo-Kinshasa, DR Congo, the DRC, the DROC, or the Congo, and formerly and also coloquially Zaire, is a country in Central Africa. It is, by area, the second largest country in Africa (after Algeria), and the 11th-largest in the world. With a population of around 92 million, the Democratic Republic of the Congo is the most populous officially Francophone country in the world. It is a member of the United Nations, Non-Aligned Movement, African Union, COMESA, and the East African Community. The capital and largest city is Kinshasa, which is also the world's most populous Francophone city."
+guiname = "Democratische Republiek Congo"
+description = "De Democratische Republiek Congo, informeel Congo-Kinshasa, DR Congo, de DRC, de DRC of de Congo, en voorheen en ook coloquially Zaïre, is een land in Centraal-Afrika. Het is het op één na grootste land van Afrika (na Algerije) en het elfde grootste land ter wereld. Met een bevolking van ongeveer 92 miljoen is de Democratische Republiek Congo het meest bevolkte officieel Franstalige land ter wereld. Het is lid van de Verenigde Naties, de beweging van Niet-Gebonden Landen, de Afrikaanse Unie, COMESA en de Oost-Afrikaanse Gemeenschap. De hoofdstad en grootste stad is Kinshasa, die ook ' s werelds meest bevolkte Franstalige stad is."
 
 
 jobtitle = "President"
 
 [stats]
-National Anthem: = "Justice – Peace – Work"
-Population: = "92 million (2021)"
-Area: = "2,345,409 km2"
-Currency: = "Congolese franc (CDF)"
-GDP: = "$46 billion"
-GDP per capita: = "$501"
-Democracy Index: = "~2.76/10 (164th)"
-Biggest Industry: = "Agriculture Sector/Mining Sector"
-Capital (and largest city): = "Kinshasa"
-Driving side: =	"right"
-Calling code: = "+243"
+Volkslied: = "Justice-Peace-Work"
+Bevolking: = "92 miljoen (2021)"
+Oppervlakte: = "2.345.409 km2"
+Valuta: = " Congolese Frank (CDF)"
+BBP: = "$46 miljard"
+BBP per hoofd van de bevolking: = "$501"
+Democratie Index: = " ~2.76/10 (164e)"
+Grootste Industrie: = "Landbouwsector/Mijnbouwsector"
+Hoofdstad (en grootste stad): = "Kinshasa"
+Rijzijde: = "rechts"
+Telefooncode: = "+243"

@@ -1,20 +1,20 @@
 [config]
 name  = taiwan
-guiname = "Republic of China"
-description = "Taiwan, officially the Republic of China, is a country in East Asia. Neighbouring countries include the People's Republic of China to the northwest, Japan to the northeast, and the Philippines to the south. The main island of Taiwan has an area of 35,808 square kilometres (13,826 sq mi), with mountain ranges dominating the eastern two-thirds and plains in the western third, where its highly urbanised population is concentrated. Taipei is the capital as well as the largest metropolitan area of Taiwan. Other major cities include New Taipei, Kaohsiung, Taichung, Tainan and Taoyuan. With 23.57 million inhabitants, Taiwan is among the most densely populated countries."
+guiname = "중국 공화국"
+description = "대만,공식적으로 중화민국,동아시아에 있는 나라입니다. 이웃 나라 들 은 북서쪽 으로 중화인민공화국,북동쪽 으로 일본,남쪽 으로 필리핀 이다. 대만의 주요 섬은 35,808 평방 킬로미터(13,826 평방 마일)의 면적을 가지고 있으며,동쪽 3 분의 2 는 산맥이 지배하고 서쪽 3 분의 1 은 평야가 있으며,고도로 도시화 된 인구가 집중되어 있습니다. 타이베이는 타이완의 수도이자 가장 큰 대도시 지역이다. 다른 주요 도시로는 뉴 타이베이,카오시온,타이,타이난,타오위안이 있다. 2,357 만 명의 주민으로 대만은 인구 밀도가 가장 높은 국가 중 하나입니다."
 
-jobtitle = "President"
+jobtitle = "대통령"
 
 [stats]
-National Anthem: = "National Anthem of the Republic of China"
-Population: = "~23.5 million (2020)"
-Area: = "36,197 km2 (13,976 sq mi)"
-Currency: = "New Taiwan dollar (NT$) (TWD)"
-GDP: = "$635.547 billion (~NT$17,935,652,706,112,380.00 TWD)"
-GDP per capita: = "$26,910 (~NT$759,302.84 TWD)"
-Democracy Index: = "~7.73/10 (31th)"
-Biggest Industry: = "Services Sector"
-Capital: = "Taipei"
-Largest City: = "New Taipei"
-Driving side: =	"right"
-Calling code: = "+886"
+국가:="중국 공화국의 국가"
+인구:="~2350 만(2020)"
+지역:="36,197 평방 킬로미터(13,976 평방 마일)"
+통화:="뉴 타이완 달러(뉴 타이완 달러)"
+2015 년 10 월 15 일(금)~2015 년 10 월 15 일(금)~2015 년 10 월 15 일(금)~2015 년 10 월 15 일(금)~2015 년 10 월 15 일(금)~2015 년 10 월 15 일(금)
+1 인당 국내 총생산:="$26,910(~$759,302.84)"
+민주주의 지수:="~7.73/10(31 위)"
+가장 큰 산업:="서비스 부문"
+수도:="타이베이"
+가장 큰 도시:="뉴 타이페이"
+운전 측면:="오른쪽"
+전화 코드:="+886"

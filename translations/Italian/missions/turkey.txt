@@ -2,7 +2,7 @@
 name  = turkey
 guiname = "Repubblica turca"
 description = "La Turchia, ufficialmente Repubblica di Turchia, è un paese transcontinentale situato principalmente nella penisola anatolica nell'Asia occidentale, con una porzione più piccola nella penisola balcanica nell'Europa sudorientale. La Turchia confina a nord-ovest con la Grecia e la Bulgaria; a nord dal Mar Nero; nord-est dalla Georgia; ad est da Armenia, Azerbaigian e Iran; sud-est dall'Iraq; a sud dalla Siria e dal Mar Mediterraneo; e ad ovest dal Mar Egeo. Circa il 70-80 per cento dei cittadini del paese sono turchi. Istanbul, a cavallo tra Europa e Asia, è la città più grande del Paese, mentre Ankara è la capitale."
-jobtitle = "Presidente"
+jobtitle = "Presidentee"
 
 [stats]
 Inno Nazionale: = "La Marcia dell'Indipendenza"

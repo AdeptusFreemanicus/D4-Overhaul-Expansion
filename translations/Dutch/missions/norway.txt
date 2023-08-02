@@ -1,20 +1,20 @@
 [config]
 name  = norway
-guiname = "Kingdom of Norway"
-description = "Norway, officially the Kingdom of Norway, is a Nordic country in Northern Europe whose mainland territory comprises the western and northernmost portion of the Scandinavian Peninsula. The remote Arctic island of Jan Mayen as well as the archipelago of Svalbard also form part of Norway. Bouvet Island, located in the Subantarctic, is a dependency of Norway; it also lays claims to the Antarctic territories of Peter I Island and Queen Maud Land.
-Norway has a total area of 385,207 square kilometres (148,729 sq mi) and a population of 5,385,300 as of November 2020. The country shares a long eastern border with Sweden (1,619 km or 1,006 mi long)."
+guiname = "Koninkrijk Noorwegen"
+description = "Noorwegen, officieel het Koninkrijk Noorwegen, is een Noords land in Noord-Europa waarvan het vasteland het westelijke en noordelijkste deel van het Scandinavische schiereiland omvat. Het afgelegen Arctische eiland Jan Mayen en de archipel Svalbard maken ook deel uit van Noorwegen. Bouvet Island, gelegen in het subantarctische gebied, is een afhankelijkheid van Noorwegen; het stelt ook aanspraken op de Antarctische Gebieden van Peter I Island en Queen Maud Land.
+Noorwegen heeft een totale oppervlakte van 385.207 vierkante kilometer en een bevolking van 5.385.300 in November 2020. Het land deelt een lange oostelijke grens met Zweden (1.619 km of 1.006 mijl lang)."
 
-jobtitle = "Prime Minister"
+jobtitle = "Eerste Minister"
 
 [stats]
-National Anthem: = "Yes, we love this country"
-Population: = "5.3 million (2020)"
-Area: = "385,207 km2 (148,729 sq mi)"
-Currency: = "Norwegian krone kr (NOK)"
-GDP: = "$397 billion (~kr3,419,256,419,163,400.00 NOK)"
-GDP per capita: = "$79,638 (kr685,901.12 NOK)"
-Democracy Index: = "~9.87/10 (1st)"
-Biggest Industry: = "Oil And Gas Exports"
-Capital And Largest City: = "Oslo"
-Driving side: =	"right"
-Calling code: = "+47"
+Volkslied: "Ja, we houden van dit land"
+Bevolking: = "5,3 miljoen (2020)"
+Oppervlakte: = "385.207 km2 (148.729 sq mi)"
+Valuta: = "Noorse kroon kr (NOK)"
+BBP: = " $397 miljard (~kr3,419,256,419,163,400.00 NOK)"
+BBP per hoofd van de bevolking: = "$79.638 (kr685,901,12 NOK)"
+Democratie Index: = " ~9.87/10 (1st)"
+Grootste Industrie: = "Olie-En Gasexport"
+Hoofdstad En Grootste Stad: = "Oslo"
+Rijzijde: = "rechts"
+Telefooncode: = "+47"

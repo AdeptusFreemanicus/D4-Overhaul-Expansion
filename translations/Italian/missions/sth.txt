@@ -3,7 +3,7 @@ name  = sth
 guiname = "Repubblica del Sud Africa"
 description = "Il Sudafrica, ufficialmente Repubblica del Sudafrica, è il paese più meridionale dell'Africa. Il Sudafrica ha tre capitali: Pretoria esecutiva, Bloemfontein giudiziaria e Città del Capo legislativa. La città più grande è Johannesburg. Circa l'80% dei sudafricani è di origine africana nera, divisi tra una varietà di gruppi etnici che parlano lingue africane diverse."
 
-jobtitle = "Presidente"
+jobtitle = "Presidentee"
 
 [stats]
 Inno Nazionale: = "Unità nella diversità"

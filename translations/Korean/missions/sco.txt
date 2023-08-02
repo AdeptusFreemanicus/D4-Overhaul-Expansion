@@ -1,18 +1,18 @@
 [config]
 name  = sco
-guiname = "Scotland"
-description = "Scotland is a country that is part of the United Kingdom. Covering the northern third of the island of Great Britain, mainland Scotland has a 96-mile (154-kilometre) border with England to the southeast and is otherwise surrounded by the Atlantic Ocean to the north and west, the North Sea to the northeast and the Irish Sea to the south. The country also contains more than 790 islands, principally in the archipelagos of the Hebrides and the Northern Isles. Most of the population, including the capital Edinburgh, is concentrated in the Central Belt – the plain between the Scottish Highlands and the Southern Uplands – in the Scottish Lowlands."
+guiname = "스코틀랜드"
+description = "스코틀랜드는 영국의 일부인 나라입니다. 영국 섬의 북쪽 3 분의 1 을 덮고 있는 스코틀랜드 본토는 남동쪽으로 잉글랜드와 96 마일(154 킬로미터)의 경계를 가지고 있으며 북쪽과 서쪽으로는 대서양,북동쪽으로는 북해,남쪽으로는 아일랜드 해로 둘러싸여 있습니다. 이 나라 에는 790 개 이상 의 섬 들 이 있으며,주로 헤브리드 제도 와 북부 섬 들 의 군도 에 있다. 수도 에딘버러를 포함한 대부분의 인구는 스코틀랜드 고원 지역과 남부 고원 지역 사이의 평야인 스코틀랜드 저지대 중앙 벨트에 집중되어 있습니다."
 
-jobtitle = "Monarch"
+jobtitle = "군주"
 
 [stats]
-National Anthem: = "In my defence God me defend"
-Population: = "5,463,300 people (2019 est)"
-Area: = "77,933 km2 (30,090 sq mi)"
-Currency: = "Pound sterling (GBP; £)"
-GVA: = "£166 billion"
-GVA per capita: = "£30,560"
-Biggest Industry: = "Oil & Gas Exports"
-Capital And Largest City: = "Edinburgh"
-Driving side: =	"left"
-Calling code: = "+44"
+국가:="내 방어에서 하나님 나를 방어"
+인구:="5,463,300 명(2019 동부 표준시)"
+지역:="77,933 평방 킬로미터(30,090 평방 마일)"
+Currency:="파운드(GBP;£)"
+2018 년 10 월 16 일에 확인함.
+2018 년 12 월 15 일에 확인함.
+가장 큰 산업:="석유 및 가스 수출"
+자본과 가장 큰 도시:="에딘버러"
+운전 측면:="왼쪽"
+호출 코드:="+44"

@@ -1,17 +1,17 @@
 [config]
 name  = wal
-guiname = "Wales"
-description = "Wales is a country that is part of the United Kingdom. It is bordered by England to the east, the Irish Sea to the north and west, and the Bristol Channel to the south. It had a population in 2011 of 3,063,456 and has a total area of 20,779 km2 (8,023 sq mi). Wales has over 1,680 miles (2,700 km) of coastline and is largely mountainous with its higher peaks in the north and central areas, including Snowdon (Yr Wyddfa), its highest summit. The country lies within the north temperate zone and has a changeable, maritime climate. The capital and largest city is Cardiff."
+guiname = "Galler"
+description = "Galler, Birleşik Krallık'ın bir parçası olan bir ülkedir. Doğuda İngiltere, kuzeyde ve batıda İrlanda Denizi ve güneyde Bristol Kanalı ile sınırlanmıştır. 2011 yılında nüfusu 3.063.456'dır ve toplam alanı 20.779 km'dir.2 (8.023 mil kare). Galler, 1.680 milden (2.700 km) fazla kıyı şeridine sahiptir ve en yüksek zirvesi olan Snowdon (Yr Wyddfa) dahil olmak üzere kuzey ve orta bölgelerdeki yüksek zirveleriyle büyük ölçüde dağlıktır. Ülke kuzey ılıman kuşağında yer alır ve değişken bir deniz iklimine sahiptir. Başkent ve en büyük şehir Cardiff'tir."
 
-jobtitle = "Monarch"
+jobtitle = "Hükümdar"
 
 [stats]
-Population: = "3,153,000 million (2019 est)"
-Area: = "20,779 km2 (8,023 sq mi)	"
-Currency: = "Pound sterling (GBP; £)"
-GVA: = "£75 billion"
-GVA per capita: = "£23,900"
-Largest Industry: = "Sheeeep"
-Capital and largest city: = "Cardiff"
-Driver side: = "left"
-Phone prefix: = "+44"
+Nüfus: = "3.153.000 milyon (2019 tahmini)"
+Yüzölçümü: = "20.779 km2 (8.023 mil kare) "
+Para birimi: = "İngiliz Sterlini (GBP; £)"
+GVA: = "75 milyar sterlin"
+Kişi başına düşen GVA: = "23.900 £"
+En Büyük Endüstri: = "Sheeeep"
+Başkent ve en büyük şehir: = "Cardiff"
+Sürücü tarafı: = "sol"
+Telefon öneki: = "+44"

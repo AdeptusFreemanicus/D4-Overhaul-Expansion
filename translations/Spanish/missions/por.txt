@@ -1,19 +1,19 @@
 [config]
 name  = por
-guiname = "Portuguese Republic"
-description = "Portugal, officially the Portuguese Republic, is a country located on the Iberian Peninsula, in Southwestern Europe. It is the westernmost sovereign state in mainland Europe, bordered to the west and south by the Atlantic Ocean and to the north and east by Spain, the sole country to have a land border with Portugal. Portugal's territory also includes the Atlantic archipelagos of the Azores and Madeira, both autonomous regions with their own regional governments. The official and national language is Portuguese. Lisbon is the capital and largest city."
+guiname = "República Portuguesa"
+description = "Portugal, oficialmente la República Portuguesa, es un país ubicado en la Península Ibérica, en el suroeste de Europa. Es el Estado soberano más occidental de Europa continental, limita al oeste y al sur con el océano Atlántico y al norte y al este con España, el único país que tiene una frontera terrestre con Portugal. El territorio de Portugal también incluye los archipiélagos atlánticos de Azores y Madeira, ambas regiones autónomas con sus propios gobiernos regionales. El idioma oficial y nacional es el portugués. Lisboa es la capital y la ciudad más grande."
 
-jobtitle = "President"
+jobtitle = "Presidente"
 
 [stats]
-National Anthem: = "The Portuguese Song"
-Population: = "10,3 million (2021)"
-Area: = "92,212 km2 (35,603 sq mi)"
-Currency: = "Cuban peso (CUP)"
-GDP: = "$370.5 billion"
-GDP per capita: = "$36,079"
-Democracy Index: = "~7.90/10 (26th)"
-Biggest Industry: = "Export And Trade"
-Capital And Largest City: = "Lisbon"
-Driving side: =	"Right"
-Calling code: = "+351"
+Himno Nacional: = "La canción portuguesa"
+Población: = "10,3 millones (2021)"
+Área: = "92,212 km2 (35,603 millas cuadradas)"
+Moneda: = "Peso cubano (CUP)"
+PIB: = "$370.5 mil millones"
+PIB per cápita: = "$36,079"
+Índice de democracia: = " ~7.90 / 10 (26)"
+Industria Más Grande: = "Exportación Y Comercio"
+Capital Y Ciudad Más Grande: = "Lisboa"
+Lado de conducción: = "Derecho"
+Código de llamada: = "+351"

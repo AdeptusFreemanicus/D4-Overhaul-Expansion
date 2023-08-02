@@ -1,29 +1,29 @@
 [config]
 name  = usa
-guiname = "United States of America"
-description = "The United States of America is the world's third or fourth largest country by total area, and the third most populous country in the world. Americans are a racially and ethnically diverse population that has been shaped through centuries of immigration.The United States is a federal republic and a representative democracy. It is a founding member of the United Nations, World Bank, International Monetary Fund and NATO. The USA is a permanent member of the United Nations Security Council."
+guiname = "Amerika Birleşik Devletleri"
+description = "Amerika Birleşik Devletleri, toplam alana göre dünyanın üçlüsü veya dörtlüsü en büyük ülkesi ve dünyanın en kalabalık üçlüsü ülkesidir. Amerikalılar, yüzyıllarca süren göç yoluyla şekillenen ırksal ve etnik açıdan farklı bir nüfüstür.Amerika Birleşik Devletleri federal bir cumhuriyet ve temsili bir demokrasidir. Birleşmiş Milletler, Dünya Bankası, Uluslar Arası Para Fonu ve NATO'nun kurucu üyesidir. ABD, Birleşmiş Milletler Güvenlik Konseyi'nin üyesidir."
 
-jobtitle = "President"
+jobtitle = "Başkan"
 
 [stats]
-Population: = "328 million (Jan 2020)"
-Size: = "9.8 million sq km"
-Largest City: = "New York City"
-Agricultural Land: = "44.5% of total"
-Ethnicity: = "76.5% White (18.3% Latino) 13.4% Black"
-National Anthem: = "The Star-Spangled Banner"
-Top Tourist Destination: = "The Grand Canyon"
-Most popular food: = "Cheeseburger"
-Biggest Industry: = "Real Estate"
+Nüfus: = "328 milyon (Ocak 2020)"
+Boyut: = "9,8 milyon kilometre"
+En Büyük Şehir: = "New York Şehri"
+Tarım Arazisi: = "Toplam% 44,5'i"
+Etnik Köken: = "% 76,5 Beyaz (% 18,3 Latince)% 13,4 Siyah"
+İstiklal Marşı: = "Yıldızlı Afiş"
+En İyi Turistik Yer: = ""Kara Kanyon"
+En popüler yemek: = "Çizburger"
+En Büyük Endüstri: = "Emlak"
 
 [jobs]
-FOREIGNPOLICY = "Secretary of State"
-WELFARE = "Secretary of Housing and Urban Development"
-ECONOMY = "Secretary of Commerce"
-TAX = "Secretary of the Treasury"
-PUBLICSERVICES = "Secretary of Health and Human Services"
-LAWANDORDER = "Attorney General"
-TRANSPORT = "Secretary of Transportation"
+FOREIGNPOLICY = "Dışişleri Bakanı"
+WELFARE = "Konut ve Kentsel Gelişim Bakanı"
+ECONOMY = "Ticaret Bakanı"
+TAX = "Hazine Bakanı"
+PUBLICSERVICES = "Sağlık ve insani Hizmetler Bakanı"
+LAWANDORDER = "Başsavcı"
+TRANSPORT = "Ulaştırma Bakanı"
 
 
 

@@ -1,18 +1,18 @@
 [config]
 name  = sco
-guiname = "Scotland"
-description = "Scotland is a country that is part of the United Kingdom. Covering the northern third of the island of Great Britain, mainland Scotland has a 96-mile (154-kilometre) border with England to the southeast and is otherwise surrounded by the Atlantic Ocean to the north and west, the North Sea to the northeast and the Irish Sea to the south. The country also contains more than 790 islands, principally in the archipelagos of the Hebrides and the Northern Isles. Most of the population, including the capital Edinburgh, is concentrated in the Central Belt – the plain between the Scottish Highlands and the Southern Uplands – in the Scottish Lowlands."
+guiname = "İskoçya"
+description = "İskoçya, Birleşik Krallık'ın bir parçası olan bir ülkedir. Büyük Britanya adasının kuzey üçte birini kaplayan İskoçya anakarası, güneydoğuda ingiltere ile 96 mil (154 kilometre) sınıra sahiptir ve aksi takdirde kuzeyde ve batıda Atlantik Okyanusu, kuzeydoğuda Kuzey Denizi ve güneyde İrlanda Denizi ile çevrilidir. Ülke ayrıca, özellikle Hebrides ve Kuzey Adaları takımadalarında olmak üzere 790'dan fazla ada içermektedir. Başkent Edinburgh da dahil olmak üzere nüfusun çoğu, İskoç Yaylaları ile Güney Yaylaları arasındaki ova olan Orta Kuşakta, İskoç Ovalarında yoğunlaşmıştır."
 
-jobtitle = "Monarch"
+jobtitle = "Hükümdar"
 
 [stats]
-National Anthem: = "In my defence God me defend"
-Population: = "5,463,300 people (2019 est)"
-Area: = "77,933 km2 (30,090 sq mi)"
-Currency: = "Pound sterling (GBP; £)"
-GVA: = "£166 billion"
-GVA per capita: = "£30,560"
-Biggest Industry: = "Oil & Gas Exports"
-Capital And Largest City: = "Edinburgh"
-Driving side: =	"left"
-Calling code: = "+44"
+Milli Marş: = "Savunmamda Tanrı beni korusun"
+Nüfus: = "5.463.300 kişi (2019 tahmini)"
+Yüzölçümü: = "77.933 km2 (30.090 mil kare)"
+Para birimi: = "İngiliz Sterlini (GBP; £)"
+GVA: = "166 milyar sterlin"
+Kişi başına düşen GVA: = "30.560 £"
+En Büyük Sanayi: = "Petrol ve Gaz İhracatı"
+Başkent ve En Büyük Şehir: = "Edinburgh"
+Sürüş tarafı: = "sol"
+Telefon kodu: = "+44"

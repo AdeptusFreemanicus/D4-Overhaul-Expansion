@@ -3,7 +3,7 @@ name  = afghan
 guiname = "Emirato islámico de Afganistán"
 description = "Afganistán, oficialmente la República Islámica de Afganistán, es un país sin litoral en la encrucijada de Asia Central y del Sur. Afganistán limita con Pakistán al este y al sur; Irán al oeste; Turkmenistán, Uzbekistán y Tayikistán al norte; y China al noreste. Ocupando 652.000 kilómetros cuadrados (252.000 millas cuadradas), es un país montañoso con llanuras en el norte y suroeste. Kabul es la capital y ciudad más grande. La población es de alrededor de 32 millones, compuesta principalmente por pashtunes, tayikos, hazaras y uzbekos."
 
-jobtitle = "Presidente"
+jobtitle = "Presidentee"
 
 [stats]
 Lema: = "No hay Dios más que Alá; Mahoma es el mensajero de Allah."

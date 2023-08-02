@@ -1,19 +1,19 @@
 [config]
 name  = lux
-guiname = "Grand Duchy of Luxembourg"
-description = "Luxembourg, officially the Grand Duchy of Luxembourg, is a landlocked country in Western Europe. It is bordered by Belgium to the west and north, Germany to the east, and France to the south. Its capital, Luxembourg City, is one of the four official capitals of the European Union (together with Brussels, Frankfurt, and Strasbourg) and the seat of the Court of Justice of the European Union, the highest judicial authority in the EU. Its culture, people, and languages are highly intertwined with its neighbours, making it a mixture of French and German cultures. It has three official languages: French, German, and the national language of Luxembourgish."
+guiname = "Großherzogtum Luxemburg"
+description = "Luxemburg, offiziell das Großherzogtum Luxemburg, ist ein Binnenstaat in Westeuropa. Es grenzt im Westen und Norden an Belgien, im Osten an Deutschland und im Süden an Frankreich. Die Hauptstadt Luxemburg-Stadt ist eine der vier offiziellen Hauptstädte der Europäischen Union (zusammen mit Brüssel, Frankfurt und Straßburg) und Sitz des Gerichtshofs der Europäischen Union, der höchsten Justizbehörde der EU. Seine Kultur, Menschen und Sprachen sind eng mit seinen Nachbarn verflochten, was es zu einer Mischung aus französischer und deutscher Kultur macht. Es hat drei Amtssprachen: Französisch, Deutsch und die Landessprache Luxemburgisch."
 
-jobtitle = "Grand Duke"
+jobtitle = "Großherzog"
 
 [stats]
-Motto: = "We want to remain what we are"
-National Anthem: = "Our Homeland"
-Population: = "626 Hundred Thousand People (2020)"
-Area: = "2,586.4 km2 (998.6 sq mi)"
-Currency: = "Euro (€) (EUR)"
-GDP: = "$69.453 billion"
-GDP per capita: = "$113,196"
-Democracy Index: = "8.68/10 (13th)"
-Biggest Industry: = "Banking"
-Capital And Largest City: = "Luxembourg City"
-Driving side: =	"right"
+Motto: = "Wir wollen bleiben, was wir sind"
+Nationalhymne: = "Unsere Heimat"
+Bevölkerung: = "626 Hunderttausend Menschen (2020)"
+Fläche: = "2.586,4 km2 (998,6 Quadratmeilen)"
+Währung: = "Euro (€) (EUR)"
+BIP: = "69,453 Milliarden US-Dollar"
+BIP pro Kopf: = "$ 113,196"
+Demokratieindex: = "8,68 / 10 (13.)"
+Größte Branche: = "Bankwesen"
+Hauptstadt und größte Stadt: = "Luxemburg-Stadt"
+Fahrseite: = "rechts"

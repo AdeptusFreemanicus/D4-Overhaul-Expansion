@@ -1,19 +1,19 @@
 [config]
 name  = chi
-guiname = "Republic of Chile"
-description = "Chile, officially the Republic of Chile, is a country in western South America. It occupies a long, narrow strip of land between the Andes to the east and the Pacific Ocean to the west. Chile covers an area of 756,096 square kilometres (291,930 sq mi) and has a population of 17.5 million as of 2017. The capital and largest city is Santiago and the national language is Spanish."
+guiname = "チリ共和国"
+description = "チリ、正式にはチリ共和国は、南アメリカ西部の国です。 それは東のアンデス山脈と西の太平洋の間の長くて狭い土地を占めています。 チリは756,096平方キロメートル（291,930平方マイル）の面積をカバーし、2017年の時点で1750万人の人口を持っています。 首都と最大の都市はサンティアゴであり、国語はスペイン語です。"
 
-jobtitle = "President"
+jobtitle = "プレジデント"
 
 [stats]
-Motto: = "By Right or Might"
-National Anthem: = "Himno Nacional de Chile"
-Population: = "17.5 million people (2017)"
-Area: = "756,096.3 km2 (291,930.4 sq mi)"
-Currency: = "Chilean peso (CLP)"
-GDP: = "$245.414 billion"
-GDP per capita: = "$12,612"
-Democracy Index: = "8.28/10 (17th)"
-Biggest Industry: = "Agriculture"
-Capital And Largest City: = "Santiago"
-Driving side: =	"right"
+モットー：="右または可能性があります"
+国歌：="ヒムノ-ナシオナル-デ-チリ"
+人口：="1750万人（2017年）"
+面積:="756,096.3km2(291,930.4平方マイル)"
+通貨:="チリ-ペソ(CLP)"
+GDP：="2454億1400万ドル"
+一人当たりGDP:="$12,612"
+8.28/10(第17回)
+最大の産業：="農業"
+首都と最大の都市：="サンティアゴ"
+運転側：="右"

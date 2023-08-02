@@ -1,18 +1,18 @@
 [config]
 name  = nor
-guiname = "Northern Ireland"
-description = "Northern Ireland is a part of the United Kingdom that is variously described as a country, province, territory or region. Located in the northeast of the island of Ireland, Northern Ireland shares a border to the south and west with the Republic of Ireland. In 2011, its population was 1,810,863, constituting about 30% of the island's population and about 3% of the UK's population. The Northern Ireland Assembly (colloquially referred to as Stormont after its location), established by the Northern Ireland Act 1998, holds responsibility for a range of devolved policy matters, while other areas are reserved for the British government. Northern Ireland co-operates with the Republic of Ireland in several areas."
+guiname = "Північна Ірландія"
+description = "Північна Ірландія-це частина Сполученого Королівства, яка по-різному описується як Країна, Провінція, територія чи регіон. Розташована на північному сході острова Ірландія, Північна Ірландія межує на півдні та заході з Ірландською Республікою. У 2011 році його населення становило 1 810 863, що становить близько 30% населення острова та близько 3% населення Великобританії. Асамблея Північної Ірландії (розмовно називається Стормонт за місцем свого розташування), створена Законом про Північну Ірландію 1998 року, несе відповідальність за низку політичних питань, переданих їй, тоді як Інші сфери залишаються за британським урядом. Північна Ірландія співпрацює з Ірландською Республікою в декількох областях."
 
-jobtitle = "Monarch"
+jobtitle = "Монарх"
 
 [stats]
-National Anthem: = "Londonderry Air Or God Save the Queen"
-Population: = "1,900,000 (2019 est)"
-Area: = "14,130 km2 (5,460 sq mi)"
-Currency: = "Pound sterling (GBP; £)"
-GVA: = "£49 billion?"
-GVA per capita: = "£26,000?"
-Biggest Industry: = "Pharmaceutical And Medical Technology Industries"
-Capital And Largest City: = "Belfast"
-Driving side: =	"left"
-Calling code: = "+44"
+Національний гімн: = "повітря Лондондеррі або Боже, Бережи королеву"
+Населення: = "1 900 000 (станом на 2019 рік)"
+Площа: = "14 130 км2 (5460 кв. миль)"
+Валюта: = " фунт стерлінгів (GBP;£)"
+ВДС: = " 49 мільярдів фунтів стерлінгів?"
+ВДС на душу населення: = " 26 000 фунтів стерлінгів?"
+Найбільша галузь: = "фармацевтична промисловість та медичні технології"
+Столиця і найбільше місто: = "Белфаст"
+Сторона руху: = "ліва"
+Телефонний код: = "+44"

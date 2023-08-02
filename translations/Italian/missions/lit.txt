@@ -1,19 +1,19 @@
 [config]
 name  = lit
-guiname = "Republic of Lithuania"
-description = "Lithuania, officially the Republic of Lithuania, is a country in the Baltic region of Europe. It is one of three Baltic states and lies on the eastern shore of the Baltic Sea. Lithuania shares land borders with Latvia to the north, Belarus to the east and south, Poland to the south, and Kaliningrad Oblast of Russia to the southwest. It has a maritime border with Sweden to the west on the Baltic Sea. Lithuania covers an area of 65,300 km2 (25,200 sq mi), with a population of 2.8 million. Its capital and largest city is Vilnius; other major cities are Kaunas and Klaipėda. Lithuanians belong to the ethno-linguistic group of the Balts and speak Lithuanian, one of only a few living Baltic languages."
+guiname = "Repubblica di Lituania"
+description = "Lituania, ufficialmente la Repubblica di Lituania, è un paese nella regione baltica d'Europa. È uno dei tre stati baltici e si trova sulla riva orientale del Mar Baltico. La Lituania condivide i confini terrestri con la Lettonia a nord, la Bielorussia a est e sud, la Polonia a sud e l'Oblast ' di Kaliningrad della Russia a sud-ovest. Ha un confine marittimo con la Svezia a ovest sul Mar Baltico. La Lituania copre un'area di 65.300 km2 (25.200 miglia quadrate), con una popolazione di 2,8 milioni. È la capitale e la città più grande è Vilnius; altre grandi città sono Kaunas e Klaipėda. I lituani appartengono al gruppo etno-linguistico dei Baltici e parlano lituano, una delle poche lingue baltiche viventi."
 
-jobtitle = "President"
+jobtitle = "Presidente"
 
 [stats]
-National Anthem: = "National Hymn"
-Population: = "2,795,680 million (2021 est)"
+Inno Nazionale: = "Inno nazionale"
+Popolazione: = "2.795.680 milioni (2021 est)"
 Area: = "65,300 km2 (25,200 sq mi)"
-Currency: = "Euro (€) (EUR)"
-GDP: = "$107 billion"
-GDP per capita: = "$41,288"
-Democracy Index: = "~7.18/10 (40th)"
-Biggest Industry: = "Manufacturing"
-Capital (and largest city): = "Vilnius"
-Driving side: =	"right"
-Calling code: = "+370"
+Valuta: = "Euro (€) (EUR)"
+PIL: = "$107 miliardi"
+PIL pro capite: = "$41,288"
+Indice di democrazia: = "~7.18/10 (40th)"
+Più grande industria: = "Produzione"
+Capitale (e città più grande): = "Vilnius"
+Lato guida: = "destra"
+Codice di chiamata: = "+370"

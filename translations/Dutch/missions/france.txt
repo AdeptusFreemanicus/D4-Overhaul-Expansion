@@ -1,18 +1,17 @@
 [config]
 name  = france
-guiname = "France"
-description = "France, or the French Republic was an absolute monarchy at the time of the French Revolution in 1789. In 1792, with the motto ‘Liberty, Equality and Fraternity’, France became one of the earliest modern republics. It took another 80 years for France to become a democracy. Even then, democratic rights were sometimes derailed, including during World War II and it wasn't until the Fifth Republic was established in 1958 that democratic rule stabilised. France has an elected President and a Prime Minister appointed by the President. France is a leading member of the European Union and a member of NATO."
+guiname = "Frankrijk"
+description = "Frankrijk, of de Franse Republiek, was een absoluut ergste ten tijde van de Franse Revolutie in 1789. In 1792 werd Frankrijk, Onder het motto 'vrijheid, gelijkheid en Broederschap', een van de vroegste moderne republieken. Het duurde nog 80 jaar voordat Frankrijk een democratie werd. Zelfs toen werden de democratische rechten soms ontspoord, ook tijdens de Tweede Wereldoorlog en pas toen de Vijfde Republiek in 1958 werd opgericht, stabiliseerde de Democratische Heerschappij zich. Frankrijk heeft een gekozen President en een eerste Minister die door de President wordt benoemd. Frankrijk is een vooraanstaand lid van de Europese Unie en een lid van de NAVO."
 jobtitle = "President"
 
 [stats]
-Population: = "65,273,511"
-Size: = "643,801 sq km"
-Religion: = "Catholicism 41%, None 40%, Islam 5%"
-Exports: = "Machinery, aircraft, vehicles, pharmaceuticals, plastics, cosmetics, beverages. "
-World Leader: = "Luxury goods, tourism, welfare state funding, exporting electricity."
-Member of: = "Eurozone, EU single market, NATO, G4"
-National obsessions: = "Gastronomy, equality, wine, competitive cycling."
-
+Bevolking: = "65,273,511"
+Grootte: = "643.801 km2"
+Religie: = " Katholicisme 41%, Geen 40%, Islam 5%"
+Export: = " machines, Vliegtuigen, voertuigen, farmaceutische producten, kunststoffen, cosmetica, dranken. "
+Wereldleider: = " luxe goederen, toerisme, financiering van de welvaartsstaat, export van elektriciteit."
+Lid van: = "Eurozone, EU interne markt, NAVO, G4"
+Nationale obsessies: = " gastronomie, gelijkheid, wijn, competitieve fietsen."
 
 
 

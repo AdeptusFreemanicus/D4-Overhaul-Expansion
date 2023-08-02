@@ -1,19 +1,19 @@
 [config]
 name  = est
-guiname = "Republic of Estonia"
-description = "Estonia, officially the Republic of Estonia, is a country in northern Europe. It is bordered to the north by the Gulf of Finland across from Finland, to the west by the Baltic Sea across from Sweden, to the south by Latvia, and to the east by Lake Peipus and Russia. The territory of Estonia consists of the mainland, the larger islands of Saaremaa and Hiiumaa, and over 2,200 other islands and islets on the eastern coast of the Baltic Sea, covering a total area of 47 549 km2. The size of the territory without Lake Peipsi is 43,432.31  km2. The capital city Tallinn and Tartu are the two largest urban areas of the country. The Estonian language is the autochthonous and the official language of Estonia; it is the first language of the majority of its people, as well as the world's second most spoken Finnic language."
+guiname = "Естонська Республіка"
+description = "Естонія, офіційно Естонська Республіка, є країною в Північній Європі. На півночі межує з Фінською затокою навпроти Фінляндії, на заході - з Балтійським морем навпроти Швеції, на півдні - з Латвією, а на сході - з Чудським озером та Росією. Територія Естонії складається з материкової частини, більших островів Сааремаа і Хійумаа і більше 2200 інших островів і остров'янок на східному узбережжі Балтійського моря загальною площею 47 549 км2. Площа території без урахування Чудського озера становить 43 432,31 км2. Столиці Таллінн і Тарту є двома найбільшими міськими районами країни. Естонська мова є автохтонною та офіційною мовою Естонії; це перша мова більшості її жителів, а також друга за поширеністю Фінська мова у світі."
 
-jobtitle = "President"
+jobtitle = "Президент"
 
 [stats]
-National Anthem: = "My Fatherland, My Happiness and Joy"
-Population: = "1.328 million (2018)"
-Area: = "47,549 km2"
-Currency: = "Euro (€) (EUR)"
-GDP: = "$49 billion"
-GDP per capita: = "$44,853"
-Democracy Index: = "~7.74/10 (27th)"
-Biggest Industry: = "Industry Sector/Energy Sector"
-Capital (and largest city): = "Tallinn"
-Driving side: =	"right"
-Calling code: = "+372"
+Національний гімн: = "Моя Вітчизна, моє щастя і радість"
+Населення: = "1,328 мільйона людей (2018)"
+Площа: = "47,549 км2"
+Валюта: = "Євро (€) (EUR)"
+ВВП: = "49 мільярдів доларів"
+ВВП на душу населення: = "44 853 долари США"
+Індекс демократії: = "~7,74/10 (27-е місце)"
+Найбільша галузь: = "промисловий сектор/енергетичний сектор"
+Столиця (і найбільше місто): = "Таллінн"
+Сторона руху: = "права"
+Телефонний код: = "+372"

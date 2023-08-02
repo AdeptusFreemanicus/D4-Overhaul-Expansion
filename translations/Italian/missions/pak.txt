@@ -3,7 +3,7 @@ name  = pak
 guiname = "Repubblica islamica del Pakistan"
 description = "Il Pakistan, ufficialmente Repubblica islamica del Pakistan, è un paese dell'Asia meridionale. È il quinto paese più popoloso del mondo con una popolazione che supera i 212,2 milioni. Ha la seconda popolazione musulmana al mondo. È il 33° paese più grande per area, con una superficie di 881.913 chilometri quadrati (340.509 miglia quadrate). Il Pakistan ha una linea costiera di 1.046 chilometri (650 miglia) lungo il Mar Arabico e il Golfo di Oman a sud e confina con l'India a est, l'Afghanistan a ovest, l'Iran a sud-ovest e la Cina a nord-est. È separato dal Tagikistan dal Corridoio Wakhan dell'Afghanistan nel nord-ovest e condivide anche un confine marittimo con l'Oman."
 
-jobtitle = "Presidente"
+jobtitle = "Presidentee"
 
 [stats]
 Motto: = "Fede, Unità, Disciplina"

@@ -1,20 +1,20 @@
 [config]
 name  = fji
-guiname = "Republic of Fiji"
-description = "Fiji, officially the Republic of Fiji, is an island country in Melanesia, part of Oceania in the South Pacific Ocean. It lies about 1,100 nautical miles (2,000 km; 1,300 mi) northeast of New Zealand. Fiji consists of an archipelago of more than 330 islands—of which about 110 are permanently inhabited—and more than 500 islets, amounting to a total land area of about 18,300 square kilometres (7,100 sq mi). The most outlying island group is Ono-i-Lau. About 87% of the total population of 883,483 live on the two major islands, Viti Levu and Vanua Levu. About three-quarters of Fijians live on Viti Levu's coasts: either in the capital city of Suva; or in smaller urban centres such as Nadi—where tourism is the major local industry; or in Lautoka, where the sugar-cane industry is dominant. The interior of Viti Levu is sparsely inhabited because of its terrain."
+guiname = "フィジー共和国"
+description = "フィジー、正式にはフィジー共和国は、南太平洋のオセアニアの一部であるメラネシアの島国です。 ニュージーランドの北東約1,100海里（2,000km;1,300マイル）にあります。 フィジーは330以上の島々からなる群島で構成されており、そのうち約110は恒久的に人が住んでいます—と500以上の小島、約18,300平方キロメートル（7,100平方マイル）の総面積に相当します。 最も離れた島のグループはオノ・イ・ラウです。 総人口883,483人の約87％がビティレブ島とバヌアレブ島の2つの主要な島に住んでいます。 フィジー人の約4分の3がビティレブの海岸に住んでいます。首都スバ、または観光が主要な地元産業であるナンディのような小さな都市部、またはサトウキビ産業が支配的であるラウトカ。ビティレブの内部には、その地形のためにまばらに人が住んでいます。"
 
-jobtitle = "President"
+jobtitle = "プレジデント"
 
 [stats]
-Motto: = "Fear God and honour the Queen"
-National Anthem: = "God Bless Fiji"
-Population: = "926,276 (2018 est)"
-Area: = "18,274 km2 (7,056 sq mi)"
-Currency: = "Fijian dollar (FJD)"
-GDP: = "$9.112 billion"
-GDP per capita: = "$10,251"
-Democracy Index: = "~5.61/10 (84th)"
-Biggest Industry: = "Tourism"
-Capital And Largest City: = "Suva"
-Driving Side: =	"Left"
-Calling Code: = "+679"
+モットー：="神を恐れ、女王を敬う"
+国歌：="神はフィジーを祝福します"
+人口:="926,276(2018est)"
+面積:="18,274km2(7,056sq mi)"
+通貨:="フィジードル(FJD)"
+GDP：="91億1200万ドル"
+一人当たりGDP:="$10,251"
+5.61/10(第84回)
+最大の産業：="観光"
+首都と最大の都市：="スバ"
+運転側：="左"
+呼び出しコード：="+679"

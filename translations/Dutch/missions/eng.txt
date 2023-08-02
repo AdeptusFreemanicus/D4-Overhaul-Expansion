@@ -1,19 +1,19 @@
 [config]
 name  = eng
-guiname = "England"
-description = "England is a country that is part of the United Kingdom. It shares land borders with Wales to its west and Scotland to its north. The Irish Sea lies northwest of England and the Celtic Sea to the southwest. England is separated from continental Europe by the North Sea to the east and the English Channel to the south. The country covers five-eighths of the island of Great Britain, which lies in the North Atlantic, and includes over 100 smaller islands, such as the Isles of Scilly and the Isle of Wight."
+guiname = "Engeland"
+description = "Engeland is een land dat deel uitmaakt van het Verenigd Koninkrijk. Het deelt landgrenzen met Wales in het westen en Schotland in het noorden. De Ierse Zee ligt ten noordwesten van Engeland en de Keltische Zee ten zuidwesten. Engeland wordt van het Europese vasteland gescheiden door de Noordzee in het oosten en het kanaal in het zuiden. Het land beslaat vijf achtste van het eiland Groot-Brittannië, dat in de Noord-Atlantische Oceaan ligt, en omvat meer dan 100 kleinere eilanden, zoals de Scilly-eilanden en het eiland Wight."
 
-jobtitle = "Monarch"
+jobtitle = "Vorst"
 
 [stats]
-National Anthem: = "God Save the Queen"
-Population: = "56,286,961 (2019 est)"
-Area: = "130,279 km2 (50,301 sq mi)"
-Currency: = "Pound sterling (GBP; £)"
-GVA: = "£1.9 trillion"
-GVA per capita: = "£33,800"
-Democracy Index: = "~8.10/10 (18th)"
-Biggest Industry: = "Manufacturing/Tourism"
-Capital (and largest city): = "London"
-Driving side: =	"left"
-Calling code: = "+44"
+Volkslied:"God Save The Queen"
+Bevolking: = "56,286,961 (2019 est)"
+Oppervlakte: = "130.279 km2 (50.301 sq mi)"
+Valuta: = "Pond sterling (GBP; £)"
+GVA: = "£1,9 biljoen"
+GVA per hoofd van de bevolking: = "£33.800"
+Democratie Index: = " ~8.10/10 (18e)"
+Grootste Industrie: = "Productie/Toerisme"
+Hoofdstad (en grootste stad): = "Londen"
+Rijzijde: = "links"
+Telefooncode: = "+44"

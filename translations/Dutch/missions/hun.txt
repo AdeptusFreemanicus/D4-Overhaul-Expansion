@@ -1,18 +1,18 @@
 [config]
 name  = hun
-guiname = "Hungary"
-description = "Hungary is a country in Central Europe. Spanning 93,030 square kilometres (35,920 sq mi) in the Carpathian Basin, it borders Slovakia to the north, Ukraine to the northeast, Romania to the east and southeast, Serbia to the south, Croatia and Slovenia to the southwest, and Austria to the west. With about 10 million inhabitants, Hungary is a medium-sized member state of the European Union. The official language is Hungarian, which is the most widely spoken Uralic language in the world, and among the few non-Indo-European languages to be widely spoken in Europe. Hungary's capital and largest city is Budapest; other major urban areas include Debrecen, Szeged, Miskolc, Pécs, and Győr."
+guiname = "Hongarije"
+description = "Hongarije is een land in Midden-Europa. Het strekt zich uit over 93.030 vierkante kilometer in het Karpatenbekken en grenst aan Slowakije in het noorden, Oekraïne in het noordoosten, Roemenië in het oosten en zuidoosten, Servië in het zuiden, Kroatië en Slovenië in het zuidwesten en Oostenrijk in het westen. Met ongeveer 10 miljoen inwoners is Hongarije een middelgrote lidstaat van de Europese Unie. De officiële taal is hongaars, de meest gesproken Oeralische taal ter wereld, en een van de weinige niet-Indo-Europese talen die in Europa op grote schaal worden gesproken. De hoofdstad en grootste stad van Hongarije is Boedapest; andere grote stedelijke gebieden zijn Debrecen, Szeged, Miskolc, Pics en Glory."
 
 jobtitle = "President"
 
 [stats]
-National Anthem: = "Hymn"
-Population: = "10 million (2020)"
-Area: = "93,030 km2 (35,920 sq mi)"
-Currency: = "Forint (HUF)"
-GDP: = "$149.939 billion (Ft44,158,764,279,374.45 HUF)"
-GDP per capita: = "$15,373 (Ft4,544,164.16 HUF)"
-Democracy Index: = "6.63/10 (55th)"
-Biggest Industry: = "Electronics"
-Capital And Largest City: = "Budapest"
-Driving side: =	"right"
+Volkslied: = "Hymne"
+Bevolking: = "10 miljoen (2020)"
+Oppervlakte: = "93.030 km2 (35.920 sq mi)"
+Valuta: = "Forint (HUF)"
+BBP: = " $149.939 miljard (FT44, 158, 764, 279, 374.45 HUF)"
+BBP per hoofd van de bevolking: = " $15.373 (FT4,544, 164.16 HUF)"
+Democratie Index: = "6.63/10 (55e)"
+Grootste Industrie: = "Elektronica"
+Hoofdstad En Grootste Stad: = "Boedapest"
+Rijzijde: = "rechts"

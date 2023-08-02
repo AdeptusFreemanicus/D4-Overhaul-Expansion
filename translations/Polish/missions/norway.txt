@@ -1,20 +1,19 @@
 [config]
 name  = norway
-guiname = "Kingdom of Norway"
-description = "Norway, officially the Kingdom of Norway, is a Nordic country in Northern Europe whose mainland territory comprises the western and northernmost portion of the Scandinavian Peninsula. The remote Arctic island of Jan Mayen as well as the archipelago of Svalbard also form part of Norway. Bouvet Island, located in the Subantarctic, is a dependency of Norway; it also lays claims to the Antarctic territories of Peter I Island and Queen Maud Land.
-Norway has a total area of 385,207 square kilometres (148,729 sq mi) and a population of 5,385,300 as of November 2020. The country shares a long eastern border with Sweden (1,619 km or 1,006 mi long)."
+guiname = "Królestwo Norwegii"
+description = "Norwegia, oficjalnie Królestwo Norwegii, jest krajem nordyckim w Europie Północnej, którego terytorium kontynentalne obejmuje zachodnią i najbardziej wysuniętą na północ część Półwyspu Skandynawskiego. Odległa Arktyczna Wyspa Jan Mayen, a także archipelag Svalbard również stanowią część Norwegii. Wyspa Bouveta, położona w Subantarktyce, jest zależnością Norwegii; rości sobie również roszczenia do terytoriów antarktycznych Wyspy Piotra I i Ziemi Królowej Maud. Norwegia ma łączną powierzchnię 385 207 kilometrów kwadratowych (148 729 2) i populację 5 385 300 W listopadzie 2020 r. Kraj dzieli długą wschodnią granicę ze Szwecją (1619 km lub 1006 mil długości)."
 
-jobtitle = "Prime Minister"
+jobtitle = "Premier"
 
 [stats]
-National Anthem: = "Yes, we love this country"
-Population: = "5.3 million (2020)"
-Area: = "385,207 km2 (148,729 sq mi)"
-Currency: = "Norwegian krone kr (NOK)"
-GDP: = "$397 billion (~kr3,419,256,419,163,400.00 NOK)"
-GDP per capita: = "$79,638 (kr685,901.12 NOK)"
-Democracy Index: = "~9.87/10 (1st)"
-Biggest Industry: = "Oil And Gas Exports"
-Capital And Largest City: = "Oslo"
-Driving side: =	"right"
-Calling code: = "+47"
+Hymn narodowy: = "tak, kochamy ten kraj"
+Populacja: = " 5,3 miliona (2020)"
+Powierzchnia: = "385 207 km2 (148 729 2)"
+Waluta: = " Korona norweska kr (NOK)"
+PKB: = " 397 miliardów dolarów (~kr3,419,256,419,163,400.00 NOK)"
+PKB na mieszkańca: = " $79,638 (kr685,901.12 NOK)"
+Indeks demokracji: = " ~9.87 10 (1)"
+Największy Przemysł: = "Eksport Ropy I Gazu"
+Stolica I Największe Miasto: = "Oslo"
+Strona jazdy: = "prawo"
+Kod wywołujący: =" + 47"

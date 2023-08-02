@@ -1,18 +1,18 @@
 [config]
 name  = nor
-guiname = "Northern Ireland"
-description = "Northern Ireland is a part of the United Kingdom that is variously described as a country, province, territory or region. Located in the northeast of the island of Ireland, Northern Ireland shares a border to the south and west with the Republic of Ireland. In 2011, its population was 1,810,863, constituting about 30% of the island's population and about 3% of the UK's population. The Northern Ireland Assembly (colloquially referred to as Stormont after its location), established by the Northern Ireland Act 1998, holds responsibility for a range of devolved policy matters, while other areas are reserved for the British government. Northern Ireland co-operates with the Republic of Ireland in several areas."
+guiname = "Nordirland"
+description = "Nordirland ist ein Teil des Vereinigten Königreichs, der verschiedentlich als Land, Provinz, Territorium oder Region beschrieben wird. Nordirland liegt im Nordosten der Insel Irland und grenzt im Süden und Westen an die Republik Irland. Im Jahr 2011 betrug die Einwohnerzahl 1.810.863, was etwa 30% der Inselbevölkerung und etwa 3% der britischen Bevölkerung ausmacht. Die nordirische Versammlung (umgangssprachlich nach ihrem Standort Stormont genannt), die durch das Nordirlandgesetz von 1998 eingerichtet wurde, ist für eine Reihe von dezentralen politischen Angelegenheiten zuständig, während andere Bereiche der britischen Regierung vorbehalten sind. Nordirland arbeitet in mehreren Bereichen mit der Republik Irland zusammen."
 
 jobtitle = "Monarch"
 
 [stats]
-National Anthem: = "Londonderry Air Or God Save the Queen"
-Population: = "1,900,000 (2019 est)"
-Area: = "14,130 km2 (5,460 sq mi)"
-Currency: = "Pound sterling (GBP; £)"
-GVA: = "£49 billion?"
-GVA per capita: = "£26,000?"
-Biggest Industry: = "Pharmaceutical And Medical Technology Industries"
-Capital And Largest City: = "Belfast"
-Driving side: =	"left"
-Calling code: = "+44"
+Nationalhymne: = "Londonderry Air oder Gott schütze die Königin"
+Einwohnerzahl: = "1.900.000 (2019 est)"
+Fläche: = "14.130 km2 (5.460 Quadratmeilen)"
+Währung: = "Pfund Sterling (GBP; £)"
+BWS: = "£ 49 Milliarden?"
+BWS pro Kopf: = "£ 26.000?"
+Größte Branche: = "Pharma- und Medizintechnikindustrie"
+Hauptstadt und größte Stadt: = "Belfast"
+Fahrseite: = "links"
+Vorwahl: = "+44"

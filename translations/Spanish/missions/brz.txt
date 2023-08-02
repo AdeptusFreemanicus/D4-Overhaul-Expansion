@@ -3,7 +3,7 @@ name  = brz
 guiname = "República Federativa de Brasil"
 description = "Brasil, oficialmente la República Federativa de Brasil, es el país más grande de América del Sur y América Latina. Con 8,5 millones de kilómetros cuadrados (3,2 millones de millas cuadradas) y más de 211 millones de habitantes, Brasil es el quinto país más grande del mundo por área y el sexto más poblado. Su capital es Brasilia y su ciudad más poblada es São Paulo. La federación está compuesta por la unión de los 26 estados y el Distrito Federal. Es el país más grande que tiene el portugués como idioma oficial y el único en las Américas; también es una de las naciones más multiculturales y étnicamente diversas, debido a más de un siglo de inmigración masiva de todo el mundo; así como el país de mayoría católica romana más poblado."
 
-jobtitle = "Presidente"
+jobtitle = "Presidentee"
 
 [stats]
 Lema: = "Orden y progreso"

@@ -1,17 +1,17 @@
 [config]
 name  = france
-guiname = "France"
-description = "France, or the French Republic was an absolute monarchy at the time of the French Revolution in 1789. In 1792, with the motto ‘Liberty, Equality and Fraternity’, France became one of the earliest modern republics. It took another 80 years for France to become a democracy. Even then, democratic rights were sometimes derailed, including during World War II and it wasn't until the Fifth Republic was established in 1958 that democratic rule stabilised. France has an elected President and a Prime Minister appointed by the President. France is a leading member of the European Union and a member of NATO."
-jobtitle = "President"
+guiname = "Франція"
+description = "Франція, або французька республіка, була абсолютною монархією під час Французької революції в 1789 році. У 1792 році під девізом 'Свобода, рівність і братерство' Франція стала однією з перших сучасних республік. Знадобилося ще 80 років, щоб Франція стала демократичною країною. Навіть тоді демократичні права іноді порушувалися, в тому числі під час Другої світової війни, і лише після встановлення П'ятої Республіки в 1958 році демократичне правління стабілізувалося. У Франції є обраний президент і прем'єр-міністр, призначений президентом. Франція є провідним членом Європейського Союзу та членом НАТО."
+jobtitle = "Президент"
 
 [stats]
-Population: = "65,273,511"
-Size: = "643,801 sq km"
-Religion: = "Catholicism 41%, None 40%, Islam 5%"
-Exports: = "Machinery, aircraft, vehicles, pharmaceuticals, plastics, cosmetics, beverages. "
-World Leader: = "Luxury goods, tourism, welfare state funding, exporting electricity."
-Member of: = "Eurozone, EU single market, NATO, G4"
-National obsessions: = "Gastronomy, equality, wine, competitive cycling."
+Населення: = "65 273 511"
+Розмір: = "643,801 кв. км"
+Релігія: = "Католицизм 41%, ні 40%, Іслам 5%"
+Експорт: = "машини, літаки, транспортні засоби, фармацевтичні препарати, пластмаси, косметика, напої".
+Світовий лідер: = "товари розкоші, туризм, фінансування з боку держави загального добробуту, експорт електроенергії".
+Член: = "Єврозона, єдиний ринок ЄС, НАТО, G4"
+Національні нав'язливості: = "гастрономія, рівність, вино, змагальний велосипед".
 
 
 

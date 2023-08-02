@@ -1,19 +1,19 @@
 [config]
 name  = lat
-guiname = "Republic of Latvia"
-description = "Latvia, officially the Republic of Latvia, is a country in the Baltic region of Northern Europe. It is one of the Baltic states; and is bordered by Estonia to the north, Lithuania to the south, Russia to the east, Belarus to the southeast, and shares a maritime border with Sweden to the west. Latvia covers an area of 64,589 km2 (24,938 sq mi), with a population of 1.9 million. The country has a temperate seasonal climate. Its capital and largest city is Riga. Latvians belong to the ethno-linguistic group of the Balts; and speak Latvian, one of the only two surviving Baltic languages. Russians are the most prominent minority in the country, at almost a quarter of the population."
+guiname = "Letonya Cumhuriyeti"
+description = "Letonya, resmi adıyla Letonya Cumhuriyeti, Kuzey Avrupa'nın Baltık bölgesinde yer alan bir ülkedir. Baltık ülkelerinden biridir; Kuzeyde Estonya, güneyde Litvanya, doğuda Rusya, güneydoğuda Belarus ile sınırlanmıştır ve batıda İsveç ile deniz sınırını paylaşmaktadır. Letonya, 1,9 milyon nüfusuyla 64.589 km2'lik (24.938 mil kare) bir alanı kaplamaktadır. Ülke ılıman bir mevsimsel iklime sahiptir. Başkenti ve en büyük şehri Riga'dır. Letonyalılar, Baltıkların etno-dilbilimsel grubuna aittir; ve hayatta kalan iki Baltık dilinden biri olan Letonca konuşurlar. Ruslar, nüfusun neredeyse dörtte biri ile ülkedeki en önde gelen azınlıktır."
 
-jobtitle = "President"
+jobtitle = "Başkan"
 
 [stats]
-National Anthem: = "God Bless Latvia!"
-Population: = "1.9 million (2018)"
-Area: = "64,589 km2"
-Currency: = "Euro (€) (EUR)"
-GDP: = "$70 billion"
-GDP per capita: = "$37,009
-Democracy Index: = "~7.37/10 (38th)"
-Biggest Industry: = "Industry Sector/Agriculture Sector"
-Capital (and largest city): = "Riga"
-Driving side: =	"right"
-Calling code: = "+371"
+Milli Marş: = "Tanrı Letonya'yı Korusun!"
+Nüfus: = "1,9 milyon (2018)"
+Yüzölçümü: = "64.589 km2"
+Para birimi: = "Euro (€) (EUR)"
+GSYİH: = "70 milyar dolar"
+Kişi başına GSYİH: = "37.009 $
+Demokrasi Endeksi: = "~ 7.37 / 10 (38.)"
+En Büyük Sanayi: = "Sanayi Sektörü / Tarım Sektörü"
+Başkent (ve en büyük şehir): = "Riga"
+Sürüş tarafı: = "sağ"
+Telefon kodu: = "+371"

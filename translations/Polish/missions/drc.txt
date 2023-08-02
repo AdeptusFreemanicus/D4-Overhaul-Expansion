@@ -1,20 +1,20 @@
 [config]
 name  = drc
-guiname = "Democratic Republic of the Congo"
-description = "The Democratic Republic of the Congo, informally Congo-Kinshasa, DR Congo, the DRC, the DROC, or the Congo, and formerly and also coloquially Zaire, is a country in Central Africa. It is, by area, the second largest country in Africa (after Algeria), and the 11th-largest in the world. With a population of around 92 million, the Democratic Republic of the Congo is the most populous officially Francophone country in the world. It is a member of the United Nations, Non-Aligned Movement, African Union, COMESA, and the East African Community. The capital and largest city is Kinshasa, which is also the world's most populous Francophone city."
+guiname = "Demokratyczna Republika Konga"
+description = "Demokratyczna Republika Konga, nieformalnie Kongo-Kinszasa, DR Kongo, DRK, DRK lub Kongo, A dawniej, a także kolokwialnie Zair, jest krajem w Afryce Środkowej. Jest to pod względem powierzchni drugi co do wielkości kraj w Afryce (po Algierii) i jedenasty co do wielkości na świecie. Z populacją około 92 milionów, Demokratyczna Republika Konga jest najbardziej zaludnionym oficjalnie frankofońskim krajem na świecie. Jest członkiem Organizacji Narodów Zjednoczonych, ruchu Niezaangażowanych, Unii Afrykańskiej, COMESA i Wspólnoty Afryki Wschodniej. Stolicą i największym miastem jest Kinszasa, która jest również najbardziej zaludnionym miastem frankofońskim na świecie."
 
 
-jobtitle = "President"
+jobtitle = "Przewodniczący"
 
 [stats]
-National Anthem: = "Justice – Peace – Work"
-Population: = "92 million (2021)"
-Area: = "2,345,409 km2"
-Currency: = "Congolese franc (CDF)"
-GDP: = "$46 billion"
-GDP per capita: = "$501"
-Democracy Index: = "~2.76/10 (164th)"
-Biggest Industry: = "Agriculture Sector/Mining Sector"
-Capital (and largest city): = "Kinshasa"
-Driving side: =	"right"
-Calling code: = "+243"
+Hymn Narodowy: = "Sprawiedliwość-Pokój-Praca"
+Populacja: = " 92 miliony (2021)"
+Powierzchnia: = "2 345 409 km2"
+Waluta: = " Frank kongijski (CDF)"
+PKB: = "46 miliardów dolarów"
+PKB per capita: = "$501"
+Indeks demokracji: = " ~2.76 10 (164.)"
+Największa Branża: = "Rolnictwo Górnictwo"
+Stolica (i największe miasto): = "Kinszasa"
+Strona jazdy: = "prawo"
+Kod wywołujący: =" + 243"

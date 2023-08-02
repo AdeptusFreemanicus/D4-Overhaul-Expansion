@@ -1,20 +1,20 @@
 [config]
 name  = turkey
-guiname = "Republic of Turkey"
-description = "Turkey, officially the Republic of Turkey, is a transcontinental country located mainly on the Anatolian Peninsula in Western Asia, with a smaller portion on the Balkan Peninsula in Southeastern Europe. Turkey is bordered on its northwest by Greece and Bulgaria; north by the Black Sea; northeast by Georgia; east by Armenia, Azerbaijan, and Iran; southeast by Iraq; south by Syria and the Mediterranean Sea; and west by the Aegean Sea. Approximately 70 to 80 percent of the country's citizens are Turkish. Istanbul, which straddles Europe and Asia, is the country's largest city, while Ankara is the capital."
+guiname = "터키 공화국"
+description = "터키 는 서아시아 의 아나톨리아 반도 에 주로 위치 하고 있으며,동남 유럽 의 발칸 반도 에 작은 부분 이 있다. 터키 는 북서쪽 으로 그리스 와 불가리아,북쪽 으로 흑해,북동쪽 으로 조지아,동쪽 으로 아르메니아,아제르바이잔,이란,남동쪽 으로 이라크,남쪽 으로 시리아 와 지중해,서쪽 으로 에게아 해 와 접한다. 이 나라 시민 중 약 70~80%가 터키인입니다. 이스탄불은 유럽과 아시아에 걸쳐 있으며,이 나라의 가장 큰 도시이며,앙카라는 수도입니다."
 
-jobtitle = "President"
+jobtitle = "대통령"
 
 [stats]
-National Anthem: = "The Independence March"
-Population: = "83 million (2019)"
-Area: = "783,356 km2 (302,455 sq mi)"
-Currency: = "Turkish lira (₺) (TRY)"
-GDP: = "$760.940 billion (₺5,946,686,237,230.67 TRY)"
-GDP per capita: = "$30,644 (₺239,469.87 TRY)"
-Democracy Index: = "~4.09/10 (110th)"
-Biggest Industry: = "Agriculture"
-Capital: = "Ankara"
-Largest City: = "Istanbul"
-Driving side: =	"right"
-Calling code: = "+90"
+국가:="독립 행진"
+인구:="83 백만(2019)"
+지역:="783,356 평방 킬로미터(302,455 평방 마일)"
+터키 리라,터키 리라,터키 리라,터키 리라,터키 리라,터키 리라,터키 리라,터키 리라
+GDP:="$760.940 억(₺5,946,686,237,230.67 도)"
+1 인당 국내총생산: = "$30,644 (₺239,469.87 시도)"
+민주주의 지수:="~4.09/10(110 위)"
+가장 큰 산업:="농업"
+수도:="앙카라"
+가장 큰 도시:="이스탄불"
+운전 측면:="오른쪽"
+호출 코드:="+90"

@@ -2,7 +2,7 @@
 name  = por
 guiname = "Repubblica portoghese"
 description = "Il Portogallo, ufficialmente Repubblica portoghese, è un paese situato nella penisola iberica, nell'Europa sudoccidentale. È lo stato sovrano più occidentale dell'Europa continentale, confina a ovest ea sud con l'Oceano Atlantico ea nord e a est con la Spagna, l'unico paese ad avere un confine terrestre con il Portogallo. Il territorio del Portogallo comprende anche gli arcipelaghi atlantici delle Azzorre e Madeira, entrambe regioni autonome con propri governi regionali. La lingua ufficiale e nazionale è il portoghese. Lisbona è la capitale e la città più grande"
-jobtitle = "Presidente"
+jobtitle = "Presidentee"
 
 [stats]
 Inno nazionale: = "La canzone portoghese"

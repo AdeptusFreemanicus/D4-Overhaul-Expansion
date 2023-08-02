@@ -1,20 +1,20 @@
 [config]
 name  = sth
-guiname = "Republic of South Africa"
-description = "South Africa, officially the Republic of South Africa, is the southernmost country in Africa. With over 60 million people, it is the world's 23rd-most populous nation. South Africa has three capital cities: executive Pretoria, judicial Bloemfontein and legislative Cape Town. The largest city is Johannesburg. About 80% of South Africans are of Black African ancestry, divided among a variety of ethnic groups speaking different African languages. The remaining population consists of Africa's largest communities of European (White South Africans), Asian (Indian South Africans and Chinese South Africans), and Multiracial (Coloured South Africans) ancestry."
+guiname = "남아프리카 공화국"
+description = "남아프리카 공화국 은 공식적으로 남아프리카 공화국 으로,아프리카 에서 가장 남쪽 에 있는 나라 이다. 6 천만 명 이상으로 세계에서 23 번째로 인구가 많은 나라입니다. 남아프리카 공화국에는 세 개의 수도가 있습니다.행정부 프리토리아,사법부 블룸폰테인,입법부 케이프타운입니다. 가장 큰 도시는 요하네스버그입니다. 남아프리카인의 약 80%는 흑인 아프리카 혈통을 가지고 있으며,다양한 아프리카 언어를 사용하는 다양한 민족 집단으로 나뉘어 있습니다. 나머지 인구는 아프리카에서 가장 큰 유럽(백인 남아프리카인),아시아(인도 남아프리카인 및 중국 남아프리카인),다 인종(색인 남아프리카인)조상으로 구성되어 있습니다."
 
-jobtitle = "President"
+jobtitle = "대통령"
 
 [stats]
-National Anthem: = "Unity in diversity"
-Population: = "66 million (2021)"
-Area: = "1,221,037 km2 (471,445 sq mi)"
-Currency: = "South African rand R (ZAR)"
-GDP: = "$748 billion"
-GDP per capita: = "$12,351"
-Democracy Index: = "7.05/10 (45th)"
-Biggest Industry: = "Mining Sector"
-Capitals: = "Pretoria (executive) Cape Town (legislative) Bloemfontein (judicial)"
-Largest City: = "Johannesburg"
-Driving side: =	"Left"
-Calling code: = "+27"
+국가:="다양성의 통일"
+인구:="6600 만(2021)"
+지역:="1,221,037 평방 킬로미터(471,445 평방 마일)"
+통화:="남아프리카 랜드 아르 자형(자르)"
+2018 년 10 월 1 일
+1 인당 국내 총생산:="$12,351"
+민주주의 지수:="7.05/10(45 위)"
+가장 큰 산업:="광업 부문"
+수도:="프리토리아(집행)케이프 타운(입법)블룸 폰테인(사법)"
+가장 큰 도시:="요하네스 버그"
+운전 측면:="왼쪽"
+호출 코드:="+27"

@@ -1,20 +1,20 @@
 [config]
 name  = bel
-guiname = "Kingdom of Belgium"
-description = "Belgium, officially the Kingdom of Belgium, is a country in Western Europe. It is bordered by the Netherlands to the north, Germany to the east, Luxembourg to the southeast, France to the southwest, and the North Sea to the northwest. It covers an area of 30,689 km2 (11,849 sq mi) and has a population of more than 11.5 million, making it the 22nd most densely populated country in the world and the 6th most densely populated country in Europe, with a density of 376 per square kilometre (970/sq mi). The capital and largest city is Brussels; other major cities are Antwerp, Ghent, Charleroi, Liège, Bruges, Namur, and Leuven."
+guiname = "ベルギー王国"
+description = "正式にはベルギー王国であるベルギーは、西ヨーロッパの国です。 北はオランダ、東はドイツ、南東はルクセンブルク、南西はフランス、北西は北海と国境を接しています。 面積は30,689km2（11,849平方マイル）で、人口は11.5万人以上であり、世界で22番目に人口密度の高い国であり、ヨーロッパで6番目に人口密度の高い国であり、376/平方キロ（970/平方マイル）の密度である。 首都と最大の都市はブリュッセルです; 他の主要都市はアントワープ、ゲント、シャルルロワ、リエージュ、ブルージュ、ナミュール、ルーヴェンである。"
 
-jobtitle = "Monarch"
+jobtitle = "モナーク"
 
 [stats]
-Motto: = "Unity makes strength"
-National Anthem: = "The Brabantian"
-Population: = "11.5 million (2020)"
-Area: = "30,689 km2 (11,849 sq mi)"
-Currency: = "Euro (€) (EUR)"
-GDP: = "$375.808 billion"
-GDP per capita: = "$50,114"
-Democracy Index: = "~7.51/10 (36th)"
-Biggest Industry: = "Agriculture/Manufacturing"
-Capital And Largest City: = "Brussels"
-Driving side: =	"right"
-Calling code: = "+32"
+モットー：="団結は強さを作ります"
+国歌：="ブラバンティア"
+人口：="1150万人（2020年）"
+面積:="30,689km2(11,849sq mi)"
+通貨:="ユーロ(€)(EUR)"
+GDP：="$375.808億"
+一人当たりGDP:="$50,114"
+7.51/10(第36回)
+最大の産業：="農業/製造業"
+首都と最大の都市：="ブリュッセル"
+運転側：="右"
+呼び出しコード：="+32"

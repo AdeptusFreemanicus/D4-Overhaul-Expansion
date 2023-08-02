@@ -3,7 +3,7 @@ name  = per
 guiname = "República de Perú"
 description = "Perú, oficialmente la República del Perú, es un país en el oeste de América del Sur. Limita al norte con Ecuador y Colombia, al este con Brasil, al sureste con Bolivia, al sur con Chile y al sur y oeste con el Océano Pacífico. Perú es un país megadiverso con hábitats que van desde las llanuras áridas de la región costera del Pacífico en el oeste hasta los picos de las montañas de los Andes que se extienden desde el norte al sureste del país hasta la selva tropical de la cuenca del Amazonas en el este con el río Amazonas. . Con 1,28 millones de km2 (0,5 millones de mi2), Perú es el decimonoveno país más grande del mundo y el tercero más grande de América del Sur."
 
-jobtitle = "Presidente"
+jobtitle = "Presidentee"
 
 [stats]
 Lema: = "Firme y feliz por la Unión"

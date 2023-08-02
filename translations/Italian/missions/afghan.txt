@@ -2,7 +2,7 @@
 name  = afghan
 guiname = "Emirato islamico dell'Afghanistan"
 description = "L'Afghanistan, ufficialmente Repubblica islamica dell'Afghanistan, è un paese senza sbocco sul mare al crocevia dell'Asia centrale e meridionale. L'Afghanistan confina a est ea sud con il Pakistan; Iran a ovest; Turkmenistan, Uzbekistan e Tagikistan a nord; e la Cina a nord-est. Occupando 652.000 chilometri quadrati (252.000 miglia quadrate), è un paese montuoso con pianure a nord e sud-ovest. Kabul è la capitale e la città più grande. La popolazione è di circa 32 milioni, composta principalmente da etnia pashtun, tagiki, hazara e uzbeki."
-jobtitle = "Presidente"
+jobtitle = "Presidentee"
 
 [stats]
 Motto: = "Non c'è nessun dio al di fuori di Allah; Muhammad è il messaggero di Allah."

@@ -1,18 +1,18 @@
 [config]
 name  = hon
-guiname = "Hong Kong Special Administrative Region of the People's Republic of China"
-description = "Hong Kong, officially the Hong Kong Special Administrative Region of the People's Republic of China, is a city and special administrative region of China on the eastern Pearl River Delta in South China. With over 7.5 million residents of various nationalities in a 1,104-square-kilometre (426 sq mi) territory, Hong Kong is one of the most densely populated places in the world. Hong Kong is also one of the three global financial centres and one of the most developed cities in the world."
+guiname = "Región Administrativa Especial de Hong Kong de la República Popular China"
+description = "Hong Kong, oficialmente la Región Administrativa Especial de Hong Kong de la República Popular China, es una ciudad y región administrativa especial de China en el delta oriental del río Pearl en el sur de China. Con más de 7,5 millones de residentes de diversas nacionalidades en un territorio de 1.104 kilómetros cuadrados (426 millas cuadradas), Hong Kong es uno de los lugares más densamente poblados del mundo. Hong Kong es también uno de los tres centros financieros mundiales y una de las ciudades más desarrolladas del mundo."
 
-jobtitle = "Chief Executive"
+jobtitle = "Director Ejecutivo"
 
 [stats]
-Population: = "7,413,070 million (2021)"
-Area: = "2,754.97 km2 (1,063.70 sq mi)"
-Currency: = "Hong Kong dollar (HK$) (HKD)"
-GDP: = "$472.395 billion"
-GDP per capita: = "$62,839"
-Democracy index: = "~5.60/10 (85th)"
-Largest Industry: = "Toursim/Service Sector"
-Capital and largest city: = "Hanoi"
-Driver side: = "left"
-Phone prefix: = "+852"
+Población: = "7.413.070 millones (2021)"
+Área: = " 2,754. 97 km2 (1,063. 70 millas cuadradas)"
+Moneda: = "Dólar de Hong Kong (HK$) (HKD)"
+PIB: = "472.395 millones de dólares"
+PIB per cápita: = "62.839 dólares"
+Índice de democracia: = "~5.60/10 (85º)"
+Industria más Grande: = "Sector Turístico/de Servicios"
+Capital y ciudad más grande: = "Hanoi"
+Lado del conductor: = "izquierdo"
+Prefijo telefónico: = "+852"

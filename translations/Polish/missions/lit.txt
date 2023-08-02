@@ -1,19 +1,19 @@
 [config]
 name  = lit
-guiname = "Republic of Lithuania"
-description = "Lithuania, officially the Republic of Lithuania, is a country in the Baltic region of Europe. It is one of three Baltic states and lies on the eastern shore of the Baltic Sea. Lithuania shares land borders with Latvia to the north, Belarus to the east and south, Poland to the south, and Kaliningrad Oblast of Russia to the southwest. It has a maritime border with Sweden to the west on the Baltic Sea. Lithuania covers an area of 65,300 km2 (25,200 sq mi), with a population of 2.8 million. Its capital and largest city is Vilnius; other major cities are Kaunas and Klaipėda. Lithuanians belong to the ethno-linguistic group of the Balts and speak Lithuanian, one of only a few living Baltic languages."
+guiname = "Republika Litewska"
+description = "Litwa, oficjalnie Republika Litewska, jest krajem w Regionie Bałtyckim w Europie. Jest jednym z trzech państw bałtyckich i leży na wschodnim brzegu Morza Bałtyckiego. Litwa dzieli granice lądowe z Łotwą na północy, Białoruś na wschodzie i południu, Polska na południu i Obwód Kaliningradzki Rosji na południowym zachodzie. Ma morską granicę ze Szwecją na zachodzie nad Morzem Bałtyckim. Litwa zajmuje powierzchnię 65 300 km2 (25 200 2), z populacją 2,8 miliona. Jest stolicą, a największym miastem jest Wilno; inne duże miasta to Kowno i Kłajpeda. Litwini należą do grupy etno-językowej Bałtów i mówią po litewsku, jednym z niewielu żyjących języków bałtyckich."
 
-jobtitle = "President"
+jobtitle = "Przewodniczący"
 
 [stats]
-National Anthem: = "National Hymn"
-Population: = "2,795,680 million (2021 est)"
-Area: = "65,300 km2 (25,200 sq mi)"
-Currency: = "Euro (€) (EUR)"
-GDP: = "$107 billion"
-GDP per capita: = "$41,288"
-Democracy Index: = "~7.18/10 (40th)"
-Biggest Industry: = "Manufacturing"
-Capital (and largest city): = "Vilnius"
-Driving side: =	"right"
-Calling code: = "+370"
+Hymn Narodowy: = "Hymn Narodowy",
+Populacja: = "2 795 680 milionów (2021 est)"
+Powierzchnia: = " 65 300 km2 (25 200 2)"
+Waluta: = " Euro ( € ) (EUR)"
+PKB: = "107 miliardów dolarów"
+PKB per capita: = "$41,288"
+Indeks demokracji: = " ~7.18 /10 (40.)"
+Największa Branża: = "Produkcja"
+Stolica (i największe miasto): = "Wilno"
+Strona jazdy: = "prawo"
+Kod wywołujący: = "+370"

@@ -1,19 +1,19 @@
 [config]
 name  = mex
-guiname = "United Mexican States"
-description = "Mexico, officially the United Mexican States, is a country in the southern portion of North America. It is bordered to the north by the United States; to the south and west by the Pacific Ocean; to the southeast by Guatemala, Belize, and the Caribbean Sea; and to the east by the Gulf of Mexico. Mexico covers 1,972,550 square kilometers (761,610 sq mi), making it the world's 13th-largest country by area; with approximately 126,014,024 inhabitants, it is the 10th-most-populous country and has the most Spanish-speakers. Mexico is organized as a federation comprising 31 states and Mexico City, its capital and largest metropolis. Other major urban areas include Guadalajara, Monterrey, Puebla, Toluca, Tijuana, Ciudad Juárez, and León."
+guiname = "Мексиканські Сполучені Штати"
+description = "Мексика, офіційно Мексиканські Сполучені Штати, - країна в південній частині Північної Америки. На півночі межує зі Сполученими Штатами; на півдні та заході омивається Тихим океаном; на південному сході-Гватемалою, Белізом та Карибським морем; а на сході - Мексиканською затокою. Мексика займає площу 1 972 550 квадратних кілометрів (761 610 кв.миль), що робить її 13-ю за величиною країною у світі за площею; з населенням близько 126 014 024, це 10-та за чисельністю населення країна з найбільшою кількістю іспаномовних. Мексика організована як федерація, що включає 31 штат і Мехіко, його столицю і найбільший мегаполіс. Інші великі міські райони включають Гвадалахару, Монтеррей, Публу, Толуку, Тіхуану, Сьюдад-Хуарес та Леон."
 
-jobtitle = "President"
+jobtitle = "Президент"
 
 [stats]
-National Anthem: = "The Homeland is First"
-Population: = "1.260 million (2020)"
-Area: = "1,972,550 km2 (761,610 sq mi)"
-Currency: = "Mexican peso $ (MXN)"
-GDP: = "$2.7 trillion"
-GDP per capita: = "$21,362"
-Democracy Index: = "6.07/10 (72rd)"
-Biggest Industry: = "Automotive Sector"
-Capital: = "Mexico City"
-Driving side: =	"Right"
-Calling code: = "+52"
+Національний гімн: = "Батьківщина понад усе"
+Населення: = "1,260 мільйона людей (2020)"
+Площа: = " 1 972 550 км2 (761 610 кв. миль)"
+Валюта: = "Мексиканський песо $ (MXN)"
+ВВП: = "2,7 трлн доларів"
+ВВП на душу населення: = "21 362 долари"
+Індекс демократії: = "6.07/10 (72-е місце)"
+Найбільша галузь: = "автомобільний сектор"
+Столиця: = "Мехіко-Сіті"
+Сторона руху: = "права"
+Телефонний код: = "+52"

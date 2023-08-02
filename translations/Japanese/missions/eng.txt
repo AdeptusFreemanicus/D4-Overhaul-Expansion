@@ -1,19 +1,19 @@
 [config]
 name  = eng
-guiname = "England"
-description = "England is a country that is part of the United Kingdom. It shares land borders with Wales to its west and Scotland to its north. The Irish Sea lies northwest of England and the Celtic Sea to the southwest. England is separated from continental Europe by the North Sea to the east and the English Channel to the south. The country covers five-eighths of the island of Great Britain, which lies in the North Atlantic, and includes over 100 smaller islands, such as the Isles of Scilly and the Isle of Wight."
+guiname = "イングランド"
+description = "イギリスはイギリスの一部である国です。 西はウェールズ、北はスコットランドと国境を接しています。 アイルランド海はイングランドの北西にあり、ケルト海は南西にあります。 イングランドは、東は北海、南はイギリス海峡によって大陸ヨーロッパから隔てられています。 この国は、北大西洋にあるグレートブリテン島の8分の5をカバーし、シリー島やワイト島など、100を超える小さな島が含まれています。"
 
-jobtitle = "Monarch"
+jobtitle = "モナーク"
 
 [stats]
-National Anthem: = "God Save the Queen"
-Population: = "56,286,961 (2019 est)"
-Area: = "130,279 km2 (50,301 sq mi)"
-Currency: = "Pound sterling (GBP; £)"
-GVA: = "£1.9 trillion"
-GVA per capita: = "£33,800"
-Democracy Index: = "~8.10/10 (18th)"
-Biggest Industry: = "Manufacturing/Tourism"
-Capital (and largest city): = "London"
-Driving side: =	"left"
-Calling code: = "+44"
+国歌：="神は女王を救う"
+人口:="56,286,961(2019est)"
+面積:="130,279km2(50,301平方マイル)"
+通貨:="英ポンド(GBP;£)"
+GVA：="£1.9兆"
+一人当たりのGVA：="£33,800"
+～8.10/10(第18回)"
+最大の産業：="製造業/観光"
+首都（および最大の都市）：="ロンドン"
+運転側：="左"
+呼び出しコード：="+44"

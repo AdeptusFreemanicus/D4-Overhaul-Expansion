@@ -1,19 +1,19 @@
 [config]
 name  = irl
-guiname = "Republic of Ireland"
-description = "Ireland, Officially the Republic of Ireland, is a country in north-western Europe consisting of 26 of the 32 counties of the island of Ireland. The capital and largest city is Dublin, which is located on the eastern side of the island. Around 40% of the country's population of 5 million people resides in the Greater Dublin Area. The sovereign state shares its only land border with Northern Ireland, which is part of the United Kingdom. It is otherwise surrounded by the Atlantic Ocean, with the Celtic Sea to the south, St George's Channel to the south-east, and the Irish Sea to the east. It is a unitary, parliamentary republic. The legislature, the Oireachtas, consists of a lower house, Dáil Éireann, an upper house, Seanad Éireann, and an elected President (Uachtarán) who serves as the largely ceremonial head of state, but with some important powers and duties. The head of government is the Taoiseach (Prime Minister, literally 'Chief', a title not used in English), who is elected by the Dáil and appointed by the President; the Taoiseach in turn appoints other government ministers."
+guiname = "Republika Irlandii"
+description = "Irlandia, oficjalnie Republika Irlandii, to kraj w północno-zachodniej Europie składający się z 26 Z 32 hrabstw Wyspy Irlandii. Stolicą i największym miastem jest Dublin, który znajduje się po wschodniej stronie Wyspy. Około 40% populacji kraju liczącej 5 milionów ludzi mieszka w aglomeracji Dublina. Suwerenne państwo dzieli jedyną granicę lądową z Irlandią Północną, która jest częścią Wielkiej Brytanii. Poza tym jest otoczony przez Ocean Atlantycki, z Morze Celtyckie na południu, kanał Świętego Jerzego na południowym wschodzie i Morze Irlandzkie na wschodzie. Jest to jednolita, parlamentarna Republika. Władza ustawodawcza, Oireachtas, składa się z izby niższej, Dáil Éireann, izby wyższej, Seanad Éireann i wybranego Przewodniczego (Uachtarán), który służy jako w dużej mierze ceremonialna głowa państwa, ale z pewnymi ważnymi uprawnieniami i obowiązkami. Szef rządu jest Taoiseach (Premier, dosłownie "szef", tytuł nie używany w języku angielskim), który jest wybierany przez Dáil i mianowany przez przewodniczy; Taoiseach z kolei mianuje innych ministrów rządu."
 
-jobtitle = "President"
+jobtitle = "Przewodniczący"
 
 [stats]
-National Anthem: = "The Soldiers' Song"
-Population: = "5 million (2021 est)"
-Area: = "70,273 km2 (27,133 sq mi)"
-Currency: = "Euro (€) (EUR)"
-GDP: = "$500 billion"
-GDP per capita: = "$99,239"
-Democracy Index: = "~9.05/10 (8th)"
-Biggest Industry: = "Export And Trade"
-Capital And Largest City: = "Dublin"
-Driving side: =	"Left"
-Calling code: = "+353"
+Hymn Narodowy: = "Pieśń Żołnierzy"
+Populacja : =" 5 milionów (2021 est)"
+Powierzchnia: = " 70 273 km2 (27 133 2)"
+Waluta: = " Euro ( € ) (EUR)"
+PKB: = "500 miliardów dolarów"
+PKB per capita: = "$99,239"
+Indeks demokracji: = " ~9.05 /10 (8)"
+Największa Branża: = "Eksport I Handel"
+Stolica I Największe Miasto: = "Dublin"
+Align = "Left" 
+Kod wywołujący: = "+353"

@@ -1,17 +1,17 @@
 [config]
 name  = wal
 guiname = "Wales"
-description = "Wales is a country that is part of the United Kingdom. It is bordered by England to the east, the Irish Sea to the north and west, and the Bristol Channel to the south. It had a population in 2011 of 3,063,456 and has a total area of 20,779 km2 (8,023 sq mi). Wales has over 1,680 miles (2,700 km) of coastline and is largely mountainous with its higher peaks in the north and central areas, including Snowdon (Yr Wyddfa), its highest summit. The country lies within the north temperate zone and has a changeable, maritime climate. The capital and largest city is Cardiff."
+description = "Wales ist ein Land, das Teil des Vereinigten Königreichs ist. Es grenzt im Osten an England, im Norden und Westen an die Irische See und im Süden an den Bristolkanal. Es hatte eine Bevölkerung im Jahr 2011 von 3.063.456 und hat eine Gesamtfläche von 20.779 km2 (8.023 Quadratmeilen). Wales hat über 1.680 Meilen (2.700 km) Küstenlinie und ist größtenteils gebirgig mit seinen höheren Gipfeln im Norden und in den zentralen Gebieten, einschließlich Snowdon (Yr Wyddfa), seinem höchsten Gipfel. Das Land liegt in der nördlichen gemäßigten Zone und hat ein wechselhaftes, maritimes Klima. Die Hauptstadt und größte Stadt ist Cardiff."
 
 jobtitle = "Monarch"
 
 [stats]
-Population: = "3,153,000 million (2019 est)"
-Area: = "20,779 km2 (8,023 sq mi)	"
-Currency: = "Pound sterling (GBP; £)"
-GVA: = "£75 billion"
-GVA per capita: = "£23,900"
-Largest Industry: = "Sheeeep"
-Capital and largest city: = "Cardiff"
-Driver side: = "left"
-Phone prefix: = "+44"
+Bevölkerung: = "3.153.000 Millionen (2019 est)"
+Fläche: = "20.779 km2 (8.023 Quadratmeilen)"
+Währung: = "Pfund Sterling (GBP; £)"
+BWS: = "£75 Milliarden"
+Bruttowertschöpfung pro Kopf: = "£23,900"
+Größte Industrie: = "Sheeeep"
+Hauptstadt und größte Stadt: = "Cardiff"
+Fahrerseite: = "links"
+Telefonvorwahl: = "+44"

@@ -1,20 +1,20 @@
 [config]
 name  = taiwan
-guiname = "Republic of China"
-description = "Taiwan, officially the Republic of China, is a country in East Asia. Neighbouring countries include the People's Republic of China to the northwest, Japan to the northeast, and the Philippines to the south. The main island of Taiwan has an area of 35,808 square kilometres (13,826 sq mi), with mountain ranges dominating the eastern two-thirds and plains in the western third, where its highly urbanised population is concentrated. Taipei is the capital as well as the largest metropolitan area of Taiwan. Other major cities include New Taipei, Kaohsiung, Taichung, Tainan and Taoyuan. With 23.57 million inhabitants, Taiwan is among the most densely populated countries."
+guiname = "Republika Chińska"
+description = "Tajwan, oficjalnie Republika Chińska, jest krajem w Azji Wschodniej. Sąsiednie kraje to Chińska Republika Ludowa na północnym zachodzie, Japonia na północnym wschodzie i Filipiny na południu. Główna wyspa Tajwan ma powierzchnię 35 808 kilometrów kwadratowych (13 826 2), z pasmami górskimi dominującymi we wschodnich dwóch trzecich i równinami w zachodniej trzeciej części, gdzie koncentruje się jego wysoce zurbanizowana populacja. Tajpej jest stolicą, a także największym obszarem metropolitalnym Tajwanu. Inne duże miasta to Nowe Tajpej, Kaohsiung, Taichung, Tainan i Taoyuan. Z 23,57 mln mieszkańców Tajwan jest jednym z najgęściej zaludnionych krajów."
 
-jobtitle = "President"
+jobtitle = "Przewodniczący"
 
 [stats]
-National Anthem: = "National Anthem of the Republic of China"
-Population: = "~23.5 million (2020)"
-Area: = "36,197 km2 (13,976 sq mi)"
-Currency: = "New Taiwan dollar (NT$) (TWD)"
-GDP: = "$635.547 billion (~NT$17,935,652,706,112,380.00 TWD)"
-GDP per capita: = "$26,910 (~NT$759,302.84 TWD)"
-Democracy Index: = "~7.73/10 (31th)"
-Biggest Industry: = "Services Sector"
-Capital: = "Taipei"
-Largest City: = "New Taipei"
-Driving side: =	"right"
-Calling code: = "+886"
+Hymn narodowy: = "Hymn Republiki Chińskiej"
+Populacja: = " ~23,5 miliona (2020)"
+Powierzchnia: = "36 197 km2 (13 976 2)"
+Waluta: = " Nowy dolar tajwański (NT$) (TWD)"
+PKB: = " $ 635.547 mld (~NT$17,935,652,706,112,380. 00 TWD)"
+PKB na mieszkańca: = " $26,910 (~NT$759,302. 84 TWD)"
+Indeks demokracji: = " ~7.73 / 10 (31)"
+Największa Branża: = "Sektor Usług"
+Stolica: = "Taipei",
+Największe Miasto: = "New Taipei"
+Strona jazdy: = "prawo"
+Kod wywołujący: = "+ 886"

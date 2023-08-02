@@ -1,22 +1,22 @@
 [config]
 name  = nth
-guiname = "Netherlands"
-description = "The Netherlands, informally Holland, is a country located in Western Europe with territories in the Caribbean. It is the largest of four constituent countries of the Kingdom of the Netherlands. In Europe, the Netherlands consists of twelve provinces, bordering Germany to the east, Belgium to the south, and the North Sea to the northwest, with maritime borders in the North Sea with those countries and the United Kingdom. In the Caribbean, it consists of three special municipalities: the islands of Bonaire, Sint Eustatius and Saba."
+guiname = "Niderlandy"
+description = "Holandia, nieformalnie Holandia, to kraj położony w Europie Zachodniej z terytoriami na Karaibach. Jest to największy z czterech krajów składowych Królestwa Niderlandów. W Europie Holandia składa się z dwunastu prowincji, graniczących z Niemcami na wschodzie, Belgią na południu i Morzem Północnym na północnym zachodzie, z granicami morskimi na Morzu Północnym z tymi krajami i Wielką Brytanią. Na Karaibach składa się z trzech specjalnych gmin: Wysp Bonaire, Sint Eustatius i Saba."
 
-jobtitle = "Monarch"
+jobtitle = "Monarcha"
 
 [stats]
-National Anthem: = "I will maintain"
-Population: = "17.4 million (2020)"	
-Area: = "41,865 km2 (16,164 sq mi)"
-Currency: = "Euro (EUR)"
-GDP: = "$1.012 (~EUR844452000000.00 EUR)"
-GDP per capita: = "$58,003 (~EUR48980.75 EUR)"
-Democracy Index: = "~9.66/10 (9st)"
-Biggest Industry: = "Agriculture And Food Industry"
-Capital And Largest City: = "Amsterdam"
-Driving side: =	"Right"
-Calling code: = "+31"
+Hymn narodowy: = "utrzymam"
+Populacja: = "17,4 miliona (2020)"	
+Powierzchnia: = " 41 865 km2 (16 164 2)"
+Waluta: = " Euro (EUR)"
+PKB: = " $1.012 (~EUR844452000000. 00 EUR)"
+PKB na mieszkańca: = " $58,003 (~EUR48980. 75 EUR)"
+Indeks demokracji: = " ~9.66 /10 (9st)"
+Największy Przemysł: = "Rolnictwo I Przemysł Spożywczy"
+Stolica I Największe Miasto: = "Amsterdam"
+Strona Jazdy: = "Prawo"
+Kod wywołujący: = "+31"
 
 
 

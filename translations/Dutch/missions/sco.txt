@@ -1,18 +1,18 @@
 [config]
 name  = sco
-guiname = "Scotland"
-description = "Scotland is a country that is part of the United Kingdom. Covering the northern third of the island of Great Britain, mainland Scotland has a 96-mile (154-kilometre) border with England to the southeast and is otherwise surrounded by the Atlantic Ocean to the north and west, the North Sea to the northeast and the Irish Sea to the south. The country also contains more than 790 islands, principally in the archipelagos of the Hebrides and the Northern Isles. Most of the population, including the capital Edinburgh, is concentrated in the Central Belt – the plain between the Scottish Highlands and the Southern Uplands – in the Scottish Lowlands."
+guiname = "Schotland"
+description = "Schotland is een land dat deel uitmaakt van het Verenigd Koninkrijk. Het vasteland van Schotland beslaat het noordelijke derde deel van het eiland Groot-Brittannië en heeft een grens van 154 kilometer met Engeland in het zuidoosten en wordt anders omringd door de Atlantische Oceaan in het noorden en westen, de Noordzee in het noordoosten en de Ierse Zee in het zuiden. Het land bevat ook meer dan 790 eilanden, voornamelijk in de archipels van de Hebriden en de noordelijke eilanden. Het grootste deel van de bevolking, inclusief de hoofdstad Edinburgh, is geconcentreerd in de centrale gordel – de vlakte tussen de Schotse Hooglanden en de zuidelijke hooglanden – in de Schotse laaglanden."
 
-jobtitle = "Monarch"
+jobtitle = "Vorst"
 
 [stats]
-National Anthem: = "In my defence God me defend"
-Population: = "5,463,300 people (2019 est)"
-Area: = "77,933 km2 (30,090 sq mi)"
-Currency: = "Pound sterling (GBP; £)"
-GVA: = "£166 billion"
-GVA per capita: = "£30,560"
-Biggest Industry: = "Oil & Gas Exports"
-Capital And Largest City: = "Edinburgh"
-Driving side: =	"left"
-Calling code: = "+44"
+Het lied van de dag: "In my defence God me defend"
+Bevolking: = "5.463.300 mensen (2019 est)"
+Oppervlakte: = "77.933 km2 (30.090 sq mi)"
+Valuta: = "Pond sterling (GBP; £)"
+GVA: = "£166 miljard"
+GVA per hoofd van de bevolking: = "£30.560"
+Grootste Industrie: = "Olie-En Gasexport"
+Hoofdstad En Grootste Stad: = "Edinburgh"
+Rijzijde: = "links"
+Telefooncode: = "+44"

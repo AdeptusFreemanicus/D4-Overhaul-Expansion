@@ -1,20 +1,20 @@
 [config]
 name  = pak
-guiname = "Islamic Republic of Pakistan"
-description = "Pakistan, officially the Islamic Republic of Pakistan, is a country in South Asia. It is the world's fifth-most populous country with a population exceeding 212.2 million. It has the world's second-largest Muslim population. It is the 33rd-largest country by area, spanning 881,913 square kilometres (340,509 square miles). Pakistan has a 1,046-kilometre (650-mile) coastline along the Arabian Sea and Gulf of Oman in the south and is bordered by India to the east, Afghanistan to the west, Iran to the southwest, and China to the northeast. It is separated narrowly from Tajikistan by Afghanistan's Wakhan Corridor in the northwest, and also shares a maritime border with Oman."
+guiname = "파키스탄 이슬람 공화국"
+description = "파키스탄,공식적으로 파키스탄 이슬람 공화국,남아시아에 있는 나라입니다. 인구 가 2 억 1220 만 명 을 초과 하는 세계 에서 다섯 번째로 인구가 많은 나라 입니다. 세계에서 두 번째로 많은 무슬림 인구가 있습니다. 면적에 따라 33 번째로 큰 나라로,881,913 평방 킬로미터(340,509 평방 마일)에 걸쳐 있다. 파키스탄은 남쪽으로는 아라비아 해와 오만 만을 따라 1,046 킬로미터(650 마일)의 해안선을 가지고 있으며 동쪽으로는 인도,서쪽으로는 아프가니스탄,남서쪽으로는 이란,북동쪽으로는 중국과 접한다. 북서쪽으로는 아프가니스탄의 와칸 통로로 타지키스탄과 좁게 분리되어 있으며 오만과 해상 국경을 공유하고 있다."
 
-jobtitle = "President"
+jobtitle = "대통령"
 
 [stats]
-Motto: = "Faith, Unity, Discipline"
-National Anthem: = "The National Anthem (Very Original)"
-Population: = "212.2 million people (2018)"
-Area: = "881,913 km2 (340,509 sq mi)"
-Currency: = "Pakistani rupee (₨) (PKR)"
-GDP: = "$276.1 billion"
-GDP per capita: = "$1,349"
-Democracy Index: = "4.31/10 (105th)"
-Biggest Industry: = "Mining Industry"
-Capital: = "Islamabad"
-Largest City: = "Karachi (Old Capital)"
-Driving side: =	"left"
+좌우명:="믿음,단결,규율"
+국가:="국가(매우 원래)"
+인구:="212.2 백만 명(2018)"
+지역:="881,913 평방 킬로미터(340,509 평방 마일)"
+2015 년 12 월 1 일,파키스탄 루피는 100 만 루피(100 만 루피)를 초과했습니다.
+국내 총생산:="2761 억 달러"
+1 인당 국내 총생산:="$1,349"
+민주주의 지수:="4.31/10(105 위)"
+가장 큰 산업:="광산업"
+수도:="이슬라마바드"
+가장 큰 도시:="카라치(옛 수도)"
+운전 측면:="왼쪽"

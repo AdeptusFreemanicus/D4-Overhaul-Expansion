@@ -1,19 +1,19 @@
 [config]
 name  = russia
-guiname = "The Russian Federation"
-description = "Russia, or the Russian Federation, is a transcontinental country located in Eastern Europe and Northern Asia. It extends from the Baltic Sea in the west to the Pacific Ocean in the east, and from the Arctic Ocean in the north to the Black Sea and the Caspian Sea in the south. Russia covers over 17,125,200 square kilometres (6,612,100 sq mi), spanning more than one-eighth of the Earth's inhabited land area, stretching eleven time zones, and bordering 16 sovereign nations. Moscow is the country's capital and largest city, other major cities include Saint Petersburg, Novosibirsk, Yekaterinburg, Kazan, Nizhny Novgorod, Chelyabinsk and Samara."
+guiname = "Der Russischen Föderation"
+description = "Russland oder die Russische Föderation ist ein transkontinentales Land in Osteuropa und Nordasien. Es erstreckt sich von der Ostsee im Westen bis zum Pazifik im Osten und vom Arktischen Ozean im Norden bis zum Schwarzen Meer und dem Kaspischen Meer im Süden. Russland erstreckt sich über 17.125.200 Quadratkilometer (6.612.100 Quadratmeilen), erstreckt sich über mehr als ein Achtel der bewohnten Landfläche der Erde, erstreckt sich über elf Zeitzonen und grenzt an 16 souveräne Nationen. Moskau ist die Hauptstadt und größte Stadt des Landes, weitere Großstädte sind Sankt Petersburg, Nowosibirsk, Jekaterinburg, Kasan, Nischni Nowgorod, Tscheljabinsk und Samara."
 
-jobtitle = "President"
+jobtitle = "Präsident"
 
 [stats]
-National Anthem: = "State Anthem of the Russian Federation"
-Population: = "146.7 million (2020)"
-Area: = "17,098,246 km2 (6,601,670 sq mi)"
-Currency: = "Russian ruble (₽) (RUB)"
-GDP: = "$4.135 trillion (3.079 quadrillion Russian Rubles)"
-GDP per capita: = "$28,184 (~₽2096728.95 Russian Rubles)"
-Democracy Index: = "3.31/10 (134th)"
-Biggest Industry: = "Services Sector"
-Capital (and largest city): = "Moscow"
-Driving side: =	"right"
-Calling code: = "+7"
+Nationalhymne: = "Staatshymne der Russischen Föderation"
+Bevölkerung: = "146,7 Millionen (2020)"
+Fläche: = "17.098.246 km2 (6.601.670 Quadratmeilen)"
+Währung: = "Russischer Rubel (₽) (RUB)"
+BIP: = "4,135 Billionen US-Dollar (3,079 Billiarden russische Rubel)"
+BIP pro Kopf: = "$28,184 (~₽2096728.95 Russische Rubel)"
+Demokratie-Index: = "3,31/10 (134.)"
+Größte Branche: = "Dienstleistungssektor"
+Hauptstadt (und größte Stadt): = "Moskau"
+Fahrseite: = "rechts"
+Vorwahl: = "+7"

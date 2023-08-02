@@ -1,19 +1,19 @@
 [config]
 name  = lux
-guiname = "Grand Duchy of Luxembourg"
-description = "Luxembourg, officially the Grand Duchy of Luxembourg, is a landlocked country in Western Europe. It is bordered by Belgium to the west and north, Germany to the east, and France to the south. Its capital, Luxembourg City, is one of the four official capitals of the European Union (together with Brussels, Frankfurt, and Strasbourg) and the seat of the Court of Justice of the European Union, the highest judicial authority in the EU. Its culture, people, and languages are highly intertwined with its neighbours, making it a mixture of French and German cultures. It has three official languages: French, German, and the national language of Luxembourgish."
+guiname = "Groothertogdom Luxemburg"
+description = "Luxemburg, officieel het Groothertogdom Luxemburg,is een land in West-Europa. Het wordt begrensd door België in het westen en noorden, Duitsland in het oosten en Frankrijk in het zuiden. De hoofdstad, Luxemburg, is een van de vier officiële hoofdsteden van de Europese Unie (samen met Brussel, Frankfurt en Straatsburg) en de zetel van het Hof van Justitie van de Europese Unie, de hoogste rechterlijke autoriteit in de EU. De cultuur, mensen en talen zijn sterk verweven met de buren, waardoor het een mengeling is van Franse en Duitse culturen. Het heeft drie officiële talen: Frans, Duits en de nationale taal van het Luxemburgs."
 
-jobtitle = "Grand Duke"
+jobtitle = "Groothertog"
 
 [stats]
-Motto: = "We want to remain what we are"
-National Anthem: = "Our Homeland"
-Population: = "626 Hundred Thousand People (2020)"
-Area: = "2,586.4 km2 (998.6 sq mi)"
-Currency: = "Euro (€) (EUR)"
-GDP: = "$69.453 billion"
-GDP per capita: = "$113,196"
-Democracy Index: = "8.68/10 (13th)"
-Biggest Industry: = "Banking"
-Capital And Largest City: = "Luxembourg City"
-Driving side: =	"right"
+Motto: "we willen blijven wat we zijn"
+Volkslied: = "Ons Vaderland"
+Bevolking: = "626 Honderdduizend Mensen (2020)"
+Oppervlakte: = "2.586, 4 km2 (998.6 sq mi)"
+Valuta: = "Euro (€) (EUR)"
+BBP: = "$69.453 miljard"
+BBP per hoofd van de bevolking: = "$113,196"
+Democratie Index: = "8.68/10 (13e)"
+Grootste Sector: = "Bankwezen"
+Hoofdstad En Grootste Stad: = "Luxemburg Stad"
+Rijzijde: = "rechts"

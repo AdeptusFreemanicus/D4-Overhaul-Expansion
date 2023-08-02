@@ -1,19 +1,19 @@
 [config]
 name  = vie
-guiname = "The Socialist Republic of Vietnam"
-description = "Vietnam, officially the Socialist Republic of Vietnam, is a country in Southeast Asia. Located at the eastern edge of mainland Southeast Asia, it covers 311,699 square kilometres. With a population of over 96 million, it is the world's fifteenth-most populous country. Vietnam borders China to the north, Laos and Cambodia to the west, and shares maritime borders with Thailand through the Gulf of Thailand, and the Philippines, Indonesia, and Malaysia through the South China Sea. Its capital is Hanoi and its largest city is Ho Chi Minh City."
+guiname = "Vietnam Sosyalist Cumhuriyeti"
+description = "Vietnam, resmi adıyla Vietnam Sosyalist Cumhuriyeti, Güneydoğu Asya'da bir ülkedir. Güneydoğu Asya anakarasının doğu kenarında yer alan tesis, 311.699 kilometrekarelik bir alanı kaplamaktadır. 96 milyonun üzerinde nüfusu ile dünyanın en kalabalık on beşinci ülkesidir. Vietnam, kuzeyde Çin, batıda Laos ve Kamboçya ile sınır komşusudur ve Tayland Körfezi üzerinden Tayland ile deniz sınırlarını ve Güney Çin Denizi üzerinden Filipinler, Endonezya ve Malezya'yı paylaşır. Başkenti Hanoi ve en büyük şehri Ho Chi Minh Şehri'dir."
 
-jobtitle = "General Secretary"
+jobtitle = "Genel Sekreter"
 
 [stats]
-National Anthem: = "Independence – Liberty – Happiness"
-Population: = "96,208,984 million (2019 est)"
-Area: = "331,699 km2 (128,070 sq mi)"
-Currency: = "đồng (₫) (VND)"
-GDP: = "$1.047 trillion"
-GDP per capita: = "$10,755"
-Democracy index: = "~2.94/10 (131st)"
-Largest Industry: = "Retail Industry"
-Capital and largest city: = "Hanoi"
-Driver side: = "right"
-Phone prefix: = "+84"
+İstiklal Marşı: = "Bağımsızlık – Özgürlük – Mutluluk"
+Nüfus: = "96.208.984 milyon (2019 tahmini)"
+Yüzölçümü: = "331.699 km2 (128.070 mil kare)"
+Para birimi: = "đngng (đ) (VND)"
+GSYİH: = "1.047 trilyon dolar"
+Kişi başına düşen GSYİH: = "10.755 $"
+Demokrasi endeksi: = "~ 2.94 / 10 (131.)"
+En Büyük Endüstri: = "Perakende Sektörü"
+Başkent ve en büyük şehir: = "Hanoi"
+Sürücü tarafı: = "sağ"
+Telefon öneki: = "+84"

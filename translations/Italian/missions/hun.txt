@@ -2,7 +2,7 @@
 name  = hun
 guiname = "Ungheria"
 description = "L'Ungheria è un paese dell'Europa centrale. Con una superficie di 93.030 chilometri quadrati (35.920 miglia quadrate) nel bacino dei Carpazi, confina a nord con la Slovacchia, a nord-est con l'Ucraina, a est e sud-est con la Romania, a sud con la Serbia, a sud-ovest con Croazia e Slovenia e a ovest con l'Austria. . Con circa 10 milioni di abitanti, l'Ungheria è uno stato membro di medie dimensioni dell'Unione Europea. La lingua ufficiale è l'ungherese, che è la lingua uralica più parlata al mondo e tra le poche lingue non indoeuropee ad essere ampiamente parlate in Europa. La capitale e la città più grande dell'Ungheria è Budapest; altre importanti aree urbane includono Debrecen, Szeged, Miskolc, Pécs e Győr."
-jobtitle = "Presidente"
+jobtitle = "Presidentee"
 
 [stats]
 Inno Nazionale: = "Inno"

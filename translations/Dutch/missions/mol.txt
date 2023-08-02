@@ -1,19 +1,19 @@
 [config]
 name  = mol
-guiname = "Republic of Moldova"
-description = "Moldova, officially the Republic of Moldova is a country in Eastern Europe. It is bordered by Romania to the west and Ukraine to the north, east, and south. Ukraine and Moldova reached an agreement in 2005 ensuring Moldova's access to the Black Sea and ending its landlocked status. The unrecognised breakaway region of Transnistria lies across the Dniester on the country's eastern border with Ukraine. The capital and largest city is Chișinău."
+guiname = "Republiek Moldavië"
+description = "Moldavië, officieel de Republiek Moldavië, is een land in Oost-Europa. Het wordt begrensd door Roemenië in het westen en Oekraïne in het noorden, oosten en zuiden. Oekraïne en Moldavië hebben in 2005 een overeenkomst bereikt die de toegang van Moldavië tot de Zwarte Zee garandeert en de status van niet aan zee grenzend Land beëindigt. De niet-erkende separatistische regio Transnistrië ligt aan de andere kant van de Dniester aan de oostelijke grens van het land met Oekraïne. De hoofdstad en grootste stad is Chișinău."
 
 jobtitle = "President"
 
 [stats]
-National Anthem: = "Our language"
-Population: = "2,597,100 million people (2021 est)"
-Area: = "33,843.5 km2 (13,067.0 sq mi)" 
-Currency: = "Moldovan leu (MDL)"
-GDP: = "$36.886 billion"
-GDP per capita: = "$14,257"
-Democracy Index: = "~6.10/10 (69th)"
-Biggest Industry: = "Food Processing"
-Capital and Largest city: = "Chișinău"
-Driving Side: =	"right"
-Calling Code: = "+373"
+Volkslied: = "onze taal"
+Bevolking: = "2,597,100 miljoen mensen (2021 est)"
+Oppervlakte: = "33.843, 5 km2 (13.067, 0 sq mi)" 
+Valuta: = "Moldavische leu (MDL)"
+BBP: = "$36.886 miljard"
+BBP per hoofd van de bevolking: = "$14,257"
+Democratie Index: = " ~6.10/10 (69e)"
+Grootste Industrie: = "Voedselverwerking"
+Hoofdstad en grootste stad: = "Chișinău"
+Rijzijde: = "rechts"
+Telefooncode: = "+373"

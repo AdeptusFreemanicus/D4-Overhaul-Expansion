@@ -1,18 +1,17 @@
 [config]
 name  = canada
-guiname = "Canada"
-description = "Canada is a Federal parliamentary democracy with a constitutional monarchy. The Prime Minister is elected. Formally a colony of Great Britain, the new nation of Canada first became a democracy in 1867. In 1919 women won the vote but it wasn't until 1960 when all Canadian citizens, irrespective of ethnicity, could vote and universal suffrage became law."
+guiname = "Канада"
+description = "Канада є федеральною парламентською демократією з конституційною монархією. Обраний прем'єр-міністр. Формально колонія Великобританії, нова нація Канада вперше стала демократичною в 1867 році. У 1919 році жінки отримали право голосу, але тільки в 1960 році всі громадяни Канади, незалежно від етнічної приналежності, змогли голосувати і загальне виборче право стало законом."
 
-jobtitle = "Prime Minister"
+jobtitle = "прем'єр-міністр"
 
 [stats]
-Population: = "37.742,154 (2020)"
-Size: = "9,984,670 sq km"
-Religion: = "69.3% Christian, 24.9% Unaffiliated, 1.2% Islam, 1.0% Hinduism,1.4% Sikhism"
-Exports: = "Oil, wood, refined fuel, gold, metals and gems"
-World Leader:  = "Longest coastline, quality of life, transparency of government and business"
-National obsessions: =  "Maple Syrup, Ice Hockey, Politeness, Diversity"
-
+Населення: = "37.742,154 (2020)"
+Розмір: = "9,984,670 кв. км"
+Релігія: = "69,3% християни, 24,9% неприєднані, 1,2% Іслам, 1,0% індуїзм,1,4% сикхізм"
+Експорт: = "Нафта, деревина, рафіноване паливо, золото, метали та дорогоцінні камені"
+Світовий лідер: = "найдовша Берегова лінія, якість життя, прозорість уряду та бізнесу"
+Національні нав'язливості: = "кленовий сироп, Хокей, ввічливість, різноманітність"
 
 
 

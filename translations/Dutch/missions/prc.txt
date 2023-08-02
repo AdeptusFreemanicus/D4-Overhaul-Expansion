@@ -1,19 +1,19 @@
 [config]
 name  = prc
-guiname = "People's Republic of China"
-description = "China, officially the People's Republic of China, is a country in East Asia. It is the world's most populous country, with a population of around 1.4 billion in 2019. Covering approximately 9.6 million square kilometers (3.7 million mi2), it is the world's third or fourth-largest country by area. As a one-party state led by the Chinese Communist Party (CCP), it exercises jurisdiction over 22 provinces, five autonomous regions, four direct-controlled municipalities Beijing, Tianjin, Shanghai, and Chongqing, and the special administrative regions of Hong Kong and Macau."
+guiname = "Volksrepubliek China"
+description = "China, officieel de Volksrepubliek China, is een land in Oost-Azië. Het is het meest bevolkte land ter wereld, met een bevolking van ongeveer 1,4 miljard in 2019. Met een oppervlakte van ongeveer 9,6 miljoen vierkante kilometer is het het derde of vierde grootste land ter wereld. Als een eenpartijstaat onder leiding van de Chinese Communistische Partij (CCP) oefent het rechtsmacht uit over 22 provincies, vijf autonome regio 's, vier rechtstreeks gecontroleerde gemeenten Beijing, Tianjin, Shanghai en Chongqing, en de speciale administratieve regio' s Hong Kong en Macau."
 
 jobtitle = "President"
 
 [stats]
-National Anthem: = "March of the Volunteers"
-Population: = "1.4 billion (2019)"
-Area: = "9,596,961 km2 (3,705,407 sq mi)"
-Currency: = "Renminbi ¥"
-GDP: = "$14.9 trillion (~¥2,279,745,824,694.17 CNY)"
-GDP per capita: = "$10,839 (~¥70,844.82 CNY)"
-Democracy Index: = "2.26/10 (153rd)"
-Biggest Industry: = "Manufacturing"
-Capital (and largest city): = "Beijing"
-Driving side: =	"right"
-Calling code: = "+86"
+Volkslied: "Mars van de vrijwilligers"
+Bevolking: = "1,4 miljard (2019)"
+Oppervlakte: = "9.596.961 km2 (3.705.407 sq mi)"
+Valuta: = "Renminbi ¥"
+BBP: = " $14,9 biljoen (~¥2,279,745,824,694.17 CNY)"
+BBP per hoofd van de bevolking: = "$10,839 (~¥70,844.82 CNY)"
+Democratie Index: = "2.26/10 (153rd)"
+Grootste Industrie: = "Productie"
+Hoofdstad (en grootste stad): = "Beijing"
+Rijzijde: = "rechts"
+Telefooncode: = "+86"

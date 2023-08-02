@@ -3,7 +3,7 @@ name  = indo
 guiname = "República de Indonesia"
 description = "Indonesia, oficialmente la República de Indonesia, es un país del sudeste asiático y Oceanía, entre los océanos Índico y Pacífico. Consiste en más de diecisiete mil islas, incluidas Sumatra, Java, Sulawesi y partes de Borneo (Kalimantan) y Nueva Guinea (Papua). Indonesia es el país insular más grande del mundo y el decimocuarto país más grande por área terrestre, con 1.904.569 kilómetros cuadrados (735.358 millas cuadradas). Con 270 millones de habitantes, es el cuarto país más poblado del mundo, así como el país de mayoría musulmana más poblado. Java, la isla más poblada del mundo, alberga a más de la mitad de la población del país."
 
-jobtitle = "Presidente"
+jobtitle = "Presidentee"
 
 [stats]
 Lema: = "Unidad en la diversidad"

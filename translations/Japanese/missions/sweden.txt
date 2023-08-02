@@ -1,21 +1,21 @@
 [config]
 name  = sweden
-guiname = "Kingdom of Sweden"
-description = "Sweden, officially the Kingdom of Sweden, is a Nordic country in Northern Europe. It borders Norway to the west and north, Finland to the east, and is connected to Denmark in the southwest by a bridge-tunnel across the Öresund Strait. At 450,295 square kilometres (173,860 sq mi), Sweden is the largest country in Northern Europe, the third-largest country in the European Union and the fifth largest country in Europe by area. The capital city is Stockholm. Sweden has a total population of 10.4 million of which 2.6 million have a foreign background. Persons with foreign backgrounds are defined as persons who are foreign born, or born in Sweden with foreign born parents. It has a low population density of 25 inhabitants per square kilometre (65/sq mi), with 1 437 persons per km2 in localities. 87% of Swedes live in urban areas, which cover 1.5% of the entire land area. The highest concentration is in the central and southern half of the country."
+guiname = "スウェーデン王国"
+description = "正式にはスウェーデン王国であるスウェーデンは、北ヨーロッパの北欧の国です。 西と北はノルウェー、東はフィンランドと国境を接し、南西はエーレスンド海峡を渡る橋のトンネルでデンマークとつながっています。 450,295平方キロメートル（173,860平方マイル）で、スウェーデンは北ヨーロッパで最大の国であり、欧州連合で第三位の国であり、面積によってヨーロッパで第五位の国である。 首都はストックホルムです。 スウェーデンの総人口は10.4万人であり、そのうち2.6万人は外国人の背景を持っています。 外国人の背景を持つ人は、外国生まれの人、または外国生まれの両親とスウェーデンで生まれた人として定義されています。 人口密度は平方キロメートルあたり25人（65/平方マイル）で、地域では1kmあたり437人である。 スウェーデン人の87％は都市部に住んでおり、土地全体の1.5％をカバーしています。 最も集中しているのは、国の中央半分と南半分です。"
 
-jobtitle = "Prime Minister"
+jobtitle = "内閣総理大臣"
 
 [stats]
-Motto: = "For Sweden – With the Times"
-National Anthem: = "Thou ancient, thou free"
-Royal anthem = "Song of the King"
-Population: = "10.3 million (2020)"
-Area: = "450,295 km2 (173,860 sq mi)"
-Currency: = "Swedish krona kr (SEK)"
-GDP: = "$528.929 billion (~kr4,360,516,224,239,999.50 SEK)"
-GDP per capita: = "$50,339 (kr415,739.29 SEK)"
-Democracy Index: = "~9.39/10 (3rd)"
-Biggest Industry: = "Agriculture"
-Capital And Largest City: = "Stockholm"
-Driving side: =	"right"
-Calling code: = "+46"
+モットー：="スウェーデンのために–時代と"
+国歌：="汝は古代、汝は自由"
+ロイヤルアンセム="王の歌"
+人口：="1030万人（2020年）"
+面積:="450,295km2(173,860sq mi)"
+通貨:="スウェーデンクローナkr(SEK)"
+GDP：="$528.929億（-kr4,360,516,224,239,999.50 セク）"
+一人当たりGDP:="$50,339(kr415,739.29SEK)"
+9.39/10(第3回)
+最大の産業：="農業"
+首都と最大の都市：="ストックホルム"
+運転側：="右"
+呼び出しコード：="+46"

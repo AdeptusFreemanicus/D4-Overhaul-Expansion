@@ -1,20 +1,20 @@
 [config]
 name  = drc
-guiname = "Democratic Republic of the Congo"
-description = "The Democratic Republic of the Congo, informally Congo-Kinshasa, DR Congo, the DRC, the DROC, or the Congo, and formerly and also coloquially Zaire, is a country in Central Africa. It is, by area, the second largest country in Africa (after Algeria), and the 11th-largest in the world. With a population of around 92 million, the Democratic Republic of the Congo is the most populous officially Francophone country in the world. It is a member of the United Nations, Non-Aligned Movement, African Union, COMESA, and the East African Community. The capital and largest city is Kinshasa, which is also the world's most populous Francophone city."
+guiname = "コンゴ民主共和国"
+description = "コンゴ民主共和国、非公式にはコンゴ-キンシャサ、コンゴ民主共和国、コンゴ民主共和国、コンゴ民主共和国、またはコンゴ、そして以前はまたコロキアルザイールは、中央アフリカの国です。 それは、地域によって、アフリカで2番目に大きい国（アルジェリアに次ぐ）であり、世界で11番目に大きい国です。 コンゴ民主共和国の人口は約9200万人で、公式には世界で最も人口の多いフランコフォン国です。 国連、非同盟運動、アフリカ連合、COMESA、東アフリカ共同体のメンバーです。 首都で最大の都市はキンシャサであり、世界で最も人口の多いフランス語圏の都市でもあります。"
 
 
-jobtitle = "President"
+jobtitle = "プレジデント"
 
 [stats]
-National Anthem: = "Justice – Peace – Work"
-Population: = "92 million (2021)"
-Area: = "2,345,409 km2"
-Currency: = "Congolese franc (CDF)"
-GDP: = "$46 billion"
-GDP per capita: = "$501"
-Democracy Index: = "~2.76/10 (164th)"
-Biggest Industry: = "Agriculture Sector/Mining Sector"
-Capital (and largest city): = "Kinshasa"
-Driving side: =	"right"
-Calling code: = "+243"
+国歌：="正義-平和-仕事"
+人口：="9200万人（2021年）"
+面積:="2,345,409km2"
+通貨:="コンゴフラン(CDF)"
+GDP：="460億ドル"
+一人当たりGDP:="$501"
+2.76/10(164位)
+最大の産業：="農業部門/鉱業部門"
+首都（および最大の都市）：="キンシャサ"
+運転側：="右"
+呼び出しコード：="+243"

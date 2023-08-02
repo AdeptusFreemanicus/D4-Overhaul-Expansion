@@ -1,18 +1,17 @@
 [config]
 name  = spain
-guiname = "Spain"
-description = "The Kingdom of Spain's first democratic election took place in June 1977 after the death of Francisco Franco in 1975 who had ruled Spain under a dictatorship since 1939. In 1978, a new democratic constitution was promulgated and approved by referendum. Spain was declared a constitutional parliamentary monarchy with King Juan Carlos I as Head of State and with universal suffrage."
-jobtitle = "Prime Minister"
+guiname = "Spanje"
+description = "De eerste democratische verkiezingen van het Koninkrijk Spanje vonden plaats in juni 1977 na de dood van Francisco Franco in 1975, die Spanje sinds 1939 onder een dictatuur had geregeerd. In 1978 werd een nieuwe democratische grondwet afgekondigd en door middel van een referendum goedgekeurd. Spanje werd tot een constitutionele parlementaire vorst verklaard met koning Juan Carlos I als staatshoofd en met algemeen kiesrecht."
+jobtitle = "Eerste Minister"
 
 [stats]
-Population:=	46,754,778 (2020) according to UN data.
-Size:=	505,990 km2	
-Religion:= 	68% Catholics, 2.6% other faiths and 28% identify as Atheists.
-Exports:= 	Machinery, motor vehicles; foodstuffs, pharmaceuticals, medicines, other consumer goods
-World Leader:=	Health, Organ donation. The third highest number of UNESCO world heritage sites. Generating and exporting renewable energy.
-Member of:=	European Union, United Nations, NATO, OECD
-National obsessions:=	Long lunch breaks, football, healthy Mediterranean diet, family.
-
+Bevolking:= 46.754.778 (2020) volgens VN-gegevens.
+Grootte:= 505.990 km2	
+Religie:= 68% katholieken, 2,6% andere religies en 28% identificeren zich als atheïsten.
+Uitvoer:= Machines, motorvoertuigen; levensmiddelen, farmaceutische producten, Geneesmiddelen, andere consumptiegoederen
+Wereldleider:= gezondheid, orgaandonatie. Het derde hoogste aantal UNESCO-werelderfgoedlocaties. Opwekking en export van hernieuwbare energie.
+Lid van:= Europese Unie, Verenigde Naties, NAVO, OESO
+Nationale obsessies: = lange lunchpauzes, voetbal, gezond Mediterraan dieet, familie.
 
 
 

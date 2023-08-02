@@ -2,7 +2,7 @@
 name  = pak
 guiname = "República Islámica de Pakistán"
 description = "Pakistán, oficialmente la República Islámica de Pakistán, es un país del sur de Asia. Es el quinto país más poblado del mundo con una población que supera los 212,2 millones. Tiene la segunda población musulmana más grande del mundo. Es el 33º país más grande por área, con 881,913 kilómetros cuadrados (340,509 millas cuadradas). Pakistán tiene una costa de 1.046 kilómetros (650 millas) a lo largo del Mar Arábigo y el Golfo de Omán en el sur y limita con India al este, Afganistán al oeste, Irán al suroeste y China al noreste. Está estrechamente separado de Tayikistán por el corredor Wakhan de Afganistán en el noroeste, y también comparte una frontera marítima con Omán."
-jobtitle = "Presidente"
+jobtitle = "Presidentee"
 
 [stats]
 Lema: = "Fe, Unidad, Disciplina"

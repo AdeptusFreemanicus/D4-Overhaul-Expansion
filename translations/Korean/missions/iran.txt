@@ -1,20 +1,20 @@
 [config]
 name  = iran
-guiname = "Islamic Republic of Iran"
-description = "Iran, also called Persia, and officially the Islamic Republic of Iran, is a country in Western Asia; with 83 million inhabitants. It is bordered to the northwest by Armenia and Azerbaijan, to the north by the Caspian Sea, to the northeast by Turkmenistan, to the east by Afghanistan, to the southeast by Pakistan, to the south by the Persian Gulf and the Gulf of Oman, and to the west by Turkey and Iraq. Tehran is the capital and largest city, it is also the most populous city in Western Asia, with more than 8.8 million residents, and up to 15 million including the metropolitan area. Iran is the world's 17th most populous country. Spanning 1,648,195 km2 (636,372 sq mi), it is the second largest country in the Middle East and the 17th largest in the world."
+guiname = "이란 이슬람 공화국"
+description = "이란,또한 페르시아라고,공식적으로 이란의 이슬람 공화국,서아시아의 나라입니다;와 83 만 주민. 북서쪽으로는 아르메니아와 아제르바이잔,북쪽으로는 카스피해,북동쪽으로는 투르크메니스탄,동쪽으로는 아프가니스탄,남동쪽으로는 파키스탄,남쪽으로는 페르시아만과 오만만,서쪽으로는 터키와 이라크와 접한다. 테헤란은 수도이자 가장 큰 도시이며,서아시아에서 가장 인구가 많은 도시이기도 하며,880 만 명 이상의 주민과 대도시 지역을 포함하여 최대 1500 만 명에 달한다. 이란은 세계에서 17 번째로 인구가 많은 나라입니다. 1,648,195 평방 킬로미터(636,372 평방 마일)에 걸쳐 있으며,중동에서 두 번째로 큰 나라이며 세계에서 17 번째로 큰 나라입니다."
 
-jobtitle = "Supreme Leader"
+jobtitle = "최고 지도자"
 
 [stats]
-Motto: = "Independence, freedom, the Islamic Republic"
-National Anthem: = "National Anthem of the Islamic Republic of Iran"
-Population: = "83 million (2019)"
-Area: = "1,648,195 km2 (636,372 sq mi)"
-Currency: = "Rial (IRR)"
-GDP: = "$1.007 trillion (~42,254,256,202,146,760.00 IRR)"
-GDP per capita: = "$11,963 (502,130,255.38 IRR)"
-Democracy Index: = "~2.38/10 (151rd)"
-Biggest Industry: = "Oil and Gas"
-Capital: = "Tehran"
-Driving side: =	"right"
-Calling code: = "+98"
+모토:="독립,자유,이슬람 공화국"
+국가:="이란 이슬람 공화국의 국가"
+인구:="83 백만(2019)"
+지역:="1,648,195 평방 킬로미터(636,372 평방 마일)"
+통화:="리알(리알)"
+2015 년 10 월 1 일(금)~2016 년 10 월 1 일(금)~2016 년 10 월 1 일(금)~2016 년 10 월 1 일(금)~2016 년 10 월 1 일(금)~2016 년 10 월 1 일(금)
+1 인당 국내 총생산:="$11,963(502,130,255.38)"
+민주주의 지수:="~2.38/10(151 번째)"
+가장 큰 산업:="석유 및 가스"
+수도:="테헤란"
+운전 측면:="오른쪽"
+호출 코드:="+98"

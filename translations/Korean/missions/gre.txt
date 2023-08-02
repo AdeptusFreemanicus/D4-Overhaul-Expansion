@@ -1,20 +1,20 @@
 [config]
 name  = gre
-guiname = "Hellenic Republic"
-description = "Greece, officially the Hellenic Republic, is a country located in Southeast Europe. Its population is approximately 10.7 million as of 2018; Athens is its largest and capital city, followed by Thessaloniki. Situated on the southern tip of the Balkans, Greece is located at the crossroads of Europe, Asia, and Africa. It shares land borders with Albania to the northwest, North Macedonia and Bulgaria to the north, and Turkey to the northeast. The Aegean Sea lies to the east of the mainland, the Ionian Sea to the west, the Cretan Sea and the Mediterranean Sea to the south. Greece has the longest coastline on the Mediterranean Basin and the 11th longest coastline in the world at 13,676 km (8,498 mi) in length, featuring many islands, of which 227 are inhabited. Eighty percent of Greece is mountainous, with Mount Olympus being the highest peak at 2,918 metres (9,573 ft). The country consists of nine traditional geographic regions: Macedonia, Central Greece, the Peloponnese, Thessaly, Epirus, the Aegean Islands (including the Dodecanese and Cyclades), Thrace, Crete, and the Ionian Islands."
+guiname = "그리스 공화국"
+description = "그리스,공식적으로 그리스 공화국,동남 유럽에 위치한 나라입니다. 인구는 2018 년 기준으로 약 1070 만 명이며,아테네는 가장 크고 수도이며,테살로니키가 그 뒤를 잇는다. 발칸 반도 의 남쪽 끝 에 위치한 그리스 는 유럽,아시아,아프리카 의 교차로 에 위치 하고 있다. 북서쪽으로는 알바니아,북쪽으로는 북마케도니아와 불가리아,북동쪽으로는 터키와 국경을 접한다. 에게아 해는 대륙의 동쪽,이오니아 해는 서쪽,크레타 해와 지중해는 남쪽에 있다. 그리스는 지중해 연못에서 가장 긴 해안선과 세계에서 11 번째로 긴 해안선을 가지고 있으며,길이는 13,676 킬로미터(8,498 마일)이며,많은 섬들이 있으며,그 중 227 개 섬에는 사람이 살고 있습니다. 그리스의 80%는 산악지대이며,올림푸스 산은 2,918 미터(9,573 피트)의 최고봉이다. 이 나라 는 9 개 의 전통적 지리적 지역 으로 구성 되어 있다.그 지역 은 마케도니아,중앙 그리스,펠로폰네소스,테살리아,에피루스,에게아 해 제도(도데카네스 제도 와 키클라데스 제도 를 포함),트라키아,크레타,이오니아 제도 이다."
 
-jobtitle = "President"
+jobtitle = "대통령"
 
 [stats]
-Motto: = "Freedom or Death"
-National Anthem: = "Hymn to Liberty"
-Population: = "10.7 million (2020)"
-Area: = "131,957 km2 (50,949 sq mi)"
-Currency: = "Euro (€) (EUR)"
-GDP: = "$310.743 billion"
-GDP per capita: = "$29,045"
-Democracy Index: = "~7.39/10 (37th)"
-Biggest Industry: = "Agriculture/Tourism"
-Capital And Largest City: = "Athens"
-Driving side: =	"right"
-Calling code: = "+30"
+모토:="자유 또는 죽음"
+애국가:="자유에 대한 찬송가"
+인구:="10.7 백만(2020)"
+지역:="131,957 평방 킬로미터(50,949 평방 마일)"
+통화:="유로(유로)"(유로)"(유로)"(유로)"(유로)"(유로)"
+2015 년 11 월 1 일
+1 인당 국내 총생산:="$29,045"
+민주주의 지수:="~7.39/10(37 위)"
+가장 큰 산업:="농업/관광"
+자본과 가장 큰 도시:="아테네"
+운전 측면:="오른쪽"
+호출 코드:="+30"

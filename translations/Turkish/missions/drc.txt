@@ -1,20 +1,20 @@
 [config]
 name  = drc
-guiname = "Democratic Republic of the Congo"
-description = "The Democratic Republic of the Congo, informally Congo-Kinshasa, DR Congo, the DRC, the DROC, or the Congo, and formerly and also coloquially Zaire, is a country in Central Africa. It is, by area, the second largest country in Africa (after Algeria), and the 11th-largest in the world. With a population of around 92 million, the Democratic Republic of the Congo is the most populous officially Francophone country in the world. It is a member of the United Nations, Non-Aligned Movement, African Union, COMESA, and the East African Community. The capital and largest city is Kinshasa, which is also the world's most populous Francophone city."
+guiname = "Demokratik Kongo Cumhuriyeti"
+description = "Demokratik Kongo Cumhuriyeti, gayri resmi olarak Kongo-Kinşasa, DR Kongo, DRC, DRC veya Kongo ve eskiden ve aynı zamanda halk dilinde Zaire, Orta Afrika'da bir ülkedir. Bölgeye göre Afrika'nın en büyük ikinci ülkesi (Cezayir'den sonra) ve dünyanın en büyük 11. ülkesidir. Yaklaşık 92 milyon nüfusuyla Demokratik Kongo Cumhuriyeti, dünyanın resmi olarak en kalabalık Frankofon ülkesidir. Birleşmiş Milletler, Bağlantısızlar Hareketi, Afrika Birliği, COMESA ve Doğu Afrika Topluluğunun bir üyesidir. Başkent ve en büyük şehir, aynı zamanda dünyanın en kalabalık Frankofon şehri olan Kinşasa'dır."
 
 
-jobtitle = "President"
+jobtitle = "Başkan"
 
 [stats]
-National Anthem: = "Justice – Peace – Work"
-Population: = "92 million (2021)"
-Area: = "2,345,409 km2"
-Currency: = "Congolese franc (CDF)"
-GDP: = "$46 billion"
-GDP per capita: = "$501"
-Democracy Index: = "~2.76/10 (164th)"
-Biggest Industry: = "Agriculture Sector/Mining Sector"
-Capital (and largest city): = "Kinshasa"
-Driving side: =	"right"
-Calling code: = "+243"
+İstiklal Marşı: = "Adalet - Barış - İş"
+Nüfus: = "92 milyon (2021)"
+Yüzölçümü: = "2.345.409 km2"
+Para birimi: = "Kongolu Frangı (CDF)"
+GSYİH: = "46 milyar dolar"
+Kişi başına düşen GSYİH: = "501 $"
+Demokrasi Endeksi: = "~ 2.76 / 10 (164.)"
+En Büyük Endüstri: = "Tarım Sektörü / Madencilik Sektörü"
+Başkent (ve en büyük şehir): = "Kinşasa"
+Sürüş tarafı: = "sağ"
+Telefon kodu: = "+243"
