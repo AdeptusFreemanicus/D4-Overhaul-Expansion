@@ -5,4 +5,19 @@ guiname = D4 Overhaul & Expansion
 author = Adeptus Freemanicus
 description = D4 Overhaul & Expansion Brings many changes to Democracy 4, This mod will hopefully touch on many things that do need improving and we will take suggestions from you players of Democracy 4!
 
-You may use the mod that I made that is provided, But you may not sell said mod or claim it as your own, You may reupload it in a modpack or add it to a collection but you need to credit me "Dr. Freeman". ©2020 Dr. Freeman
+You must credit me "Bill Joe Freeman AKA Adeptus Freemanicus" if you use, add this mod to a modpack, make verisons of the mod, post the mod on OTHER sites.
+
+I "Bill Joe Freeman AKA Adeptus Freemanicus" hold the right to remove any content or version of the mod that you or anyone else uploads, and you and they 
+must comply with my request.
+
+You may not use my content for commercial use, sell my work, or gain any money from my work.
+
+You MAY add this to a modpack or collection, make verisons of this mod, and post it to other sites that I haven't post the mod in already, but must credit me "Bill Joe Freeman AKA Adeptus Freemanicus"
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the mod/code and must not be modified.
+
+This copyright notice and permission notice is subject to change, you agree to updating the notice that is included in all
+copies or substantial portions of the mod/code and following said changes.
+
+Copyright (c) 2023 Bill Joe Freeman AKA Adeptus Freemanicus
