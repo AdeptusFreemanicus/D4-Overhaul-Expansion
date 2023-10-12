@@ -5,5 +5,5 @@ GUISound = DM4_Nobel Peace Prize.wav
 OnImplement = CreateGrudge(GDP,-0.1,0.70);CreateGrudge(ForeignRelations,-0.02,0.70);CreateGrudge(Tourism,-0.03,0.870);
 
 [influences]
-0 = _random_,0.4,0.7
+0 = _random_,0,0.1
 

@@ -5,6 +5,6 @@ GUISound = DM4_UNSecretaryGeneral.wav
 OnImplement = CreateGrudge(schoolshooting,-0.4,0.83);CreateGrudge(_All_,0.2,0.8);CreateGrudge(Parents,0.3,0.8);
 
 [influences]
-0 = _random_,0.4,0.7
-1 = HandgunLaws,0.20-(0.57*x)
-2 = Health,0.2-(0.45*x),8
+0 = _random_,0,0.7
+1 = HandgunLaws,0.15-(0.50*x)
+2 = Health,0.2-(0.40*x),8

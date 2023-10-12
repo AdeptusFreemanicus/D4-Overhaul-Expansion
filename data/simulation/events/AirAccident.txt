@@ -5,6 +5,6 @@ GUISound = DM4_Plane Crash.wav
 OnImplement = CreateGrudge(GDP,-0.01,0.70);CreateGrudge(_All_,-0.01,0.70);CreateGrudge(MilitarySpending,0.02,0.30);
 
 [influences]
-0 = _random_,0.3,0.5
-2 = MilitarySpending,0+(0.20*x)
+0 = _random_,0,0.2
+2 = MilitarySpending,0+(0.15*x)
 

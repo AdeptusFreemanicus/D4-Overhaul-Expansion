@@ -2,9 +2,9 @@
 name=CartoonCrisis
 
 [influences]
-0 = _random_,0,0.25
-1 = RacialTension,0.0+(0.75*x)
-2 = InternationalTrade,0.0+(0.75*x)
+0 = _random_,0,0.20
+1 = RacialTension,0.0+(0.70*x)
+2 = InternationalTrade,0.0+(0.70*x)
 
 [option0]
 OnImplement = CreateGrudge(Liberal,-0.10,0.9f);CreateGrudge(Patriot,-0.10,0.9f);CreateGrudge(RacialTension,-0.10,0.9f);

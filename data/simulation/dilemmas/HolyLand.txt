@@ -7,7 +7,7 @@ name=HolyLand
 2 = ForeignRelations,0.5-(0.5*x)
 
 [option0]
-OnImplement = CreateGrudge(Socialist,-0.15,0.90);CreateGrudge(Technology,0.05,0.90);CreateGrudge(OilSupply,-0.05,0.90);
+OnImplement = CreateGrudge(Socialist,-0.12,0.90);CreateGrudge(Technology,0.04,0.80);CreateGrudge(OilSupply,-0.04,0.80);
 
 [option1]
-OnImplement = CreateGrudge(Capitalist,-0.15,0.90);CreateGrudge(Technology,-0.05,0.90);CreateGrudge(OilSupply,0.05,0.90);
+OnImplement = CreateGrudge(Capitalist,-0.12,0.90);CreateGrudge(Technology,-0.04,0.80);CreateGrudge(OilSupply,0.04,0.80);

@@ -3,10 +3,10 @@ name=AttackMongolia
 country_specific = russia
 
 [influences]
-0 = _random_,0,0.55
+0 = _random_,0,0.50
 
 [option0]
 OnImplement = CreateGrudge(Patriot,-0.05,0.9);CreateGrudge(ForeignRelations,0.02,0.9);
 
 [option1]
-OnImplement = CreateGrudge(Patriot,0.07,0.9);CreateGrudge(Liberal,-0.03,0.9);CreateGrudge(ForeignRelations,-0.03,0.9);CreateGrudge(GDP,0.02,1.0);
+OnImplement = CreateGrudge(Patriot,0.06,0.9);CreateGrudge(Liberal,-0.03,0.9);CreateGrudge(ForeignRelations,-0.03,0.9);CreateGrudge(GDP,0.02,1.0);

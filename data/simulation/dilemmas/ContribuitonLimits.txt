@@ -5,7 +5,7 @@ name=ContributionLimits
 0 = _random_,0.1,0.4
 
 [option0]
-OnImplement = CreateGrudge(Liberal,-0.23,0.9);CreateGrudge(Wealthy,0.33,0.9);CreateGrudge(Capitalist,0.13,0.9);
+OnImplement = CreateGrudge(Liberal,-0.20,0.9);CreateGrudge(Wealthy,0.30,0.9);CreateGrudge(Capitalist,0.10,0.9);
 
 [option1]
-OnImplement = CreateGrudge(Liberal,0.33,0.9);CreateGrudge(Wealthy,-0.33,0.9);CreateGrudge(Capitalist,-0.13,0.9);
+OnImplement = CreateGrudge(Liberal,0.30,0.9);CreateGrudge(Wealthy,-0.30,0.9);CreateGrudge(Capitalist,-0.10,0.9);

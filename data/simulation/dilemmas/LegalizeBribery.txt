@@ -2,10 +2,10 @@
 name=LegalizeBribery
 
 [influences]
-0 = _random_,0,0.35
+0 = _random_,0,0.30
 
 [option0]
-OnImplement = CreateGrudge(Liberal,0.35,0.9);CreateGrudge(Wealthy,-0.43,0.9);CreateGrudge(Capitalist,-0.23,0.9);
+OnImplement = CreateGrudge(Liberal,0.30,0.8);CreateGrudge(Wealthy,-0.40,0.8);CreateGrudge(Capitalist,-0.20,0.8);
 
 [option1]
-OnImplement = CreateGrudge(Liberal,-0.43,0.9);CreateGrudge(Wealthy,0.5,0.9);CreateGrudge(Capitalist,0.23,0.9);
+OnImplement = CreateGrudge(Liberal,-0.40,0.8);CreateGrudge(Wealthy,0.4,0.8);CreateGrudge(Capitalist,0.20,0.8);
