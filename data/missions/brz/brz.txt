@@ -15,6 +15,8 @@ flag = "flag_brazil.png"
 apathy = 0.41
 map = "map_brazil.svg"
 GUID = 11
+minor_parties = 3
+difficulty = 4
 
 
 [policies]

@@ -16,7 +16,7 @@ apathy = 0.4
 map = "map_eng.svg"
 GUID = 11
 minor_parties = 1
-difficulty = 2
+difficulty = 1
 
 [policies]
 AbortionLaw = 0.75

@@ -15,7 +15,8 @@ starting_debt = 585000
 min_gdp = 440000
 max_gdp = 1240000
 wealth_mod = 2.9
-
+minor_parties = 3
+difficulty = 3
 
 [policies]
 AbortionLaw = 0.75

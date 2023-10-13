@@ -15,6 +15,8 @@ flag = "flag_lit.png"
 apathy = 0.41
 map = "map_lit.svg"
 GUID = 11
+minor_parties = 3
+difficulty = 3
 
 
 [policies]

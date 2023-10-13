@@ -15,7 +15,8 @@ starting_debt = 450000
 min_gdp = 700000
 max_gdp = 2000000
 wealth_mod = 1.0
-
+minor_parties = 3
+difficulty = 4
 
 [policies]
 AdultEducationSubsidies = 0.25

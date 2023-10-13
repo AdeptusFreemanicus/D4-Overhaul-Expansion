@@ -1,5 +1,6 @@
 [config]
 21 = _prereq_sweden
+22 = _prereq_korea
 
 
 

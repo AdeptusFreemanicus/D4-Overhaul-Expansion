@@ -15,6 +15,8 @@ map = "map_mex.svg"
 GUID = 11
 apathy = 0.28
 starting_debt = 700928
+minor_parties = 3
+difficulty = 4
 
 [policies]
 AdultEducationSubsidies = 0.25

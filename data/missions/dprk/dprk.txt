@@ -11,10 +11,12 @@ map = "map_dprk.svg"
 GUID = 11
 fx_rate_to_pound = 0.55
 apathy = 0
-starting_debt = 0
+starting_debt = 5000
 min_gdp = 500000
 max_gdp = 1000000
 wealth_mod = 0.90
+minor_parties = 0
+difficulty = 5
 
 
 [policies]
@@ -64,6 +66,7 @@ Nationalanthemsinschool = 1
 NationalArmedForcesWeek = 1
 NationalService = 1
 NuclearWeapons = 0.6
+Narcotics = 0.1
 PayrollTax = 0.50
 PetrolTax = 0.20
 PoliceForce = 1
@@ -107,7 +110,7 @@ _prereq_mining_industry = 1
 _prereq_deadly_animals = 1
 _prereq_indigenous = 1
 _prereq_sovereign_currency = 1
-
+_prereq_korea = 1
 
 [options]
 COMPULSORY_VOTING

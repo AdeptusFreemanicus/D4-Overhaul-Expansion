@@ -15,7 +15,8 @@ flag = "flag_pol.png"
 map = "map_pol.svg"
 apathy = 0.4
 GUID = 11
-
+minor_parties = 3
+difficulty = 3
 
 [policies]
 AbortionLaw = 0.75

@@ -15,6 +15,8 @@ starting_debt = 57312
 min_gdp = 1000
 max_gdp = 150000
 wealth_mod = 0.40
+minor_parties = 3
+difficulty = 4
 
 
 [policies]
