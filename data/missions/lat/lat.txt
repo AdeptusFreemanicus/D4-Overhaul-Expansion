@@ -130,3 +130,4 @@ interest_rate= 0.03
 
 _prereq_has_coast = 1
 _prereq_land_border = 1
+_prereq_eu = 1

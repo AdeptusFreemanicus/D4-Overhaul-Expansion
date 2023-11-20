@@ -122,6 +122,7 @@ UniversityGrants = 0.25
 WorkSafetyLaw = 0.67
 
 interest_rate= 0.04
+vat= 0.05
 
 _prereq_has_coast = 1
 _prereq_mining_industry = 1

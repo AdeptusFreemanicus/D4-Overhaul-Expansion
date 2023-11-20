@@ -6,3 +6,6 @@
 #,StateAnimalControl,DISCRETE,10,
 #,StateOrphanages,DISCRETE,10,
 #,PoliceTraining,DISCRETE,10,
+#,TaxFraudDepartment,DISCRETE,10,
+#,UNNationStatus,DISCRETE,4,
+#,TheDMZ,DISCRETE,7,

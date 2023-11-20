@@ -117,6 +117,7 @@ StatePensions = 0.33
 StateSchools = 0.70
 
 interest_rate= 0.03
+vat= 0.1
 
 _prereq_has_coast = 1
 _prereq_sovereign_currency = 1

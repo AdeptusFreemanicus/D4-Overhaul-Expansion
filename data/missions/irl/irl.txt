@@ -112,6 +112,7 @@ _prereq_has_coast = 1
 _prereq_mining_industry = 1
 _prereq_hurricane = 1
 _prereq_sovereign_currency = 1
+_prereq_eu = 1
 
 
 [options]

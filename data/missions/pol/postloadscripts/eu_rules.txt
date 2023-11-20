@@ -1,0 +1,2 @@
+AdjustPolicyPoliticalCapital(ImmigrationRules,4.00);
+AdjustPolicyPoliticalCapital(ImportTarrifs,4.00);

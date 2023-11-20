@@ -126,7 +126,7 @@ _prereq_deadly_animals = 1
 _prereq_poachers = 1
 _prereq_indigenous = 1
 _prereq_sovereign_currency = 1
-
+_prereq_eu = 1
 
 [options]
 MULTIPLEPARTIES

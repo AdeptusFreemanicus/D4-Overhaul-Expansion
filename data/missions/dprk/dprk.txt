@@ -104,6 +104,7 @@ TortureUsageBySecretServices = 1
 WitnessProtectionProgram = 1
 
 interest_rate= 0.01
+dmz= 0.5
 
 _prereq_has_coast = 1
 _prereq_mining_industry = 1
@@ -111,6 +112,7 @@ _prereq_deadly_animals = 1
 _prereq_indigenous = 1
 _prereq_sovereign_currency = 1
 _prereq_korea = 1
+_prereq_southkorea
 
 [options]
 COMPULSORY_VOTING

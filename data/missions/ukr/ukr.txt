@@ -112,6 +112,7 @@ StatePensions = 0.33
 StateSchools = 0.45
 
 interest_rate= 0.15
+vat= 0.17
 
 _prereq_has_coast = 1
 _prereq_sovereign_currency = 1
@@ -122,6 +123,7 @@ _prereq_land_border = 1
 _prereq_deadly_animals = 1
 _prereq_reserve_currency = 1
 _prereq_nuclear_tech = 1
+_prereq_eu = 1
 
 [options]
 

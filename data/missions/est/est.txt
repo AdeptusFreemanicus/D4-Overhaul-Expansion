@@ -127,6 +127,8 @@ WorkersOnBoards = 0.75
 WorkSafetyLaw = 0.5
 
 interest_rate= 0.03
+landvaluetax= 0.08
 
 _prereq_has_coast = 1
 _prereq_land_border = 1
+_prereq_eu = 1
