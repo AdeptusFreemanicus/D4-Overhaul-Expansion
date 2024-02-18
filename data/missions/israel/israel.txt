@@ -12,9 +12,9 @@ GUID = 11
 fx_rate_to_pound = 2.0
 apathy = 0.33
 starting_debt = 755000
-min_gdp = 7000000
-max_gdp = 2500000
-wealth_mod = 4790
+min_gdp = 2500000
+max_gdp = 7000000
+wealth_mod = 4.790
 minor_parties = 3
 difficulty = 4
 

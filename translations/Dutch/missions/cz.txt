@@ -1,0 +1,19 @@
+[config]
+name  = cz
+guiname = "Czech Republic"
+description = "The Czech Republic, also known as Czechia, is a landlocked country in Central Europe. Historically known as Bohemia, it is bordered by Austria to the south, Germany to the west, Poland to the northeast, and Slovakia to the southeast. The Czech Republic has a hilly landscape that covers an area of 78,871 square kilometers (30,452 sq mi) with a mostly temperate continental and oceanic climate. The capital and largest city is Prague; other major cities and urban areas include Brno, Ostrava, Plzeň and Liberec."
+
+jobtitle = "President"
+
+[stats]
+National Anthem: = "Where My Home is"
+Population: = "10.5 million (2021)"
+Area: = "78,871 km2 (30,452 sq mi)"
+Currency: = "Czech koruna (CZK)"
+GDP: = "$397 billion (~11,180,000,000,000 CZK)"
+GDP per capita: = "$49,025 (~1,118,000 CZK)"
+Democracy Index: = "~7.97/10 (25st)"
+Biggest Industry: = "Manufacturing"
+Capital And Largest City: = "Prague"
+Driving side: =	"right"
+Calling code: = "+420 (Based)"

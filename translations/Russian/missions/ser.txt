@@ -1,0 +1,19 @@
+[config]
+name  = ser
+guiname = "Republic of Serbia"
+description = "Serbia, officially the Republic of Serbia, is a landlocked country at the crossroads of Southeast and Central Europe, located in the Balkans and the Pannonian Plain. It shares land borders with Hungary to the north, Romania to the northeast, Bulgaria to the southeast, North Macedonia to the south, Croatia and Bosnia and Herzegovina to the west, and Montenegro to the southwest. Serbia claims a border with Albania through the disputed territory of Kosovo. Serbia has about 6.6 million inhabitants, excluding Kosovo. Its capital Belgrade is also the largest city."
+
+jobtitle = "President"
+
+[stats]
+National Anthem: = "God of Justice"
+Population: = "6,647,003 (2022)"
+Area: = "88,499 km2 (34,170 sq mi)"
+Currency: = "Serbian dinar (RSD)"
+GDP: = "$173.075 billion"
+GDP per capita: = "$26,074"
+Democracy Index: = "6.33/10 (68th)"
+Biggest Industry: = "Automotive Industry"
+Capital And Largest City: = "Belgrade"
+Driving side: =	"right"
+Calling code: = "+381"

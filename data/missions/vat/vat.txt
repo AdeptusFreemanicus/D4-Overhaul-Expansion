@@ -1,0 +1,84 @@
+[config]
+currency = "€"
+population = 0.24
+economic_cycle_start = 0.1
+min_income = 0
+max_income = 260000
+name  = italy
+names_file = "data/names/italiannames.txt"
+flag = "flag_vat.png"
+map = "map_vat.svg"
+GUID = 11
+fx_rate_to_pound = 1.11
+apathy = 0.9
+starting_debt = 0
+min_gdp = 8200
+max_gdp = 26200
+wealth_mod = 2.000
+minor_parties = 0
+difficulty = 3
+votingsystem = PR
+
+[policies]
+_prereq_eu = 1
+_prereq_land_border = 1
+_prereq_hurricane = 1
+_prereq_italy = 1
+_prereq_vat = 1
+
+AbortionLaw = 0
+AlcoholLaw = 1
+AlcoholTax = 1
+BanSundayShopping = 1
+bantobacco = 1
+BorderControls = 0.2
+CharityTaxRelief = 1
+CitizenshipTests = 0.1
+DiplomaticService = 1
+DrugEnforcement = 1
+ExecutiveTermLength = 1
+ExecutiveTermLimit = 1
+ForeignAid = 0.5
+HandgunLaws = 1
+IntellectualPropertyRights = 0
+IntelligenceServices = 1
+JudiciaryIndependence = 0
+JunkFoodTax = 1
+LabourLaws = 0.65
+MaternityLeave = 0.5
+MilitarySpending = 0
+Narcotics = 0
+PoliceForce = 0.1
+PressFreedom = 0.2
+PrisonRegime = 0.8
+Prisons = 0
+RetirementAge = 0.5
+RoadBuilding = 0
+SelectiveSchooling = 0.2
+SocialCare = 0.1
+ScienceFunding = 0
+TobaccoTax = 1
+UnemployedBenefit = 0.45
+ImmigrationRules = 0.5
+RefugeePolicy = 0.5
+minimumvotingage = 0.41
+LuxuryGoodsTax = 0.5
+bansocialmedia = 0.4
+statereligion = 1
+Compulsorychurchattendance = 1
+Banhomosexuality = 0.8
+
+AlcoholAwarenessCampaign = 1
+TobaccoAwarenessCampaign = 1
+
+[options]
+MULTIPLEPARTIES
+
+
+
+
+
+
+
+
+

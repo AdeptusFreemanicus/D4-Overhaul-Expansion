@@ -1,0 +1,92 @@
+[config]
+currency = "EHP"
+population = 250
+economic_cycle_start = 0.2
+min_income = 0
+max_income = 20000
+name  = sad
+names_file = "data/names/moroccannames.txt"
+flag = "flag_sad.png"
+map = "map_sad.svg"
+GUID = 11
+fx_rate_to_pound = 0.51
+apathy = 0.51
+starting_debt = 63
+min_gdp = 1000
+max_gdp = 3000
+wealth_mod = 2.9
+minor_parties = 3
+difficulty = 4
+
+[policies]
+AbortionLaw = 0.75
+AirlineTax = 0.1
+AlcoholLaw = 0.50
+AlcoholTax = 0.55
+ArmedPolice = 0.5
+BorderControls = 0.35
+ChildBenefit = 0.62
+CitizenshipTests = 0.65
+CorporationTax = 0.45
+DisabilityBenefit = 0.48
+ExecutiveTermLength = 0
+ExecutiveTermLimit = 1
+FoodStandards = 1
+ForeignAid = 0.0
+GameHunting = 0.85
+HandgunLaws = 0.4
+IncomeTax = 0.55
+InheritanceTax = 0.42
+IntelligenceServices = 0.33
+JudiciaryIndependence = 0.95
+LabourLaws = 0.28
+LegalAid = 0.65
+MarriedTaxAllowance = 0.1
+MaternityLeave = 0.35
+MilitarySpending = 0.32
+MinimumWage = 0.55
+Narcotics = 0.32
+PayrollTax = 0.1
+PetrolTax = 0.08
+PoliceForce = 0.3
+PollutionControls = 0.45
+PressFreedom = 0.95
+PrisonerTagging = 0.25
+PrisonerVoting = 1.0
+PrisonRegime = 0.3
+Prisons = 0.5
+PropertyTax = 0.39
+RentControls = 0.1
+RetirementAge = 0.33
+RoadBuilding = 0.42
+SalesTax = 0.28
+ScienceFunding = 0.3
+SmartMeterProgram = 0.25
+SocialCare = 0.18
+StateBroadcaster = 0.25
+StateEnergy = 0.5
+StateHealthService = 0.28
+StatePensions = 0.20
+StatePostService = 0.8
+StateSchools = 0.5
+StateWater  = 0.67
+WorkSafetyLaw = 0.67
+
+interest_rate= 0.09
+sad= 0.8
+
+_prereq_sad
+_prereq_land_border = 1
+_prereq_sovereign_currency = 1
+
+[options]
+MULTIPLEPARTIES
+
+
+
+
+
+
+
+
+

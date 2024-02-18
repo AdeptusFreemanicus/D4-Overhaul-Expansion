@@ -1,0 +1,119 @@
+[config]
+currency = "RSD"
+population = 3323
+economic_cycle_start = 0.25
+min_income = 0
+max_income = 380000
+name  = ser
+names_file = "data/names/serbiannames.txt"
+flag = "flag_ser.png"
+map = "map_ser.svg"
+GUID = 11
+fx_rate_to_pound = 0.06
+apathy = 0.5
+starting_debt = 273100
+min_gdp = 300000
+max_gdp = 3000000
+wealth_mod = 0.42
+minor_parties = 3
+difficulty = 4
+
+
+[policies]
+AdultEducationSubsidies = 0.2
+AgricultureSubsidies = 0.1
+AirlineTax = 0.05
+AlcoholLaw = 0.60
+AntibioticsBan = 0.5
+ArmedPolice = 0.30
+ArtsSubsidies = 0.2
+Banlowmpgcars = 0.1
+BodyCameras = 0.1
+BorderControls = 0.30
+BusLanes = 0.2
+CapitalGainsTax = 0.15
+CarTax = 0.4
+CCTVCameras = 0.7
+CharityTaxRelief = 1
+ChildBenefit = 0.1
+CitizenshipTests = 0.1
+CleanEnergySubsidies = 0.2
+CompulsorySchoolSports = 0.2
+CorporationTax = 0.25
+DisabilityBenefit = 0.3
+ElectricCarsInitiative = 0.3
+ExecutiveTermLength = 0.5
+ExecutiveTermLimit = 0
+FamilyPlanning = 0.2
+FoodStandards = 0.3
+ForeignAid = 0.3
+GameHunting = 0.5
+HandgunLaws = 0.80
+HybridCarsInitiative = 0.1
+IDCards = 0.5
+IncomeTax = 0.20
+InheritanceTax = 0.1
+IntellectualPropertyRights = 0.4
+IntelligenceServices = 0.2
+ImmigrationRules = 0.20
+JudiciaryIndependence = 0.6
+LaborDayBankHoliday = 0.3
+LabourLaws = 0.5
+MaternityLeave = 0.8
+MilitarySpending = 0.2
+MinimumWage = 0.3
+Narcotics = 0.1
+NeedleExchangeProgram = 0.3
+OrganicSubsidy = 0.4
+PayrollTax = 0.1
+PetrolTax = 0.2
+PoliceForce = 0.3
+PollutionControls = 0.4
+PressFreedom = 0.5
+PropertyTax = 0.1
+PrisonRegime = 0.5
+Prisons = 0.45
+PublicLibraries = 0.3
+RaceDiscriminationAct = 0.3
+Recycling = 0.3
+RetirementAge = 0.35
+RightToPrivacy = 0.4
+RoadBuilding = 0.4
+RefugeePolicy = 0.4
+SalesTax = 0.37
+ScienceFunding = 0.3
+SelectiveSchooling = 0.3
+SmartMeterProgram = 0.2
+SocialCare = 0.15
+StateBroadcaster = 0.45
+StateEnergy = 0.4
+StatePensions = 0.4
+StateRail = 0.2
+StateSchools = 0.5
+StemCells = 0.20
+TechnologyColleges = 0.4
+TechnologyGrants = 0.3
+TobaccoTax = 0.15
+UnemployedBenefit = 0.4
+UniversityGrants = 0.4
+WorkersOnBoards = 0.4
+WorkSafetyLaw = 0.4
+
+interest_rate_eu= 0.06
+landvaluetax = 0.04
+
+_prereq_mining_industry = 1
+_prereq_eu = 1
+
+
+[options]
+MULTIPLEPARTIES
+
+
+
+
+
+
+
+
+

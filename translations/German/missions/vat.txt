@@ -1,0 +1,17 @@
+[config]
+name  = vat
+guiname = "Vatican City State"
+description = "Vatican City, officially the Vatican City State, is a landlocked independent country, city-state, microstate, and enclave within Rome, Italy. It became independent from Italy in 1929 with the Lateran Treaty. With an area of 49 hectares and as of 2023 a population of about 764, it is the smallest state in the world both by area and by population. As governed by the Holy See, Vatican City State is an ecclesiastical or sacerdotal-monarchical state ruled by the Pope, who is the bishop of Rome and head of the Catholic Church. The highest state functionaries are all Catholic clergy of various origins. After the Avignon Papacy (1309–1377) the popes have mainly resided at the Apostolic Palace within what is now Vatican City, although at times residing instead in the Quirinal Palace in Rome or elsewhere. The Vatican is also a metonym for the Holy See."
+
+jobtitle = "Monarch"
+
+[stats]
+National Anthem: = "Inno e Marcia Pontificale"
+Population: = "~764 (2023"
+Area: = "0.49km2 (0.19 sq mi)"
+Currency: = "Euro (€) (EUR)"
+Holyness: = "10/10 (1st)"
+Biggest Industry: = "God"
+Capital And Largest City: = "Vatican City"
+Driving side: =	"right"
+Calling code: = "+379"

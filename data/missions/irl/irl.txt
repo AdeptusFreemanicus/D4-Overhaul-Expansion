@@ -106,7 +106,7 @@ UnemployedBenefit = 0.5
 UniversityGrants = 0.6
 WitnessProtectionProgram = 0.25
 
-interest_rate= 0.02
+interest_rate_eu= 0.02
 
 _prereq_has_coast = 1
 _prereq_mining_industry = 1

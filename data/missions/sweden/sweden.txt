@@ -123,7 +123,7 @@ WelfareFraudDept = 0.75
 WorkersOnBoards = 0.75
 WorkSafetyLaw = 0.85
 
-interest_rate= 0.03
+interest_rate_eu= 0.03
 
 _prereq_royal_family = 1
 _prereq_nuclear_tech = 1

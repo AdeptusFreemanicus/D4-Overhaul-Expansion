@@ -20,7 +20,7 @@ difficulty = 2
 
 
 [policies]
-AbortionLaw = 0.75
+AbortionLaw = 0
 AdultEducationSubsidies = 0.55
 AlcoholAwarenessCampaign = 1.0
 AgricultureSubsidies = 0.7

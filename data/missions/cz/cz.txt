@@ -1,0 +1,120 @@
+[config]
+currency = "CZK"
+population = 4830
+economic_cycle_start = 0.25
+min_income = 0
+max_income = 572000
+name  = cz
+names_file = "data/names/czechnames.txt"
+flag = "flag_cz.png"
+map = "map_cz.svg"
+GUID = 11
+fx_rate_to_pound = 0.09
+apathy = 0.54
+starting_debt = 393100
+min_gdp = 550000
+max_gdp = 5500000
+wealth_mod = 0.5
+minor_parties = 3
+difficulty = 2
+
+
+[policies]
+AdultEducationSubsidies = 0.5
+AgricultureSubsidies = 0.40
+AlcoholLaw = 0.50
+AntibioticsBan = 0.5
+ArmedPolice = 0.30
+ArtsSubsidies = 0.30
+Banlowmpgcars = 0.1
+BicycleSubsidies = 0.3
+BiofuelSubsidies = 0.5
+BodyCameras = 0.5
+BorderControls = 0.1
+BusLanes = 0.3
+BusSubsidies = 0.4
+CarEmmissionsLimits = 0.25
+CarTax = 0.3
+CCTVCameras = 0.2
+CharityTaxRelief = 0.20
+ChildBenefit = 0.5
+CitizenshipTests = 0.5
+CleanEnergySubsidies = 0.5
+CorporationTax = 0.19
+CyclingCampaign = 0.4
+DisabilityBenefit = 0.5
+EcoHomeRegulations = 0.3
+ElectricCarsInitiative = 0.5
+ExecutiveTermLength = 0.5
+ExecutiveTermLimit = 0
+FamilyPlanning = 0.4
+FoodStandards = 0.4
+ForeignAid = 0.45
+GameHunting = 0.5
+HandgunLaws = 0.6
+IDCards = 0.5
+IncomeTax = 0.19
+IntellectualPropertyRights = 0.75
+IntelligenceServices = 0.2
+ImmigrationRules = 0.8
+JudiciaryIndependence = 0.80
+LaborDayBankHoliday = 0.5
+LabourLaws = 0.65
+MaternityLeave = 0.85
+MilitarySpending = 0.30
+MinimumWage = 0.35
+Narcotics = 1
+NeedleExchangeProgram = 0.5
+OrganicSubsidy = 0.3
+PayrollTax = 0.19
+PetrolTax = 0.3
+PoliceForce = 0.30
+PollutionControls = 0.6
+PressFreedom = 0.40
+PropertyTax = 0.60
+PrisonerTagging = 0.35
+PrisonRegime = 0.2
+Prisons = 0.3
+PublicLibraries = 0.2
+Recycling = 0.40
+RentControls = 0.3
+RetirementAge = 0.35
+RightToPrivacy = 0.2
+RoadBuilding = 0.50
+RefugeePolicy = 0.50
+SalesTax = 0.20
+ScienceFunding = 0.3
+SelectiveSchooling = 0.5
+SmartMeterProgram = 0.4
+SocialCare = 0.2
+StateBroadcaster = 0.45
+StateEnergy = 0.35
+StatePensions = 0.4
+StateRail = 0.5
+StateSchools = 0.4
+StemCells = 0.20
+TechnologyColleges = 0.4
+TechnologyGrants = 0.3
+TobaccoTax = 0.2
+UnemployedBenefit = 0.70
+UniversityGrants = 0.5
+WorkSafetyLaw = 0.6
+
+interest_rate_eu= 0.08
+
+_prereq_mining_industry = 1
+_prereq_sovereign_currency = 1
+_prereq_eu = 1
+
+
+[options]
+MULTIPLEPARTIES
+
+
+
+
+
+
+
+
+

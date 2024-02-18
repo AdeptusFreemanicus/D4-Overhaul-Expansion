@@ -1,0 +1,127 @@
+[config]
+currency = "€"
+population = 3
+economic_cycle_start = 0.1
+min_income = 0
+max_income = 160000
+name  = sao
+names_file = "data/names/italiannames.txt"
+flag = "flag_sao.png"
+map = "map_sao.svg"
+GUID = 11
+fx_rate_to_pound = 1.11
+apathy = 0.29
+starting_debt = 26
+min_gdp = 82000
+max_gdp = 262000
+wealth_mod = 2.000
+minor_parties = 3
+difficulty = 3
+votingsystem = PR
+
+[policies]
+_prereq_land_border = 1
+_prereq_hurricane = 1
+_prereq_italy = 1
+
+AbortionLaw = 0.75
+AirlineTax = 0.05
+AlcoholLaw = 0.3
+AlcoholTax = 0.45
+AntibioticsBan = 0.5
+ArmedPolice = 0.5
+AgricultureSubsidies = 0.68
+BanSundayShopping = 0.75
+BorderControls = 0.5
+BusinessStartupCampaign = 0.1
+CapitalGainsTax = 0.25
+CarTax = 0.95
+CharityTaxRelief = 0.2
+ChildBenefit = 0.76
+CitizenshipTests = 0.1
+ConsumerRights = 0.5
+CorporationTax = 0.23
+CCTVCameras = 0.2
+CommunityPolicing = 0.5
+DiplomaticService = 0.1
+DisabilityBenefit = 0.5
+DrugEnforcement = 0.5
+DrugTreatment = 0.25
+ExecutiveTermLength = 0.1
+ExecutiveTermLimit = 0
+FamilyPlanning = 0.3
+FoodStandards = 0.65
+ForeignAid = 0.21
+GameHunting = 0.5
+HandgunLaws = 0.66
+IDCards = 0.25
+IncomeTax = 0.55
+InheritanceTax = 0.1
+IntellectualPropertyRights = 0.9
+IntelligenceServices = 0.5
+JudiciaryIndependence = 0.66
+JunkFoodTax = 0.65
+LaborDayBankHoliday = 0.5
+LabourLaws = 0.65
+LegalAid = 0.6
+MarriedTaxAllowance = 0.2
+MaternityLeave = 0.5
+MilitarySpending = 0.3
+MortgageTaxRelief = 0.2
+Narcotics = 0.15
+PayrollTax = 0.4
+PetrolTax = 0.64
+PlasticBagTax = 0.5
+PoliceDrones = 0.2
+PoliceForce = 0.5
+PollutionControls = 0.35
+PressFreedom = 0.5
+PrisonRegime = 0.5
+Prisons = 0.5
+PropertyTax = 0.1
+Recycling = 0.6
+RetirementAge = 0.5
+RightToPrivacy = 0.5
+RoadBuilding = 0.3
+SalesTax = 0.55
+SmallBusinessGrants = 0.2
+ScienceFunding = 0.5
+SelectiveSchooling = 0.2
+SocialCare = 0.1
+SpeedCameras = 0.65
+StateAirline = 0.8
+StateBroadcaster = 0.5
+StateEnergy = 0.2
+StateHealthService = 0.4
+StateHousing = 0.4
+StatePensions = 0.55
+StatePostService = 0.61
+StateRail = 0.55
+StateSchools = 0.66
+StateWater = 0.5
+TobaccoTax = 0.15
+TollRoads = 0.75
+UnemployedBenefit = 0.45
+UniversityGrants = 0.65
+WitnessProtectionProgram = 0.5
+WorkSafetyLaw = 0.35
+CitizenshipForSale = 0.25
+ImmigrationRules = 0.5
+RefugeePolicy = 0.5
+competitionlaw = 0.35
+
+minimumvotingage = 0.41
+partydonations = 0
+voterid = 0.66
+
+[options]
+MULTIPLEPARTIES
+
+
+
+
+
+
+
+
+

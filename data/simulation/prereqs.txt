@@ -1,8 +1,8 @@
 [config]
 21 = _prereq_sweden
-22 = _prereq_korea
-
-
+22 = _prereq_northkorea
+23 = _prereq_vat
+24 = _prereq_mor
 
 
 

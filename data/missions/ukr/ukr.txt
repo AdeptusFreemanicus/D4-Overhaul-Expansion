@@ -123,7 +123,6 @@ _prereq_land_border = 1
 _prereq_deadly_animals = 1
 _prereq_reserve_currency = 1
 _prereq_nuclear_tech = 1
-_prereq_eu = 1
 
 [options]
 
