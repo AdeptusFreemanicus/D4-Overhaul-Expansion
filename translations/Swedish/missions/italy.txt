@@ -1,0 +1,27 @@
+[config]
+name  = italy
+guiname = "Italy"
+description = "Italy is a parliamentary republic with a multi-party system. Italy became a democracy in 1946, when the monarchy was abolished by popular referendum. Italy operates a a mixed system, with 37% of seats allocated using a first past the post electoral system and 61% using a proportional method, with one round of voting. As recently as 2019, due to frequent failures of coalitions, Italy was considered a flawed democracy."
+jobtitle = "President"
+
+[stats]
+Population:= 	60,461,826 people at mid 2020 according to UN data.
+Size:=	301,340 km²
+
+Religion:= 	Catholic (69%), Eastern Orthodox (4%), Atheism and Agnostic (14%). 
+Exports:= 	Machinery including computers, vehicles & parts, pharmaceuticals, electrical machinery, plastics, gems & precious metals, articles of iron or steel.
+World Leader:=	Heritage (culture, history, food). The most UNESCO sites. The world's largest wine producer. First country with compulsory climate change lessons for all children.
+Member of:=	European Union, United Nations, NATO, OECD
+National obsessions:=	Coffee, football, healthy Mediterranean diet, family.
+
+
+
+
+
+
+
+
+
+
+
+

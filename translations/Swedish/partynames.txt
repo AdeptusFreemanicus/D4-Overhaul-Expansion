@@ -1,0 +1,79 @@
+[names]
+Justice Coalition
+Family Values Party
+Labor League
+Justice League
+Det Gröna Kollektivet
+herravälde
+Folkets Valparti
+Liberal Justice Wing
+Rörelsen för rättvisa
+Frihetsbrigaden
+Holy Justice Alliance
+Futuristpartiet
+Folkdemokraterna
+De Populära Republikanerna
+Republikanska Partiet
+Demokratiska Partiet
+De Nya Teknokraterna
+National Technocrats Party
+Jämställdhetspartiet
+Framtidens Demokrater
+Vetenskapspartiet
+Industripartiet
+Civil Rights League
+Modern Family Party
+Natural Law Party
+De Radikala Demokraterna
+De Radikala Lojalisterna
+Partiet För Förändring
+Rörelsen för sann frihet
+De Egalitära Demokraterna
+De Egalitära Republikanerna
+Den Nykolonialistiska Ligan
+Social Justice Party
+Konstitutionspartiet
+Antikorruptionsrörelsen
+Socialist Revolutionary Party
+Libertarian Freedom League
+Patriotiska Alliansen
+Troens Försvarare
+Den Kommunistiska Alliansen
+Progressive Change Party
+Rörelsen För Radikal Förändring
+No Going Back Party
+United Diversity Alliance
+Stoppa Patriarkatets Parti
+Det Eviga Frihetspartiet
+Unity Pacifists
+De Demokratiska Moderaterna
+Förenade Moderaterna
+De Nya Moderaterna
+De Förenade Republikanerna
+Socialistförbundet
+De Revolutionära Kapitalisterna
+Äganderättspartiet
+Partiet Grundläggande Rättigheter
+Progressiva Fundamentalister
+Eco Union
+Techno-Miljöaktivisterna
+Den Gröna Alliansen
+Citizens Alliance
+Absolute Unity Party
+socialdemokrat
+fackföreningsmedlem
+Förenade Högern
+Förenade Vänstern
+Den Nya Högern
+Den Nya Vänstern
+Progressive Fascist Party
+Välfärdsreformpartiet
+Reform Society
+Radikala Reformpartiet
+
+
+
+
+
+
+

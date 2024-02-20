@@ -1,0 +1,23 @@
+[config]
+name  = canada
+guiname = "Canada"
+description = "Canada is a Federal parliamentary democracy with a constitutional monarchy. The Prime Minister is elected. Formally a colony of Great Britain, the new nation of Canada first became a democracy in 1867. In 1919 women won the vote but it wasn't until 1960 when all Canadian citizens, irrespective of ethnicity, could vote and universal suffrage became law."
+
+jobtitle = "Prime Minister"
+
+[stats]
+Population: = "37.742,154 (2020)"
+Size: = "9,984,670 sq km"
+Religion: = "69.3% Christian, 24.9% Unaffiliated, 1.2% Islam, 1.0% Hinduism,1.4% Sikhism"
+Exports: = "Oil, wood, refined fuel, gold, metals and gems"
+World Leader:  = "Longest coastline, quality of life, transparency of government and business"
+National obsessions: =  "Maple Syrup, Ice Hockey, Politeness, Diversity"
+
+
+
+
+
+
+
+
+

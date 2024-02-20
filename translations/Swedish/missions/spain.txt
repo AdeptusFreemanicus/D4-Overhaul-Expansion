@@ -1,0 +1,24 @@
+[config]
+name  = spain
+guiname = "Spain"
+description = "The Kingdom of Spain's first democratic election took place in June 1977 after the death of Francisco Franco in 1975 who had ruled Spain under a dictatorship since 1939. In 1978, a new democratic constitution was promulgated and approved by referendum. Spain was declared a constitutional parliamentary monarchy with King Juan Carlos I as Head of State and with universal suffrage."
+jobtitle = "Prime Minister"
+
+[stats]
+Population:=	46,754,778 (2020) according to UN data.
+Size:=	505,990 km2	
+Religion:= 	68% Catholics, 2.6% other faiths and 28% identify as Atheists.
+Exports:= 	Machinery, motor vehicles; foodstuffs, pharmaceuticals, medicines, other consumer goods
+World Leader:=	Health, Organ donation. The third highest number of UNESCO world heritage sites. Generating and exporting renewable energy.
+Member of:=	European Union, United Nations, NATO, OECD
+National obsessions:=	Long lunch breaks, football, healthy Mediterranean diet, family.
+
+
+
+
+
+
+
+
+
+
