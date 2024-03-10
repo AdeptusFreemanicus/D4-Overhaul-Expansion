@@ -1,11 +1,11 @@
 [config]
-currency = "SA"
+currency = "OMR"
 population = 2260
 economic_cycle_start = 0.20
 min_income = 0
 max_income = 15000
 name  = oma
-names_file = "data/names/omaninames.txt"
+names_file = "data/names/arabicnames.txt"
 flag = "flag_oma.png"
 map = "map_oma.svg"
 GUID = 11
