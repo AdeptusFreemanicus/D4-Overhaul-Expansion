@@ -6,6 +6,7 @@ description = "Chile, officially the Republic of Chile, is a country in western 
 jobtitle = "President"
 
 [stats]
+Completeness: = "2/5"
 Motto: = "By Right or Might"
 National Anthem: = "Himno Nacional de Chile"
 Population: = "17.5 million people (2017)"

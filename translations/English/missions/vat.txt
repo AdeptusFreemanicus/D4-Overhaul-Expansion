@@ -6,6 +6,7 @@ description = "Vatican City, officially the Vatican City State, is a landlocked 
 jobtitle = "Monarch"
 
 [stats]
+Completeness: = "2.5/5"
 National Anthem: = "Inno e Marcia Pontificale"
 Population: = "~764 (2023"
 Area: = "0.49km2 (0.19 sq mi)"

@@ -6,6 +6,7 @@ description = "China, officially the People's Republic of China, is a country in
 jobtitle = "President"
 
 [stats]
+Completeness: = "2.1/5"
 National Anthem: = "March of the Volunteers"
 Population: = "1.4 billion (2019)"
 Area: = "9,596,961 km2 (3,705,407 sq mi)"

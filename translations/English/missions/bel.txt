@@ -6,6 +6,7 @@ description = "Belgium, officially the Kingdom of Belgium, is a country in Weste
 jobtitle = "Monarch"
 
 [stats]
+Completeness: = "2/5"
 Motto: = "Unity makes strength"
 National Anthem: = "The Brabantian"
 Population: = "11.5 million (2020)"

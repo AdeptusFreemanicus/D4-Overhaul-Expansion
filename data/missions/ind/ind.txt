@@ -1,7 +1,7 @@
 [config]
 currency = "₹"
 population = 708865
-economic_cycle_start = 0.2
+economic_cycle_start = 0.25
 min_income = 0
 max_income = 195000
 name  = ind
@@ -57,7 +57,7 @@ ForeignAid = 0.16
 FreeSchoolMeals = 0.15
 GameHunting = 0.25
 GatedCommunities = 0.69
-GayMarriage = 0.75
+GayMarriage = 0
 GenderDiscriminationAct = 0.25
 GenderTransition = 0.35
 HandgunLaws = 0.4
@@ -118,6 +118,7 @@ StateSchools = 0.70
 
 interest_rate= 0.03
 vat= 0.1
+un_nation_status= 0.8
 
 _prereq_has_coast = 1
 _prereq_sovereign_currency = 1

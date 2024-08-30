@@ -6,6 +6,7 @@ description = "Luxembourg, officially the Grand Duchy of Luxembourg, is a landlo
 jobtitle = "Grand Duke"
 
 [stats]
+Completeness: = "2/5"
 Motto: = "We want to remain what we are"
 National Anthem: = "Our Homeland"
 Population: = "626 Hundred Thousand People (2020)"

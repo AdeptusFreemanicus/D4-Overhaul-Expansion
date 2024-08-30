@@ -6,6 +6,7 @@ description = "Latvia, officially the Republic of Latvia, is a country in the Ba
 jobtitle = "President"
 
 [stats]
+Completeness: = "2/5"
 National Anthem: = "God Bless Latvia!"
 Population: = "1.9 million (2018)"
 Area: = "64,589 km2"

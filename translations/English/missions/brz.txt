@@ -6,6 +6,7 @@ description = "Brazil, officially the Federative Republic of Brazil, is the larg
 jobtitle = "President"
 
 [stats]
+Completeness: = "2/5"
 Motto: = "Order and Progress"
 National Anthem: = "Brazilian National Anthem"
 Population: = "210 million (2019)"

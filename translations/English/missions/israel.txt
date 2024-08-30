@@ -6,6 +6,7 @@ description = "Israel, officially known as the State of Israel, is a country in 
 jobtitle = "President"
 
 [stats]
+Completeness: = "2/5"
 National Anthem: = "The Hope"
 Population: = "9.3 million people (2021)"
 Area: = "20,770–22,072 km2 (8,019–8,522 sq mi)"

@@ -6,6 +6,7 @@ description = "Malaysia is a country in Southeast Asia. The federal constitution
 jobtitle = "Prime Minister"
 
 [stats]
+Completeness: = "2/5"
 Motto: = "Unity Is Strength"
 National Anthem: = "My Country"
 Population: = "32,7 million (2020 est)"

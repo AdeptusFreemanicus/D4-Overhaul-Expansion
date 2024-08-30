@@ -6,6 +6,7 @@ description = "Sweden, officially the Kingdom of Sweden, is a Nordic country in 
 jobtitle = "Prime Minister"
 
 [stats]
+Completeness: = "2/5"
 Motto: = "For Sweden – With the Times"
 National Anthem: = "Thou ancient, thou free"
 Royal anthem = "Song of the King"

@@ -6,6 +6,7 @@ description = "Saudi Arabia, officially the Kingdom of Saudi Arabia, is a countr
 jobtitle = "King"
 
 [stats]
+Completeness: = "2.1/5"
 Motto: = "There is no god but God; Muhammad is the messenger of God."
 National Anthem: = "National Anthem of Saudi Arabia"
 Population: = "34,218,169 people (2019 est)"

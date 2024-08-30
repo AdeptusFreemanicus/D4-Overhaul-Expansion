@@ -1,7 +1,7 @@
 [config]
 currency = "kr"
 population = 5122
-economic_cycle_start = 0
+economic_cycle_start = 0.25
 min_income = 0
 max_income = 140000
 name  = sweden
@@ -124,6 +124,7 @@ WorkersOnBoards = 0.75
 WorkSafetyLaw = 0.85
 
 interest_rate_eu= 0.03
+un_nation_status= 0.8
 
 _prereq_royal_family = 1
 _prereq_nuclear_tech = 1

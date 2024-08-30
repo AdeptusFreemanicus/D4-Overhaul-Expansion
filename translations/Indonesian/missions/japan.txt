@@ -1,0 +1,27 @@
+[config]
+name  = jepang
+guiname = "Jepang"
+description = "Jepang adalah negara monarki konstitusional parlementer dengan kaisar seremonial dan parlemen bikameral. Kaisar saat ini adalah Naruhito, setelah Akihito turun takhta pada tahun 2019. Dewan Perwakilan Rakyat memiliki 465 kursi dan Majelis Tinggi memiliki 245 kursi. Perwakilan harus berusia minimal 25 tahun dan anggota dewan minimal 30 tahun. Usia minimum untuk memilih dikurangi dari 20 menjadi 18 tahun pada tahun 2016. Jepang dibagi menjadi 47 prefektur, masing-masing diawasi oleh seorang gubernur terpilih."
+jobtittle = "Perdana Menteri"
+
+[stats]
+Populasi:= "126.3 juta"
+Ukuran:=   "377,975 sq km"
+Etnis:=    "98.1% Jepang 0.5% China 0.4% Korea"
+Agama:=    "Shintoi(70.4%) Kristen (1.5%)
+Eksport:=  "Mobil, Besi, Baja, Semikonduktor".
+Pemimpin dunia:= "Produksi robotika"
+Anggota dari:=	"Perserikatan Bangsa-Bangsa, OECD, WTO, G7"
+Obsesi nasional:= "Video Game, Animasi"
+
+
+
+
+
+
+
+
+
+
+
+

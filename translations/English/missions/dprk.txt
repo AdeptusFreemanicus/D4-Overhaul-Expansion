@@ -6,6 +6,7 @@ description = "North Korea, officially the Democratic People's Republic of Korea
 jobtitle = "Supreme Leader"
 
 [stats]
+Completeness: = "2.2/5"
 National Anthem: = "The Patriotic Song"
 Population: = "25.5 million (2018)"
 Area: = "120,540 km2 (46,540 sq mi)"

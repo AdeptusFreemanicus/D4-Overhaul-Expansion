@@ -1,7 +1,7 @@
 [config]
 currency = "K"
 population = 27101
-economic_cycle_start = 0
+economic_cycle_start = 0.25
 min_income = 0
 max_income = 12000
 min_gdp = 80000
@@ -142,6 +142,7 @@ WitnessProtectionProgram = 0.5
 WorkSafetyLaw = 0.6
 
 interest_rate_eu= 0.08
+un_nation_status= 0.8
 
 _prereq_royal_family = 1
 _prereq_nuclear_tech = 1

@@ -6,6 +6,7 @@ description = "Russia, or the Russian Federation, is a transcontinental country 
 jobtitle = "President"
 
 [stats]
+Completeness: = "2.2/5"
 National Anthem: = "State Anthem of the Russian Federation"
 Population: = "146.7 million (2020)"
 Area: = "17,098,246 km2 (6,601,670 sq mi)"

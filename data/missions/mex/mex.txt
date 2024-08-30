@@ -1,7 +1,7 @@
 [config]
 currency = "$"
 population = 64466
-economic_cycle_start = 0
+economic_cycle_start = 0.25
 min_income = 0
 max_income = 120000
 min_gdp = 800000
@@ -132,6 +132,7 @@ WorkSafetyLaw = 0.6
 interest_rate= 0.08
 landvaluetax= 0.01
 vat= 0.16
+un_nation_status= 0.8
 
 _prereq_nuclear_tech = 1
 _prereq_hurricane = 1

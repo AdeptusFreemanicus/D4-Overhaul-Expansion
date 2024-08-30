@@ -6,6 +6,7 @@ description = "The Bahamas, known officially as the Commonwealth of The Bahamas,
 jobtitle = "Monarch"
 
 [stats]
+Completeness: = "2/5"
 Motto: = "March On, Bahamaland"
 National Anthem: = "God Save the Queen"
 Population: = "400,516 (2022 est)"

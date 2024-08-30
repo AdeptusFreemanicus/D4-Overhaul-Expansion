@@ -5,6 +5,7 @@ description = "Romania is a country at the confluence of Central, Eastern and So
 jobtitle = "President"
 
 [stats]
+Completeness: = "2/5"
 National anthem: = "Wake up, Romanian"
 Population: = "19.1 million (east 2021)"
 Area: = "238,397 km2 (92,046 sq mi)"

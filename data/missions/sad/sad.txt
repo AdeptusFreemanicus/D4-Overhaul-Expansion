@@ -1,7 +1,7 @@
 [config]
 currency = "EHP"
 population = 250
-economic_cycle_start = 0.2
+economic_cycle_start = 0.25
 min_income = 0
 max_income = 20000
 name  = sad
@@ -74,6 +74,7 @@ WorkSafetyLaw = 0.67
 
 interest_rate= 0.09
 sad= 0.8
+un_nation_status= 0.0
 
 _prereq_sad
 _prereq_land_border = 1

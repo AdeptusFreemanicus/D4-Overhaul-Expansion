@@ -7,6 +7,7 @@ description = "The Democratic Republic of the Congo, informally Congo-Kinshasa, 
 jobtitle = "President"
 
 [stats]
+Completeness: = "2/5"
 National Anthem: = "Justice – Peace – Work"
 Population: = "92 million (2021)"
 Area: = "2,345,409 km2"

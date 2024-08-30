@@ -5,7 +5,7 @@ economic_cycle_start = 0.25
 min_income = 0
 max_income = 12200
 name  = bah
-names_file = "data/names/chileannames.txt"
+names_file = "data/names/bahamiannames.txt"
 flag = "flag_bah.png"
 map = "map_bah.svg"
 GUID = 11
@@ -126,6 +126,7 @@ WorkSafetyLaw = 0.67
 
 interest_rate= 0.04
 vat= 0.10
+un_nation_status= 0.8
 
 _prereq_mining_industry = 1
 _prereq_deadly_animals = 1

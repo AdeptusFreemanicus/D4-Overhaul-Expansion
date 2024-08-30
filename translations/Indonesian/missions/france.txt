@@ -1,0 +1,25 @@
+[config]
+name  = prancis
+guiname = "Prancis"
+description = "Perancis, atau Republik Perancis adalah sebuah monarki absolut pada masa Revolusi Perancis pada tahun 1789. Pada tahun 1792, dengan moto 'Kebebasan, Kesetaraan dan Persaudaraan', Perancis menjadi salah satu republik modern paling awal. Butuh waktu 80 tahun lagi bagi Prancis untuk menjadi negara demokrasi. Meski begitu, hak-hak demokrasi kadang-kadang tergelincir, termasuk selama Perang Dunia II dan pemerintahan demokratis baru bisa stabil setelah Republik Kelima didirikan pada tahun 1958. Prancis memiliki Presiden terpilih dan Perdana Menteri yang ditunjuk oleh Presiden. Prancis adalah anggota terkemuka Uni Eropa dan anggota NATO."
+jobtittle = "Presiden"
+
+[stats]
+Populasi: = "65,273,511"
+Ukuran: = "643,801 sq km"
+Agama: = "Katolik 41%, Atheis 40%, Islam 5%"
+Ekspor: = "Mesin, pesawat terbang, kendaraan, obat-obatan, plastik, kosmetik, minuman."
+Pemimpin Dunia: = "Barang mewah, pariwisata, pendanaan negara kesejahteraan, ekspor listrik."
+Anggota dari: = "Zona Eropa, pasar tunggal Eropa, NATO, G4."
+Obsesi nasional: = "Gastronomi, kesetaraan, anggur, perlombaan sepeda."
+
+
+
+
+
+
+
+
+
+
+

@@ -1,7 +1,7 @@
 [config]
 currency = "IS"
 population = 4327
-economic_cycle_start = 0
+economic_cycle_start = 0.25
 min_income = 0
 max_income = 300495
 name  = israel
@@ -158,6 +158,7 @@ WorkSafetyLaw = 0.35
 YoungEntrepreneurScheme = 1.0
 
 interest_rate= 0.04
+un_nation_status= 0.8
 
 [options]
 

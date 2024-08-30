@@ -1,7 +1,7 @@
 [config]
 currency = "R"
 population = 30523
-economic_cycle_start = 0.38
+economic_cycle_start = 0.25
 min_income = 0
 max_income = 15000
 min_gdp = 80000
@@ -115,6 +115,7 @@ WinterFuelSubsidy = 0.55
 WorkSafetyLaw = 0.69
 
 interest_rate= 0.06
+un_nation_status= 0.8
 
 _prereq_has_coast = 1
 _prereq_royal_family = 1

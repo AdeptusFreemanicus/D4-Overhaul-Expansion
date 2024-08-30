@@ -6,6 +6,7 @@ description = "Morocco officially the Kingdom of Morocco, is a country in the Ma
 jobtitle = "King"
 
 [stats]
+Completeness: = "2.5/5"
 Motto: = "God, Country, King."
 National Anthem: = "Cherifian Anthem"
 Population: = "37.9 million (2022)"

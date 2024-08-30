@@ -6,6 +6,7 @@ description = "The Netherlands, informally Holland, is a country located in West
 jobtitle = "Monarch"
 
 [stats]
+Completeness: = "2/5"
 National Anthem: = "I will maintain"
 Population: = "17.4 million (2020)"	
 Area: = "41,865 km2 (16,164 sq mi)"

@@ -6,6 +6,7 @@ description = "Myanmar, officially the Republic of the Union of Myanmar, also ca
 jobtitle = "President"
 
 [stats]
+Completeness: = "2/5"
 National Anthem: = "Till the End of the World"
 Population: = "53,582,855 million people (2017)"
 Area: = "676,578 km2 (261,228 sq mi)" 

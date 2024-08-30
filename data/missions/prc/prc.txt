@@ -1,7 +1,7 @@
 [config]
 currency = "¥"
 population = 726034
-economic_cycle_start = 0.2
+economic_cycle_start = 0.25
 min_income = 0
 max_income = 195000
 name  = prc
@@ -136,6 +136,7 @@ StateBroadcaster = 0.90
 StateAirline = 0.30
 
 interest_rate= 0.03
+un_nation_status= 0.8
 
 _prereq_has_coast = 1
 _prereq_sovereign_currency = 1

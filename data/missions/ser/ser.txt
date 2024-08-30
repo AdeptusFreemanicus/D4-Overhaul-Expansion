@@ -99,11 +99,10 @@ UniversityGrants = 0.4
 WorkersOnBoards = 0.4
 WorkSafetyLaw = 0.4
 
-interest_rate_eu= 0.06
 landvaluetax = 0.04
+un_nation_status= 0.8
 
 _prereq_mining_industry = 1
-_prereq_eu = 1
 
 
 [options]

@@ -1,7 +1,7 @@
 [config]
 currency = "MAD"
 population = 18992
-economic_cycle_start = 0.2
+economic_cycle_start = 0.25
 min_income = 0
 max_income = 50000
 name  = mor
@@ -97,6 +97,7 @@ WorkSafetyLaw = 0.67
 
 interest_rate= 0.09
 sah= 0.2
+un_nation_status= 0.8
 
 _prereq_mor
 _prereq_has_coast = 1

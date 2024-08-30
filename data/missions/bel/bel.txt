@@ -1,11 +1,11 @@
 [config]
 currency = "€"
 population = 5715
-economic_cycle_start = 0
+economic_cycle_start = 0.25
 min_income = 0
 max_income = 150000
 name  = bel
-names_file = "data/names/dutchnames.txt"
+names_file = "data/names/francenames.txt"
 flag = "flag_bel.png"
 map = "map_bel.svg"
 GUID = 11
@@ -108,6 +108,7 @@ WorkSafetyLaw = 0.5
 
 wt = 0.015
 interest_rate_eu = 0.02
+un_nation_status= 0.8
 
 _prereq_has_coast = 1
 _prereq_royal_family = 1

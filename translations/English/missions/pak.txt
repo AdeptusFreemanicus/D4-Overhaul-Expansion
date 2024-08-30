@@ -6,6 +6,7 @@ description = "Pakistan, officially the Islamic Republic of Pakistan, is a count
 jobtitle = "President"
 
 [stats]
+Completeness: = "2/5"
 Motto: = "Faith, Unity, Discipline"
 National Anthem: = "The National Anthem (Very Original)"
 Population: = "212.2 million people (2018)"

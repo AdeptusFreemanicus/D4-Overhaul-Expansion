@@ -1,7 +1,7 @@
 [config]
 currency = "£"
 population = 28143
-economic_cycle_start = 0.75
+economic_cycle_start = 0.25
 min_income = 0
 max_income = 150000
 min_gdp = 80000
@@ -114,6 +114,7 @@ WorkSafetyLaw = 0.69
 
 interest_rate= 0.04
 vat= 0.20
+un_nation_status= 0.8
 
 _prereq_has_coast = 1
 _prereq_royal_family = 1

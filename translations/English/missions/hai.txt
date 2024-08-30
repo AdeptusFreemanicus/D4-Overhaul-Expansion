@@ -6,6 +6,7 @@ description = "Haiti, officially the Republic of Haiti, and formerly known as Ha
 jobtitle = "President"
 
 [stats]
+Completeness: = "2/5"
 Motto: = "Liberty, Equality, Fraternity"
 National Anthem: = "The Dessalines Song"
 Population: = "11,439,646 (2018 est)"

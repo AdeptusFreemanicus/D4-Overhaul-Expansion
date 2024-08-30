@@ -6,6 +6,7 @@ description = "India, officially the Republic of India, is a country in South As
 jobtitle = "President"
 
 [stats]
+Completeness: = "2/5"
 National Anthem: = "Truth Alone Triumphs"
 Population: = "1.352 billion (2018)"
 Area: = "3,287,263 km2 (1,269,219 sq mi)"

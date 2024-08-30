@@ -6,6 +6,7 @@ description = "Finland, officially the Republic of Finland is a Nordic country l
 jobtitle = "President"
 
 [stats]
+Completeness: = "2/5"
 National Anthem: = "Our Land"
 Population: = "5.5 million people (2020)"
 Area: = "338,455 km2 (130,678 sq mi)"

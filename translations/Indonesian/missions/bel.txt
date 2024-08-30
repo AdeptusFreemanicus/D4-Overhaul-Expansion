@@ -1,0 +1,20 @@
+[config]
+name  = bel
+guiname = "Kingdom of Belgium"
+description = "Belgium, officially the Kingdom of Belgium, is a country in Western Europe. It is bordered by the Netherlands to the north, Germany to the east, Luxembourg to the southeast, France to the southwest, and the North Sea to the northwest. It covers an area of 30,689 km2 (11,849 sq mi) and has a population of more than 11.5 million, making it the 22nd most densely populated country in the world and the 6th most densely populated country in Europe, with a density of 376 per square kilometre (970/sq mi). The capital and largest city is Brussels; other major cities are Antwerp, Ghent, Charleroi, Liège, Bruges, Namur, and Leuven."
+
+jobtitle = "Monarch"
+
+[stats]
+Motto: = "Unity makes strength"
+National Anthem: = "The Brabantian"
+Population: = "11.5 million (2020)"
+Area: = "30,689 km2 (11,849 sq mi)"
+Currency: = "Euro (€) (EUR)"
+GDP: = "$375.808 billion"
+GDP per capita: = "$50,114"
+Democracy Index: = "~7.51/10 (36th)"
+Biggest Industry: = "Agriculture/Manufacturing"
+Capital And Largest City: = "Brussels"
+Driving side: =	"right"
+Calling code: = "+32"

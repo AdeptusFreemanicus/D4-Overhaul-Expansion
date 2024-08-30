@@ -1,7 +1,7 @@
 [config]
 currency = "kr"
 population = 2710
-economic_cycle_start = 0
+economic_cycle_start = 0.25
 min_income = 0
 max_income = 150000
 name  = norway
@@ -122,6 +122,7 @@ WorkSafetyLaw = 0.67
 
 wt = 0.05
 interest_rate= 0.02
+un_nation_status= 0.8
 
 _prereq_has_coast = 1
 _prereq_mining_industry = 1

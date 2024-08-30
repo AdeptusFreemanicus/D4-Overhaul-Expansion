@@ -6,6 +6,7 @@ description = "Cuba, officially the Republic of Cuba, is a country comprising th
 jobtitle = "First Secretary"
 
 [stats]
+Completeness: = "2/5"
 Motto: = "Homeland or Death, We Shall Overcome"
 National Anthem: = "The Bayamo Song"
 Population: = "11 million (2020)"

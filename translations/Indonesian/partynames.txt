@@ -1,0 +1,72 @@
+[names]
+Partai Koalisi Keadilan
+Partai Nilai Keluarga
+Partai Liga Buruh
+Partai Liga Keadilan
+Partai Kolektif Hijau
+Partai Penguasa Rakyat
+Partai Pilihan Rakyat
+Partai Keadilan Liberal
+Partai Gerakan Keadilan
+Partai Brigade Kemerdekaan
+Partai Keadilan Suci
+Partai Futuris
+Partai Demokrat Populer
+Partai Republik Populer
+Partai Republik
+Partai Demokrat
+Partai Teknokrat Baru
+Partai Teknokrat Nasional
+Partai Kesetaraan
+Partai Masa Depan
+Partai Sains
+Partai Industri
+Partai Hak Sipil
+Partai Keluarga Modern
+Partai Hukum Alam
+Partai Radikal
+Partai Loyalis Radikal
+Partai Perubahan
+Gerakan Kebebasan Sejati
+Partai Egalitarian
+Partai Republik Egalitarian
+Partai Neo-Kolonialis
+Partai Keadilan Sosial
+Partai Konstitusi
+Partai Anti Korupsi
+Partai Sosialis Revolusioner
+Partai Kebebasan Libertarian
+Partai Patriotik
+Partai Pembela Moral
+Partai Komunis
+Partai Perubahan Progresif
+Partai Perubahan Radikal
+Partai Selalu Menang
+Partai Keberagaman Bersatu
+Partai Hentikan Patriarki
+Partai Kebebasan Abadi
+Partai Persatuan Pasifis
+Partai Moderat Nasional
+Partai Moderat
+Partai Moderat Baru
+Partai Republik Bersatu
+Federasi Sosialis
+Kaum Kapitalis Revolusioner
+Partai Hak Milik
+Partai Hak Fundamental
+Kaum Fundamentalis Progresif
+Partai Serikat Lingkungan
+Partai Pertanian Sejahtera
+Partai Aliansi Hijau
+Partai Aliansi Warga
+Partai Persatuan Absolut
+Partai Sosial Demokrat
+Kaum Unionis
+Partai Persatuan Kanan
+Partai Persatuan Kiri
+Partai Kanan Bersatu
+Partai Kiri Bersatu
+Partai Partai Fasis Progresif
+Partai Harmoni Rakyat
+Partai Masyarakat Reformasi
+Partai Reformasi Radikal

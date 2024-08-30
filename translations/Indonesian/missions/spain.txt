@@ -1,0 +1,24 @@
+[config]
+name  = spanyol
+guiname = "Spanyol"
+description = "Pemilihan umum demokratis pertama di Kerajaan Spanyol berlangsung pada bulan Juni 1977 setelah kematian Francisco Franco pada tahun 1975 yang memerintah Spanyol di bawah kediktatoran sejak tahun 1939. Pada tahun 1978, konstitusi demokratis baru diumumkan dan disetujui melalui referendum. Spanyol dinyatakan sebagai monarki parlementer konstitusional dengan Raja Juan Carlos I sebagai Kepala Negara dan dengan hak pilih universal."
+jobtittle = "Perdana Menteri"
+
+[stats]
+Populasi:=	46,754,778 (2020) menurut data PBB.
+Ukuran:=	505,990 km2	
+Agama:= 	68% Catholics, 2.6% other faiths and 28% identify as Atheists.
+Eksport:= 	Mesin, kendaraan bermotor; bahan makanan, obat-obatan, obat-obatan, barang konsumsi lainnya
+Pemimpin Dunia:= Kesehatan, Donasi organ. Jumlah situs warisan dunia UNESCO tertinggi ketiga. Menghasilkan dan mengekspor energi terbarukan.
+Anggota dari:= Uni Eropa, PBB, NATO, OECD.
+Obsesi Nasional:= Istirahat makan siang yang panjang, sepak bola, diet Mediterania yang sehat, keluarga.
+
+
+
+
+
+
+
+
+
+

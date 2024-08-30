@@ -6,6 +6,7 @@ description = "Turkey, officially the Republic of Turkey, is a transcontinental 
 jobtitle = "President"
 
 [stats]
+Completeness: = "2/5"
 National Anthem: = "The Independence March"
 Population: = "83 million (2019)"
 Area: = "783,356 km2 (302,455 sq mi)"

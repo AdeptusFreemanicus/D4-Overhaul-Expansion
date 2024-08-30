@@ -1,0 +1,23 @@
+[config]
+name  = jerman
+guiname = "Jerman"
+description = "Republik Federal Jerman, lebih dikenal sebagai Jerman, adalah Republik Parlementer Federal yang menyatukan enam belas negara bagian di bawah kepemimpinan Presiden (sebagian besar bersifat seremonial) dan Kanselir Federal. Jerman memiliki perekonomian yang kuat dan berkembang serta merupakan salah satu yang terbaik di dunia. Jerman adalah anggota terkemuka Uni Eropa. Jerman pertama kali menjadi negara demokrasi pada tahun 1919, tetapi diperintah sebagai negara diktator sejak tahun 1933. Setelah Perang Dunia II yang berakhir pada tahun 1945 dan beberapa tahun kekacauan, Jerman kembali menjadi negara demokrasi pada tahun 1949."
+jobtittle = "Kanselor"
+
+[stats]
+Populasi: = "83,783,942 (2020)"
+Ukuran: = "357,386 sq km"
+Agama: = "Atheis 39%, Katolik Roma 27%, Protestan 25%, Islam 5%, "
+Ekspor: = "Kendaraan, mesin, bahan kimia, elektronik, obat-obatan, logam, makanan."
+Pemimpin Dunia: = "Kebijakan iklim dan energi, jumlah kebun binatang (>400), ekspor"
+Anggota dari: = "Zona Eropa, pasar tunggal Eropa, NATO, G4"
+
+
+
+
+
+
+
+
+
+

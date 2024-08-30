@@ -5,7 +5,7 @@ economic_cycle_start = 0.25
 min_income = 0
 max_income = 32000
 name  = fji
-names_file = "data/names/uknames.txt"
+names_file = "data/names/fijiannames.txt"
 flag = "flag_fji.png"
 map = "map_fji.svg"
 GUID = 11
@@ -89,6 +89,7 @@ UniversityGrants = 0.2
 WitnessProtectionProgram = 0.25
 
 interest_rate= 0.01
+un_nation_status= 0.8
 
 _prereq_mining_industry = 1
 _prereq_deadly_animals = 1

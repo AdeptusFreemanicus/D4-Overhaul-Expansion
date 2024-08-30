@@ -1,7 +1,7 @@
 [config]
 currency = "SA"
 population = 18022
-economic_cycle_start = 0
+economic_cycle_start = 0.25
 min_income = 0
 max_income = 1500000
 name  = sau
@@ -124,6 +124,7 @@ WorkSafetyLaw = 0.67
 interest_rate= 0.05
 vat= 0.15
 mpt= 0.5
+un_nation_status= 0.8
 
 _prereq_has_coast = 1
 _prereq_mining_industry = 1

@@ -1,7 +1,7 @@
 [config]
 currency = "€"
 population = 3
-economic_cycle_start = 0.1
+economic_cycle_start = 0.25
 min_income = 0
 max_income = 160000
 name  = sao
@@ -113,6 +113,7 @@ competitionlaw = 0.35
 minimumvotingage = 0.41
 partydonations = 0
 voterid = 0.66
+un_nation_status= 0.8
 
 [options]
 MULTIPLEPARTIES

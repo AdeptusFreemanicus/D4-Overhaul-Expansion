@@ -5,6 +5,7 @@ description = "Portugal, officially the Portuguese Republic, is a country locate
 jobtitle = "President"
 
 [stats]
+Completeness: = "2/5"
 National anthem: = "The Portuguese song"
 Population: = "10.3 million (2021)"
 Area: = "92,212 km2 (35,603 square miles)"

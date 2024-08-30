@@ -101,6 +101,7 @@ UniversityGrants = 0.5
 WorkSafetyLaw = 0.6
 
 interest_rate_eu= 0.08
+un_nation_status= 0.8
 
 _prereq_mining_industry = 1
 _prereq_sovereign_currency = 1

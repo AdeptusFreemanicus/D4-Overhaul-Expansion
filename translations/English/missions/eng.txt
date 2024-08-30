@@ -6,6 +6,7 @@ description = "England is a country that is part of the United Kingdom. It share
 jobtitle = "Monarch"
 
 [stats]
+Completeness: = "2/5"
 National Anthem: = "God Save the Queen"
 Population: = "56,286,961 (2019 est)"
 Area: = "130,279 km2 (50,301 sq mi)"

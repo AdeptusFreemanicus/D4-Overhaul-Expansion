@@ -4,7 +4,7 @@ flag = "flag_russia.png"
 map = "map_russia.svg"
 currency = "₽"
 population = 73039
-economic_cycle_start = 0.3
+economic_cycle_start = 0.25
 min_income = 0
 max_income = 130000
 names_file = "data/names/russiannames.txt"
@@ -115,6 +115,7 @@ StateSchools = 0.45
 interest_rate= 0.07
 landvaluetax= 0.02
 vat= 0.20
+un_nation_status= 0.8
 
 _prereq_has_coast = 1
 _prereq_sovereign_currency = 1

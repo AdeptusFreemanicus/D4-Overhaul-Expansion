@@ -90,6 +90,7 @@ WitnessProtectionProgram = 0.25
 
 interest_rate= 0.11
 vat= 0.18
+un_nation_status= 0.8
 
 _prereq_has_coast = 1
 _prereq_sovereign_currency = 1

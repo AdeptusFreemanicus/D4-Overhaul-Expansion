@@ -6,6 +6,7 @@ description = "Bosnia and Herzegovina is a country in Southeast Europe, situated
 jobtitle = "President"
 
 [stats]
+Completeness: = "2/5"
 National Anthem: = "National Anthem of Bosnia and Herzegovina (Very Original)"
 Population: = "3.4 million (2022)"
 Area: = "51,229 km2 (19,780 sq mi)"

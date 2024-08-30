@@ -108,6 +108,7 @@ WitnessProtectionProgram = 0.25
 
 interest_rate= 0.03
 vat= 0.20
+un_nation_status= 0.8
 
 _prereq_has_coast = 1
 _prereq_mining_industry = 1

@@ -1,7 +1,7 @@
 [config]
 currency = "BN$"
 population = 5590
-economic_cycle_start = 0
+economic_cycle_start = 0.25
 min_income = 0
 max_income = 15000
 min_gdp = 20000
@@ -142,6 +142,8 @@ WitnessProtectionProgram = 0.5
 WorkSafetyLaw = 0.6
 
 interest_rate= 0.05
+un_nation_status= 0.8
+
 
 _prereq_hurricane = 1
 _prereq_has_coast = 1

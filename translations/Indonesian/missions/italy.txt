@@ -1,0 +1,26 @@
+[config]
+name  = italia
+guiname = "Italia"
+description= "Italia adalah republik parlementer dengan sistem multi-partai.Italia menjadi negara demokrasi pada tahun 1946, ketika monarki dihapuskan melalui referendum rakyat. Italia menerapkan sistem campuran, dengan 37% kursi dialokasikan menggunakan sistem first past the post electoral dan 61% menggunakan metode proporsional, dengan satu putaran pemungutan suara. Baru-baru ini pada tahun 2019, karena seringnya kegagalan koalisi, Italia dianggap sebagai negara demokrasi yang cacat."
+jobtittle = "Presiden"
+
+[stats]
+Populasi:= 	60,461,826 orang pada pertengahan tahun 2020 menurut data PBB.
+Ukuran:=	301,340 km²
+Agama:= 	Katolik (69%), Orthodox Timur (4%), Atheis dan Agnostik (14%). 
+Ekspor:= 	Mesin termasuk komputer, kendaraan & suku cadangnya, obat-obatan, mesin listrik, plastik, permata & logam mulia, barang dari besi atau baja.
+Pemimpin Dunia:= Warisan (budaya, sejarah, makanan). Situs UNESCO terbanyak. Produsen anggur terbesar di dunia. Negara pertama yang mewajibkan pelajaran perubahan iklim untuk semua anak.
+Anggota dari:=	Uni Eropa, PBB, NATO, OECD
+Obsesi nasional:= Kopi, sepak bola, diet Mediterania yang sehat, keluarga.
+
+
+
+
+
+
+
+
+
+
+
+

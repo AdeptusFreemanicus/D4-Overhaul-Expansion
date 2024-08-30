@@ -1,0 +1,22 @@
+[config]
+name = inggris
+guiname = "Inggris Raya"
+Description = "Kerajaan Bersatu Britania Raya dan Irlandia Utara sebenarnya terdiri dari empat negara. Inggris, Skotlandia, Wales, dan Irlandia Utara. Britania Raya adalah 'monarki konstitusional', yang secara efektif berarti monarki bersifat simbolis. Kepala negaranya adalah Raja , namun negara ini diperintah oleh seorang Perdana Menteri, yang didefinisikan sebagai siapa pun yang dapat memperoleh dukungan mayoritas di 'House of Commons', yang merupakan majelis yang dipilih. Sebuah majelis kedua yang tidak dipilih yang disebut 'House of Lords' ada untuk mengawasi undang-undang."
+jobtittle = "Perdana Menteri"
+
+[stats]
+Populasi: = "65,1 juta (Juli 2018)"
+Ukuran: = "243.610 km persegi"
+Etnis: = "87,1% Kulit Putih 3% Kulit Hitam 6,9% Asia"
+Agama : = "Kristen(59,5%) Muslim (4,4%) Hindu (1,3%)"
+Ekspor: = "Mobil, Turbo-jet, Minyak Mentah, Emas, Obat-obatan"
+Makanan Paling Populer: = "Ikan dan Keripik"
+Lagu Kebangsaan : = "Tuhan Selamatkan Raja"
+Warga Negara Terkaya: = "Sir James Dyson (2020)"
+
+
+
+
+
+
+

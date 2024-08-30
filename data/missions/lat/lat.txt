@@ -127,6 +127,7 @@ WorkersOnBoards = 0.75
 WorkSafetyLaw = 0.5
 
 interest_rate_eu= 0.03
+un_nation_status= 0.8
 
 _prereq_has_coast = 1
 _prereq_land_border = 1

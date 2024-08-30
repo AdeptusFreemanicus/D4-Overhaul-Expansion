@@ -6,6 +6,7 @@ description = "Fiji, officially the Republic of Fiji, is an island country in Me
 jobtitle = "President"
 
 [stats]
+Completeness: = "2/5"
 Motto: = "Fear God and honour the Queen"
 National Anthem: = "God Bless Fiji"
 Population: = "926,276 (2018 est)"

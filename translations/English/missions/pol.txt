@@ -6,6 +6,7 @@ description = "Poland, officially the Republic of Poland, is a country located i
 jobtitle = "President"
 
 [stats]
+Completeness: = "2/5"
 National Anthem: = "Poland Is Not Yet Lost"
 Population: = "38.5 million people (2019)"
 Area: = "312,696 km2 (120,733 sq mi)"

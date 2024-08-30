@@ -6,6 +6,7 @@ description = "Denmark, officially the Kingdom of Denmark, is a Nordic country i
 jobtitle = "Monarch"
 
 [stats]
+Completeness: = "2/5"
 National Anthem: = "There is a lovely country"
 Royal Anthem: = "King Christian stood by the lofty mast"
 Population: = "5,8 million (2021 est)"

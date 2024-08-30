@@ -6,6 +6,7 @@ description = "Somalia, officially the Federal Republic of Somalia is a country 
 jobtitle = "President"
 
 [stats]
+Completeness: = "2/5"
 National Anthem: = "Qolobaa Calankeed"
 Population: = "15 million people (2020)"
 Area: = "637,657 km2 (246,201 sq mi)"

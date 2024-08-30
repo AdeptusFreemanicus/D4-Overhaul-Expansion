@@ -1,0 +1,18 @@
+[config]
+name  = hon
+guiname = "Hong Kong Special Administrative Region of the People's Republic of China"
+description = "Hong Kong, officially the Hong Kong Special Administrative Region of the People's Republic of China, is a city and special administrative region of China on the eastern Pearl River Delta in South China. With over 7.5 million residents of various nationalities in a 1,104-square-kilometre (426 sq mi) territory, Hong Kong is one of the most densely populated places in the world. Hong Kong is also one of the three global financial centres and one of the most developed cities in the world."
+
+jobtitle = "Chief Executive"
+
+[stats]
+Population: = "7,413,070 million (2021)"
+Area: = "2,754.97 km2 (1,063.70 sq mi)"
+Currency: = "Hong Kong dollar (HK$) (HKD)"
+GDP: = "$472.395 billion"
+GDP per capita: = "$62,839"
+Democracy index: = "~5.60/10 (85th)"
+Largest Industry: = "Finance"
+Administrative Centre: = "Tamar"
+Driver side: = "left"
+Phone prefix: = "+852"

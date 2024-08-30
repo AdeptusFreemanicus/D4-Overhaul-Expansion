@@ -6,6 +6,7 @@ description = "Iran, also called Persia, and officially the Islamic Republic of 
 jobtitle = "Supreme Leader"
 
 [stats]
+Completeness: = "2.1/5"
 Motto: = "Independence, freedom, the Islamic Republic"
 National Anthem: = "National Anthem of the Islamic Republic of Iran"
 Population: = "83 million (2019)"

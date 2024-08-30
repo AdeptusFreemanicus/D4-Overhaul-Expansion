@@ -6,13 +6,14 @@ description = "Hong Kong, officially the Hong Kong Special Administrative Region
 jobtitle = "Chief Executive"
 
 [stats]
+Completeness: = "2/5"
 Population: = "7,413,070 million (2021)"
 Area: = "2,754.97 km2 (1,063.70 sq mi)"
 Currency: = "Hong Kong dollar (HK$) (HKD)"
 GDP: = "$472.395 billion"
 GDP per capita: = "$62,839"
 Democracy index: = "~5.60/10 (85th)"
-Largest Industry: = "Toursim/Service Sector"
-Capital and largest city: = "Hanoi"
+Largest Industry: = "Finance"
+Administrative Centre: = "Tamar"
 Driver side: = "left"
 Phone prefix: = "+852"

@@ -127,6 +127,7 @@ WorkSafetyLaw = 0.67
 YoungEntrepreneurScheme = 0.5
 
 interest_rate_eu= 0.03
+un_nation_status= 0.8
 
 _prereq_mining_industry = 1
 _prereq_deadly_animals = 1

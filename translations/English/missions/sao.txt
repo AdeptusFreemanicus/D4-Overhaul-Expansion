@@ -6,6 +6,7 @@ description = "San Marino, officially the Republic of San Marino and also known 
 jobtitle = "Captains Regent"
 
 [stats]
+Completeness: = "2/5"
 Motto: = "Libertas."
 National Anthem: = "National Anthem of the Republic"
 Population: = "33,660 (2022)"

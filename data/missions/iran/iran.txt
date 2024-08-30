@@ -47,7 +47,6 @@ ExecutiveTermLimit = 1
 FaithSchoolSubsidies = 0.75
 ForeignAid = 0.05
 GameHunting = 0.5
-GayMarriage = 0
 GenderDiscriminationAct = 0.5
 GeneralMediaCensorship = 1
 HandgunLaws = 0.1
@@ -103,6 +102,7 @@ UniversityGrants = 0.2
 WorkSafetyLaw = 0.33
 
 interest_rate= 0.18
+un_nation_status= 0.8
 
 _prereq_has_coast = 1
 _prereq_mining_industry = 1

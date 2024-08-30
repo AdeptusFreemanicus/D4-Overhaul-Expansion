@@ -6,6 +6,7 @@ description = "Northern Ireland is a part of the United Kingdom that is variousl
 jobtitle = "Monarch"
 
 [stats]
+Completeness: = "2/5"
 National Anthem: = "Londonderry Air Or God Save the Queen"
 Population: = "1,900,000 (2019 est)"
 Area: = "14,130 km2 (5,460 sq mi)"

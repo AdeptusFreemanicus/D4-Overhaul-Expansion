@@ -6,6 +6,7 @@ description = "Wales is a country that is part of the United Kingdom. It is bord
 jobtitle = "Monarch"
 
 [stats]
+Completeness: = "2/5"
 Population: = "3,153,000 million (2019 est)"
 Area: = "20,779 km2 (8,023 sq mi)	"
 Currency: = "Pound sterling (GBP; £)"
