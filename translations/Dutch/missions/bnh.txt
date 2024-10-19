@@ -1,19 +1,19 @@
 [config]
 name  = bnh
-guiname = "Bosnia and Herzegovina"
-description = "Bosnia and Herzegovina is a country in Southeast Europe, situated on the Balkan Peninsula. It borders Serbia to the east, Montenegro to the southeast, and Croatia to the north and southwest. In the south it has a 20 kilometres (12 miles) long coast on the Adriatic Sea, with the town of Neum being its only access to the sea. Bosnia has a moderate continental climate with hot summers and cold, snowy winters. In the central and eastern regions, the geography is mountainous, in the northwest it is moderately hilly, and in the northeast it is predominantly flat. Herzegovina, the smaller, southern region, has a Mediterranean climate and is mostly mountainous. Sarajevo is the capital and the largest city."
+guiname = "Bosnië en Herzegovina"
+description = "Bosnië en Herzegovina is een land in Zuidoost-Europa, gelegen op het Balkan-schiereiland. Het grenst in het oosten aan Servië, in het zuidoosten aan Montenegro en in het noorden en zuidwesten aan Kroatië. In het zuiden heeft het een 20 kilometer (12 mijl) lange kustlijn aan de Adriatische Zee, met de stad Neum als enige toegang tot de zee. Bosnië heeft een gematigd continentaal klimaat met hete zomers en koude, sneeuwachtige winters. In de centrale en oostelijke regio's is het landschap bergachtig, in het noordwesten is het gematigd heuvelachtig en in het noordoosten is het voornamelijk vlak. Herzegovina, de kleinere zuidelijke regio, heeft een mediterraan klimaat en is voornamelijk bergachtig. Sarajevo is de hoofdstad en de grootste stad."
 
 jobtitle = "President"
 
 [stats]
-National Anthem: = "National Anthem of Bosnia and Herzegovina (Very Original)"
-Population: = "3.4 million (2022)"
-Area: = "51,229 km2 (19,780 sq mi)"
-Currency: = "Convertible mark"
-GDP: = "$71 billion"
-GDP per capita: = "$20,734"
-Democracy Index: = "5.00/10 (94th)"
-Biggest Industry: = "Service Sector"
-Capital And Largest City: = "Sarajevo"
-Driving side: =	"right"
-Calling code: = "+387"
+Nationale Hymne: = "Nationale Hymne van Bosnië en Herzegovina (Zeer Origineel)"
+Bevolking: = "3,4 miljoen (2022)"
+Oppervlakte: = "51.229 km² (19.780 vierkante mijl)"
+Valuta: = "Converteerbare mark"
+BBP: = "$71 miljard"
+BBP per hoofd: = "$20.734"
+Democratie Index: = "5,00/10 (94e)"
+Grootste Industrie: = "Dienstensector"
+Hoofdstad en Grootste Stad: = "Sarajevo"
+Rijrichting: = "rechts"
+Bel- en toegangsnummer: = "+387"

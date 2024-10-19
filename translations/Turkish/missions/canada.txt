@@ -1,17 +1,18 @@
 [config]
 name  = canada
 guiname = "Kanada"
-description = "Kanada anayasal üstünlüğü olan Federal bir parlamenter demokrasidir. Başbakan seçildi. Resmi olarak Büyük Britanya'nın bir kolonisi olan yeni Kanada ulusu, ilk olarak 1867'de demokrasi haline geldi. 1919'da kadınlar oylamayı kazandı, ancak etnik kökene bakılmaksızın tüm Kanada vatandaşlarının oy kullanabileceği ve genel oy hakkının yasalaştığı 1960 yılına kadar değildi."
+description = "Kanada, anayasal monarşiye sahip bir Federal parlamenter demokrasidir. Başbakan seçimle işbaşına gelir. Resmi olarak Büyük Britanya'nın bir kolonisi olan yeni Kanada ulusu ilk olarak 1867 yılında bir demokrasi haline gelmiştir. 1919'da kadınlar oy hakkı kazandı ancak 1960'a kadar etnik kökene bakılmaksızın tüm Kanada vatandaşları oy kullanabildi ve genel oy hakkı yasalaştı."
 
 jobtitle = "Başbakan"
 
 [stats]
-Nüfus: = "37.742,154 (2020)"
-Boyut: = "9,984,670 km kare"
-Din: = "% 69,3 Hristiyan,% 24,9 Bağlantısız,% 1,2 islam,% 1,0 Hinduizm,% 1,4 Sihizm"
-İhracat: = "Petrol, odun, rafine yakıt, altın, metaller ve değerli taşlar"
-Dünya Lideri: = "En uzun sahil şeridi, yaşam kalitesi, hükümet ve iş dünyasının şeffaflığı"
-Ulusal takıntılar: = "Akçaağaç Şurubu, Buz Hokeyi, Nezaket, Çeşitlilik"
+Population: = "37.742,154 (2020)"
+Size: = "9,984,670 sq km"
+Religion: = "69,3 Hristiyan, %24,9 Bağlantısız, %1,2 Müslüman, %1,0 Hinduizm, %1,4 Sihizm"
+Exports: = "Petrol, odun, rafine yakıt, altın, metaller ve değerli taşlar"
+World Leader:  = "En uzun kıyı şeridi, yaşam kalitesi, hükümet ve iş dünyasının şeffaflığı"
+National obsessions: =  "Akçaağaç Şurubu, Buz Hokeyi, Nezaket, Çeşitlilik"
+
 
 
 

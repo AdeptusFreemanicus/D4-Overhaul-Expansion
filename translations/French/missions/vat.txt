@@ -1,17 +1,17 @@
 [config]
 name  = vat
-guiname = "Vatican City State"
-description = "Vatican City, officially the Vatican City State, is a landlocked independent country, city-state, microstate, and enclave within Rome, Italy. It became independent from Italy in 1929 with the Lateran Treaty. With an area of 49 hectares and as of 2023 a population of about 764, it is the smallest state in the world both by area and by population. As governed by the Holy See, Vatican City State is an ecclesiastical or sacerdotal-monarchical state ruled by the Pope, who is the bishop of Rome and head of the Catholic Church. The highest state functionaries are all Catholic clergy of various origins. After the Avignon Papacy (1309–1377) the popes have mainly resided at the Apostolic Palace within what is now Vatican City, although at times residing instead in the Quirinal Palace in Rome or elsewhere. The Vatican is also a metonym for the Holy See."
+guiname = "État de la Cité du Vatican"
+description = "La Cité du Vatican, officiellement l'État de la Cité du Vatican, est un pays indépendant sans accès à la mer, une cité-État, un micro-État, et une enclave à l'intérieur de Rome, en Italie. Elle est devenue indépendante de l'Italie en 1929 avec le Traité de Latran. Avec une superficie de 49 hectares et une population d'environ 764 habitants en 2023, c'est le plus petit État au monde à la fois par sa superficie et sa population. Gouverné par le Saint-Siège, l'État de la Cité du Vatican est un État ecclésiastique ou monarchique-sacerdotal dirigé par le Pape, qui est l'évêque de Rome et le chef de l'Église catholique. Les plus hauts fonctionnaires de l'État sont tous des membres du clergé catholique d'origines diverses. Après la papauté d'Avignon (1309–1377), les papes ont principalement résidé au Palais apostolique dans ce qui est maintenant la Cité du Vatican, bien qu'à certains moments, ils aient résidé au Palais du Quirinal à Rome ou ailleurs. Le Vatican est aussi un métonyme du Saint-Siège."
 
-jobtitle = "Monarch"
+jobtitle = "Monarque"
 
 [stats]
-National Anthem: = "Inno e Marcia Pontificale"
-Population: = "~764 (2023"
-Area: = "0.49km2 (0.19 sq mi)"
-Currency: = "Euro (€) (EUR)"
-Holyness: = "10/10 (1st)"
-Biggest Industry: = "God"
-Capital And Largest City: = "Vatican City"
-Driving side: =	"right"
-Calling code: = "+379"
+Hymne national: = "Inno e Marcia Pontificale"
+Population: = "~764 (2023)"
+Superficie: = "0,49 km² (0,19 mi²)"
+Monnaie: = "Euro (€) (EUR)"
+Sainteté: = "10/10 (1er)"
+Plus grande industrie: = "Dieu"
+Capitale et plus grande ville: = "Cité du Vatican"
+Côté de conduite: = "droit"
+Indicatif téléphonique: = "+379"

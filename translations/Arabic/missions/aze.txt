@@ -1,19 +1,19 @@
 [config]
 name  = aze
-guiname = "Republic of Azerbaijan"
-description = "Azerbaijan, officially the Republic of Azerbaijan, is a transcontinental country located at the boundary of Eastern Europe and West Asia. It is a part of the South Caucasus region and is bounded by the Caspian Sea to the east, Russia (Republic of Dagestan) to the north, Georgia to the northwest, Armenia and Turkey to the west, and Iran to the south. Baku is the capital and largest city"
+guiname = "جمهورية أذربيجان"
+description = "أذربيجان، رسمياً جمهورية أذربيجان، هي دولة عابرة للقارات تقع على الحدود بين أوروبا الشرقية وغرب آسيا. وهي جزء من منطقة جنوب القوقاز، وتحدها من الشرق بحر قزوين، ومن الشمال روسيا (جمهورية داغستان)، ومن الشمال الغربي جورجيا، ومن الغرب أرمينيا وتركيا، ومن الجنوب إيران. باكو هي العاصمة وأكبر مدينة."
 
-jobtitle = "President"
+jobtitle = "رئيس"
 
 [stats]
-National Anthem: = "March of Azerbaijan"
-Population: = "10.3 million (2022)"
-Area: = "86,600 km2 (33,400 sq mi)"
-Currency: = "Manat (₼) (AZN)"
-GDP: = "$192 billion"
-GDP per capita: = "$18,694"
-Democracy Index: = "2.87/10 (134th)"
-Biggest Industry: = "Oil and Gas"
-Capital And Largest City: = "Baku"
-Driving side: =	"right"
+National Anthem: = "مسيرة أذربيجان"
+Population: = "10.3 مليون (2022)"
+Area: = "86,600 كم² (33,400 ميل مربع)"
+Currency: = "مانات (₼) (AZN)"
+GDP: = "192 مليار دولار"
+GDP per capita: = "18,694 دولار"
+Democracy Index: = "2.87/10 (المرتبة 134)"
+Biggest Industry: = "النفط والغاز"
+Capital And Largest City: = "باكو"
+Driving side: = "اليمين"
 Calling code: = "+944"

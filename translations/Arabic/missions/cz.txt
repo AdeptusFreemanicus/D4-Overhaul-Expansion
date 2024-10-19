@@ -1,19 +1,19 @@
 [config]
 name  = cz
-guiname = "Czech Republic"
-description = "The Czech Republic, also known as Czechia, is a landlocked country in Central Europe. Historically known as Bohemia, it is bordered by Austria to the south, Germany to the west, Poland to the northeast, and Slovakia to the southeast. The Czech Republic has a hilly landscape that covers an area of 78,871 square kilometers (30,452 sq mi) with a mostly temperate continental and oceanic climate. The capital and largest city is Prague; other major cities and urban areas include Brno, Ostrava, Plzeň and Liberec."
+guiname = "جمهورية التشيك"
+description = "جمهورية التشيك، المعروفة أيضاً باسم تشيكيا، هي دولة غير ساحلية في وسط أوروبا. كانت تُعرف تاريخياً باسم بوهيميا، تحدها النمسا من الجنوب، وألمانيا من الغرب، وبولندا من الشمال الشرقي، وسلوفاكيا من الجنوب الشرقي. تتمتع جمهورية التشيك بتضاريس جبلية تغطي مساحة 78,871 كيلومتراً مربعاً (30,452 ميلاً مربعاً) بمناخ قاري ومحيطي معتدل في الغالب. العاصمة وأكبر مدينة هي براغ؛ تشمل المدن والمناطق الحضرية الرئيسية الأخرى برنو، أوسترافا، بيلسن وليبيريتس."
 
-jobtitle = "President"
+jobtitle = "رئيس"
 
 [stats]
-National Anthem: = "Where My Home is"
-Population: = "10.5 million (2021)"
-Area: = "78,871 km2 (30,452 sq mi)"
-Currency: = "Czech koruna (CZK)"
-GDP: = "$397 billion (~11,180,000,000,000 CZK)"
-GDP per capita: = "$49,025 (~1,118,000 CZK)"
-Democracy Index: = "~7.97/10 (25st)"
-Biggest Industry: = "Manufacturing"
-Capital And Largest City: = "Prague"
-Driving side: =	"right"
-Calling code: = "+420 (Based)"
+National Anthem: = "أين وطني"
+Population: = "10.5 مليون (2021)"
+Area: = "78,871 كم² (30,452 ميل مربع)"
+Currency: = "كرونة تشيكية (CZK)"
+GDP: = "397 مليار دولار (~11,180,000,000,000 كرونة تشيكية)"
+GDP per capita: = "49,025 دولار (~1,118,000 كرونة تشيكية)"
+Democracy Index: = "~7.97/10 (المرتبة 25)"
+Biggest Industry: = "التصنيع"
+Capital And Largest City: = "براغ"
+Driving side: = "اليمين"
+Calling code: = "+420 (المفضل)"

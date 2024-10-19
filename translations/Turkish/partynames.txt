@@ -4,29 +4,29 @@ Aile Değerleri Partisi
 İşçi Birliği
 Adalet Birliği
 Yeşil Kolektif
-Hakimiyet
-Halkların Seçimi Partisi
+The Dominion
+Halkın Seçimi Partisi
 Liberal Adalet Kanadı
 Adalet Hareketi
 Özgürlük Tugayı
 Kutsal Adalet İttifakı
 Fütürist Parti
-Halk Demokratları
+Popüler Demokratlar
 Popüler Cumhuriyetçiler
-Cumhuriyetçi Parti'nin
-Demokrat Parti'nin
+Cumhuriyetçi Parti
+Demokrat Parti
 Yeni Teknokratlar
 Ulusal Teknokratlar Partisi
 Eşitlik Partisi
 Geleceğin Demokratları
 Bilim Partisi
-Sanayi Partisi
+Endüstriyel Parti
 Sivil Haklar Birliği
 Modern Aile Partisi
 Doğal Hukuk Partisi
 Radikal Demokratlar
 Radikal Sadıklar
-Değişim Partisi
+Değişim İçin Parti
 Gerçek Özgürlük Hareketi
 Eşitlikçi Demokratlar
 Eşitlikçi Cumhuriyetçiler
@@ -34,16 +34,16 @@ Yeni Sömürgeciler Birliği
 Sosyal Adalet Partisi
 Anayasa Partisi
 Yolsuzlukla Mücadele Hareketi
-Sosyalist Devrimci Parti'nin
-Özgürlükçü Özgürlük Birliği
-Vatansever İttifakı
+Sosyalist Devrimci Parti
+Liberteryen Özgürlük Birliği
+Vatansever İttifak
 İnancın Savunucuları
 Komünist İttifak
 İlerici Değişim Partisi
 Radikal Değişim Hareketi
 Geri Dönüş Yok Partisi
 Birleşik Çeşitlilik İttifakı
-Ataerkilliği Durdurma Partisi
+Ataerkilliği Durdurun Partisi
 Ebedi Özgürlük Partisi
 Birlik Pasifistleri
 Demokratik Ilımlılar
@@ -54,21 +54,21 @@ Sosyalistler Federasyonu
 Devrimci Kapitalistler
 Mülkiyet Hakları Partisi
 Temel Haklar Partisi
-İlerici Köktendinciler
-Eko Birliği
+İlerici Köktenciler
+Eko Birlik
 Tekno-Çevreciler
 Yeşil İttifak
 Vatandaşlar İttifakı
 Mutlak Birlik Partisi
 Sosyal Demokratlar
-Sendikacılar
+İttihatçılar
 Birleşik Sağ
 Birleşik Sol
 Yeni Sağ
 Yeni Sol
 İlerici Faşist Parti
-Refah Reform Partisi
-Reform Derneği
+Refah Reformu Partisi
+Reform Topluluğu
 Radikal Reform Partisi
 
 

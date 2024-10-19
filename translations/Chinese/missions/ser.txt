@@ -1,19 +1,19 @@
 [config]
 name  = ser
-guiname = "Republic of Serbia"
-description = "Serbia, officially the Republic of Serbia, is a landlocked country at the crossroads of Southeast and Central Europe, located in the Balkans and the Pannonian Plain. It shares land borders with Hungary to the north, Romania to the northeast, Bulgaria to the southeast, North Macedonia to the south, Croatia and Bosnia and Herzegovina to the west, and Montenegro to the southwest. Serbia claims a border with Albania through the disputed territory of Kosovo. Serbia has about 6.6 million inhabitants, excluding Kosovo. Its capital Belgrade is also the largest city."
+guiname = "塞尔维亚共和国"
+description = "塞尔维亚，正式名称为塞尔维亚共和国，是一个位于东南欧和中欧交汇处的内陆国家，位于巴尔干半岛和潘诺尼亚平原。它与北方的匈牙利、东北的罗马尼亚、东南的保加利亚、南方的北马其顿、西方的克罗地亚和波斯尼亚和黑塞哥维那，以及西南的黑山接壤。塞尔维亚通过争议领土科索沃与阿尔巴尼亚声称有边界。塞尔维亚人口约为660万（不包括科索沃）。其首都贝尔格莱德也是最大的城市。"
 
-jobtitle = "President"
+jobtitle = "总统"
 
 [stats]
-National Anthem: = "God of Justice"
-Population: = "6,647,003 (2022)"
-Area: = "88,499 km2 (34,170 sq mi)"
-Currency: = "Serbian dinar (RSD)"
-GDP: = "$173.075 billion"
-GDP per capita: = "$26,074"
-Democracy Index: = "6.33/10 (68th)"
-Biggest Industry: = "Automotive Industry"
-Capital And Largest City: = "Belgrade"
-Driving side: =	"right"
-Calling code: = "+381"
+国歌: = "公正之神"
+人口: = "6,647,003 (2022)"
+面积: = "88,499 平方公里 (34,170 平方英里)"
+货币: = "塞尔维亚第纳尔 (RSD)"
+国内生产总值: = "$1730.75 亿"
+人均国内生产总值: = "$26,074"
+民主指数: = "6.33/10 (68th)"
+最大产业: = "汽车工业"
+首都和最大城市: = "贝尔格莱德"
+行驶方向: = "右侧"
+区号: = "+381"

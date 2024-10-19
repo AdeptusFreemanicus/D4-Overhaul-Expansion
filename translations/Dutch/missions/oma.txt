@@ -1,19 +1,19 @@
 [config]
 name  = oma
-guiname = "Sultanate of Oman"
-description = "Oman, officially the Sultanate of Oman, is a country located in West Asia. It is situated on the southeastern coast of the Arabian Peninsula, and spans the mouth of the Persian Gulf. It shares land borders with Saudi Arabia, United Arab Emirates, and Yemen, while sharing maritime borders with Iran and Pakistan. The capital and largest city is Muscat. Oman has a population of nearly 4.7 million and is ranked the 124th most-populous country. The coast is formed by the Arabian Sea on the southeast, and the Gulf of Oman on the northeast. The Madha and Musandam exclaves are surrounded by United Arab Emirates on their land borders, with the Strait of Hormuz (which it shares with Iran) and the Gulf of Oman forming Musandam's coastal boundaries."
+guiname = "Sultanaat Oman"
+description = "Oman, officieel het Sultanaat Oman, is een land gelegen in West-Azië. Het ligt aan de zuidoostelijke kust van het Arabisch Schiereiland en beslaat de monding van de Perzische Golf. Het deelt landgrenzen met Saoedi-Arabië, de Verenigde Arabische Emiraten en Jemen, en heeft maritieme grenzen met Iran en Pakistan. De hoofdstad en grootste stad is Muscat. Oman heeft een bevolking van bijna 4,7 miljoen en staat op de 124e plaats qua bevolking. De kust wordt gevormd door de Arabische Zee in het zuidoosten en de Golf van Oman in het noordoosten. De exclaves Madha en Musandam zijn omringd door de Verenigde Arabische Emiraten aan hun landgrenzen, met de Straat van Hormuz (die het deelt met Iran) en de Golf van Oman die de kustgrenzen van Musandam vormen."
 
 jobtitle = "Sultan"
 
 [stats]
-National Anthem: = "Sultanic Salutation"
-Population: = "4.5 million (2021)"
-Area: = "309,500 km2 (119,500 sq mi)"
-Currency: = "Omani rial (OMR)"
-GDP: = "$200 billion"
-GDP per capita: = "$39,336"
-Democracy Index: = "3.12/10 (119th)"
-Biggest Industry: = "Oil Sector"
-Capital And Largest City: = "Muscat"
-Driving side: =	"right"
-Calling code: = "+968"
+Nationale Hymne: = "Sultanic Salutation"
+Bevolking: = "4,5 miljoen (2021)"
+Oppervlakte: = "309.500 km² (119.500 vierkante mijl)"
+Valuta: = "Omani rial (OMR)"
+BBP: = "$200 miljard"
+BBP per hoofd: = "$39.336"
+Democratie Index: = "3,12/10 (119e)"
+Grootste Industrie: = "Oliesector"
+Hoofdstad en Grootste Stad: = "Muscat"
+Rijrichting: = "rechts"
+Bel- en toegangsnummer: = "+968"

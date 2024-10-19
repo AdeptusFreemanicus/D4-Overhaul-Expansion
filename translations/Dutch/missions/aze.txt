@@ -1,19 +1,19 @@
 [config]
 name  = aze
-guiname = "Republic of Azerbaijan"
-description = "Azerbaijan, officially the Republic of Azerbaijan, is a transcontinental country located at the boundary of Eastern Europe and West Asia. It is a part of the South Caucasus region and is bounded by the Caspian Sea to the east, Russia (Republic of Dagestan) to the north, Georgia to the northwest, Armenia and Turkey to the west, and Iran to the south. Baku is the capital and largest city"
+guiname = "Republiek Azerbeidzjan"
+description = "Azerbeidzjan, officieel de Republiek Azerbeidzjan, is een transcontinentaal land gelegen op de grens van Oost-Europa en West-Azië. Het maakt deel uit van de Zuid-Kaukasus regio en wordt aan de oostkant begrensd door de Kaspische Zee, aan de noordzijde door Rusland (Republiek Dagestan), aan de noordwestzijde door Georgië, aan de westzijde door Armenië en Turkije, en aan de zuidkant door Iran. Bakoe is de hoofdstad en grootste stad."
 
 jobtitle = "President"
 
 [stats]
-National Anthem: = "March of Azerbaijan"
-Population: = "10.3 million (2022)"
-Area: = "86,600 km2 (33,400 sq mi)"
-Currency: = "Manat (₼) (AZN)"
-GDP: = "$192 billion"
-GDP per capita: = "$18,694"
-Democracy Index: = "2.87/10 (134th)"
-Biggest Industry: = "Oil and Gas"
-Capital And Largest City: = "Baku"
-Driving side: =	"right"
-Calling code: = "+944"
+Nationale Hymne: = "March of Azerbaijan"
+Bevolking: = "10,3 miljoen (2022)"
+Oppervlakte: = "86.600 km² (33.400 vierkante mijl)"
+Valuta: = "Manat (₼) (AZN)"
+BBP: = "$192 miljard"
+BBP per hoofd: = "$18.694"
+Democratie Index: = "2,87/10 (134e)"
+Grootste Industrie: = "Olie en Gas"
+Hoofdstad en Grootste Stad: = "Bakoe"
+Rijrichting: = "rechts"
+Bel- en toegangsnummer: = "+944"

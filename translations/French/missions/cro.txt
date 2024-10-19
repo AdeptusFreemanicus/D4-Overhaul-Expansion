@@ -1,19 +1,19 @@
 [config]
 name  = cro
-guiname = "Republic of Croatia"
-description = "Croatia, officially the Republic of Croatia, is a country located at the crossroads of Central and Southeast Europe. Its coast lies entirely on the Adriatic Sea. It borders Slovenia to the northwest, Hungary to the northeast, Serbia to the east, Bosnia and Herzegovina and Montenegro to the southeast, and shares a maritime border with Italy to the west. Its capital and largest city, Zagreb, forms one of the country's primary subdivisions, with twenty counties. Other major urban centers include Split, Rijeka and Osijek. The country spans 56,594 square kilometres (21,851 square miles), and has a population of nearly 3.9 million."
+guiname = "République de Croatie"
+description = "La Croatie, officiellement la République de Croatie, est un pays situé à la croisée de l'Europe centrale et du Sud-Est. Sa côte s'étend entièrement le long de la mer Adriatique. Elle borde la Slovénie au nord-ouest, la Hongrie au nord-est, la Serbie à l'est, la Bosnie-Herzégovine et le Monténégro au sud-est, et partage une frontière maritime avec l'Italie à l'ouest. Sa capitale et plus grande ville, Zagreb, constitue l'une des principales subdivisions du pays, qui compte vingt comtés. D'autres centres urbains majeurs incluent Split, Rijeka et Osijek. Le pays s'étend sur 56 594 kilomètres carrés (21 851 miles carrés) et a une population d'environ 3,9 millions d'habitants."
 
-jobtitle = "President"
+jobtitle = "Président"
 
 [stats]
-National Anthem: = "Our Beautiful Homeland"
-Population: = "3.8 million (2022 est)"
-Area: = "56,594 km2 (21,851 sq mi)"
-Currency: = "Euro (€) (EUR)"
-GDP: = "$164 billion"
-GDP per capita: = "$42,873"
-Democracy Index: = "~6.5/10 (59th)"
-Biggest Industry: = "Service Sector"
-Capital And Largest City: = "Zagreb"
-Driving side: =	"right"
-Calling code: = "+385"
+Hymne national: = "Notre belle patrie"
+Population: = "3,8 millions (estimation 2022)"
+Superficie: = "56 594 km² (21 851 mi²)"
+Monnaie: = "Euro (€) (EUR)"
+PIB: = "164 milliards $"
+PIB par habitant: = "42 873 $"
+Indice de démocratie: = "~6,5/10 (59e)"
+Plus grande industrie: = "Secteur des services"
+Capitale et plus grande ville: = "Zagreb"
+Côté de conduite: = "droit"
+Indicatif téléphonique: = "+385"

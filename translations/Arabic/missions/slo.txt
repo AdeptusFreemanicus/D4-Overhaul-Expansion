@@ -1,19 +1,19 @@
 [config]
 name  = slo
-guiname = "Slovak Republic"
-description = "Slovakia, officially the Slovak Republic, is a landlocked country in Central Europe. It is bordered by Poland to the north, Ukraine to the east, Hungary to the south, Austria to the west, and the Czech Republic to the northwest. Slovakia's mostly mountainous territory spans about 49,000 square kilometres (19,000 sq mi), hosting a population exceeding 5.4 million. The capital and largest city is Bratislava, while the second largest city is Košice.."
+guiname = "جمهورية سلوفاكيا"
+description = "سلوفاكيا، رسمياً جمهورية سلوفاكيا، هي دولة غير ساحلية في وسط أوروبا. تحدها بولندا من الشمال، وأوكرانيا من الشرق، والمجر من الجنوب، والنمسا من الغرب، وجمهورية التشيك من الشمال الغربي. تمتد أراضي سلوفاكيا الجبلية في الغالب على مساحة حوالي 49,000 كيلومتر مربع (19,000 ميل مربع)، وتستضيف سكاناً يتجاوز عددهم 5.4 مليون نسمة. العاصمة وأكبر مدينة هي براتيسلافا، بينما تعتبر مدينة كوشيتسه ثاني أكبر مدينة."
 
-jobtitle = "President"
+jobtitle = "رئيس"
 
 [stats]
-National Anthem: = "Lightning over the Tatras"
-Population: = "5.4 million (2022)"
-Area: = "49,035 km2 (18,933 sq mi)"
-Currency: = "Euro (€) (EUR)"
-GDP: = "$229 billion"
-GDP per capita: = "$42,228"
-Democracy Index: = "7.07/10 (43rd)"
-Biggest Industry: = "Service Industry"
-Capital And Largest City: = "Bratislava"
-Driving side: =	"right"
+National Anthem: = "برق فوق التاترا"
+Population: = "5.4 مليون (2022)"
+Area: = "49,035 كم² (18,933 ميل مربع)"
+Currency: = "يورو (€) (EUR)"
+GDP: = "229 مليار دولار"
+GDP per capita: = "42,228 دولار"
+Democracy Index: = "7.07/10 (المرتبة 43)"
+Biggest Industry: = "قطاع الخدمات"
+Capital And Largest City: = "براتيسلافا"
+Driving side: = "اليمين"
 Calling code: = "+421"

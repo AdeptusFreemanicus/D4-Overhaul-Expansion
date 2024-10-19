@@ -1,7 +1,7 @@
 [config]
 name  = cz
-guiname = "Czech Republic"
-description = "The Czech Republic, also known as Czechia, is a landlocked country in Central Europe. Historically known as Bohemia, it is bordered by Austria to the south, Germany to the west, Poland to the northeast, and Slovakia to the southeast. The Czech Republic has a hilly landscape that covers an area of 78,871 square kilometers (30,452 sq mi) with a mostly temperate continental and oceanic climate. The capital and largest city is Prague; other major cities and urban areas include Brno, Ostrava, Plzeň and Liberec."
+guiname = "チェコ共和国"
+description = "チェコとしても知られるチェコ共和国は、中央ヨーロッパの内陸国です。歴史的にはボヘミアとして知られ、南はオーストリア、西はドイツ、北東はポーランド、南東はスロバキアと国境を接しています。チェコ共和国は、78,871 平方キロメートル (30,452 平方マイル) の面積を占める丘陵地帯があり、ほとんどが温暖な大陸性および海洋性気候です。首都および最大の都市はプラハです。他の主要都市および都市部には、ブルノ、オストラヴァ、プルゼニ、リベレツなどがあります。"
 
 jobtitle = "President"
 

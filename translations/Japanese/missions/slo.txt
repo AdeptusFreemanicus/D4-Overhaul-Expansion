@@ -1,7 +1,7 @@
 [config]
 name  = slo
-guiname = "Slovak Republic"
-description = "Slovakia, officially the Slovak Republic, is a landlocked country in Central Europe. It is bordered by Poland to the north, Ukraine to the east, Hungary to the south, Austria to the west, and the Czech Republic to the northwest. Slovakia's mostly mountainous territory spans about 49,000 square kilometres (19,000 sq mi), hosting a population exceeding 5.4 million. The capital and largest city is Bratislava, while the second largest city is Košice.."
+guiname = "スロバキア共和国"
+description = "スロバキア、正式にはスロバキア共和国は、中央ヨーロッパの内陸国です。北はポーランド、東はウクライナ、南はハンガリー、西はオーストリア、北西はチェコと国境を接しています。スロバキアの大部分が山岳地帯の面積は約 49,000 平方キロメートル (19,000 平方マイル) で、人口は 540 万人を超えています。首都および最大の都市はブラチスラバ、2番目に大きい都市はコシツェです。"
 
 jobtitle = "President"
 

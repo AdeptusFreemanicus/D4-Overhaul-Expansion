@@ -1,19 +1,19 @@
 [config]
 name  = aze
-guiname = "Republic of Azerbaijan"
-description = "Azerbaijan, officially the Republic of Azerbaijan, is a transcontinental country located at the boundary of Eastern Europe and West Asia. It is a part of the South Caucasus region and is bounded by the Caspian Sea to the east, Russia (Republic of Dagestan) to the north, Georgia to the northwest, Armenia and Turkey to the west, and Iran to the south. Baku is the capital and largest city"
+guiname = "Republik Aserbaidschan"
+description = "Aserbaidschan, offiziell die Republik Aserbaidschan, ist ein transkontinentales Land an der Grenze zwischen Osteuropa und Westasien. Es gehört zur Region des Südkaukasus und grenzt im Osten an das Kaspische Meer, im Norden an Russland (Republik Dagestan), im Nordwesten an Georgien, im Westen an Armenien und die Türkei sowie im Süden an den Iran. Baku ist die Hauptstadt und größte Stadt."
 
-jobtitle = "President"
+jobtitle = "Präsident"
 
 [stats]
-National Anthem: = "March of Azerbaijan"
-Population: = "10.3 million (2022)"
-Area: = "86,600 km2 (33,400 sq mi)"
-Currency: = "Manat (₼) (AZN)"
-GDP: = "$192 billion"
-GDP per capita: = "$18,694"
-Democracy Index: = "2.87/10 (134th)"
-Biggest Industry: = "Oil and Gas"
-Capital And Largest City: = "Baku"
-Driving side: =	"right"
-Calling code: = "+944"
+Nationalhymne: = "March of Azerbaijan"
+Bevölkerung: = "10,3 Millionen (2022)"
+Fläche: = "86.600 km² (33.400 mi²)"
+Währung: = "Manat (₼) (AZN)"
+BIP: = "$192 Milliarden"
+BIP pro Kopf: = "$18.694"
+Demokratieindex: = "2,87/10 (134.)"
+Größte Industrie: = "Öl und Gas"
+Hauptstadt und größte Stadt: = "Baku"
+Fahrtrichtung: = "rechts"
+Telefonvorwahl: = "+944"

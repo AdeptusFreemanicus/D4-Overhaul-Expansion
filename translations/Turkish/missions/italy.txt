@@ -1,17 +1,18 @@
 [config]
 name  = italy
 guiname = "İtalya"
-description = "İtalya, çok partili bir sisteme sahip parlamenter bir cumhuriyettir. İtalya, 1946'da popüler referandumla Hükümdarlığın kaldırılmasıyla demokrasi haline geldi. İtalya, seçim sonrası sistemi geçen bir ilk kullanılarak tahsis edilen sandalyelerin% 37'si ve orantılı bir yöntem kullanılarak% 61'i bir tur oylama ile karma bir sistem işletiyor. 2019 gibi yakın bir tarihte, koalisyonların sık sık başarısız olması nedeniyle İtalya kusurlu bir demokrasi olarak kabul edildi."
-jobtitle = "Başkan"
+description = "İtalya çok partili sisteme sahip parlamenter bir cumhuriyettir. İtalya, monarşinin halk referandumu ile kaldırıldığı 1946 yılında bir demokrasi haline gelmiştir. İtalya, sandalyelerin %37'sinin ilk turda, %61'inin ise tek turlu oylama ile nispi yöntemle belirlendiği karma bir sisteme sahiptir. 2019 gibi yakın bir tarihte, koalisyonların sık sık başarısızlığa uğraması nedeniyle İtalya kusurlu bir demokrasi olarak görülmüştür."
+jobtitle = "Cumhurbaşkanı"
 
 [stats]
-Nüfus: = BM verilerine göre 2020 ortalarında 60.461.826 kişi.
-Boyut:= 301.340 km2
-Din: = Katolik (% 69), Doğu Ortodoks (% 4), Ateizm ve Agnostik (% 14). 
-İhracat: = Bilgisayarlar, araçlar ve parçalar, ilaçlar, elektrikli makineler, plastikler, değerli taşlar ve değerli metaller, demir veya çelik eşyalar dahil makineler.
-Dünya Lideri: = Miras (kültür, tarih, yemek). En UNESCO siteleri. Dünyanın en büyük şarap üreticisi. Tüm çocuklar için zorunlu iklim değişikliği dersleri alan ilk ülke.
-Üyesi:= Avrupa Birliği, Birleşmiş Milletler, NATO, OECD
-Ulusal takıntılar: = Kahve, futbol, sağlıklı Akdeniz diyeti, aile.
+Population:= 	BM verilerine göre 2020 ortasında 60.461.826 kişi.
+Size:=	301,340 km²
+
+Religion:= 	Katolik (%69), Doğu Ortodoks (%4), Ateizm ve Agnostik (%14). 
+Exports:= 	Bilgisayarlar, taşıtlar ve parçaları, eczacılık ürünleri, elektrikli makineler, plastikler, değerli taşlar ve değerli metaller, demir veya çelikten eşyalar dahil olmak üzere makine.
+World Leader:=	Miras (kültür, tarih, yemek). En çok UNESCO alanı. Dünyanın en büyük şarap üreticisi. Tüm çocuklar için zorunlu iklim değişikliği dersi veren ilk ülke.
+Member of:=	Avrupa Birliği, Birleşmiş Milletler, NATO, OECD
+National obsessions:=	Kahve, futbol, sağlıklı Akdeniz diyeti, aile.
 
 
 

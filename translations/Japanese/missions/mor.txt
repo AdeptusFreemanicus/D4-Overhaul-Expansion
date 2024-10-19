@@ -1,7 +1,7 @@
 [config]
 name  = mor
-guiname = "Kingdom of Morocco"
-description = "Morocco officially the Kingdom of Morocco, is a country in the Maghreb region of North Africa. It overlooks the Mediterranean Sea to the north and the Atlantic Ocean to the west, and has land borders with Algeria to the east, and the disputed territory of Western Sahara to the south. It spans an area of 446,300 km2 (172,300 sq mi) or 716,550 km2 (276,660 sq mi), and with a population of roughly 37 million Citizens."
+guiname = "モロッコ王国"
+description = "モロッコは正式にはモロッコ王国で、北アフリカのマグレブ地域にある国です。北は地中海、西は大西洋を望み、東はアルジェリアと陸続き、南は西サハラの係争地に面しています。面積は 446,300 km2 (172,300 平方マイル) または 716,550 km2 (276,660 平方マイル) で、人口は約 3,700 万人です。"
 
 jobtitle = "King"
 

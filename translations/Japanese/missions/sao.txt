@@ -1,7 +1,7 @@
 [config]
 name  = sao
-guiname = "Republic of San Marino"
-description = "San Marino, officially the Republic of San Marino and also known as the Most Serene Republic of San Marino, is a European microstate and country enclaved by Italy. Located on the northeastern side of the Apennine Mountains, San Marino is the fifth-smallest country in the world and covers a land area of just over 61 km2, with a population of 33,660 as of 2022. San Marino is a landlocked country; however, its northeastern end is within ten kilometres of the Italian city of Rimini on the Adriatic coast. The nearest airport is also in Italy. The country's capital city, the City of San Marino, is located atop Monte Titano, while its largest settlement is Dogana within the largest municipality of Serravalle. San Marino's official language is Italian."
+guiname = "サンマリノ共和国"
+description = "サンマリノ、正式にはサンマリノ共和国、最も穏やかなサンマリノ共和国としても知られる、ヨーロッパの小国家であり、イタリアに囲まれた国です。アペニン山脈の北東側に位置するサンマリノは世界で 5 番目に小さい国で、面積は 61 km2 強、人口は 2022 年時点で 33,660 人です。サンマリノは内陸国です。ただし、その北東端はアドリア海沿岸のイタリアの都市リミニから 10 キロメートル以内にあります。最寄りの空港もイタリアにあります。国の首都であるサンマリノ市はティターノ山の上に位置し、最大の集落はセッラヴァッレ最大自治体内のドガーナです。サンマリノの公用語はイタリア語です。"
 
 jobtitle = "Captains Regent"
 

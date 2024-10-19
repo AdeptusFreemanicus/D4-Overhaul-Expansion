@@ -1,17 +1,17 @@
 [config]
 name  = france
 guiname = "Fransa"
-description = "Fransa ya da Fransız Cumhuriyeti, 1789'daki Fransız Devrimi sırasında mutlak bir Hükümdar idi. 1792'de ‘Özgürlük, Eşitlik ve Kardeşlik’ sloganıyla Fransa, en eski modern cumhuriyetlerden biri oldu. Fransa'nın demokrasiye dönüşmesi 80 yıl daha sürdü. O zaman bile, II. Dünya Savaşı da dahil olmak üzere demokratik haklar bazen raydan çıktı ve demokratik yönetimin istikrara kavuşması 1958'de Beşinci Cumhuriyet kuruluncaya kadar değildi. Fransa'nın seçilmiş bir Baskını ve Balkanlar tarafından atanan bir Başbakanı var. Fransa, Avrupa Birliği'nin önde gelen bir üyesi ve NATO üyesidir."
+description = "Fransa ya da Fransız Cumhuriyeti, 1789 Fransız Devrimi sırasında mutlak bir monarşiydi. Fransa, 1792 yılında 'Özgürlük, Eşitlik ve Kardeşlik' sloganıyla ilk modern cumhuriyetlerden biri haline geldi. Fransa'nın bir demokrasi haline gelmesi için 80 yıl daha geçmesi gerekti. O zaman bile, İkinci Dünya Savaşı da dahil olmak üzere demokratik haklar bazen raydan çıktı ve 1958'de Beşinci Cumhuriyet kurulana kadar demokratik yönetim istikrar kazanmadı. Fransa'nın seçilmiş bir Cumhurbaşkanı ve Cumhurbaşkanı tarafından atanan bir Başbakanı vardır. Fransa, Avrupa Birliği'nin önde gelen bir üyesi ve NATO'nun bir üyesidir."
 jobtitle = "Başkan"
 
 [stats]
-Nüfus: = "65,273,511"
-Boyut: = "643.801 km kare"
-Din: = "Katoliklik% 41, Hiçbiri% 40, islam% 5"
-İhracat: = "Makine, uçak, taşıt, ilaç, plastik, kozmetik, içecek. "
-Dünya Lideri: = "Lüks mallar, turizm, refah devleti finansmanı, elektrik ihracatı."
-Üye: = "Euro Bölgesi, AB tek pazarı, NATO, G4"
-Ulusal takıntılar: = "Gastronomi, eşitlik, şarap, rekabetçi bisiklet."
+Population: = "65,273,511"
+Size: = "643,801 sq km"
+Religion: = "Katoliklik %41, Hiçbiri %40, Müslüman %5"
+Exports: = "Makineler, uçaklar, araçlar, ilaçlar, plastikler, kozmetikler, içecekler. "
+World Leader: = "Lüks mallar, turizm, refah devleti finansmanı, elektrik ihracatı."
+Member of: = "Avro Bölgesi, AB tek pazarı, NATO, G4"
+National obsessions: = "Gastronomi, eşitlik, şarap, rekabetçi bisiklet."
 
 
 

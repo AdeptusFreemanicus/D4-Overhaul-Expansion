@@ -1,16 +1,16 @@
 [config]
 name  = germany
 guiname = "Almanya"
-description = "Daha yaygın olarak Almanya olarak bilinen Federal Almanya Cumhuriyeti, on altı eyaleti Başkan (büyük ölçüde törensel) ve Federal Şansölye liderliğinde birleştiren Federal bir Parlamenter Cumhuriyettir. Almanya, dünyanın en iyilerinden biri olan güçlü ve büyüyen bir ekonomiye sahiptir. Almanya, Avrupa Birliği'nin önde gelen bir üyesidir. Almanya ilk olarak 1919'da demokrasi oldu, ancak 1933'ten itibaren diktatörlük olarak yönetildi. 1945'te sona eren II. Dünya Savaşı'ndan ve birkaç yıl süren karışıklıktan sonra, 1949'da demokrasiye geri döndü."
+description = "Daha yaygın olarak Almanya olarak bilinen Federal Almanya Cumhuriyeti, Cumhurbaşkanı (büyük ölçüde törensel) ve Federal Şansölye liderliğinde on altı eyaleti birleştiren bir Federal Parlamenter Cumhuriyettir. Almanya, dünyanın en iyilerinden biri olan güçlü ve büyüyen bir ekonomiye sahiptir. Almanya Avrupa Birliği'nin önde gelen üyelerinden biridir. Almanya ilk olarak 1919'da demokrasiye geçmiş, ancak 1933'ten itibaren diktatörlükle yönetilmiştir. 1945'te sona eren İkinci Dünya Savaşı ve birkaç yıl süren karışıklığın ardından 1949'da demokrasiye geri dönmüştür."
 jobtitle = "Şansölye"
 
 [stats]
-Nüfus: = "83.783.942 (2020)"
-Boyut: = "357.386 km kare"
-Din: = "Hiçbiri% 39, Roma Katoliği% 27, Protestan% 25, islam% 5, "
-İhracat: = "Taşıtlar, makineler, kimyasallar, elektronik, ilaçlar, metaller, gıda."
-Dünya Lideri: = "İklim ve enerji politikaları, hayvanat bahçesi sayısı (> 400), ihracat"
-Üye: = "Euro Bölgesi, AB tek pazarı, NATO, G4"
+Population: = "83,783,942 (2020)"
+Size: = "357,386 sq km"
+Religion: = "Hiçbiri %39, Roma Katoliği %27, Protestan %25, Müslüman %5, "
+Exports: = "Araçlar, makineler, kimyasallar, elektronik, eczacılık ürünleri, metaller, gıda."
+World Leader: = "İklim ve enerji politikaları, hayvanat bahçesi sayısı (>400), ihracat"
+Member of: = "Avro Bölgesi, AB tek pazarı, NATO, G4"
 
 
 

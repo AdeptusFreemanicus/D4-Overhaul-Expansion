@@ -1,17 +1,17 @@
 [config]
 name  = vat
-guiname = "Vatican City State"
-description = "Vatican City, officially the Vatican City State, is a landlocked independent country, city-state, microstate, and enclave within Rome, Italy. It became independent from Italy in 1929 with the Lateran Treaty. With an area of 49 hectares and as of 2023 a population of about 764, it is the smallest state in the world both by area and by population. As governed by the Holy See, Vatican City State is an ecclesiastical or sacerdotal-monarchical state ruled by the Pope, who is the bishop of Rome and head of the Catholic Church. The highest state functionaries are all Catholic clergy of various origins. After the Avignon Papacy (1309–1377) the popes have mainly resided at the Apostolic Palace within what is now Vatican City, although at times residing instead in the Quirinal Palace in Rome or elsewhere. The Vatican is also a metonym for the Holy See."
+guiname = "梵蒂冈城邦"
+description = "梵蒂冈，正式名称为梵蒂冈城邦，是一个位于意大利罗马的内陆独立国家、城市国家、微型国家和飞地。它于1929年通过拉特兰条约脱离意大利独立。梵蒂冈占地49公顷，截至2023年，人口约为764人，是世界上面积和人口最小的国家。作为教宗统治的国家，梵蒂冈城邦是一个由教宗统治的宗教或神职君主制国家，教宗是罗马主教和天主教会的首领。最高的国家官员都是来自不同国家的天主教神职人员。在亚维农教宗时期（1309-1377年）之后，教宗们主要居住在现在的梵蒂冈内的宗座宫殿，有时则居住在罗马的奎里纳尔宫或其他地方。梵蒂冈也是“教廷”的代称。"
 
-jobtitle = "Monarch"
+jobtitle = "君主"
 
 [stats]
-National Anthem: = "Inno e Marcia Pontificale"
-Population: = "~764 (2023"
-Area: = "0.49km2 (0.19 sq mi)"
-Currency: = "Euro (€) (EUR)"
-Holyness: = "10/10 (1st)"
-Biggest Industry: = "God"
-Capital And Largest City: = "Vatican City"
-Driving side: =	"right"
-Calling code: = "+379"
+国歌: = "教宗的颂歌"
+人口: = "~764 (2023)"
+面积: = "0.49平方公里 (0.19平方英里)"
+货币: = "欧元 (€) (EUR)"
+神圣指数: = "10/10 (第一)"
+最大产业: = "上帝"
+首都和最大城市: = "梵蒂冈"
+行驶方向: = "右侧"
+区号: = "+379"

@@ -1,17 +1,17 @@
 [config]
 name  = south korea
 guiname = "Güney Kore"
-description = "Birinci Kore Cumhuriyeti veya Güney Kore, otokratik yönetim altına girmeden ve 1960'ta çökmeden önce 1953'te kısa bir süre demokratik hale geldi. İkinci Cumhuriyet bir demokrasi olarak başladı, ancak kısa süre sonra otokratik bir askeri rejim tarafından devrildi. Üçüncü, Dördüncü ve Beşinci Cumhuriyetler nominal olarak demokratikti, ancak gerçekte daha çok askeri yönetimin devamıydı. 1987'den itibaren Altıncı Cumhuriyet liberal bir demokrasiye dönüştü. Kore kraliyet ailesinin resmi bir yetkisi yoktur."
-jobtitle = "Başkan"
+description = "Birinci Kore Cumhuriyeti ya da Güney Kore 1953 yılında kısa süreliğine demokratik olmuş, 1960 yılında otokratik bir yönetim altına girerek yıkılmıştır. İkinci Cumhuriyet bir demokrasi olarak başladı ancak kısa süre sonra otokratik bir askeri rejim tarafından devrildi. Üçüncü, Dördüncü ve Beşinci Cumhuriyetler sözde demokratikti ama gerçekte daha çok askeri yönetimin devamı niteliğindeydi. 1987'den itibaren Altıncı Cumhuriyet liberal bir demokrasiye dönüşmüştür. Kore kraliyet ailesinin resmi bir yetkisi yoktur."
+jobtitle = "Cumhurbaşkanı"
 
 [stats]
-Nüfus: = "51,71 milyon"
-Boyut: = "100.032 km kare"	
-Din: = "Yok (% 56,1), Protestanlık (% 19,7), Kore Budizmi (% 15,5), Katoliklik (% 7,9)"
-İhracat: = "Elektronik ürünler, makineler, motorlu araçlar (özellikle otomobiller), çelik, gemiler, tekstil ve giyim."	
-Dünya Lideri: = "En büyük yedek ordu. Lise mezunlarının en büyük yüzdesi, en hızlı internet hızı."
-Üye:= "Birleşmiş Milletler, OECD, G20"
-Ulusal takıntılar: "Kpop ve K-dramaları. Kızarmış tavuk. Kuzey Kore ile çözülmemiş gerginlik. Eğitim. Plastik cerrahi. İş ahlakı.
+Population: =	"51,71 milyon"
+Size:=	"100,032 sq km"	
+Religion: =	"Hiçbiri (%56,1),Protestanlık (%19,7),Kore Budizmi (%15,5),Katoliklik (%7,9)"
+Exports: =	"Elektronik ürünler, makineler, motorlu taşıtlar (özellikle otomobiller), çelik, gemiler, tekstil ve giyim."	
+World Leader:=	"En büyük yedek ordu. Lise mezunlarının en yüksek yüzdesi, en yüksek internet hızı."
+Member of:=	"Birleşmiş Milletler, OECD, G20"
+National obsessions:	"K-pop ve K-dramalar. Kızarmış tavuk. Kuzey Kore ile çözülmemiş gerilim. Eğitim. Plastik cerrahi. İş ahlakı.
 
 
 

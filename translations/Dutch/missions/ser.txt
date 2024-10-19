@@ -1,19 +1,19 @@
 [config]
 name  = ser
-guiname = "Republic of Serbia"
-description = "Serbia, officially the Republic of Serbia, is a landlocked country at the crossroads of Southeast and Central Europe, located in the Balkans and the Pannonian Plain. It shares land borders with Hungary to the north, Romania to the northeast, Bulgaria to the southeast, North Macedonia to the south, Croatia and Bosnia and Herzegovina to the west, and Montenegro to the southwest. Serbia claims a border with Albania through the disputed territory of Kosovo. Serbia has about 6.6 million inhabitants, excluding Kosovo. Its capital Belgrade is also the largest city."
+guiname = "Republiek Servië"
+description = "Servië, officieel de Republiek Servië, is een landlocked land op de kruising van Zuidoost- en Midden-Europa, gelegen op de Balkan en de Pannonische Vlakte. Het deelt landgrenzen met Hongarije in het noorden, Roemenië in het noordoosten, Bulgarije in het zuidoosten, Noord-Macedonië in het zuiden, Kroatië en Bosnië en Herzegovina in het westen, en Montenegro in het zuidwesten. Servië claimt een grens met Albanië via het betwiste gebied Kosovo. Servië heeft ongeveer 6,6 miljoen inwoners, exclusief Kosovo. De hoofdstad, Belgrado, is ook de grootste stad."
 
 jobtitle = "President"
 
 [stats]
-National Anthem: = "God of Justice"
-Population: = "6,647,003 (2022)"
-Area: = "88,499 km2 (34,170 sq mi)"
-Currency: = "Serbian dinar (RSD)"
-GDP: = "$173.075 billion"
-GDP per capita: = "$26,074"
-Democracy Index: = "6.33/10 (68th)"
-Biggest Industry: = "Automotive Industry"
-Capital And Largest City: = "Belgrade"
-Driving side: =	"right"
-Calling code: = "+381"
+Nationale Hymne: = "God van de Rechtvaardigheid"
+Bevolking: = "6.647.003 (2022)"
+Oppervlakte: = "88.499 km² (34.170 vierkante mijl)"
+Valuta: = "Servische dinar (RSD)"
+BBP: = "$173,075 miljard"
+BBP per hoofd: = "$26,074"
+Democratie-index: = "6,33/10 (68e)"
+Grootste Industrie: = "Automobielindustrie"
+Hoofdstad en Grootste Stad: = "Belgrado"
+Rijrichting: = "rechts"
+Belcode: = "+381"

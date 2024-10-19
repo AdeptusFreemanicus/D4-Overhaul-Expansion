@@ -1,7 +1,7 @@
 [config]
 name  = sad
-guiname = "Sahrawi Arab Democratic Republic"
-description = "The Sahrawi Arab Democratic Republic, also known as the Sahrawi Republic and Western Sahara, is a partially recognized state, recognised by 46 UN member states and South Ossetia, located in the western Maghreb, which claims the non-self-governing territory of Western Sahara, but controls only the easternmost one-fifth of that territory. Between 1884 and 1975, Western Sahara was known as Spanish Sahara, a Spanish colony (later an overseas province). The SADR is one of the two African states in which Spanish is a significant language, the other being Equatorial Guinea."
+guiname = "サハラ アラブ民主共和国"
+description = "サハラウィー・アラブ民主共和国は、サハラウィー共和国および西サハラとも呼ばれ、46の国連加盟国と西マグレブに位置する南オセチアによって部分的に承認された国家であり、西サハラの非自治領域を主張しています。 、しかし支配しているのはその領土の東端の5分の1だけです。 1884 年から 1975 年の間、西サハラはスペインの植民地 (後に海外州) であるスパニッシュ サハラとして知られていました。 SADR はスペイン語が重要な言語であるアフリカの 2 つの州のうちの 1 つであり、もう 1 つは赤道ギニアです。"
 
 jobtitle = "President"
 

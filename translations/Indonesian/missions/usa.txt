@@ -1,8 +1,8 @@
 [config]
-name = Amerika
+name  = Amerika
 guiname = "Amerika Serikat"
-Description = "Amerika Serikat adalah negara terbesar ketiga atau keempat di dunia berdasarkan total luas wilayah, dan negara terpadat ketiga di dunia. Orang Amerika adalah populasi yang beragam secara ras dan etnis yang terbentuk melalui imigrasi selama berabad-abad. Amerika Serikat adalah republik federal dan demokrasi perwakilan. AS adalah anggota pendiri PBB, Bank Dunia, Dana Moneter Internasional, dan NATO.
-jobtittle = "Presiden"
+description = "Amerika Serikat adalah negara terbesar ketiga atau keempat di dunia berdasarkan total luas wilayah, dan negara terpadat ketiga di dunia. Orang Amerika adalah populasi yang beragam secara ras dan etnis yang terbentuk melalui imigrasi selama berabad-abad. Amerika Serikat adalah republik federal dan demokrasi perwakilan. AS adalah anggota pendiri PBB, Bank Dunia, Dana Moneter Internasional, dan NATO."
+jobtitle = "Presiden"
 
 [stats]
 Populasi: = "328 juta (Jan 2020)"
@@ -15,7 +15,7 @@ Destinasi Wisata Terpopuler: = "Grand Canyon"
 Makanan paling populer: = "Burger Keju"
 Industri Terbesar: = "Real Estat"
 
-[pekerjaan]
+[jobs]
 KEBIJAKAN LUAR NEGERI = "Sekretaris Negara"
 KESEJAHTERAAN = "Sekretaris Perumahan dan Pembangunan Perkotaan"
 EKONOMI = "Sekretaris Perdagangan"

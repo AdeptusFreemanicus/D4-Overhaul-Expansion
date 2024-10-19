@@ -1,19 +1,19 @@
 [config]
 name  = cz
-guiname = "Czech Republic"
-description = "The Czech Republic, also known as Czechia, is a landlocked country in Central Europe. Historically known as Bohemia, it is bordered by Austria to the south, Germany to the west, Poland to the northeast, and Slovakia to the southeast. The Czech Republic has a hilly landscape that covers an area of 78,871 square kilometers (30,452 sq mi) with a mostly temperate continental and oceanic climate. The capital and largest city is Prague; other major cities and urban areas include Brno, Ostrava, Plzeň and Liberec."
+guiname = "Tschechische Republik"
+description = "Die Tschechische Republik, auch bekannt als Tschechien, ist ein Binnenland in Mitteleuropa. Historisch bekannt als Böhmen, grenzt sie im Süden an Österreich, im Westen an Deutschland, im Nordosten an Polen und im Südosten an die Slowakei. Die Tschechische Republik hat eine hügelige Landschaft, die eine Fläche von 78.871 Quadratkilometern (30.452 mi²) umfasst und ein überwiegend gemäßigtes kontinentales und ozeanisches Klima aufweist. Die Hauptstadt und größte Stadt ist Prag; weitere große Städte und Ballungsräume sind Brünn, Ostrau, Pilsen und Liberec."
 
-jobtitle = "President"
+jobtitle = "Präsident"
 
 [stats]
-National Anthem: = "Where My Home is"
-Population: = "10.5 million (2021)"
-Area: = "78,871 km2 (30,452 sq mi)"
-Currency: = "Czech koruna (CZK)"
-GDP: = "$397 billion (~11,180,000,000,000 CZK)"
-GDP per capita: = "$49,025 (~1,118,000 CZK)"
-Democracy Index: = "~7.97/10 (25st)"
-Biggest Industry: = "Manufacturing"
-Capital And Largest City: = "Prague"
-Driving side: =	"right"
-Calling code: = "+420 (Based)"
+Nationalhymne: = "Wo meine Heimat ist"
+Bevölkerung: = "10,5 Millionen (2021)"
+Fläche: = "78.871 km² (30.452 mi²)"
+Währung: = "Tschechische Krone (CZK)"
+BIP: = "$397 Milliarden (~11.180.000.000.000 CZK)"
+BIP pro Kopf: = "$49.025 (~1.118.000 CZK)"
+Demokratieindex: = "~7,97/10 (25.)"
+Größte Industrie: = "Verarbeitendes Gewerbe"
+Hauptstadt und größte Stadt: = "Prag"
+Fahrtrichtung: = "rechts"
+Telefonvorwahl: = "+420"

@@ -1,8 +1,8 @@
 [config]
 name = inggris
 guiname = "Inggris Raya"
-Description = "Kerajaan Bersatu Britania Raya dan Irlandia Utara sebenarnya terdiri dari empat negara. Inggris, Skotlandia, Wales, dan Irlandia Utara. Britania Raya adalah 'monarki konstitusional', yang secara efektif berarti monarki bersifat simbolis. Kepala negaranya adalah Raja , namun negara ini diperintah oleh seorang Perdana Menteri, yang didefinisikan sebagai siapa pun yang dapat memperoleh dukungan mayoritas di 'House of Commons', yang merupakan majelis yang dipilih. Sebuah majelis kedua yang tidak dipilih yang disebut 'House of Lords' ada untuk mengawasi undang-undang."
-jobtittle = "Perdana Menteri"
+description = "Kerajaan Bersatu Britania Raya dan Irlandia Utara sebenarnya terdiri dari empat negara. Inggris, Skotlandia, Wales, dan Irlandia Utara. Britania Raya adalah 'monarki konstitusional', yang secara efektif berarti monarki bersifat simbolis. Kepala negaranya adalah Raja , namun negara ini diperintah oleh seorang Perdana Menteri, yang didefinisikan sebagai siapa pun yang dapat memperoleh dukungan mayoritas di 'House of Commons', yang merupakan majelis yang dipilih. Sebuah majelis kedua yang tidak dipilih yang disebut 'House of Lords' ada untuk mengawasi undang-undang."
+jobtitle = "Perdana Menteri"
 
 [stats]
 Populasi: = "65,1 juta (Juli 2018)"

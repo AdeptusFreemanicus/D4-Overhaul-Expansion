@@ -1,7 +1,7 @@
 [config]
 name  = aze
-guiname = "Republic of Azerbaijan"
-description = "Azerbaijan, officially the Republic of Azerbaijan, is a transcontinental country located at the boundary of Eastern Europe and West Asia. It is a part of the South Caucasus region and is bounded by the Caspian Sea to the east, Russia (Republic of Dagestan) to the north, Georgia to the northwest, Armenia and Turkey to the west, and Iran to the south. Baku is the capital and largest city"
+guiname = "アゼルバイジャン共和国"
+description = "アゼルバイジャン、正式にはアゼルバイジャン共和国は、東ヨーロッパと西アジアの境界に位置する大陸横断国です。南コーカサス地方の一部であり、東はカスピ海、北はロシア（ダゲスタン共和国）、北西はジョージア、西はアルメニアとトルコ、南はイランに囲まれています。バクーは首都であり最大の都市です。"
 
 jobtitle = "President"
 

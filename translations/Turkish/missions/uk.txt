@@ -1,18 +1,18 @@
 [config]
 name  = uk
 guiname = "Birleşik Krallık"
-description = "Büyük Britanya ve Kuzey İrlanda Birleşik Krallığı aslında dört ülkeden oluşmaktadır. İngiltere, iskoçya, Galler ve Kuzey İrlanda. Birleşik Krallık bir 'anayasal Hükümdary'dir, yani Hükümdar semboliktir. Devlet başkanı Kraliçedir, ancak ülke, seçilen oda olan 'Avam Kamarası'nda desteğin çoğunluğunu yönetebilecek herhangi biri olarak tanımlanan bir Başbakan tarafından yönetilmektedir. Mevzuatı incelemek için 'Lordlar Kamarası' adı verilen ikinci bir seçilmemiş oda bulunmaktadır."
+description = "Büyük Britanya ve Kuzey İrlanda Birleşik Krallığı aslında dört ülkeden oluşmaktadır. İngiltere, İskoçya, Galler ve Kuzey İrlanda. Birleşik Krallık bir 'anayasal monarşi'dir, yani monarşi semboliktir. Devlet başkanı Kraliçe'dir ancak ülke, seçilmiş meclis olan 'Avam Kamarası'nda çoğunluk desteğini alabilen kişi olarak tanımlanan bir Başbakan tarafından yönetilir. 'Lordlar Kamarası' adı verilen seçilmemiş ikinci bir kamara ise yasaları incelemek için vardır."
 jobtitle = "Başbakan"
 
 [stats]
-Nüfus: = "65,1 milyon (Temmuz 2018)"
-Boyut: = "243.610 km kare"
-Etnik Köken: = "% 87,1 Beyaz% 3 Siyah% 6,9 Asyalı"
-Din: = "Hristiyan (% 59,5) Müslüman (% 4,4) Hindu (% 1,3)"
-İhracat: = "Arabalar, Turbo jetler, Ham petrol, Altın, İlaçlar"
-En Popüler Yemek: = "Balık ve Patates Kızartması"
-Milli Marş: = "Tanrı Kraliçeyi Korusun"
-En Zengin Vatandaş: = "Sör James Dyson (2020)"
+Population: = "65,1 milyon (Temmuz 2018)"
+Size: = "243,610 sq km"
+Ethnicity: = "87,1 Beyaz %3 Siyah %6,9 Asyalı"
+Religion: = "Hristiyan (%59,5) Müslüman (%4,4) Hindu (%1,3)"
+Exports: = "Arabalar, Turbo jetler, Ham petrol, Altın, İlaçlar"
+Most Popular Food: = "Balık ve Cips"
+National Anthem: = "Tanrı Kraliçeyi Korusun"
+Wealthiest Citizen: = "Sir James Dyson (2020)"
 
 
 

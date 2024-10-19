@@ -1,19 +1,19 @@
 [config]
 name  = cro
-guiname = "Republic of Croatia"
-description = "Croatia, officially the Republic of Croatia, is a country located at the crossroads of Central and Southeast Europe. Its coast lies entirely on the Adriatic Sea. It borders Slovenia to the northwest, Hungary to the northeast, Serbia to the east, Bosnia and Herzegovina and Montenegro to the southeast, and shares a maritime border with Italy to the west. Its capital and largest city, Zagreb, forms one of the country's primary subdivisions, with twenty counties. Other major urban centers include Split, Rijeka and Osijek. The country spans 56,594 square kilometres (21,851 square miles), and has a population of nearly 3.9 million."
+guiname = "جمهورية كرواتيا"
+description = "كرواتيا، رسمياً جمهورية كرواتيا، هي دولة تقع عند ملتقى أوروبا الوسطى وجنوب شرق أوروبا. ساحلها يقع بالكامل على البحر الأدرياتيكي. تحدها سلوفينيا من الشمال الغربي، والمجر من الشمال الشرقي، وصربيا من الشرق، والبوسنة والهرسك والجبل الأسود من الجنوب الشرقي، وتشترك في حدود بحرية مع إيطاليا من الغرب. عاصمتها وأكبر مدنها، زغرب، تشكل إحدى التقسيمات الرئيسية في البلاد مع عشرين مقاطعة. تشمل المراكز الحضرية الرئيسية الأخرى سبليت، رييكا وأوسييك. تمتد البلاد على مساحة 56,594 كيلومتراً مربعاً (21,851 ميلاً مربعاً)، ويبلغ عدد سكانها حوالي 3.9 مليون نسمة."
 
-jobtitle = "President"
+jobtitle = "رئيس"
 
 [stats]
-National Anthem: = "Our Beautiful Homeland"
-Population: = "3.8 million (2022 est)"
-Area: = "56,594 km2 (21,851 sq mi)"
-Currency: = "Euro (€) (EUR)"
-GDP: = "$164 billion"
-GDP per capita: = "$42,873"
-Democracy Index: = "~6.5/10 (59th)"
-Biggest Industry: = "Service Sector"
-Capital And Largest City: = "Zagreb"
-Driving side: =	"right"
+National Anthem: = "وطننا الجميل"
+Population: = "3.8 مليون (تقدير 2022)"
+Area: = "56,594 كم² (21,851 ميل مربع)"
+Currency: = "يورو (€) (EUR)"
+GDP: = "164 مليار دولار"
+GDP per capita: = "42,873 دولار"
+Democracy Index: = "~6.5/10 (المرتبة 59)"
+Biggest Industry: = "قطاع الخدمات"
+Capital And Largest City: = "زغرب"
+Driving side: = "اليمين"
 Calling code: = "+385"

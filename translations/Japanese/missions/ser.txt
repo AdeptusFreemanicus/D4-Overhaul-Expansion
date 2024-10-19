@@ -1,7 +1,7 @@
 [config]
 name  = ser
-guiname = "Republic of Serbia"
-description = "Serbia, officially the Republic of Serbia, is a landlocked country at the crossroads of Southeast and Central Europe, located in the Balkans and the Pannonian Plain. It shares land borders with Hungary to the north, Romania to the northeast, Bulgaria to the southeast, North Macedonia to the south, Croatia and Bosnia and Herzegovina to the west, and Montenegro to the southwest. Serbia claims a border with Albania through the disputed territory of Kosovo. Serbia has about 6.6 million inhabitants, excluding Kosovo. Its capital Belgrade is also the largest city."
+guiname = "セルビア共和国"
+description = "セルビア、正式にはセルビア共和国は、バルカン半島とパノニア平原に位置し、南東ヨーロッパと中央ヨーロッパの交差点にある内陸国です。北はハンガリー、北東はルーマニア、南東はブルガリア、南は北マケドニア、西はクロアチア、ボスニア・ヘルツェゴビナ、南西はモンテネグロと陸上国境を接しています。セルビアは、係争地であるコソボを経由してアルバニアとの国境を主張している。セルビアの人口はコソボを除いて約660万人。首都ベオグラードは最大の都市でもあります。"
 
 jobtitle = "President"
 

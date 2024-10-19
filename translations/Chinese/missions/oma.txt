@@ -1,19 +1,19 @@
 [config]
 name  = oma
-guiname = "Sultanate of Oman"
-description = "Oman, officially the Sultanate of Oman, is a country located in West Asia. It is situated on the southeastern coast of the Arabian Peninsula, and spans the mouth of the Persian Gulf. It shares land borders with Saudi Arabia, United Arab Emirates, and Yemen, while sharing maritime borders with Iran and Pakistan. The capital and largest city is Muscat. Oman has a population of nearly 4.7 million and is ranked the 124th most-populous country. The coast is formed by the Arabian Sea on the southeast, and the Gulf of Oman on the northeast. The Madha and Musandam exclaves are surrounded by United Arab Emirates on their land borders, with the Strait of Hormuz (which it shares with Iran) and the Gulf of Oman forming Musandam's coastal boundaries."
+guiname = "阿曼苏丹国"
+description = "阿曼，正式名称为阿曼苏丹国，是位于西亚的一个国家。它位于阿拉伯半岛的东南沿海，跨越波斯湾的入口。它与沙特阿拉伯、阿联酋和也门接壤，并与伊朗和巴基斯坦共享海洋边界。首都和最大城市是马斯喀特。阿曼人口接近470万，排名第124位。该国东南面为阿拉伯海，东北面为阿曼湾。马达和穆桑达姆飞地被阿联酋包围，霍尔木兹海峡（与伊朗共享）和阿曼湾形成了穆桑达姆的海岸边界。"
 
-jobtitle = "Sultan"
+jobtitle = "苏丹"
 
 [stats]
-National Anthem: = "Sultanic Salutation"
-Population: = "4.5 million (2021)"
-Area: = "309,500 km2 (119,500 sq mi)"
-Currency: = "Omani rial (OMR)"
-GDP: = "$200 billion"
+National Anthem: = "苏丹礼赞"
+Population: = "450万 (2021)"
+Area: = "309,500 平方公里 (119,500 平方英里)"
+Currency: = "阿曼里亚尔 (OMR)"
+GDP: = "$2000亿"
 GDP per capita: = "$39,336"
-Democracy Index: = "3.12/10 (119th)"
-Biggest Industry: = "Oil Sector"
-Capital And Largest City: = "Muscat"
-Driving side: =	"right"
+Democracy Index: = "3.12/10 (第119位)"
+Biggest Industry: = "石油产业"
+Capital And Largest City: = "马斯喀特"
+Driving side: = "右侧"
 Calling code: = "+968"

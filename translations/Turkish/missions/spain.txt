@@ -1,17 +1,17 @@
 [config]
 name  = spain
 guiname = "İspanya"
-description = "İspanya Krallığı'nın ilk demokratik seçimi, 1939'dan beri İspanya'yı diktatörlük altında yöneten Francisco Franco'nun 1975'te ölümünden sonra Haziran 1977'de gerçekleşti. 1978'de referandumla yeni bir demokratik anayasa ilan edildi ve onaylandı. İspanya, anayasal meclis üyesi cadı Kral ilan edildi Juan Carlos I Devlet Başkanı olarak ve genel oy hakkı ile."
+description = "İspanya Krallığı'nın ilk demokratik seçimi, 1939'dan beri İspanya'yı diktatörlükle yöneten Francisco Franco'nun 1975'te ölümünden sonra Haziran 1977'de gerçekleşti. 1978 yılında yeni bir demokratik anayasa ilan edildi ve referandumla onaylandı. İspanya, Kral I. Juan Carlos'un Devlet Başkanı olduğu ve genel oy hakkına sahip anayasal bir parlamenter monarşi olarak ilan edildi."
 jobtitle = "Başbakan"
 
 [stats]
-Nüfus: = BM verilerine göre 46.754.778 (2020).
-Boyut: = 505,990 km2	
-Din: = Katoliklerin% 68'i, diğer inançların% 2,6'sı ve% 28'i kendilerini Ateist olarak tanımlamaktadır.
-İhracat:= Makine, motorlu taşıtlar; gıda maddeleri, ilaçlar, ilaçlar, diğer tüketim malları
-Dünya Lideri:= Sağlık, Organ bağışı. UNESCO dünya mirası Listesi'nin üçüncü en yüksek sayısı. Yenilenebilir enerji üretimi ve ihracatı.
-Üyesi:= Avrupa Birliği, Birleşmiş Milletler, NATO, OECD
-Ulusal takıntılar: = Uzun öğle yemeği molaları, futbol, sağlıklı Akdeniz diyeti, aile.
+Population:=	BM verilerine göre 46.754.778 (2020).
+Size:=	505,990 km2	
+Religion:= 	68 Katolik, %2,6 diğer inançlar ve %28 Ateist olarak tanımlanmaktadır.
+Exports:= 	Makine, motorlu taşıtlar; gıda maddeleri, eczacılık ürünleri, ilaçlar, diğer tüketim malları
+World Leader:=	Sağlık, Organ bağışı. UNESCO dünya mirası listesinde üçüncü sırada. Yenilenebilir enerji üretimi ve ihracatı.
+Member of:=	Avrupa Birliği, Birleşmiş Milletler, NATO, OECD
+National obsessions:=	Uzun öğle araları, futbol, sağlıklı Akdeniz diyeti, aile.
 
 
 

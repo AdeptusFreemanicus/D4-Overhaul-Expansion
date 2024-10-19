@@ -1,7 +1,7 @@
 [config]
 name  = bnh
-guiname = "Bosnia and Herzegovina"
-description = "Bosnia and Herzegovina is a country in Southeast Europe, situated on the Balkan Peninsula. It borders Serbia to the east, Montenegro to the southeast, and Croatia to the north and southwest. In the south it has a 20 kilometres (12 miles) long coast on the Adriatic Sea, with the town of Neum being its only access to the sea. Bosnia has a moderate continental climate with hot summers and cold, snowy winters. In the central and eastern regions, the geography is mountainous, in the northwest it is moderately hilly, and in the northeast it is predominantly flat. Herzegovina, the smaller, southern region, has a Mediterranean climate and is mostly mountainous. Sarajevo is the capital and the largest city."
+guiname = "ボスニア・ヘルツェゴビナ"
+description = "ボスニア・ヘルツェゴビナは南東ヨーロッパ、バルカン半島に位置する国です。東はセルビア、南東はモンテネグロ、北と南西はクロアチアと国境を接しています。南部にはアドリア海に面した 20 キロメートル (12 マイル) の海岸があり、ネウムの町が海への唯一のアクセスとなっています。ボスニアは穏やかな大陸性気候で、夏は暑く、冬は寒く雪の多い気候です。中部および東部地域では山地が多く、北西部では適度な丘陵地帯、北東部では主に平坦な地形となっています。南部の小さな地域であるヘルツェゴビナは地中海性気候で、ほとんどが山地です。サラエボは首都であり最大の都市です。"
 
 jobtitle = "President"
 

@@ -1,17 +1,17 @@
 [config]
 name  = vat
-guiname = "Vatican City State"
-description = "Vatican City, officially the Vatican City State, is a landlocked independent country, city-state, microstate, and enclave within Rome, Italy. It became independent from Italy in 1929 with the Lateran Treaty. With an area of 49 hectares and as of 2023 a population of about 764, it is the smallest state in the world both by area and by population. As governed by the Holy See, Vatican City State is an ecclesiastical or sacerdotal-monarchical state ruled by the Pope, who is the bishop of Rome and head of the Catholic Church. The highest state functionaries are all Catholic clergy of various origins. After the Avignon Papacy (1309–1377) the popes have mainly resided at the Apostolic Palace within what is now Vatican City, although at times residing instead in the Quirinal Palace in Rome or elsewhere. The Vatican is also a metonym for the Holy See."
+guiname = "Vaticaanstad"
+description = "Vaticaanstad, officieel de Vaticaanstad, is een landlocked onafhankelijke staat, stadstaat, microstaat en enclave binnen Rome, Italië. Het werd onafhankelijk van Italië in 1929 met het Lateraanse Verdrag. Met een oppervlakte van 49 hectare en een bevolking van ongeveer 764 in 2023, is het de kleinste staat ter wereld, zowel qua oppervlakte als qua bevolking. Vaticaanstad wordt bestuurd door de Heilige Stoel en is een kerkelijke of sacerdotale-monarchale staat, geleid door de paus, die de bisschop van Rome en het hoofd van de Katholieke Kerk is. De hoogste staatsfunctionarissen zijn allemaal katholieke geestelijken van verschillende oorsprong. Na het Avignondom (1309–1377) hebben de pausen voornamelijk gewoond in het Apostolisch Paleis binnen wat nu Vaticaanstad is, hoewel ze af en toe ook in het Quirinaal Paleis in Rome of elders verbleven. Vaticaan is ook een metoniem voor de Heilige Stoel."
 
 jobtitle = "Monarch"
 
 [stats]
-National Anthem: = "Inno e Marcia Pontificale"
-Population: = "~764 (2023"
-Area: = "0.49km2 (0.19 sq mi)"
-Currency: = "Euro (€) (EUR)"
-Holyness: = "10/10 (1st)"
-Biggest Industry: = "God"
-Capital And Largest City: = "Vatican City"
-Driving side: =	"right"
-Calling code: = "+379"
+Nationale Hymne: = "Inno e Marcia Pontificale"
+Bevolking: = "~764 (2023)"
+Oppervlakte: = "0,49 km² (0,19 vierkante mijl)"
+Valuta: = "Euro (€) (EUR)"
+Heiligheid: = "10/10 (1e)"
+Grootste Industrie: = "God"
+Hoofdstad en Grootste Stad: = "Vaticaanstad"
+Rijrichting: = "rechts"
+Belcode: = "+379"

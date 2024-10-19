@@ -1,19 +1,19 @@
 [config]
 name  = slo
-guiname = "Slovak Republic"
-description = "Slovakia, officially the Slovak Republic, is a landlocked country in Central Europe. It is bordered by Poland to the north, Ukraine to the east, Hungary to the south, Austria to the west, and the Czech Republic to the northwest. Slovakia's mostly mountainous territory spans about 49,000 square kilometres (19,000 sq mi), hosting a population exceeding 5.4 million. The capital and largest city is Bratislava, while the second largest city is Košice.."
+guiname = "斯洛伐克共和国"
+description = "斯洛伐克，正式名称为斯洛伐克共和国，是一个位于中欧的内陆国家。它北接波兰，东接乌克兰，南接匈牙利，西接奥地利，西北接捷克共和国。斯洛伐克的领土大部分为山区，面积约为49,000平方公里（19,000平方英里），人口超过540万。首都和最大城市是布拉迪斯拉发，第二大城市是科希策。"
 
-jobtitle = "President"
+jobtitle = "总统"
 
 [stats]
-National Anthem: = "Lightning over the Tatras"
-Population: = "5.4 million (2022)"
-Area: = "49,035 km2 (18,933 sq mi)"
-Currency: = "Euro (€) (EUR)"
-GDP: = "$229 billion"
-GDP per capita: = "$42,228"
-Democracy Index: = "7.07/10 (43rd)"
-Biggest Industry: = "Service Industry"
-Capital And Largest City: = "Bratislava"
-Driving side: =	"right"
-Calling code: = "+421"
+国歌: = "塔特拉山上的闪电"
+人口: = "540万 (2022)"
+面积: = "49,035 平方公里 (18,933 平方英里)"
+货币: = "欧元 (€) (EUR)"
+国内生产总值: = "$2290亿"
+人均国内生产总值: = "$42,228"
+民主指数: = "7.07/10 (第43名)"
+最大产业: = "服务业"
+首都和最大城市: = "布拉迪斯拉发"
+行驶方向: = "右侧"
+区号: = "+421"

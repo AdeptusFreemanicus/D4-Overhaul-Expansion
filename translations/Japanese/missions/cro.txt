@@ -1,7 +1,7 @@
 [config]
 name  = cro
-guiname = "Republic of Croatia"
-description = "Croatia, officially the Republic of Croatia, is a country located at the crossroads of Central and Southeast Europe. Its coast lies entirely on the Adriatic Sea. It borders Slovenia to the northwest, Hungary to the northeast, Serbia to the east, Bosnia and Herzegovina and Montenegro to the southeast, and shares a maritime border with Italy to the west. Its capital and largest city, Zagreb, forms one of the country's primary subdivisions, with twenty counties. Other major urban centers include Split, Rijeka and Osijek. The country spans 56,594 square kilometres (21,851 square miles), and has a population of nearly 3.9 million."
+guiname = "クロアチア共和国"
+description = "クロアチア、正式にはクロアチア共和国は、中央ヨーロッパと南東ヨーロッパの交差点に位置する国です。その海岸は完全にアドリア海に面しています。北西にスロベニア、北東にハンガリー、東にセルビア、南東にボスニア・ヘルツェゴビナとモンテネグロと国境を接し、西はイタリアと海上国境を接しています。首都であり最大の都市であるザグレブは、20 の郡からなる国の主要な区画の 1 つを形成しています。他の主要な都市中心部には、スプリット、リエカ、オシエクなどがあります。国土面積は 56,594 平方キロメートル (21,851 平方マイル)、人口は約 390 万人です。"
 
 jobtitle = "President"
 

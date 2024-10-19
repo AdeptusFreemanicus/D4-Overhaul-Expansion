@@ -1,19 +1,19 @@
 [config]
 name  = cro
-guiname = "Republic of Croatia"
-description = "Croatia, officially the Republic of Croatia, is a country located at the crossroads of Central and Southeast Europe. Its coast lies entirely on the Adriatic Sea. It borders Slovenia to the northwest, Hungary to the northeast, Serbia to the east, Bosnia and Herzegovina and Montenegro to the southeast, and shares a maritime border with Italy to the west. Its capital and largest city, Zagreb, forms one of the country's primary subdivisions, with twenty counties. Other major urban centers include Split, Rijeka and Osijek. The country spans 56,594 square kilometres (21,851 square miles), and has a population of nearly 3.9 million."
+guiname = "克罗地亚共和国"
+description = "克罗地亚，正式名称为克罗地亚共和国，是一个位于中欧和东南欧交界的国家。其海岸完全位于亚得里亚海上。它西北邻斯洛文尼亚，东北接匈牙利，东面是塞尔维亚，东南邻波斯尼亚和黑塞哥维那及黑山，西面与意大利共享海洋边界。其首都和最大城市是萨格勒布，是该国的主要行政区之一，有二十个县。其他主要城市包括斯普利特、里耶卡和奥西耶克。该国总面积为56,594平方公里（21,851平方英里），人口接近390万。"
 
-jobtitle = "President"
+jobtitle = "总统"
 
 [stats]
-National Anthem: = "Our Beautiful Homeland"
-Population: = "3.8 million (2022 est)"
-Area: = "56,594 km2 (21,851 sq mi)"
-Currency: = "Euro (€) (EUR)"
-GDP: = "$164 billion"
+National Anthem: = "我们美丽的祖国"
+Population: = "380万 (2022年估计)"
+Area: = "56,594 平方公里 (21,851 平方英里)"
+Currency: = "欧元 (€) (EUR)"
+GDP: = "$1640 亿"
 GDP per capita: = "$42,873"
-Democracy Index: = "~6.5/10 (59th)"
-Biggest Industry: = "Service Sector"
-Capital And Largest City: = "Zagreb"
-Driving side: =	"right"
+Democracy Index: = "~6.5/10 (第59位)"
+Biggest Industry: = "服务业"
+Capital And Largest City: = "萨格勒布"
+Driving side: = "右侧"
 Calling code: = "+385"

@@ -1,19 +1,19 @@
 [config]
 name  = oma
-guiname = "Sultanate of Oman"
-description = "Oman, officially the Sultanate of Oman, is a country located in West Asia. It is situated on the southeastern coast of the Arabian Peninsula, and spans the mouth of the Persian Gulf. It shares land borders with Saudi Arabia, United Arab Emirates, and Yemen, while sharing maritime borders with Iran and Pakistan. The capital and largest city is Muscat. Oman has a population of nearly 4.7 million and is ranked the 124th most-populous country. The coast is formed by the Arabian Sea on the southeast, and the Gulf of Oman on the northeast. The Madha and Musandam exclaves are surrounded by United Arab Emirates on their land borders, with the Strait of Hormuz (which it shares with Iran) and the Gulf of Oman forming Musandam's coastal boundaries."
+guiname = "Sultanat Oman"
+description = "Oman, offiziell das Sultanat Oman, ist ein Land in Westasien. Es liegt an der südöstlichen Küste der Arabischen Halbinsel und erstreckt sich über die Mündung des Persischen Golfs. Es hat Landgrenzen mit Saudi-Arabien, den Vereinigten Arabischen Emiraten und Jemen und maritime Grenzen mit Iran und Pakistan. Die Hauptstadt und größte Stadt ist Maskat. Oman hat eine Bevölkerung von nahezu 4,7 Millionen und ist das 124. bevölkerungsreichste Land. Die Küste wird im Südosten vom Arabischen Meer und im Nordosten vom Golf von Oman gebildet. Die Exklaven Madha und Musandam sind an ihren Landgrenzen von den Vereinigten Arabischen Emiraten umgeben, während die Straße von Hormuz (die es mit dem Iran teilt) und der Golf von Oman die Küstengrenzen von Musandam bilden."
 
 jobtitle = "Sultan"
 
 [stats]
-National Anthem: = "Sultanic Salutation"
-Population: = "4.5 million (2021)"
-Area: = "309,500 km2 (119,500 sq mi)"
-Currency: = "Omani rial (OMR)"
-GDP: = "$200 billion"
-GDP per capita: = "$39,336"
-Democracy Index: = "3.12/10 (119th)"
-Biggest Industry: = "Oil Sector"
-Capital And Largest City: = "Muscat"
-Driving side: =	"right"
-Calling code: = "+968"
+Nationalhymne: = "Sultanic Salutation"
+Bevölkerung: = "4,5 Millionen (2021)"
+Fläche: = "309.500 km² (119.500 mi²)"
+Währung: = "Omanischer Rial (OMR)"
+BIP: = "$200 Milliarden"
+BIP pro Kopf: = "$39.336"
+Demokratieindex: = "3,12/10 (119.)"
+Größte Industrie: = "Ölsektor"
+Hauptstadt und größte Stadt: = "Maskat"
+Fahrtrichtung: = "rechts"
+Telefonvorwahl: = "+968"

@@ -1,17 +1,17 @@
 [config]
 name  = vat
-guiname = "Vatican City State"
-description = "Vatican City, officially the Vatican City State, is a landlocked independent country, city-state, microstate, and enclave within Rome, Italy. It became independent from Italy in 1929 with the Lateran Treaty. With an area of 49 hectares and as of 2023 a population of about 764, it is the smallest state in the world both by area and by population. As governed by the Holy See, Vatican City State is an ecclesiastical or sacerdotal-monarchical state ruled by the Pope, who is the bishop of Rome and head of the Catholic Church. The highest state functionaries are all Catholic clergy of various origins. After the Avignon Papacy (1309–1377) the popes have mainly resided at the Apostolic Palace within what is now Vatican City, although at times residing instead in the Quirinal Palace in Rome or elsewhere. The Vatican is also a metonym for the Holy See."
+guiname = "دولة الفاتيكان"
+description = "الفاتيكان، رسمياً دولة الفاتيكان، هي دولة مستقلة غير ساحلية، مدينة-دولة، ميكروستات، وجيب داخل روما، إيطاليا. أصبحت مستقلة عن إيطاليا في عام 1929 مع معاهدة لاتران. بمساحة تبلغ 49 هكتاراً وبتعداد سكاني يبلغ حوالي 764 نسمة اعتباراً من عام 2023، تعتبر أصغر دولة في العالم من حيث المساحة والسكان. تُدار دولة الفاتيكان بواسطة الكرسي الرسولي، وهي دولة دينية أو ملكية كهنوتية يحكمها البابا، الذي هو أسقف روما ورئيس الكنيسة الكاثوليكية. جميع كبار مسؤولي الدولة هم من رجال الدين الكاثوليك من أصول متنوعة. بعد بابوية أفينيون (1309-1377)، أقام البابوات أساساً في القصر الرسولي داخل ما هو الآن دولة الفاتيكان، على الرغم من أنهم أقاموا أحياناً بدلاً من ذلك في قصر كويرينال في روما أو في أماكن أخرى. الفاتيكان هو أيضاً مجاز للكرسي الرسولي."
 
-jobtitle = "Monarch"
+jobtitle = "ملك"
 
 [stats]
-National Anthem: = "Inno e Marcia Pontificale"
-Population: = "~764 (2023"
-Area: = "0.49km2 (0.19 sq mi)"
-Currency: = "Euro (€) (EUR)"
-Holyness: = "10/10 (1st)"
-Biggest Industry: = "God"
-Capital And Largest City: = "Vatican City"
-Driving side: =	"right"
+National Anthem: = "إنو ومارثيا بونتيفيكالي"
+Population: = "~764 (2023)"
+Area: = "0.49 كم² (0.19 ميل مربع)"
+Currency: = "يورو (€) (EUR)"
+Holyness: = "10/10 (الأولى)"
+Biggest Industry: = "الله"
+Capital And Largest City: = "مدينة الفاتيكان"
+Driving side: = "اليمين"
 Calling code: = "+379"

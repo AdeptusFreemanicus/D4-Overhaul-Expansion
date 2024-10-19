@@ -1,18 +1,18 @@
 [config]
 name  = japan
 guiname = "Japonya"
-description = "Japonya, tören imparatoru ve iki meclisli parlamentosu olan parlamenter anayasal bir Hükümdardır. Mevcut imparator, 2019'da Akihito'nun tahttan çekilmesinin ardından Naruhito'dur. Temsilciler meclisi'nin 465 sandalyesi ve üst meclis üyelerinin 245 sandalyesi vardır. Temsilciler en az 25, meclis üyeleri en az 30 olmalıdır. 2016 yılında asgari oy kullanma yaşı 20'den 18'e düşürüldü. Japonya, her biri seçilmiş bir vali tarafından denetlenen 47 vilayete bölünmüştür."
+description = "Japonya, törensel bir imparatora ve iki meclisli parlamentoya sahip parlamenter bir anayasal monarşidir. Mevcut imparator, 2019 yılında Akihito'nun tahttan çekilmesinin ardından Naruhito'dur. Temsilciler meclisinin 465 sandalyesi ve üst meclis olan encümenin 245 sandalyesi bulunmaktadır. Temsilciler en az 25, meclis üyeleri ise en az 30 yaşında olmalıdır. Asgari oy kullanma yaşı 2016 yılında 20'den 18'e düşürülmüştür. Japonya, her biri seçilmiş bir vali tarafından denetlenen 47 vilayete bölünmüştür."
 jobtitle = "Başbakan"
 
 [stats]
-Nüfus: = "126,3 milyon"
-Boyut: = "377.975 km kare"
-Etnik Köken: = "% 98,1 Japon% 0,5 Çin% 0,4 Koreli"
-Din: = "Şintoizm (% 70,4) Hristiyanlık (% 1,5)
-İhracat: = "Arabalar, Demir, Çelik, Yarı İletkenler".
-Dünya Lideri: = "Robotik üretim"
-Üye:= "Birleşmiş Milletler, OECD, DTÖ, G7"
-Ulusal takıntılar: = "Video Oyunları, Animasyon"
+Population:= 	"126,3 milyon"
+Size:=		"377,975 sq km"
+Ethnicity:= 	"98,1 Japonca %0,5 Çince %0,4 Korece"
+Religion:= 	"Şintoizm (%70,4) Hristiyanlık (%1,5)
+Exports:= 	"Arabalar, Demir, Çelik, Yarı İletkenler".
+World Leader:=	"Robotik üretim"
+Member of:=	"Birleşmiş Milletler, OECD, DTÖ, G7"
+National obsessions:=	"Video Oyunları, Animasyon"
 
 
 

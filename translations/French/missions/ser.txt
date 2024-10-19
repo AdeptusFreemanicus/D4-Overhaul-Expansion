@@ -1,19 +1,19 @@
 [config]
 name  = ser
-guiname = "Republic of Serbia"
-description = "Serbia, officially the Republic of Serbia, is a landlocked country at the crossroads of Southeast and Central Europe, located in the Balkans and the Pannonian Plain. It shares land borders with Hungary to the north, Romania to the northeast, Bulgaria to the southeast, North Macedonia to the south, Croatia and Bosnia and Herzegovina to the west, and Montenegro to the southwest. Serbia claims a border with Albania through the disputed territory of Kosovo. Serbia has about 6.6 million inhabitants, excluding Kosovo. Its capital Belgrade is also the largest city."
+guiname = "République de Serbie"
+description = "La Serbie, officiellement la République de Serbie, est un pays sans littoral situé à la croisée de l'Europe du Sud-Est et de l'Europe centrale, dans les Balkans et la plaine panonienne. Elle partage des frontières terrestres avec la Hongrie au nord, la Roumanie au nord-est, la Bulgarie au sud-est, la Macédoine du Nord au sud, la Croatie et la Bosnie-Herzégovine à l'ouest, et le Monténégro au sud-ouest. La Serbie revendique une frontière avec l'Albanie par le biais du territoire contesté du Kosovo. La Serbie compte environ 6,6 millions d'habitants, excluant le Kosovo. Sa capitale, Belgrade, est également la plus grande ville."
 
-jobtitle = "President"
+jobtitle = "Président"
 
 [stats]
-National Anthem: = "God of Justice"
-Population: = "6,647,003 (2022)"
-Area: = "88,499 km2 (34,170 sq mi)"
-Currency: = "Serbian dinar (RSD)"
-GDP: = "$173.075 billion"
-GDP per capita: = "$26,074"
-Democracy Index: = "6.33/10 (68th)"
-Biggest Industry: = "Automotive Industry"
-Capital And Largest City: = "Belgrade"
-Driving side: =	"right"
-Calling code: = "+381"
+Hymne national: = "Dieu de la justice"
+Population: = "6 647 003 (2022)"
+Superficie: = "88 499 km² (34 170 mi²)"
+Monnaie: = "Dinar serbe (RSD)"
+PIB: = "173,075 milliards de dollars"
+PIB par habitant: = "26 074 dollars"
+Indice de démocratie: = "6,33/10 (68e)"
+Plus grande industrie: = "Industrie automobile"
+Capitale et plus grande ville: = "Belgrade"
+Côté de conduite: = "droit"
+Indicatif téléphonique: = "+381"

@@ -1,19 +1,19 @@
 [config]
 name  = cz
-guiname = "Czech Republic"
-description = "The Czech Republic, also known as Czechia, is a landlocked country in Central Europe. Historically known as Bohemia, it is bordered by Austria to the south, Germany to the west, Poland to the northeast, and Slovakia to the southeast. The Czech Republic has a hilly landscape that covers an area of 78,871 square kilometers (30,452 sq mi) with a mostly temperate continental and oceanic climate. The capital and largest city is Prague; other major cities and urban areas include Brno, Ostrava, Plzeň and Liberec."
+guiname = "捷克共和国"
+description = "捷克共和国，也称为捷克，是一个位于中欧的内陆国家。历史上被称为波希米亚，南面与奥地利接壤，西面与德国接壤，东北与波兰接壤，东南与斯洛伐克接壤。捷克共和国的地形多丘陵，总面积为78,871平方公里（30,452平方英里），气候主要为温带大陆性和海洋性气候。首都和最大城市是布拉格；其他主要城市和城市地区包括布尔诺、奥斯特拉发、皮尔曾和利贝雷茨。"
 
-jobtitle = "President"
+jobtitle = "总统"
 
 [stats]
-National Anthem: = "Where My Home is"
-Population: = "10.5 million (2021)"
-Area: = "78,871 km2 (30,452 sq mi)"
-Currency: = "Czech koruna (CZK)"
-GDP: = "$397 billion (~11,180,000,000,000 CZK)"
+National Anthem: = "我家所在之处"
+Population: = "1050万 (2021)"
+Area: = "78,871 平方公里 (30,452 平方英里)"
+Currency: = "捷克克朗 (CZK)"
+GDP: = "$3970 亿 (~11,180,000,000,000 CZK)"
 GDP per capita: = "$49,025 (~1,118,000 CZK)"
-Democracy Index: = "~7.97/10 (25st)"
-Biggest Industry: = "Manufacturing"
-Capital And Largest City: = "Prague"
-Driving side: =	"right"
-Calling code: = "+420 (Based)"
+Democracy Index: = "~7.97/10 (第25位)"
+Biggest Industry: = "制造业"
+Capital And Largest City: = "布拉格"
+Driving side: = "右侧"
+Calling code: = "+420 (基于)"

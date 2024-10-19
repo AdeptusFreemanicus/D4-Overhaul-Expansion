@@ -1,19 +1,19 @@
 [config]
 name  = slo
-guiname = "Slovak Republic"
-description = "Slovakia, officially the Slovak Republic, is a landlocked country in Central Europe. It is bordered by Poland to the north, Ukraine to the east, Hungary to the south, Austria to the west, and the Czech Republic to the northwest. Slovakia's mostly mountainous territory spans about 49,000 square kilometres (19,000 sq mi), hosting a population exceeding 5.4 million. The capital and largest city is Bratislava, while the second largest city is Košice.."
+guiname = "Slowakische Republik"
+description = "Slowakei, offiziell die Slowakische Republik, ist ein Binnenland in Mitteleuropa. Es grenzt im Norden an Polen, im Osten an die Ukraine, im Süden an Ungarn, im Westen an Österreich und im Nordwesten an die Tschechische Republik. Das überwiegend gebirgige Gebiet der Slowakei erstreckt sich über etwa 49.000 Quadratkilometer (19.000 mi²) und beherbergt mehr als 5,4 Millionen Einwohner. Die Hauptstadt und größte Stadt ist Bratislava, während die zweitgrößte Stadt Košice ist."
 
-jobtitle = "President"
+jobtitle = "Präsident"
 
 [stats]
-National Anthem: = "Lightning over the Tatras"
-Population: = "5.4 million (2022)"
-Area: = "49,035 km2 (18,933 sq mi)"
-Currency: = "Euro (€) (EUR)"
-GDP: = "$229 billion"
-GDP per capita: = "$42,228"
-Democracy Index: = "7.07/10 (43rd)"
-Biggest Industry: = "Service Industry"
-Capital And Largest City: = "Bratislava"
-Driving side: =	"right"
-Calling code: = "+421"
+Nationalhymne: = "Blitze über den Tatra"
+Bevölkerung: = "5,4 Millionen (2022)"
+Fläche: = "49.035 km² (18.933 mi²)"
+Währung: = "Euro (€) (EUR)"
+BIP: = "$229 Milliarden"
+BIP pro Kopf: = "$42.228"
+Demokratieindex: = "7,07/10 (43.)"
+Größte Branche: = "Dienstleistungssektor"
+Hauptstadt und größte Stadt: = "Bratislava"
+Fahrtrichtung: = "rechts"
+Vorwahl: = "+421"

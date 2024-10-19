@@ -1,7 +1,7 @@
 [config]
 name  = vat
-guiname = "Vatican City State"
-description = "Vatican City, officially the Vatican City State, is a landlocked independent country, city-state, microstate, and enclave within Rome, Italy. It became independent from Italy in 1929 with the Lateran Treaty. With an area of 49 hectares and as of 2023 a population of about 764, it is the smallest state in the world both by area and by population. As governed by the Holy See, Vatican City State is an ecclesiastical or sacerdotal-monarchical state ruled by the Pope, who is the bishop of Rome and head of the Catholic Church. The highest state functionaries are all Catholic clergy of various origins. After the Avignon Papacy (1309–1377) the popes have mainly resided at the Apostolic Palace within what is now Vatican City, although at times residing instead in the Quirinal Palace in Rome or elsewhere. The Vatican is also a metonym for the Holy See."
+guiname = "バチカン市国"
+description = "バチカン市国、正式にはバチカン市国は、イタリアのローマ内の内陸の独立国、都市国家、小国家、および飛び地です。 1929年にラテラノ条約によりイタリアから独立しました。面積は49ヘクタール、人口は2023年時点で約764人で、面積、人口ともに世界最小の州である。ローマ教皇庁が統治するバチカン市国は、ローマ司教でありカトリック教会の長である教皇が統治する教会国家または聖教君主国家です。国家最高職員は全員、さまざまな出身のカトリック聖職者である。アヴィニョン教皇制（1309年 - 1377年）以降、教皇たちは主に現在のバチカン市国の使徒宮殿に居住したが、時には代わりにローマのクイリナーレ宮殿などに居住することもあった。バチカンはローマ教皇庁の換喩でもあります。"
 
 jobtitle = "Monarch"
 

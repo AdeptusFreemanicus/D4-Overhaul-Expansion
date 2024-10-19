@@ -1,19 +1,19 @@
 [config]
 name  = aze
-guiname = "Republic of Azerbaijan"
-description = "Azerbaijan, officially the Republic of Azerbaijan, is a transcontinental country located at the boundary of Eastern Europe and West Asia. It is a part of the South Caucasus region and is bounded by the Caspian Sea to the east, Russia (Republic of Dagestan) to the north, Georgia to the northwest, Armenia and Turkey to the west, and Iran to the south. Baku is the capital and largest city"
+guiname = "République d'Azerbaïdjan"
+description = "L'Azerbaïdjan, officiellement la République d'Azerbaïdjan, est un pays transcontinental situé à la frontière de l'Europe de l'Est et de l'Asie de l'Ouest. Il fait partie de la région du Sud-Caucase et est bordé par la mer Caspienne à l'est, la Russie (République du Daghestan) au nord, la Géorgie au nord-ouest, l'Arménie et la Turquie à l'ouest, et l'Iran au sud. Bakou est la capitale et la plus grande ville."
 
-jobtitle = "President"
+jobtitle = "Président"
 
 [stats]
-National Anthem: = "March of Azerbaijan"
-Population: = "10.3 million (2022)"
-Area: = "86,600 km2 (33,400 sq mi)"
-Currency: = "Manat (₼) (AZN)"
-GDP: = "$192 billion"
-GDP per capita: = "$18,694"
-Democracy Index: = "2.87/10 (134th)"
-Biggest Industry: = "Oil and Gas"
-Capital And Largest City: = "Baku"
-Driving side: =	"right"
-Calling code: = "+944"
+Hymne national: = "Marche d'Azerbaïdjan"
+Population: = "10,3 millions (2022)"
+Superficie: = "86 600 km² (33 400 mi²)"
+Monnaie: = "Manat (₼) (AZN)"
+PIB: = "192 milliards $"
+PIB par habitant: = "18 694 $"
+Indice de démocratie: = "2,87/10 (134e)"
+Plus grande industrie: = "Pétrole et gaz"
+Capitale et plus grande ville: = "Bakou"
+Côté de conduite: = "droit"
+Indicatif téléphonique: = "+994"

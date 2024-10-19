@@ -1,16 +1,16 @@
 [config]
 name  = sad
-guiname = "Sahrawi Arab Democratic Republic"
-description = "The Sahrawi Arab Democratic Republic, also known as the Sahrawi Republic and Western Sahara, is a partially recognized state, recognised by 46 UN member states and South Ossetia, located in the western Maghreb, which claims the non-self-governing territory of Western Sahara, but controls only the easternmost one-fifth of that territory. Between 1884 and 1975, Western Sahara was known as Spanish Sahara, a Spanish colony (later an overseas province). The SADR is one of the two African states in which Spanish is a significant language, the other being Equatorial Guinea."
+guiname = "Sahrawi Arabische Democratische Republiek"
+description = "De Sahrawi Arabische Democratische Republiek, ook bekend als de Sahrawi Republiek en Westelijke Sahara, is een gedeeltelijk erkende staat, erkend door 46 VN-lidstaten en Zuid-Ossetië, gelegen in de westelijke Maghreb. Het claimt het niet-zelfbesturende gebied van Westelijke Sahara, maar controleert slechts het meest oostelijke vijfde deel van dat gebied. Tussen 1884 en 1975 stond Westelijke Sahara bekend als Spaans Sahara, een Spaanse kolonie (later een overzeese provincie). De SADR is een van de twee Afrikaanse staten waar Spaans een belangrijke taal is, de andere is Equatoriaal-Guinea."
 
 jobtitle = "President"
 
 [stats]
-Motto: = "Freedom, Democracy, Unity."
-National Anthem: = "Oh, Sons of the Sahara!"
-Population: = "500 thousand"
-Area: = "90,000 km2 (35,000 sq mi)"
-Claimed Area: = "266,000 km2 (103,000 sq mi)"
-Currency: = "Sahrawi Peseta (EHP)"
-Capital And Largest City: = "El Aaiún"
-Driving side: =	"right"
+Motto: = "Vrijheid, Democratie, Eenheid."
+Nationale Hymne: = "Oh, Zonen van de Sahara!"
+Bevolking: = "500 duizend"
+Oppervlakte: = "90.000 km² (35.000 vierkante mijl)"
+Geclaimde Oppervlakte: = "266.000 km² (103.000 vierkante mijl)"
+Valuta: = "Sahrawi Peseta (EHP)"
+Hoofdstad en Grootste Stad: = "El Aaiún"
+Rijrichting: = "rechts"

@@ -1,19 +1,19 @@
 [config]
 name  = cro
-guiname = "Republic of Croatia"
-description = "Croatia, officially the Republic of Croatia, is a country located at the crossroads of Central and Southeast Europe. Its coast lies entirely on the Adriatic Sea. It borders Slovenia to the northwest, Hungary to the northeast, Serbia to the east, Bosnia and Herzegovina and Montenegro to the southeast, and shares a maritime border with Italy to the west. Its capital and largest city, Zagreb, forms one of the country's primary subdivisions, with twenty counties. Other major urban centers include Split, Rijeka and Osijek. The country spans 56,594 square kilometres (21,851 square miles), and has a population of nearly 3.9 million."
+guiname = "Republik Kroatien"
+description = "Kroatien, offiziell die Republik Kroatien, ist ein Land, das an der Kreuzung von Zentral- und Südosteuropa liegt. Seine Küste liegt vollständig an der Adria. Es grenzt im Nordwesten an Slowenien, im Nordosten an Ungarn, im Osten an Serbien, im Südosten an Bosnien und Herzegowina sowie Montenegro und teilt im Westen eine maritime Grenze mit Italien. Die Hauptstadt und größte Stadt, Zagreb, bildet eine der wichtigsten Unterteilungen des Landes mit zwanzig Grafschaften. Weitere große Städte sind Split, Rijeka und Osijek. Das Land erstreckt sich über 56.594 Quadratkilometer (21.851 Quadratmeilen) und hat eine Bevölkerung von nahezu 3,9 Millionen."
 
-jobtitle = "President"
+jobtitle = "Präsident"
 
 [stats]
-National Anthem: = "Our Beautiful Homeland"
-Population: = "3.8 million (2022 est)"
-Area: = "56,594 km2 (21,851 sq mi)"
-Currency: = "Euro (€) (EUR)"
-GDP: = "$164 billion"
-GDP per capita: = "$42,873"
-Democracy Index: = "~6.5/10 (59th)"
-Biggest Industry: = "Service Sector"
-Capital And Largest City: = "Zagreb"
-Driving side: =	"right"
-Calling code: = "+385"
+Nationalhymne: = "Unsere schöne Heimat"
+Bevölkerung: = "3,8 Millionen (2022 geschätzt)"
+Fläche: = "56.594 km² (21.851 mi²)"
+Währung: = "Euro (€) (EUR)"
+BIP: = "$164 Milliarden"
+BIP pro Kopf: = "$42.873"
+Demokratieindex: = "~6,5/10 (59.)"
+Größte Industrie: = "Dienstleistungssektor"
+Hauptstadt und größte Stadt: = "Zagreb"
+Fahrtrichtung: = "rechts"
+Telefonvorwahl: = "+385"
