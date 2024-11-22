@@ -135,6 +135,8 @@ _prereq_poachers = 1
 _prereq_indigenous = 1
 _prereq_sovereign_currency = 1
 _prereq_eu = 1
+_prereq_nato = 1
+
 
 [options]
 MULTIPLEPARTIES

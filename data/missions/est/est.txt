@@ -133,3 +133,4 @@ un_nation_status= 0.8
 _prereq_has_coast = 1
 _prereq_land_border = 1
 _prereq_eu = 1
+_prereq_nato = 1

@@ -3,7 +3,7 @@
 22 = _prereq_northkorea
 23 = _prereq_vat
 24 = _prereq_mor
-
+25 = _prereq_nato
 
 
 

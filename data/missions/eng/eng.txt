@@ -122,6 +122,7 @@ _prereq_sovereign_currency = 1
 _prereq_wmd = 1
 _prereq_nuclear_tech = 1
 _prereq_uk = 1
+_prereq_nato = 1
 
 [options]
 MULTIPLEPARTIES

@@ -152,6 +152,7 @@ _prereq_mining_industry = 1
 _prereq_royal_family = 1
 _prereq_sovereign_currency = 1
 
+
 [options]
 MULTIPLEPARTIES
 

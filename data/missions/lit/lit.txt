@@ -97,6 +97,8 @@ _prereq_sovereign_currency = 1
 _prereq_land_border = 1
 _prereq_deadly_animals = 1
 _prereq_eu = 1
+_prereq_nato = 1
+
 
 [options]
 MULTIPLEPARTIES

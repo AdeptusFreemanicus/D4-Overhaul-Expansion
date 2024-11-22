@@ -150,6 +150,8 @@ _prereq_land_border = 1
 _prereq_mining_industry = 1
 _prereq_royal_family = 1
 _prereq_sovereign_currency = 1
+_prereq_nato = 1
+
 
 [options]
 MULTIPLEPARTIES

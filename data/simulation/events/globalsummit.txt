@@ -1,0 +1,10 @@
+[config]
+Name = globalsummit
+Texture = globalsummit.png
+GUISound = DM4_UI_Cheer.wav
+OnImplement = CreateGrudge(GlobalStability,0.125,0.92);CreateGrudge(InternationalTrade,0.1,0.92);CreateGrudge(globalsummit,-1.0,0.95);CreateGrudge(Liberal,0.075,0.9);
+
+[influences]
+0 = ForeignRelations,0.75*(x*GlobalInfluence)
+1 = DiplomaticService,0.02+(0.05*x)
+3 = _random_,0,0.18

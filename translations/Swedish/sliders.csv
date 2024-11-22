@@ -108,3 +108,18 @@
 #,competitionlaw,PRO BIG BUSINESS,BALANCED,PRO SMALL BUSINESS,,,,,,,,,,,,,
 #,nukes,BOMBERS,LONG RANGE BOMBERS,MISSILES,ICBM,SUBMARINE-LAUNCHED,SUB-LAUNCHED MIRVs,ORBITAL BOMBERS,,,,,,,,,
 #,socialmedia,EXTREMISTS BANNED,TAKE-DOWN POLICIES,ACTIVE MONITORING,AGE RESTRICTIONS,TIME RESTRICTIONS,TOTAL BAN,,,,,,,,,,
+
+#,money_supply1,50,,,,,,,,,,,,,,,
+#,money_supply2,-50,,,,,,,,,,,,,,,
+#,mpt,Planerat,Mark Köpt,Byggföretag Anlitat,Byggnation Startad,25%,50%,Byggnation Klar,Exteriör Infrastruktur,Rengöring,Färdig,,,,,
+#,PPF,Grundläggande Personal,Grundläggande Skyddsutrustning,PPF Planer,PPF Specialutrustning,PPF Specialcontainmentfordon,PPF Teamträning,PPF Varningssystem,PPF Specialoperationsteam,PPF Marinresurser,PPF Evakueringscenter,,,,,,,
+#,StateAnimalShelters,Små Skydd,Husdjurvårdare Per Skydd,Grundläggande Träning,Medelstora Skydd,10 Husdjurvårdare Per Skydd,Grundläggande Habitatberikning,Desinfektionstabletter,Standardutbildning,Ökade Husdjursförsörjningar,Reklam,Stora Skydd,20 Husdjurvårdare Per Skydd,,,,
+#,StateAnimalControl,Ingen Utrustning Eller Träning,Grundläggande Träning,Hanskar För Hantering,Spjutpinnar,Kontrollpinnar,Fångstredskap,Munkorgar,Transportnät,Katthundfällor,Fällor/Förvaring,Standardutbildning,CO2 Pistoler,Dartpistoler,Nedgrävningslådor,Bårar och Lyft,Spårningsmikrochip,
+#,StateOrphanages,Små Barnhem [10-20],Gamla Ombyggda Byggnader [50-80],Medelstora Statligt Byggda Barnhem [100-200],En Personal Per Fem Föräldralösa,Två Måltider Per Dag,Grundläggande Bidrag,En Personal Per Fyra Föräldralösa,Stora Statligt Byggda Barnhem [1000-2000],Förbättrad Måltidskvalitet,Jobb- och Rehabiliteringsträning,3 Måltider Per Dag,Stora Statligt Byggda Barnhem [5000-8000],En Personal Per Tre Föräldralösa,Förbättrad Personalutbildning,En Personal Per Två Föräldralösa,
+#,PoliceTraining,Ingen Träning,Minimal De-Eskaleringsträning,Minimal Hand-Till-Hand Träning,Minimal Upprorskontroll Träning,Minimal Vapen Träning,Minimal Förarutbildning,Minimal SWAT/HRT Träning,Full Standardutbildningskurs,TVI Träning,Förföljningsformationsträning,Undercover Träning,Utredningsträning,Förhörsträning,Full Avancerad Träning,,
+#,TaxFraudDepartment,Mycket Grundläggande Verksamhet,Skelettavdelning,Grundläggande Verksamhet,En Undersökningsteam,Polisassistans,Grundläggande Informationsdelning,Välutrustade Agenter,Full Auktoritet För Agenter,Avdelningsöverskridande Samarbete,Full Informationsdelning,Ökade Byråresurser,Interna Undersökningar,Fullt Utrustat Forensiskt Kontor,Flera Undersökningsteam,,
+#,UNNationStatus,Ej Medlem,Observerande Stat,Medlem,Permanent Medlem,,,,,,,,,,,,
+#,TheDMZ,Normaliserad Gräns,Höjd Säkerhet,Hög Beredskap,DMZ,Extrem Säkerhet,Omfattande Teknologisk Övervakning,Orealistiska Utgifter,,,,,,,,,
+
+
+#,nato,PARTNERSHIP,SMÅ BIDRAG, STORA BIDRAG, AKTIVA OPERATIONER

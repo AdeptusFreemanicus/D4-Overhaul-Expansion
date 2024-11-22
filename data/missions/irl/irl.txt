@@ -114,6 +114,8 @@ _prereq_mining_industry = 1
 _prereq_hurricane = 1
 _prereq_sovereign_currency = 1
 _prereq_eu = 1
+_prereq_nato = 1
+
 
 
 [options]
