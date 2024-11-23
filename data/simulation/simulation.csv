@@ -2,8 +2,8 @@
 #,StrayAnimals,WELFARE,0,0,1.0,HIGHBAD,icons_stray_animals,#,"Pollution,0+(-0.1*x)","PollutionControls,0+(0.1*x)","Unemployment,0+(0.09*x)","PovertyRate,0+(-0.09*x)","Charity,0+(-0.05*x)","Ghettos,0+(0.05*x)","ContagiousDisease,0+(-0.1*x)",,#,"GDP,0-(0.01*x)","Health,0-(0.01*x)","CrimeRate,0-(0.01*x)","_percept_compassion,0-(0.05*x)",,
 #,OrphansAndHomelessMinors,WELFARE,0,0,1.0,HIGHBAD,icons_orphans_and_homeless_minors,#,"Alcoholism,0+(0.09*x)","ViolentCrimeRate,0+(0.02*x)","ExtremePoverty,0+(0.1*x)","Unemployment,0+(0.07*x)","IllegalImmigration,0+(0.08*x)",,#,"youthcrime,0+(0.09*x)","CrimeRate,0+(0.05*x)","GDP,0+(0.02*x)",,
 
-#,MilitaryPower,FOREIGNPOLICY,0,0,1,HIGHGOOD,icons_militarypower,#,"MilitarySpending,-0.45+(1.1*x)","IntelligenceServices,-0.17+(0.3*x)","DroneStrikeAct,0.04+(0.16*x)","Technology,-0.3+(0.5*x)","SpaceProgram,0.04+(0.09*x)","Patriot,-0.35+(0.62*x)","_percept_strength,-0.2+(0.325*x)","Liberal,0+(x^2)*-0.16","ForeignThreat,0.2-(0.4*x)","ActualThreat,0.2-(0.4*x)",,,,,
-#,GlobalInfluence,FOREIGNPOLICY,0,0,1,HIGHGOOD,icons_globalinfluence,#,"MilitaryPower,-0.25+(0.85*x)","GDP,-0.25+(0.7*x)","InternationalTrade,-0.2+(0.4*x)",#,,"ForeignInvestment,-0.15+(0.3*x)",,,,,,,,,,
-#,ForeignThreat,FOREIGNPOLICY,0,0,1,HIGHBAD,icons_foreignthreat,
-#,GlobalStability,FOREIGNPOLICY,0.5,0,1,HIGHGOOD,icons_globalstability,
-#,ActualThreat,HIDDEN,0,0,1,HIGHBAD,icons_militarypower,#,"_random_,-0.1,0.1","IntelligenceServices,0.1-(0.25*x)",#,"FakeNews,0+(x^1.5)*0.3","CyberWarfare,0+(x^1.5)*0.22","ForeignIntelligenceInterference,0+(x^2)*0.26","_security_,0+(x^4)*-0.25",,,,,,,,
+#,MilitaryPower1,FOREIGNPOLICY,0,0,1,HIGHGOOD,icons_militarypower,#,"MilitarySpending,-0.45+(1.1*x)","IntelligenceServices,-0.17+(0.3*x)","DroneStrikeAct,0.04+(0.16*x)","Technology,-0.3+(0.5*x)","SpaceProgram,0.04+(0.09*x)","Patriot,-0.35+(0.62*x)","_percept_strength,-0.2+(0.325*x)","Liberal,0+(x^2)*-0.16","ForeignThreat,0.2-(0.4*x)","ActualThreat,0.2-(0.4*x)",,,,,
+#,GlobalInfluence1,FOREIGNPOLICY,0,0,1,HIGHGOOD,icons_globalinfluence,#,"MilitaryPower,-0.25+(0.85*x)","GDP,-0.25+(0.7*x)","InternationalTrade,-0.2+(0.4*x)",#,,"ForeignInvestment,-0.15+(0.3*x)",,,,,,,,,,
+#,ForeignThreat1,FOREIGNPOLICY,0,0,1,HIGHBAD,icons_foreignthreat,
+#,GlobalStability1,FOREIGNPOLICY,0.5,0,1,HIGHGOOD,icons_globalstability,
+#,ActualThreat1,HIDDEN,0,0,1,HIGHBAD,icons_militarypower,#,"_random_,-0.1,0.1","IntelligenceServices,0.1-(0.25*x)",#,"FakeNews,0+(x^1.5)*0.3","CyberWarfare,0+(x^1.5)*0.22","ForeignIntelligenceInterference,0+(x^2)*0.26","_security_,0+(x^4)*-0.25",,,,,,,,
