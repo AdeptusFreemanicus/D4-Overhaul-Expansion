@@ -73,12 +73,6 @@
 
 ---- D4 Overhaul & Expansion ----
 
-#,youthcrime, Kejahatan Remaja, "Kejahatan Remaja mencakup semua jenis kejahatan yang dilakukan oleh mereka yang berusia di bawah 18 tahun."
-#,StrayAnimals, Hewan Liar, "Hewan liar merujuk pada hewan-hewan yang tidak memiliki rumah atau berkeliaran di jalanan, apakah itu anjing, kucing, monyet, atau hewan serupa lainnya."
-#,OrphansAndHomelessMinors, Yatim Piatu dan Anak Jalanan, "Yatim piatu dan anak jalanan adalah mereka yang berusia antara 0 - 17 tahun, mereka tidak dapat merawat diri sendiri atau melindungi diri mereka sendiri."
-
-#,MilitaryPower1, Kekuatan Militer, "Kekuatan militer yang kuat adalah bagian penting dari mempengaruhi kekuatan kita di seluruh dunia dan menjaga keamanan negara kita. Ada berbagai cara untuk meningkatkan kekuatan dan jangkauan militer kita, yang menghasilkan kekuatan tempur yang lebih kuat dan lebih beragam."
-#,GlobalInfluence1, Pengaruh Global, "Tidak semua negara memiliki bobot yang sama dalam mempengaruhi politik di seluruh dunia. Negara-negara yang memiliki ekonomi yang penting, militer yang kuat, atau teknologi yang maju memiliki keuntungan dalam urusan global. Saat kita meningkatkan pengaruh global kita, kita akan memiliki lebih banyak pengaruh terhadap negara-negara lain di dunia."
-#,ForeignThreat1, Penilaian Ancaman Internasional, "Meskipun perang total antar kekuatan global jauh lebih jarang terjadi pada abad ke-21, konflik antar negara tetap berlangsung dalam cara yang lebih terkendali. Spionase, manipulasi pemilu, dan peperangan siber adalah trik yang digunakan melawan pesaing. Kita dapat mengurangi ini melalui aliansi, penempatan militer, dan opsi pembalasan. Kita tidak akan pernah mengetahui rencana musuh kita yang tepat, jadi nilai-nilai yang kita miliki adalah perkiraan yang kita anggap hampir benar."
-#,ActualThreat1, ANCAMAN TIDAK DIKETAHUI, tersembunyi
-#,GlobalStability1, Stabilitas Global, "Selain stabilitas suatu negara, negara juga harus memperhatikan stabilitas iklim global secara keseluruhan. Perang, bencana besar, dan perubahan iklim dapat merusak stabilitas banyak negara sekaligus. Pada tingkat kekacauan yang tinggi, terorisme dan konflik melimpah. Dengan membentuk aliansi dengan negara lain dan menegakkan ketertiban secara global dengan militer kita, kita dapat membantu meningkatkan stabilitas."
+#,youthcrime,Youth Crime,"Youth Crime represents any and all crime committed by all under the age of 18.",
+#,StrayAnimals,"Stray Animals","Stray animals respersent any animals that have no home or are roaming the streets, whether it's dogs, cats, monkeys or other similar animals.",
+#,OrphansAndHomelessMinors,"Orphans And Homeless Minors","Orphans and homeless minors are from the age of 0 - 17, they cannot care for themselves or protect themselves.",

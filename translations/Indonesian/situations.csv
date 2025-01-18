@@ -85,8 +85,7 @@
 
 ---- D4 Overhaul & Expansion ----
 
-#,MajorArmsDeal, "Kesepakatan Senjata Besar!", "Kami baru saja mengamankan kesepakatan senjata besar, kami akan menjual beberapa senjata dan kendaraan kami untuk diekspor, sebagai imbalan uang dan hal-hal lainnya, ini seharusnya meningkatkan perekonomian kami dan memperbaiki hubungan kami dengan negara yang kami negosiasikan!"
-#,Deflation, "Deflasi", "Negara kami menghadapi masalah deflasi, yang memiliki dampak negatif pada PDB. Negara kami membutuhkan suplai uang yang lebih besar untuk meningkatkan investasi dan menstabilkan perekonomian."
-#,HighInflation, "Inflasi Tinggi", "Negara kami memiliki tingkat inflasi yang tinggi, karena banyaknya suplai uang dan upah yang rendah. Ini berdampak negatif pada daya beli dan PDB. Kekuatan moneter kami rendah dan banyak orang jatuh ke dalam kemiskinan. Banyak orang tidak berinvestasi dalam barang konsumen."
-#,RampantGangs, "Geng yang Merajalela", "Swedia memiliki masalah geng yang besar, kami perlu membiayai polisi kami untuk memeranginya!", "Geng-geng semakin tidak terkendali!", "Kami mengatasi masalah geng!"
-
+#,MajorArmsDeal,"a big arms deal!", "We have just secured a big arms deal, we will be selling some of our weapons and vehicles for export, for exchange of money and other things, this should boost our economy and improve our relations with the country with whom we negotiate!"
+#,Deflation,"Deflation", " our state has a problem of deflation, which has a negative effect on GDP. Our state needs a greater supply of money to increase investment and stabilize the economy."
+#,HighInflation,"Severe inflation", " our state has a high inflation rate, because of the high amount of our money supply and low wages. This has a negative effect on purchasing power and GDP. Our monetary strength is low and people fall into poverty. Many people do not invest in consumer goods."
+#,RampantGangs,"Rampant gangs", " Sweden has a big gang problem, we need to fund our police to fight it!", "Gangs are getting out of control!", "We deal with the gangs!",
