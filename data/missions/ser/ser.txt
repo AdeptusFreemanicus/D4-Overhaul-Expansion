@@ -56,7 +56,7 @@ InheritanceTax = 0.1
 IntellectualPropertyRights = 0.4
 IntelligenceServices = 0.2
 ImmigrationRules = 0.20
-JudiciaryIndependence = 0.6
+JudiciaryIndependence = 0.4
 LaborDayBankHoliday = 0.3
 LabourLaws = 0.5
 MaternityLeave = 0.8
@@ -80,7 +80,7 @@ RetirementAge = 0.35
 RightToPrivacy = 0.4
 RoadBuilding = 0.4
 RefugeePolicy = 0.4
-SalesTax = 0.37
+SalesTax = 0.25
 ScienceFunding = 0.3
 SelectiveSchooling = 0.3
 SmartMeterProgram = 0.2
@@ -90,6 +90,7 @@ StateEnergy = 0.4
 StatePensions = 0.4
 StateRail = 0.2
 StateSchools = 0.5
+StateHealthService = 0.6
 StemCells = 0.20
 TechnologyColleges = 0.4
 TechnologyGrants = 0.3
@@ -103,7 +104,6 @@ landvaluetax = 0.04
 un_nation_status= 0.8
 
 _prereq_mining_industry = 1
-_prereq_nato = 1
 
 
 [options]

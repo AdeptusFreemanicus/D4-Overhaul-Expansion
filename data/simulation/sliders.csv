@@ -9,3 +9,5 @@
 #,TaxFraudDepartment,DISCRETE,10,
 #,UNNationStatus,DISCRETE,4,
 #,TheDMZ,DISCRETE,7,
+#,WE,DISCRETE,4,
+#,sofaz,DISCRETE,4,

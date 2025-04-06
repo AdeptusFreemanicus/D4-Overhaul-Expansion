@@ -34,24 +34,21 @@ CompulsoryFoodLabelling = 0.5
 CompulsorySchoolSports = 0.5
 ConsumerRights = 0.5
 CorporationTax = 0.56
-Cyberbullyingawarenesscampaign = 0.5
-DisabilityBenefit = 0.45
+DisabilityBenefit = 0.3
 DrugEnforcement = 0.25
-DrugTreatment = 0.25
 ExecutiveTermLength = 1
 ExecutiveTermLimit = 1
-FaithSchoolSubsidies = 0.20
+FaithSchoolSubsidies = 0.10
 GameHunting = 0.5
 HandgunLaws = 0.2
 ImmigrationRules = 0.22
 IncomeTax = 0.40
-JudiciaryIndependence = 0.8
-JuryTrial = 0.75
-LaborDayBankHoliday = 0.5
+JudiciaryIndependence = 0.3
+JuryTrial = 0.3
 LabourLaws = 0.30
 LegalAid = 0.20
 MaternityLeave = 0.5
-MilitarySpending = 0.7
+MilitarySpending = 0.6
 MinimumWage = 0.20
 Narcotics = 0
 Nationalanthemsinschool = 0.35
@@ -59,18 +56,15 @@ PayrollTax = 0.40
 PetrolTax = 0.15
 PoliceForce = 1
 PollutionControls = 0
-PressFreedom = 0.5
+PressFreedom = 0.4
 PrisonerTagging = 0.8
 PrisonRegime = 0.3
-PrivatePrisons = 0
-RaceDiscriminationAct = 0.50
-Recycling = 0.50
+Recycling = 0.3
 RetirementAge = 0.5
 RoadBuilding = 0.2
 SalesTax = 0.20
 ScienceFunding = 0.05
 SchoolBuses = 0.10
-SelectiveSchooling = 0
 SocialCare = 0.3
 StateBroadcaster = 0.30
 StateHealthService = 0.30
@@ -83,11 +77,12 @@ TobaccoTax = 0.20
 TollRoads = 0.20
 UnemployedBenefit = 0.07
 UniversityGrants = 0.2
-WitnessProtectionProgram = 0.25
 
 interest_rate= 0.10
 vat= 0.10
 un_nation_status= 0.8
+sofaz= 0.5
+
 
 _prereq_has_coast = 1
 _prereq_sovereign_currency = 1
@@ -95,6 +90,7 @@ _prereq_mining_industry = 1
 _prereq_poachers = 1
 _prereq_land_border = 1
 _prereq_deadly_animals = 1
+_prereq_aze
 
 [options]
 MULTIPLEPARTIES

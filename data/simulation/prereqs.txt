@@ -1,8 +1,10 @@
 [config]
-21 = _prereq_sweden
-22 = _prereq_northkorea
-23 = _prereq_vat
-24 = _prereq_mor
+921 = _prereq_sweden
+922 = _prereq_northkorea
+923 = _prereq_vat
+924 = _prereq_mor
+925 = _prereq_afg
+926 = _prereq_aze
 
 
 
