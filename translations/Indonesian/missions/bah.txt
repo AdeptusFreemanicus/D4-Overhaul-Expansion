@@ -1,20 +1,20 @@
 [config]
 name  = bah
-guiname = "The Commonwealth of The Bahamas"
-description = "The Bahamas, known officially as the Commonwealth of The Bahamas, is a sovereign country within the Lucayan Archipelago of the West Indies in the Atlantic. It takes up 97% of the Lucayan Archipelago's land area and is home to 88% of the archipelago's population. The archipelagic state consists of more than 3000 islands, cays, and islets in the Atlantic Ocean, and is located north of Cuba and northwest of the island of Hispaniola (split between Haiti and the Dominican Republic) and the Turks and Caicos Islands, southeast of the American state of Florida, and east of the Florida Keys. The capital is Nassau on the island of New Providence. The Royal Bahamas Defence Force describes The Bahamas' territory as encompassing 470,000 km2 (180,000 sq mi) of ocean space"
+guiname = "Persemakmuran Bahama"
+description = "Bahama, secara resmi dikenal sebagai Persemakmuran Bahama, adalah negara berdaulat yang termasuk dalam Kepulauan Lucayan di Hindia Barat di Samudra Atlantik. Negara ini mencakup 97% dari luas daratan Kepulauan Lucayan dan menjadi rumah bagi 88% dari populasi kepulauan tersebut. Negara kepulauan ini terdiri dari lebih dari 3000 pulau, karang, dan pulau kecil di Samudra Atlantik, terletak di utara Kuba dan barat laut pulau Hispaniola (terbagi antara Haiti dan Republik Dominika) serta Kepulauan Turks dan Caicos, tenggara negara bagian Florida di Amerika Serikat, dan timur dari Florida Keys. Ibu kotanya adalah Nassau di pulau New Providence. Pasukan Pertahanan Kerajaan Bahama menggambarkan wilayah Bahama sebagai mencakup 470.000 km2 (180.000 mil persegi) ruang laut."
 
-jobtitle = "Monarch"
+jobtitle = "Monarki"
 
 [stats]
-Motto: = "March On, Bahamaland"
+Motto: = "Terus Maju, Bahamaland"
 National Anthem: = "God Save the Queen"
-Population: = "400,516 (2022 est)"
-Area: = "13,878 km2 (5,358 sq mi)"
-Currency: = "Bahamian dollar (BSD)"
-GDP: = "$12.612 billion"
-GDP per capita: = "$33,494"
-Democracy Index: = "No Data"
-Biggest Industry: = "Tourism"
+Population: = "400.516 (perkiraan 2022)"
+Area: = "13.878 km2 (5.358 mil persegi)"
+Currency: = "Dolar Bahama (BSD)"
+GDP: = "$12,612 miliar"
+GDP per capita: = "$33.494"
+Democracy Index: = "Tidak Ada Data"
+Biggest Industry: = "Pariwisata"
 Capital And Largest City: = "Nassau"
-Driving side: =	"left"
+Driving side: = "kiri"
 Calling code: = "+1 242"

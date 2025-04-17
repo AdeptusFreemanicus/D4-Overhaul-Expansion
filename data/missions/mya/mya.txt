@@ -137,7 +137,7 @@ UniversityGrants = 0.5
 WitnessProtectionProgram = 0.5
 WorkSafetyLaw = 0.6
 
-interest_rate_eu= 0.08
+interest_rate= 0.08
 un_nation_status= 0.8
 
 _prereq_royal_family = 1
