@@ -1,19 +1,19 @@
 [config]
-name  = norway
-guiname = "Kingdom of Norway"
-description = "Norway, officially the Kingdom of Norway, is a Nordic country in Northern Europe whose mainland territory comprises the western and northernmost portion of the Scandinavian Peninsula. The remote Arctic island of Jan Mayen as well as the archipelago of Svalbard also form part of Norway. Bouvet Island, located in the Subantarctic, is a dependency of Norway; it also lays claims to the Antarctic territories of Peter I Island and Queen Maud Land. Norway has a total area of 385,207 square kilometres (148,729 sq mi) and a population of 5,385,300 as of November 2020. The country shares a long eastern border with Sweden (1,619 km or 1,006 mi long)."
+name = norway
+guiname = "Kerajaan Norwegia"
+description = "Norwegia, secara resmi Kerajaan Norwegia, adalah sebuah negara Nordik di Eropa Utara dengan wilayah daratan yang mencakup bagian barat dan paling utara Semenanjung Skandinavia. Pulau Arktik terpencil Jan Mayen serta gugusan Svalbard juga merupakan bagian dari Norwegia. Pulau Bouvet, yang terletak di Subantarktika, adalah wilayah dependensi Norwegia; negara ini juga mengklaim wilayah Antarktika Pulau Peter I dan Queen Maud Land. Norwegia memiliki luas total 385.207 kilometer persegi (148.729 mil persegi) dan populasi sebesar 5.385.300 jiwa per November 2020. Negara ini berbagi perbatasan timur panjang dengan Swedia (1.619 km atau 1.006 mil)."
 
-jobtitle = "Prime Minister"
+jobtitle = "Perdana Menteri"
 
 [stats]
-National Anthem: = "Yes, we love this country"
-Population: = "5.3 million (2020)"
-Area: = "385,207 km2 (148,729 sq mi)"
-Currency: = "Norwegian krone kr (NOK)"
-GDP: = "$397 billion (~kr3,419,256,419,163,400.00 NOK)"
-GDP per capita: = "$79,638 (kr685,901.12 NOK)"
-Democracy Index: = "~9.87/10 (1st)"
-Biggest Industry: = "Oil And Gas Exports"
-Capital And Largest City: = "Oslo"
-Driving side: =	"right"
-Calling code: = "+47"
+Lagu Kebangsaan: = "Ya, kami mencintai negeri ini"
+Populasi: = "5,3 juta (2020)"
+Luas Wilayah: = "385.207 km2 (148.729 mil2)"
+Mata Uang: = "Krone Norwegia kr (NOK)"
+PDB: = "$397 miliar (~kr 3.419.256.419.163.400,00 NOK)"
+PDB per kapita: = "$79.638 (kr 685.901,12 NOK)"
+Indeks Demokrasi: = "~9,87/10 (peringkat 1)"
+Industri Terbesar: = "Ekspor Minyak dan Gas"
+Ibu Kota dan Kota Terbesar: = "Oslo"
+Sisi Mengemudi: = "kanan"
+Kode Telepon: = "+47"

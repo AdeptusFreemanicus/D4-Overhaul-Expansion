@@ -1,20 +1,20 @@
 [config]
-name  = taiwan
-guiname = "Republic of China"
-description = "Taiwan, officially the Republic of China, is a country in East Asia. Neighbouring countries include the People's Republic of China to the northwest, Japan to the northeast, and the Philippines to the south. The main island of Taiwan has an area of 35,808 square kilometres (13,826 sq mi), with mountain ranges dominating the eastern two-thirds and plains in the western third, where its highly urbanised population is concentrated. Taipei is the capital as well as the largest metropolitan area of Taiwan. Other major cities include New Taipei, Kaohsiung, Taichung, Tainan and Taoyuan. With 23.57 million inhabitants, Taiwan is among the most densely populated countries."
+name = taiwan
+guiname = "Republik China"
+description = "Taiwan, secara resmi Republik China, adalah sebuah negara di Asia Timur. Negara-negara tetangga termasuk Republik Rakyat Tiongkok di barat laut, Jepang di timur laut, dan Filipina di selatan. Pulau utama Taiwan memiliki luas 35.808 kilometer persegi (13.826 mil persegi), dengan pegunungan yang mendominasi dua pertiga bagian timur dan dataran di sepertiga bagian barat, di mana populasi yang sangat urbanisasi terkonsentrasi. Taipei adalah ibukota sekaligus kawasan metropolitan terbesar di Taiwan. Kota-kota besar lainnya meliputi New Taipei, Kaohsiung, Taichung, Tainan, dan Taoyuan. Dengan 23,57 juta penduduk, Taiwan termasuk salah satu negara dengan kepadatan penduduk tertinggi."
 
-jobtitle = "President"
+jobtitle = "Presiden"
 
 [stats]
-National Anthem: = "National Anthem of the Republic of China"
-Population: = "~23.5 million (2020)"
-Area: = "36,197 km2 (13,976 sq mi)"
-Currency: = "New Taiwan dollar (NT$) (TWD)"
-GDP: = "$635.547 billion (~NT$17,935,652,706,112,380.00 TWD)"
-GDP per capita: = "$26,910 (~NT$759,302.84 TWD)"
-Democracy Index: = "~7.73/10 (31th)"
-Biggest Industry: = "Services Sector"
-Capital: = "Taipei"
-Largest City: = "New Taipei"
-Driving side: =	"right"
-Calling code: = "+886"
+Lagu Kebangsaan: = "Lagu Kebangsaan Republik China"
+Populasi: = "~23,5 juta (2020)"
+Luas Wilayah: = "36.197 km2 (13.976 mil2)"
+Mata Uang: = "Dolar Taiwan Baru (NT$) (TWD)"
+PDB: = "$635,547 miliar (~NT$17.935.652.706.112.380 TWD)"
+PDB per kapita: = "$26.910 (~NT$759.302,84 TWD)"
+Indeks Demokrasi: = "~7,73/10 (peringkat 31)"
+Industri Terbesar: = "Sektor Jasa"
+Ibukota: = "Taipei"
+Kota Terbesar: = "New Taipei"
+Sisi Mengemudi: = "kanan"
+Kode Telepon: = "+886"

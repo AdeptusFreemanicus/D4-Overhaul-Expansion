@@ -1,18 +1,18 @@
 [config]
-name  = hon
-guiname = "Hong Kong Special Administrative Region of the People's Republic of China"
-description = "Hong Kong, officially the Hong Kong Special Administrative Region of the People's Republic of China, is a city and special administrative region of China on the eastern Pearl River Delta in South China. With over 7.5 million residents of various nationalities in a 1,104-square-kilometre (426 sq mi) territory, Hong Kong is one of the most densely populated places in the world. Hong Kong is also one of the three global financial centres and one of the most developed cities in the world."
+name = hon
+guiname = "Wilayah Administratif Khusus Hong Kong dari Republik Rakyat Tiongkok"
+description = "Hong Kong, secara resmi Wilayah Administratif Khusus Hong Kong dari Republik Rakyat Tiongkok, adalah sebuah kota dan wilayah administratif khusus di Tiongkok yang terletak di Delta Sungai Mutiara bagian timur di Tiongkok Selatan. Dengan lebih dari 7,5 juta penduduk dari berbagai kebangsaan dalam wilayah seluas 1.104 kilometer persegi (426 mil persegi), Hong Kong adalah salah satu tempat dengan kepadatan penduduk tertinggi di dunia. Hong Kong juga merupakan salah satu dari tiga pusat keuangan global dan salah satu kota paling maju di dunia."
 
-jobtitle = "Chief Executive"
+jobtitle = "Kepala Eksekutif"
 
 [stats]
-Population: = "7,413,070 million (2021)"
-Area: = "2,754.97 km2 (1,063.70 sq mi)"
-Currency: = "Hong Kong dollar (HK$) (HKD)"
-GDP: = "$472.395 billion"
-GDP per capita: = "$62,839"
-Democracy index: = "~5.60/10 (85th)"
-Largest Industry: = "Finance"
-Administrative Centre: = "Tamar"
-Driver side: = "left"
-Phone prefix: = "+852"
+Populasi: = "7.413.070 juta (2021)"
+Luas Wilayah: = "2.754,97 km2 (1.063,70 mil2)"
+Mata Uang: = "Dolar Hong Kong (HK$) (HKD)"
+PDB: = "$472,395 miliar"
+PDB per kapita: = "$62.839"
+Indeks Demokrasi: = "~5,60/10 (peringkat 85)"
+Industri Terbesar: = "Keuangan"
+Pusat Administrasi: = "Tamar"
+Sisi Mengemudi: = "kiri"
+Kode Telepon: = "+852"

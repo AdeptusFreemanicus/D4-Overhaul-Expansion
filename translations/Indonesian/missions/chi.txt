@@ -1,19 +1,19 @@
 [config]
-name  = chi
-guiname = "Republic of Chile"
-description = "Chile, officially the Republic of Chile, is a country in western South America. It occupies a long, narrow strip of land between the Andes to the east and the Pacific Ocean to the west. Chile covers an area of 756,096 square kilometres (291,930 sq mi) and has a population of 17.5 million as of 2017. The capital and largest city is Santiago and the national language is Spanish."
+name = chi
+guiname = "Republik Chile"
+description = "Chile, secara resmi Republik Chile, adalah sebuah negara di Amerika Selatan bagian barat. Negara ini menempati sebidang tanah panjang dan sempit di antara Pegunungan Andes di timur dan Samudra Pasifik di barat. Chile memiliki luas wilayah 756.096 kilometer persegi (291.930 mil persegi) dan memiliki populasi 17,5 juta jiwa pada tahun 2017. Ibukota sekaligus kota terbesar adalah Santiago dan bahasa nasionalnya adalah Spanyol."
 
-jobtitle = "President"
+jobtitle = "Presiden"
 
 [stats]
-Motto: = "By Right or Might"
-National Anthem: = "Himno Nacional de Chile"
-Population: = "17.5 million people (2017)"
-Area: = "756,096.3 km2 (291,930.4 sq mi)"
-Currency: = "Chilean peso (CLP)"
-GDP: = "$245.414 billion"
-GDP per capita: = "$12,612"
-Democracy Index: = "8.28/10 (17th)"
-Biggest Industry: = "Agriculture"
-Capital And Largest City: = "Santiago"
-Driving side: =	"right"
+Moto: = "Dengan Hak atau Kekuatan"
+Lagu Kebangsaan: = "Himno Nacional de Chile"
+Populasi: = "17,5 juta orang (2017)"
+Luas Wilayah: = "756.096,3 km2 (291.930,4 mil2)"
+Mata Uang: = "Peso Chili (CLP)"
+PDB: = "$245,414 miliar"
+PDB per kapita: = "$12.612"
+Indeks Demokrasi: = "8,28/10 (peringkat 17)"
+Industri Terbesar: = "Pertanian"
+Ibu Kota dan Kota Terbesar: = "Santiago"
+Sisi Mengemudi: = "kanan"

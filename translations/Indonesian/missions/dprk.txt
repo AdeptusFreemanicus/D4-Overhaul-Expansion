@@ -1,19 +1,19 @@
 [config]
-name  = dprk
-guiname = "Democratic People's Republic of Korea"
-description = "North Korea, officially the Democratic People's Republic of Korea, Chosŏn Minjujuŭi Inmin Konghwaguk, is a country in East Asia constituting the northern part of the Korean Peninsula. The country is bordered to the north by China and by Russia along the Amnok (known as the Yalu in Chinese) and Tumen rivers, and to the south by South Korea, with the heavily fortified Korean Demilitarized Zone (DMZ) separating the two. North Korea, like its southern counterpart, claims to be the legitimate government of the entire peninsula and adjacent islands. Pyongyang is the country's capital and largest city."
+name = dprk
+guiname = "Republik Rakyat Demokratik Korea"
+description = "Korea Utara, secara resmi Republik Rakyat Demokratik Korea, Chosŏn Minjujuŭi Inmin Konghwaguk, adalah sebuah negara di Asia Timur yang merupakan bagian utara dari Semenanjung Korea. Negara ini berbatasan di utara dengan Tiongkok dan Rusia sepanjang sungai Amnok (dikenal sebagai Yalu dalam bahasa Tionghoa) dan sungai Tumen, serta di selatan dengan Korea Selatan, dipisahkan oleh Zona Demiliterisasi Korea (DMZ) yang sangat dijaga ketat. Korea Utara, seperti halnya Korea Selatan, mengklaim sebagai pemerintah yang sah atas seluruh semenanjung dan pulau-pulau sekitarnya. Pyongyang adalah ibu kota sekaligus kota terbesar negara ini."
 
-jobtitle = "Supreme Leader"
+jobtitle = "Pemimpin Tertinggi"
 
 [stats]
-National Anthem: = "The Patriotic Song"
-Population: = "25.5 million (2018)"
-Area: = "120,540 km2 (46,540 sq mi)"
-Currency: = "Korean People's won (₩)"
-GDP: = "$30 billion"
-GDP per capita: = "$1,300"
-Democracy Index: = "~1.06/10 (167th Last)"
-Biggest Industry: = "Agriculture/Mining"
-Capital (and largest city): = "Pyongyang"
-Driving side: =	"right"
-Calling code: = "+850"
+Lagu Kebangsaan: = "Lagu Patriotik"
+Populasi: = "25,5 juta (2018)"
+Luas Wilayah: = "120.540 km2 (46.540 mil2)"
+Mata Uang: = "Won Rakyat Korea (₩)"
+PDB: = "$30 miliar"
+PDB per kapita: = "$1.300"
+Indeks Demokrasi: = "~1,06/10 (peringkat 167 terakhir)"
+Industri Terbesar: = "Pertanian/Pertambangan"
+Ibu Kota (dan kota terbesar): = "Pyongyang"
+Sisi Mengemudi: = "kanan"
+Kode Telepon: = "+850"

@@ -1,21 +1,21 @@
 [config]
-name  = mal
+name = mal
 guiname = "Malaysia"
-description = "Malaysia is a country in Southeast Asia. The federal constitutional monarchy consists of thirteen states and three federal territories, separated by the South China Sea into two regions, Peninsular Malaysia and Borneo's East Malaysia. Peninsular Malaysia shares a land and maritime border with Thailand and maritime borders with Singapore, Vietnam, and Indonesia. East Malaysia shares land and maritime borders with Brunei and Indonesia and a maritime border with the Philippines and Vietnam. Kuala Lumpur is the national capital, largest city and the seat of the legislative branch of the federal government. The nearby planned capital of Putrajaya is the administrative capital; which represents the seat of both the executive branch (Cabinet, federal ministries and agencies) and the judicial branch of the federal government. With a population of over 32 million, Malaysia is the world's 43rd-most populous country. The southernmost point of continental Eurasia is in Tanjung Piai. In the tropics, Malaysia is one of 17 megadiverse countries, home to a number of endemic species."
+description = "Malaysia adalah sebuah negara di Asia Tenggara. Monarki konstitusional federal ini terdiri dari tiga belas negara bagian dan tiga wilayah federal, yang dipisahkan oleh Laut China Selatan menjadi dua wilayah, Semenanjung Malaysia dan Malaysia Timur di Borneo. Semenanjung Malaysia berbatasan darat dan laut dengan Thailand serta berbatasan laut dengan Singapura, Vietnam, dan Indonesia. Malaysia Timur berbatasan darat dan laut dengan Brunei dan Indonesia serta berbatasan laut dengan Filipina dan Vietnam. Kuala Lumpur adalah ibu kota nasional, kota terbesar, dan pusat legislatif pemerintah federal. Ibu kota terencana yang berdekatan, Putrajaya, adalah ibu kota administratif; yang merupakan tempat cabang eksekutif (Kabinet, kementerian dan lembaga federal) dan cabang yudikatif pemerintah federal. Dengan populasi lebih dari 32 juta, Malaysia adalah negara ke-43 terpadat di dunia. Titik paling selatan di daratan Eurasia berada di Tanjung Piai. Di wilayah tropis, Malaysia adalah salah satu dari 17 negara megadiversitas, rumah bagi sejumlah spesies endemik."
 
-jobtitle = "Prime Minister"
+jobtitle = "Perdana Menteri"
 
 [stats]
-Motto: = "Unity Is Strength"
-National Anthem: = "My Country"
-Population: = "32,7 million (2020 est)"
-Area: = "330,803 km2 (127,724 sq mi)"
-Currency: = "Ringgit (RM) (MYR)"
-GDP: = "$900.426 billion"
-GDP per capita: = "$27,287"
-Democracy Index: = "~7.19/10 (39th)"
-Biggest Industry: = "Electrical And Electronics Sector"
-Capitals: = "Kuala Lumpur - Putrajaya (Administrative)"
-Largest City: = "Kuala Lumpur"
-Driving side: =	"Left"
-Calling code: = "+60"
+Motto: = "Persatuan adalah Kekuatan"
+Lagu Kebangsaan: = "Negaraku"
+Populasi: = "32,7 juta (perkiraan 2020)"
+Luas Wilayah: = "330.803 km2 (127.724 mil2)"
+Mata Uang: = "Ringgit (RM) (MYR)"
+PDB: = "$900,426 miliar"
+PDB per kapita: = "$27.287"
+Indeks Demokrasi: = "~7,19/10 (peringkat 39)"
+Industri Terbesar: = "Sektor Elektronik dan Elektrikal"
+Ibu Kota: = "Kuala Lumpur - Putrajaya (Administratif)"
+Kota Terbesar: = "Kuala Lumpur"
+Sisi Mengemudi: = "Kiri"
+Kode Telepon: = "+60"

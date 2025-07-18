@@ -1,19 +1,19 @@
 [config]
-name  = russia
-guiname = "The Russian Federation"
-description = "Russia, or the Russian Federation, is a transcontinental country located in Eastern Europe and Northern Asia. It extends from the Baltic Sea in the west to the Pacific Ocean in the east, and from the Arctic Ocean in the north to the Black Sea and the Caspian Sea in the south. Russia covers over 17,125,200 square kilometres (6,612,100 sq mi), spanning more than one-eighth of the Earth's inhabited land area, stretching eleven time zones, and bordering 16 sovereign nations. Moscow is the country's capital and largest city, other major cities include Saint Petersburg, Novosibirsk, Yekaterinburg, Kazan, Nizhny Novgorod, Chelyabinsk and Samara."
+name = russia
+guiname = "Federasi Rusia"
+description = "Rusia, atau Federasi Rusia, adalah negara transkontinental yang terletak di Eropa Timur dan Asia Utara. Wilayahnya membentang dari Laut Baltik di barat hingga Samudra Pasifik di timur, serta dari Laut Arktik di utara hingga Laut Hitam dan Laut Kaspia di selatan. Rusia mencakup lebih dari 17.125.200 kilometer persegi (6.612.100 mil persegi), meliputi lebih dari seperdelapan daratan berpenghuni di bumi, terbentang sepanjang sebelas zona waktu, dan berbatasan dengan 16 negara berdaulat. Moskow adalah ibu kota dan kota terbesar negara ini, kota-kota besar lainnya termasuk Saint Petersburg, Novosibirsk, Yekaterinburg, Kazan, Nizhny Novgorod, Chelyabinsk, dan Samara."
 
-jobtitle = "President"
+jobtitle = "Presiden"
 
 [stats]
-National Anthem: = "State Anthem of the Russian Federation"
-Population: = "146.7 million (2020)"
-Area: = "17,098,246 km2 (6,601,670 sq mi)"
-Currency: = "Russian ruble (₽) (RUB)"
-GDP: = "$4.135 trillion (3.079 quadrillion Russian Rubles)"
-GDP per capita: = "$28,184 (~₽2096728.95 Russian Rubles)"
-Democracy Index: = "3.31/10 (134th)"
-Biggest Industry: = "Services Sector"
-Capital (and largest city): = "Moscow"
-Driving side: =	"right"
-Calling code: = "+7"
+Lagu Kebangsaan: = "Lagu Kebangsaan Federasi Rusia"
+Populasi: = "146,7 juta (2020)"
+Luas Wilayah: = "17.098.246 km2 (6.601.670 mil2)"
+Mata Uang: = "Rubel Rusia (₽) (RUB)"
+PDB: = "$4,135 triliun (3,079 kuadriliun Rubel Rusia)"
+PDB per kapita: = "$28.184 (~₽2.096.728,95 Rubel Rusia)"
+Indeks Demokrasi: = "3,31/10 (peringkat 134)"
+Industri Terbesar: = "Sektor Jasa"
+Ibu Kota (dan kota terbesar): = "Moskow"
+Sisi Mengemudi: = "kanan"
+Kode Telepon: = "+7"

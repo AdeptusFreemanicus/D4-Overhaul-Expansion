@@ -1,5 +1,5 @@
 [config]
-name  = spanyol
+name  = spain
 guiname = "Spanyol"
 description = "Pemilihan umum demokratis pertama di Kerajaan Spanyol berlangsung pada bulan Juni 1977 setelah kematian Francisco Franco pada tahun 1975 yang memerintah Spanyol di bawah kediktatoran sejak tahun 1939. Pada tahun 1978, konstitusi demokratis baru diumumkan dan disetujui melalui referendum. Spanyol dinyatakan sebagai monarki parlementer konstitusional dengan Raja Juan Carlos I sebagai Kepala Negara dan dengan hak pilih universal."
 jobtittle = "Perdana Menteri"

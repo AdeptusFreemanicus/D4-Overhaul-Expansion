@@ -139,6 +139,7 @@ WorkSafetyLaw = 0.6
 interest_rate= 0.02
 vat= 0.25
 un_nation_status= 0.8
+sharia= 0.5
 
 _prereq_hurricane = 1
 _prereq_has_coast = 1

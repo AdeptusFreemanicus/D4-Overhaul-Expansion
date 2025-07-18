@@ -1,21 +1,21 @@
 [config]
-name  = sweden
-guiname = "Kingdom of Sweden"
-description = "Sweden, officially the Kingdom of Sweden, is a Nordic country in Northern Europe. It borders Norway to the west and north, Finland to the east, and is connected to Denmark in the southwest by a bridge-tunnel across the Öresund Strait. At 450,295 square kilometres (173,860 sq mi), Sweden is the largest country in Northern Europe, the third-largest country in the European Union and the fifth largest country in Europe by area. The capital city is Stockholm. Sweden has a total population of 10.4 million of which 2.6 million have a foreign background. Persons with foreign backgrounds are defined as persons who are foreign born, or born in Sweden with foreign born parents. It has a low population density of 25 inhabitants per square kilometre (65/sq mi), with 1 437 persons per km2 in localities. 87% of Swedes live in urban areas, which cover 1.5% of the entire land area. The highest concentration is in the central and southern half of the country."
+name = sweden
+guiname = "Kerajaan Swedia"
+description = "Swedia, secara resmi Kerajaan Swedia, adalah negara Nordik di Eropa Utara. Negara ini berbatasan dengan Norwegia di barat dan utara, Finlandia di timur, dan terhubung dengan Denmark di barat daya melalui jembatan-terowongan di Selat Öresund. Dengan luas 450.295 kilometer persegi (173.860 mil persegi), Swedia adalah negara terbesar di Eropa Utara, negara ketiga terbesar di Uni Eropa, dan negara kelima terbesar di Eropa berdasarkan luas wilayah. Ibukotanya adalah Stockholm. Swedia memiliki total populasi 10,4 juta jiwa, di mana 2,6 juta memiliki latar belakang asing. Orang dengan latar belakang asing didefinisikan sebagai mereka yang lahir di luar negeri atau lahir di Swedia dengan orang tua yang lahir di luar negeri. Kepadatan penduduknya rendah, yakni 25 jiwa per kilometer persegi (65 per mil persegi), dengan 1.437 jiwa per km2 di daerah pemukiman. Sebanyak 87% penduduk Swedia tinggal di daerah perkotaan yang hanya mencakup 1,5% dari total luas wilayah. Konsentrasi penduduk tertinggi berada di bagian tengah dan selatan negara."
 
-jobtitle = "Prime Minister"
+jobtitle = "Perdana Menteri"
 
 [stats]
-Motto: = "For Sweden – With the Times"
-National Anthem: = "Thou ancient, thou free"
-Royal anthem = "Song of the King"
-Population: = "10.3 million (2020)"
-Area: = "450,295 km2 (173,860 sq mi)"
-Currency: = "Swedish krona kr (SEK)"
-GDP: = "$528.929 billion (~kr4,360,516,224,239,999.50 SEK)"
-GDP per capita: = "$50,339 (kr415,739.29 SEK)"
-Democracy Index: = "~9.39/10 (3rd)"
-Biggest Industry: = "Agriculture"
-Capital And Largest City: = "Stockholm"
-Driving side: =	"right"
-Calling code: = "+46"
+Moto: = "Untuk Swedia – Sesuai Zaman"
+Lagu Kebangsaan: = "Engkau yang kuno, engkau yang bebas"
+Lagu Kerajaan: = "Lagu Sang Raja"
+Populasi: = "10,3 juta (2020)"
+Luas Wilayah: = "450.295 km2 (173.860 mil2)"
+Mata Uang: = "Krona Swedia kr (SEK)"
+PDB: = "$528,929 miliar (~kr4.360.516.224.240 SEK)"
+PDB per kapita: = "$50.339 (kr415.739,29 SEK)"
+Indeks Demokrasi: = "~9,39/10 (peringkat 3)"
+Industri Terbesar: = "Pertanian"
+Ibukota dan Kota Terbesar: = "Stockholm"
+Sisi Mengemudi: = "kanan"
+Kode Telepon: = "+46"

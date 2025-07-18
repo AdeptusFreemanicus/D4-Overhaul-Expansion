@@ -1,20 +1,20 @@
 [config]
-name  = sth
-guiname = "Republic of South Africa"
-description = "South Africa, officially the Republic of South Africa, is the southernmost country in Africa. With over 60 million people, it is the world's 23rd-most populous nation. South Africa has three capital cities: executive Pretoria, judicial Bloemfontein and legislative Cape Town. The largest city is Johannesburg. About 80% of South Africans are of Black African ancestry, divided among a variety of ethnic groups speaking different African languages. The remaining population consists of Africa's largest communities of European (White South Africans), Asian (Indian South Africans and Chinese South Africans), and Multiracial (Coloured South Africans) ancestry."
+name = sth
+guiname = "Republik Afrika Selatan"
+description = "Afrika Selatan, secara resmi Republik Afrika Selatan, adalah negara paling selatan di Afrika. Dengan lebih dari 60 juta penduduk, negara ini menempati peringkat ke-23 negara dengan jumlah penduduk terbanyak di dunia. Afrika Selatan memiliki tiga ibu kota: Pretoria sebagai ibu kota eksekutif, Bloemfontein sebagai ibu kota yudisial, dan Cape Town sebagai ibu kota legislatif. Kota terbesar adalah Johannesburg. Sekitar 80% penduduk Afrika Selatan adalah keturunan Afrika Kulit Hitam, terbagi dalam berbagai kelompok etnis yang menggunakan berbagai bahasa Afrika. Sisa penduduk terdiri dari komunitas keturunan Eropa (Orang Afrika Selatan kulit putih), Asia (Orang Afrika Selatan keturunan India dan Tionghoa), serta keturunan campuran (Orang Afrika Selatan berkulit warna)."
 
-jobtitle = "President"
+jobtitle = "Presiden"
 
 [stats]
-National Anthem: = "Unity in diversity"
-Population: = "66 million (2021)"
-Area: = "1,221,037 km2 (471,445 sq mi)"
-Currency: = "South African rand R (ZAR)"
-GDP: = "$748 billion"
-GDP per capita: = "$12,351"
-Democracy Index: = "7.05/10 (45th)"
-Biggest Industry: = "Mining Sector"
-Capitals: = "Pretoria (executive) Cape Town (legislative) Bloemfontein (judicial)"
-Largest City: = "Johannesburg"
-Driving side: =	"Left"
-Calling code: = "+27"
+Lagu Kebangsaan: = "Kesatuan dalam keberagaman"
+Populasi: = "66 juta (2021)"
+Luas Wilayah: = "1.221.037 km2 (471.445 mil2)"
+Mata Uang: = "Rand Afrika Selatan R (ZAR)"
+PDB: = "$748 miliar"
+PDB per kapita: = "$12.351"
+Indeks Demokrasi: = "7,05/10 (peringkat 45)"
+Industri Terbesar: = "Sektor Pertambangan"
+Ibu Kota: = "Pretoria (eksekutif), Cape Town (legislatif), Bloemfontein (yudisial)"
+Kota Terbesar: = "Johannesburg"
+Sisi Mengemudi: = "kiri"
+Kode Telepon: = "+27"

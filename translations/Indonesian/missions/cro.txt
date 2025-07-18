@@ -1,19 +1,19 @@
 [config]
-name  = cro
-guiname = "Republic of Croatia"
-description = "Croatia, officially the Republic of Croatia, is a country located at the crossroads of Central and Southeast Europe. Its coast lies entirely on the Adriatic Sea. It borders Slovenia to the northwest, Hungary to the northeast, Serbia to the east, Bosnia and Herzegovina and Montenegro to the southeast, and shares a maritime border with Italy to the west. Its capital and largest city, Zagreb, forms one of the country's primary subdivisions, with twenty counties. Other major urban centers include Split, Rijeka and Osijek. The country spans 56,594 square kilometres (21,851 square miles), and has a population of nearly 3.9 million."
+name = cro
+guiname = "Republik Kroasia"
+description = "Kroasia, secara resmi Republik Kroasia, adalah sebuah negara yang terletak di persimpangan Eropa Tengah dan Tenggara. Garis pantainya sepenuhnya berada di Laut Adriatik. Negara ini berbatasan dengan Slovenia di barat laut, Hungaria di timur laut, Serbia di timur, Bosnia dan Herzegovina serta Montenegro di tenggara, dan berbagi batas laut dengan Italia di barat. Ibukota sekaligus kota terbesar, Zagreb, merupakan salah satu subdivisi utama negara ini, yang terdiri dari dua puluh kabupaten. Pusat kota besar lainnya termasuk Split, Rijeka, dan Osijek. Negara ini memiliki luas 56.594 kilometer persegi (21.851 mil persegi), dengan populasi hampir 3,9 juta jiwa."
 
-jobtitle = "President"
+jobtitle = "Presiden"
 
 [stats]
-National Anthem: = "Our Beautiful Homeland"
-Population: = "3.8 million (2022 est)"
-Area: = "56,594 km2 (21,851 sq mi)"
-Currency: = "Euro (€) (EUR)"
-GDP: = "$164 billion"
-GDP per capita: = "$42,873"
-Democracy Index: = "~6.5/10 (59th)"
-Biggest Industry: = "Service Sector"
-Capital And Largest City: = "Zagreb"
-Driving side: =	"right"
-Calling code: = "+385"
+Lagu Kebangsaan: = "Tanah Air Indah Kami"
+Populasi: = "3,8 juta (perkiraan 2022)"
+Luas Wilayah: = "56.594 km2 (21.851 mil2)"
+Mata Uang: = "Euro (€) (EUR)"
+PDB: = "$164 miliar"
+PDB per kapita: = "$42.873"
+Indeks Demokrasi: = "~6,5/10 (peringkat 59)"
+Industri Terbesar: = "Sektor Jasa"
+Ibu Kota dan Kota Terbesar: = "Zagreb"
+Sisi Mengemudi: = "kanan"
+Kode Telepon: = "+385"

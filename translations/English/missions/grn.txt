@@ -1,0 +1,19 @@
+[config]
+name  = grn
+guiname = "Greenland"
+description = "Greenland is an autonomous territory in the Kingdom of Denmark. It is by far the largest geographically of three constituent parts of the kingdom; the other two are metropolitan Denmark and the Faroe Islands. Citizens of Greenland are full citizens of Denmark and of the European Union. Greenland is one of the Overseas Countries and Territories of the European Union and is part of the Council of Europe. It is the world's largest island, and lies between the Arctic and Atlantic oceans, east of the Canadian Arctic Archipelago. Greenland's Kaffeklubben Island, off the northern coast, is the world's northernmost undisputed point of land—Cape Morris Jesup on the mainland was thought to be so until the 1960s. The capital and largest city is Nuuk. Economically, Greenland is heavily reliant on aid from Denmark, amounting to nearly half of the territory's total public revenue."
+
+jobtitle = "Monarch"
+
+[stats]
+Completeness: = "2/5"
+National Anthem: = "You Our Ancient Land"
+Population: = "56,583 (2022 est)"
+Area: = "2,166,086 km2 (836,330 sq mi)"
+Currency: = "Danish krone (DKK)"
+GDP: = "$3.85 billion"
+GDP per capita: = "$68,100"
+Biggest Industry: = "Fishing Industry"
+Capital And Largest City: = "Nuuk"
+Driving side: =	"Right"
+Calling code: = "+299"

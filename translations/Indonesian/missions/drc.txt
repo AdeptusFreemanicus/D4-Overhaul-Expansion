@@ -1,20 +1,19 @@
 [config]
-name  = drc
-guiname = "Democratic Republic of the Congo"
-description = "The Democratic Republic of the Congo, informally Congo-Kinshasa, DR Congo, the DRC, the DROC, or the Congo, and formerly and also coloquially Zaire, is a country in Central Africa. It is, by area, the second largest country in Africa (after Algeria), and the 11th-largest in the world. With a population of around 92 million, the Democratic Republic of the Congo is the most populous officially Francophone country in the world. It is a member of the United Nations, Non-Aligned Movement, African Union, COMESA, and the East African Community. The capital and largest city is Kinshasa, which is also the world's most populous Francophone city."
+name = drc
+guiname = "Republik Demokratik Kongo"
+description = "Republik Demokratik Kongo, secara informal dikenal sebagai Kongo-Kinshasa, DR Kongo, DRC, DROC, atau Kongo, dan sebelumnya serta secara populer disebut Zaire, adalah sebuah negara di Afrika Tengah. Dari segi luas wilayah, negara ini adalah negara terbesar kedua di Afrika (setelah Aljazair), dan terbesar ke-11 di dunia. Dengan populasi sekitar 92 juta jiwa, Republik Demokratik Kongo adalah negara berbahasa Prancis resmi dengan jumlah penduduk terbanyak di dunia. Negara ini adalah anggota Perserikatan Bangsa-Bangsa, Gerakan Non-Blok, Uni Afrika, COMESA, dan Komunitas Afrika Timur. Ibu kota sekaligus kota terbesar adalah Kinshasa, yang juga merupakan kota berbahasa Prancis dengan populasi terbanyak di dunia."
 
-
-jobtitle = "President"
+jobtitle = "Presiden"
 
 [stats]
-National Anthem: = "Justice – Peace – Work"
-Population: = "92 million (2021)"
-Area: = "2,345,409 km2"
-Currency: = "Congolese franc (CDF)"
-GDP: = "$46 billion"
-GDP per capita: = "$501"
-Democracy Index: = "~2.76/10 (164th)"
-Biggest Industry: = "Agriculture Sector/Mining Sector"
-Capital (and largest city): = "Kinshasa"
-Driving side: =	"right"
-Calling code: = "+243"
+Lagu Kebangsaan: = "Keadilan – Perdamaian – Kerja"
+Populasi: = "92 juta (2021)"
+Luas Wilayah: = "2.345.409 km2"
+Mata Uang: = "Franc Kongo (CDF)"
+PDB: = "$46 miliar"
+PDB per kapita: = "$501"
+Indeks Demokrasi: = "~2,76/10 (peringkat 164)"
+Industri Terbesar: = "Sektor Pertanian/Sektor Pertambangan"
+Ibu Kota (dan kota terbesar): = "Kinshasa"
+Sisi Mengemudi: = "kanan"
+Kode Telepon: = "+243"

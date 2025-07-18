@@ -1,20 +1,20 @@
 [config]
-name  = hai
-guiname = "Republic of Haiti"
-description = "Haiti, officially the Republic of Haiti, and formerly known as Hayti, is a country located on the island of Hispaniola in the Greater Antilles archipelago of the Caribbean Sea, to the east of Cuba and Jamaica and south of The Bahamas and the Turks and Caicos Islands. It occupies the western three-eighths of the island which it shares with the Dominican Republic. To its south-west lies the small Navassa Island, which is claimed by Haiti but is disputed as a United States territory under federal administration. Haiti is 27,750 km2 (10,714 sq mi) in size, the third largest country in the Caribbean by area, and has an estimated population of 11.4 million, making it the most populous country in the Caribbean. The capital is Port-au-Prince."
+name = hai
+guiname = "Republik Haiti"
+description = "Haiti, secara resmi Republik Haiti, dan sebelumnya dikenal sebagai Hayti, adalah sebuah negara yang terletak di pulau Hispaniola dalam gugusan Kepulauan Antilles Besar di Laut Karibia, di sebelah timur Kuba dan Jamaika serta di selatan Bahama dan Kepulauan Turks dan Caicos. Haiti menempati tiga perdelapan bagian barat pulau yang dibagi dengan Republik Dominika. Di sebelah barat daya terdapat Pulau Navassa kecil, yang diklaim oleh Haiti namun dipersengketakan sebagai wilayah Amerika Serikat di bawah administrasi federal. Haiti memiliki luas 27.750 km2 (10.714 mil2), merupakan negara terbesar ketiga di Karibia berdasarkan luas wilayah, dan memiliki perkiraan populasi 11,4 juta jiwa, menjadikannya negara dengan populasi terbanyak di Karibia. Ibukotanya adalah Port-au-Prince."
 
-jobtitle = "President"
+jobtitle = "Presiden"
 
 [stats]
-Motto: = "Liberty, Equality, Fraternity"
-National Anthem: = "The Dessalines Song"
-Population: = "11,439,646 (2018 est)"
-Area: = "27,750 km2 (10,710 sq mi)"
-Currency: = "Gourde (G) (HTG)"
-GDP: = "$34.189 billion"
-GDP per capita: = "$2,962"
-Democracy Index: = "~3.48/10 (119th)"
-Biggest Industry: = "Agriculture/Tourism"
-Capital And Largest City: = "Port-au-Prince"
-Driving side: =	"right"
-Calling code: = "+509"
+Moto: = "Liberty, Equality, Fraternity"
+Lagu Kebangsaan: = "Lagu Dessalines"
+Populasi: = "11.439.646 (perkiraan 2018)"
+Luas Wilayah: = "27.750 km2 (10.710 mil2)"
+Mata Uang: = "Gourde (G) (HTG)"
+PDB: = "$34,189 miliar"
+PDB per kapita: = "$2.962"
+Indeks Demokrasi: = "~3,48/10 (peringkat 119)"
+Industri Terbesar: = "Pertanian/Pariwisata"
+Ibu Kota dan Kota Terbesar: = "Port-au-Prince"
+Sisi Mengemudi: = "kanan"
+Kode Telepon: = "+509"

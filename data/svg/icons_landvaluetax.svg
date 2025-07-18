@@ -1,27 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 25.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1"
-	 id="svg7" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:svg="http://www.w3.org/2000/svg"
-	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 134 197"
-	 style="enable-background:new 0 0 134 197;" xml:space="preserve">
+<!-- Generator: Adobe Illustrator 28.2.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
 <style type="text/css">
 	.st0{display:none;}
 	.st1{fill:#FFFFFF;}
-	.st2{display:none;fill:#FFFFFF;}
-	.st3{font-family:'MyriadPro-Regular';}
-	.st4{font-size:92px;}
-	.st5{font-size:74.4209px;}
+	.st2{font-family:'MyriadPro-Regular';}
+	.st3{font-size:253.3241px;}
 </style>
-<sodipodi:namedview  bordercolor="#666666" borderopacity="1" gridtolerance="10" guidetolerance="10" id="namedview9" inkscape:current-layer="svg7" inkscape:cx="42.504253" inkscape:cy="98" inkscape:pageopacity="0" inkscape:pageshadow="2" inkscape:window-height="480" inkscape:window-width="640" inkscape:zoom="6.4296875" objecttolerance="10" pagecolor="#ffffff" showgrid="false">
-	</sodipodi:namedview>
-<g class="st0">
-	<path class="st1" d="M0.6,67.2h8.1v55.9h26.8v6.8H0.6V67.2z"/>
-	<path class="st1" d="M54.6,110.1l-6.5,19.7h-8.4L61,67.2h9.8l21.4,62.7h-8.6l-6.7-19.7L54.6,110.1L54.6,110.1z M75.1,103.8l-6.1-18
-		c-1.4-4.1-2.3-7.8-3.3-11.4h-0.2c-0.9,3.7-2,7.5-3.2,11.3l-6.1,18.1H75.1z"/>
-	<path class="st1" d="M106.1,74H87v-6.9h46.4V74h-19.2v55.8H106L106.1,74L106.1,74z"/>
+<g id="Layer_1" class="st0">
 </g>
-<text transform="matrix(1 0 0 1 33.3057 129.9003)" class="st2 st3 st4">V</text>
-<sodipodi:namedview  bordercolor="#666666" borderopacity="1" gridtolerance="10" guidetolerance="10" id="namedview9" inkscape:current-layer="svg7" inkscape:cx="42.504253" inkscape:cy="98" inkscape:pageopacity="0" inkscape:pageshadow="2" inkscape:window-height="480" inkscape:window-width="640" inkscape:zoom="6.4296875" objecttolerance="10" pagecolor="#ffffff" showgrid="false">
-	</sodipodi:namedview>
-<text transform="matrix(1 0 0 1 11.1113 120.3425)" class="st1 st3 st5">LVT</text>
+<g id="Layer_2">
+	<path class="st1" d="M256.44,59.51L0,254.25c0,0,29.76,32.38,31.07,32.38c1.31,0,225.37-164.1,225.37-164.1l224.49,164.1
+		L512,258.19L256.44,59.51z"/>
+	<polygon class="st1" points="432.44,251.19 432.44,452.49 466.49,452.49 469.63,278.37 	"/>
+	<polygon class="st1" points="81.15,247.66 81.15,448.96 47.11,448.96 43.96,274.85 	"/>
+	<text transform="matrix(1 0 0 1 159.2718 412.2509)" class="st1 st2 st3">%</text>
+	<path class="st1" d="M81.83,192.11c0,0-1.09-87.74,0-87.74s51.86,0,51.86,0v48.36L81.83,192.11z"/>
+</g>
 </svg>

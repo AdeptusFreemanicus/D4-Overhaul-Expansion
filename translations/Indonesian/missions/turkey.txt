@@ -1,20 +1,20 @@
 [config]
-name  = turkey
-guiname = "Republic of Turkey"
-description = "Turkey, officially the Republic of Turkey, is a transcontinental country located mainly on the Anatolian Peninsula in Western Asia, with a smaller portion on the Balkan Peninsula in Southeastern Europe. Turkey is bordered on its northwest by Greece and Bulgaria; north by the Black Sea; northeast by Georgia; east by Armenia, Azerbaijan, and Iran; southeast by Iraq; south by Syria and the Mediterranean Sea; and west by the Aegean Sea. Approximately 70 to 80 percent of the country's citizens are Turkish. Istanbul, which straddles Europe and Asia, is the country's largest city, while Ankara is the capital."
+name = turkey
+guiname = "Republik Turki"
+description = "Turki, secara resmi Republik Turki, adalah sebuah negara transkontinental yang terletak terutama di Semenanjung Anatolia di Asia Barat, dengan sebagian kecil di Semenanjung Balkan di Eropa Tenggara. Turki berbatasan di barat laut dengan Yunani dan Bulgaria; di utara dengan Laut Hitam; di timur laut dengan Georgia; di timur dengan Armenia, Azerbaijan, dan Iran; di tenggara dengan Irak; di selatan dengan Suriah dan Laut Mediterania; serta di barat dengan Laut Aegea. Sekitar 70 hingga 80 persen warga negara ini adalah etnis Turki. Istanbul, yang membentang di dua benua, adalah kota terbesar Turki, sedangkan Ankara adalah ibu kotanya."
 
-jobtitle = "President"
+jobtitle = "Presiden"
 
 [stats]
-National Anthem: = "The Independence March"
-Population: = "83 million (2019)"
-Area: = "783,356 km2 (302,455 sq mi)"
-Currency: = "Turkish lira (₺) (TRY)"
-GDP: = "$760.940 billion (₺5,946,686,237,230.67 TRY)"
-GDP per capita: = "$30,644 (₺239,469.87 TRY)"
-Democracy Index: = "~4.09/10 (110th)"
-Biggest Industry: = "Agriculture"
-Capital: = "Ankara"
-Largest City: = "Istanbul"
-Driving side: =	"right"
-Calling code: = "+90"
+Lagu Kebangsaan: = "Mars Kemerdekaan"
+Populasi: = "83 juta (2019)"
+Luas Wilayah: = "783.356 km2 (302.455 mil2)"
+Mata Uang: = "Lira Turki (₺) (TRY)"
+PDB: = "$760,940 miliar (₺5.946.686.237.230,67 TRY)"
+PDB per kapita: = "$30.644 (₺239.469,87 TRY)"
+Indeks Demokrasi: = "~4,09/10 (peringkat 110)"
+Industri Terbesar: = "Pertanian"
+Ibu Kota: = "Ankara"
+Kota Terbesar: = "Istanbul"
+Sisi Mengemudi: = "kanan"
+Kode Telepon: = "+90"

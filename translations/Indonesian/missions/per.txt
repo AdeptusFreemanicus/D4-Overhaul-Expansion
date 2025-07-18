@@ -1,19 +1,19 @@
 [config]
-name  = per
-guiname = "Republic of Peru"
-description = "Peru, officially the Republic of Peru, is a country in western South America. It is bordered in the north by Ecuador and Colombia, in the east by Brazil, in the southeast by Bolivia, in the south by Chile, and in the south and west by the Pacific Ocean. Peru is a megadiverse country with habitats ranging from the arid plains of the Pacific coastal region in the west to the peaks of the Andes mountains extending from the north to the southeast of the country to the tropical Amazon Basin rainforest in the east with the Amazon river. At 1.28 million km2 (0.5 million mi2), Peru is the 19th largest country in the world, and the third largest in South America."
+name = per
+guiname = "Republik Peru"
+description = "Peru, secara resmi Republik Peru, adalah sebuah negara di Amerika Selatan bagian barat. Negara ini berbatasan di utara dengan Ekuador dan Kolombia, di timur dengan Brasil, di tenggara dengan Bolivia, di selatan dengan Chile, serta di selatan dan barat dengan Samudra Pasifik. Peru adalah negara megadiversitas dengan habitat yang bervariasi mulai dari dataran kering di wilayah pesisir Pasifik di barat hingga puncak Pegunungan Andes yang membentang dari utara hingga tenggara negara, serta hutan hujan tropis Cekungan Amazon di timur dengan Sungai Amazon. Dengan luas 1.285.216 km2 (496.225 mil2), Peru adalah negara terbesar ke-19 di dunia dan ketiga terbesar di Amerika Selatan."
 
-jobtitle = "President"
+jobtitle = "Presiden"
 
 [stats]
-Motto: = "Firm and Happy for the Union"
-National Anthem: = "National Anthem of Peru"
-Population: = "32.8 million people (2020)"
-Area: = "1,285,216 km2 (496,225 sq mi)"
-Currency: = "Sol (PEN)"
-GDP: = "$195.761 billion"
-GDP per capita: = "$5,845"
-Democracy Index: = "6.53/10 (57th)"
-Biggest Industry: = "Mining Industry"
-Capital And Largest City: = "Lima"
-Driving side: =	"right"
+Moto: = "Kokoh dan Bahagia Untuk Persatuan"
+Lagu Kebangsaan: = "Lagu Kebangsaan Peru"
+Populasi: = "32,8 juta jiwa (2020)"
+Luas Wilayah: = "1.285.216 km2 (496.225 mil2)"
+Mata Uang: = "Sol (PEN)"
+PDB: = "$195,761 miliar"
+PDB per kapita: = "$5.845"
+Indeks Demokrasi: = "6,53/10 (peringkat 57)"
+Industri Terbesar: = "Industri Pertambangan"
+Ibu Kota dan Kota Terbesar: = "Lima"
+Sisi Mengemudi: = "kanan"

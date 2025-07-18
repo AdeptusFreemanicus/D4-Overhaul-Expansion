@@ -1,19 +1,19 @@
 [config]
-name  = mol
-guiname = "Republic of Moldova"
-description = "Moldova, officially the Republic of Moldova is a country in Eastern Europe. It is bordered by Romania to the west and Ukraine to the north, east, and south. Ukraine and Moldova reached an agreement in 2005 ensuring Moldova's access to the Black Sea and ending its landlocked status. The unrecognised breakaway region of Transnistria lies across the Dniester on the country's eastern border with Ukraine. The capital and largest city is Chișinău."
+name = mol
+guiname = "Republik Moldova"
+description = "Moldova, secara resmi Republik Moldova, adalah sebuah negara di Eropa Timur. Negara ini berbatasan dengan Rumania di barat dan Ukraina di utara, timur, serta selatan. Ukraina dan Moldova mencapai kesepakatan pada tahun 2005 yang menjamin akses Moldova ke Laut Hitam dan mengakhiri statusnya sebagai negara terkurung daratan. Wilayah pemisah Transnistria yang tidak diakui secara internasional terletak di seberang Sungai Dniester, di perbatasan timur negara ini dengan Ukraina. Ibu kota sekaligus kota terbesar adalah Chișinău."
 
-jobtitle = "President"
+jobtitle = "Presiden"
 
 [stats]
-National Anthem: = "Our language"
-Population: = "2,597,100 million people (2021 est)"
-Area: = "33,843.5 km2 (13,067.0 sq mi)" 
-Currency: = "Moldovan leu (MDL)"
-GDP: = "$36.886 billion"
-GDP per capita: = "$14,257"
-Democracy Index: = "~6.10/10 (69th)"
-Biggest Industry: = "Food Processing"
-Capital and Largest city: = "Chișinău"
-Driving Side: =	"right"
-Calling Code: = "+373"
+Lagu Kebangsaan: = "Bahasa Kami"
+Populasi: = "2.597.100 jiwa (perkiraan 2021)"
+Luas Wilayah: = "33.843,5 km2 (13.067,0 mil2)"
+Mata Uang: = "Leu Moldova (MDL)"
+PDB: = "$36,886 miliar"
+PDB per kapita: = "$14.257"
+Indeks Demokrasi: = "~6,10/10 (peringkat 69)"
+Industri Terbesar: = "Pengolahan Makanan"
+Ibu Kota dan Kota Terbesar: = "Chișinău"
+Sisi Mengemudi: = "kanan"
+Kode Telepon: = "+373"

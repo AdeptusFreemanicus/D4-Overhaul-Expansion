@@ -1,17 +1,17 @@
 [config]
-name  = wal
+name = wal
 guiname = "Wales"
-description = "Wales is a country that is part of the United Kingdom. It is bordered by England to the east, the Irish Sea to the north and west, and the Bristol Channel to the south. It had a population in 2011 of 3,063,456 and has a total area of 20,779 km2 (8,023 sq mi). Wales has over 1,680 miles (2,700 km) of coastline and is largely mountainous with its higher peaks in the north and central areas, including Snowdon (Yr Wyddfa), its highest summit. The country lies within the north temperate zone and has a changeable, maritime climate. The capital and largest city is Cardiff."
+description = "Wales adalah sebuah negara yang merupakan bagian dari Britania Raya. Ia berbatasan dengan Inggris di sebelah timur, Laut Irlandia di utara dan barat, serta Kanal Bristol di selatan. Pada tahun 2011, Wales memiliki populasi sebanyak 3.063.456 jiwa dan luas total 20.779 km² (8.023 mil²). Wales memiliki garis pantai sepanjang lebih dari 2.700 km dan sebagian besar wilayahnya bergunung-gunung, terutama di bagian utara dan tengah, termasuk Gunung Snowdon (Yr Wyddfa), puncak tertingginya. Negara ini berada dalam zona beriklim sedang di utara dengan iklim maritim yang berubah-ubah. Ibu kota dan kota terbesarnya adalah Cardiff."
 
-jobtitle = "Monarch"
+jobtitle = "Monarki"
 
 [stats]
-Population: = "3,153,000 million (2019 est)"
-Area: = "20,779 km2 (8,023 sq mi)	"
-Currency: = "Pound sterling (GBP; £)"
-GVA: = "£75 billion"
-GVA per capita: = "£23,900"
-Largest Industry: = "Sheeeep"
-Capital and largest city: = "Cardiff"
-Driver side: = "left"
-Phone prefix: = "+44"
+Populasi: = "3.153.000 jiwa (perkiraan 2019)"
+Luas Wilayah: = "20.779 km² (8.023 mil²)"
+Mata Uang: = "Pound sterling (GBP; £)"
+GVA (Nilai Tambah Bruto): = "£75 miliar"
+GVA per kapita: = "£23.900"
+Industri Terbesar: = "Domba 🐑"
+Ibu Kota dan Kota Terbesar: = "Cardiff"
+Sisi Mengemudi: = "kiri"
+Kode Telepon: = "+44"

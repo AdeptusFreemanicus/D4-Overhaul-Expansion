@@ -1,19 +1,19 @@
 [config]
-name  = slo
-guiname = "Slovak Republic"
-description = "Slovakia, officially the Slovak Republic, is a landlocked country in Central Europe. It is bordered by Poland to the north, Ukraine to the east, Hungary to the south, Austria to the west, and the Czech Republic to the northwest. Slovakia's mostly mountainous territory spans about 49,000 square kilometres (19,000 sq mi), hosting a population exceeding 5.4 million. The capital and largest city is Bratislava, while the second largest city is Košice.."
+name = slo
+guiname = "Republik Slovakia"
+description = "Slovakia, secara resmi Republik Slovakia, adalah negara yang terkurung daratan di Eropa Tengah. Negara ini berbatasan dengan Polandia di utara, Ukraina di timur, Hungaria di selatan, Austria di barat, dan Republik Ceko di barat laut. Wilayah Slovakia yang sebagian besar bergunung-gunung meliputi sekitar 49.000 kilometer persegi (19.000 mil persegi), dengan populasi lebih dari 5,4 juta jiwa. Ibukota dan kota terbesar adalah Bratislava, sedangkan kota terbesar kedua adalah Košice."
 
-jobtitle = "President"
+jobtitle = "Presiden"
 
 [stats]
-National Anthem: = "Lightning over the Tatras"
-Population: = "5.4 million (2022)"
-Area: = "49,035 km2 (18,933 sq mi)"
-Currency: = "Euro (€) (EUR)"
-GDP: = "$229 billion"
-GDP per capita: = "$42,228"
-Democracy Index: = "7.07/10 (43rd)"
-Biggest Industry: = "Service Industry"
-Capital And Largest City: = "Bratislava"
-Driving side: =	"right"
-Calling code: = "+421"
+Lagu Kebangsaan: = "Kilatan Petir di atas Pegunungan Tatras"
+Populasi: = "5,4 juta (2022)"
+Luas Wilayah: = "49.035 km2 (18.933 mil2)"
+Mata Uang: = "Euro (€) (EUR)"
+PDB: = "$229 miliar"
+PDB per kapita: = "$42.228"
+Indeks Demokrasi: = "7,07/10 (peringkat 43)"
+Industri Terbesar: = "Industri Jasa"
+Ibukota dan Kota Terbesar: = "Bratislava"
+Sisi Mengemudi: = "kanan"
+Kode Telepon: = "+421"

@@ -1,0 +1,18 @@
+[config]
+name  = bul
+guiname = "Republic of Bulgaria"
+description = "Bulgaria, officially the Republic of Bulgaria, is a country in Southeast Europe. It is situated on the eastern portion of the Balkans directly south of the Danube river and west of the Black Sea. Bulgaria is bordered by Greece and Turkey to the south, Serbia and North Macedonia to the west, and Romania to the north. It covers a territory of 110,994 square kilometres (42,855 sq mi) and is the tenth largest within the European Union and the sixteenth-largest country in Europe by area. Sofia is the nation's capital and largest city; other major cities include Burgas, Plovdiv, and Varna."
+
+jobtitle = "President"
+
+[stats]
+Completeness: = "2/5"
+Population: = "6,437,360 million (2024 est)"
+Area: = "110,993.6 km2 (42,854.9 sq mi)"
+Currency: = "Tögrög (MNT)"
+GDP: = "$264 billion"
+GDP per capita: = "$41,901"
+Largest Industry: = "Services Sector"
+Capital and largest city: = "Ulaanbaatar"
+Driving side: = "right"
+Phone prefix: = "+359"

@@ -1,18 +1,18 @@
 [config]
-name  = israel
-guiname = "State of Israel"
-description = "Israel, officially known as the State of Israel, is a country in Western Asia, located on the southeastern shore of the Mediterranean Sea and the northern shore of the Red Sea. It has land borders with Lebanon to the north, Syria to the northeast, Jordan on the east, the Palestinian territories of the West Bank and the Gaza Strip to the east and west, respectively, and Egypt to the southwest. Israel's economic and technological center is Tel Aviv, while its seat of government and proclaimed capital is Jerusalem."
+name = israel
+guiname = "Negara Israel"
+description = "Israel, secara resmi dikenal sebagai Negara Israel, adalah sebuah negara di Asia Barat, terletak di pantai tenggara Laut Mediterania dan pantai utara Laut Merah. Israel berbatasan darat dengan Lebanon di utara, Suriah di timur laut, Yordania di timur, wilayah Palestina yaitu Tepi Barat dan Jalur Gaza di timur dan barat secara berurutan, serta Mesir di barat daya. Pusat ekonomi dan teknologi Israel adalah Tel Aviv, sementara pusat pemerintahan dan ibu kota yang diumumkan adalah Yerusalem."
 
-jobtitle = "President"
+jobtitle = "Presiden"
 
 [stats]
-National Anthem: = "The Hope"
-Population: = "9.3 million people (2021)"
-Area: = "20,770–22,072 km2 (8,019–8,522 sq mi)"
-Currency: = "New shekel (₪‎) (ILS)"
-GDP: = "$410.501 billion"
-GDP per capita: = "$44,474"
-Democracy Index: = "7.84/10 (27th)"
-Biggest Industry: = "Technology"
-Capital And Largest City: = "Jerusalem"
-Driving side: =	"right"
+Lagu Kebangsaan: = "Harapan"
+Populasi: = "9,3 juta jiwa (2021)"
+Luas Wilayah: = "20.770–22.072 km2 (8.019–8.522 mil2)"
+Mata Uang: = "Shekel Baru (₪‎) (ILS)"
+PDB: = "$410,501 miliar"
+PDB per kapita: = "$44.474"
+Indeks Demokrasi: = "7,84/10 (peringkat 27)"
+Industri Terbesar: = "Teknologi"
+Ibu Kota dan Kota Terbesar: = "Yerusalem"
+Sisi Mengemudi: = "kanan"

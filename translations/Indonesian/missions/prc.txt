@@ -1,19 +1,20 @@
 [config]
-name  = prc
-guiname = "People's Republic of China"
-description = "China, officially the People's Republic of China, is a country in East Asia. It is the world's most populous country, with a population of around 1.4 billion in 2019. Covering approximately 9.6 million square kilometers (3.7 million mi2), it is the world's third or fourth-largest country by area. As a one-party state led by the Chinese Communist Party (CCP), it exercises jurisdiction over 22 provinces, five autonomous regions, four direct-controlled municipalities Beijing, Tianjin, Shanghai, and Chongqing, and the special administrative regions of Hong Kong and Macau."
+name = prc
+guiname = "Republik Rakyat Tiongkok"
+description = "Tiongkok, secara resmi Republik Rakyat Tiongkok, adalah negara di Asia Timur. Negara ini merupakan negara terpadat di dunia dengan populasi sekitar 1,4 miliar pada tahun 2019. Dengan luas sekitar 9,6 juta kilometer persegi (3,7 juta mil persegi), Tiongkok adalah negara ketiga atau keempat terbesar di dunia berdasarkan wilayah. Sebagai negara satu partai yang dipimpin oleh Partai Komunis Tiongkok (PKT), Tiongkok menguasai yurisdiksi atas 22 provinsi, lima wilayah otonom, empat kota yang dikendalikan langsung (Beijing, Tianjin, Shanghai, dan Chongqing), serta wilayah administratif khusus Hong Kong dan Makau."
 
-jobtitle = "President"
+jobtitle = "Presiden"
 
 [stats]
-National Anthem: = "March of the Volunteers"
-Population: = "1.4 billion (2019)"
-Area: = "9,596,961 km2 (3,705,407 sq mi)"
-Currency: = "Renminbi ¥"
-GDP: = "$14.9 trillion (~¥2,279,745,824,694.17 CNY)"
-GDP per capita: = "$10,839 (~¥70,844.82 CNY)"
-Democracy Index: = "2.26/10 (153rd)"
-Biggest Industry: = "Manufacturing"
-Capital (and largest city): = "Beijing"
-Driving side: =	"right"
-Calling code: = "+86"
+Lagu Kebangsaan: = "Mars Relawan"
+Populasi: = "1,4 miliar (2019)"
+Luas Wilayah: = "9.596.961 km2 (3.705.407 mil persegi)"
+Mata Uang: = "Renminbi ¥"
+PDB: = "$14,9 triliun (¥2.279.745.824.694,17 CNY)"
+PDB per kapita: = "$10.839 (¥70.844,82 CNY)"
+Indeks Demokrasi: = "2,26/10 (peringkat 153)"
+Industri Terbesar: = "Manufaktur"
+Ibu Kota (dan kota terbesar): = "Beijing"
+Sisi Mengemudi: = "kanan"
+Kode Telepon: = "+86"
+

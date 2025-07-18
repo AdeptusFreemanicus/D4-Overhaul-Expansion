@@ -1,20 +1,21 @@
 [config]
-name  = mya
-guiname = "Union of Myanmar"
-description = "Myanmar, officially the Republic of the Union of Myanmar, also called Burma, is a country in Southeast Asia. It is the largest country in Mainland Southeast Asia, and has a population of about 54 million as of 2017. Myanmar is bordered by Bangladesh and India to its northwest, China to its northeast, Laos and Thailand to its east and southeast, and the Andaman Sea and the Bay of Bengal to its south and southwest. The country's capital city is Naypyidaw, and its largest city is Yangon (Rangoon)."
+name = mya
+guiname = "Serikat Myanmar"
+description = "Myanmar, secara resmi Republik Serikat Myanmar, juga disebut Burma, adalah negara di Asia Tenggara. Myanmar adalah negara terbesar di Asia Tenggara Daratan, dengan populasi sekitar 54 juta jiwa pada tahun 2017. Myanmar berbatasan dengan Bangladesh dan India di barat laut, Tiongkok di timur laut, Laos dan Thailand di timur dan tenggara, serta Laut Andaman dan Teluk Benggala di selatan dan barat daya. Ibu kota negara ini adalah Naypyidaw, dan kota terbesarnya adalah Yangon (Rangoon)."
 
-jobtitle = "President"
+jobtitle = "Presiden"
 
 [stats]
-National Anthem: = "Till the End of the World"
-Population: = "53,582,855 million people (2017)"
-Area: = "676,578 km2 (261,228 sq mi)" 
-Currency: = "Kyat (K) (MMK)"
-GDP: = "$243.420 billion"
-GDP per capita: = "$4,517"
-Democracy Index: = "~1.02/10 (166th)"
-Biggest Industry: = "Agriculture"
-Capital: = "Naypyidaw"
-Largest city: = "Yangon"
-Driving Side: =	"right"
-Calling Code: = "+95"
+Lagu Kebangsaan: = "Hingga Akhir Dunia"
+Populasi: = "53.582.855 jiwa (2017)"
+Luas Wilayah: = "676.578 km2 (261.228 mil2)"
+Mata Uang: = "Kyat (K) (MMK)"
+PDB: = "$243,420 miliar"
+PDB per kapita: = "$4.517"
+Indeks Demokrasi: = "~1,02/10 (peringkat 166)"
+Industri Terbesar: = "Pertanian"
+Ibu Kota: = "Naypyidaw"
+Kota Terbesar: = "Yangon"
+Sisi Mengemudi: = "kanan"
+Kode Telepon: = "+95"
+

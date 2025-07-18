@@ -1,19 +1,20 @@
 [config]
-name  = bnh
-guiname = "Bosnia and Herzegovina"
-description = "Bosnia and Herzegovina is a country in Southeast Europe, situated on the Balkan Peninsula. It borders Serbia to the east, Montenegro to the southeast, and Croatia to the north and southwest. In the south it has a 20 kilometres (12 miles) long coast on the Adriatic Sea, with the town of Neum being its only access to the sea. Bosnia has a moderate continental climate with hot summers and cold, snowy winters. In the central and eastern regions, the geography is mountainous, in the northwest it is moderately hilly, and in the northeast it is predominantly flat. Herzegovina, the smaller, southern region, has a Mediterranean climate and is mostly mountainous. Sarajevo is the capital and the largest city."
+name = bnh
+guiname = "Bosnia dan Herzegovina"
+description = "Bosnia dan Herzegovina adalah sebuah negara di Eropa Tenggara, terletak di Semenanjung Balkan. Negara ini berbatasan dengan Serbia di sebelah timur, Montenegro di tenggara, dan Kroasia di utara serta barat daya. Di bagian selatan, negara ini memiliki garis pantai sepanjang 20 kilometer (12 mil) di Laut Adriatik, dengan kota Neum menjadi satu-satunya akses ke laut. Bosnia memiliki iklim kontinental sedang dengan musim panas yang panas dan musim dingin yang dingin serta bersalju. Di wilayah tengah dan timur, geografinya berupa pegunungan, di barat laut berupa perbukitan sedang, dan di timur laut lebih didominasi dataran datar. Herzegovina, wilayah selatan yang lebih kecil, memiliki iklim Mediterania dan sebagian besar berupa pegunungan. Sarajevo adalah ibu kota dan kota terbesar."
 
-jobtitle = "President"
+jobtitle = "Presiden"
 
 [stats]
-National Anthem: = "National Anthem of Bosnia and Herzegovina (Very Original)"
-Population: = "3.4 million (2022)"
-Area: = "51,229 km2 (19,780 sq mi)"
-Currency: = "Convertible mark"
-GDP: = "$71 billion"
-GDP per capita: = "$20,734"
-Democracy Index: = "5.00/10 (94th)"
-Biggest Industry: = "Service Sector"
-Capital And Largest City: = "Sarajevo"
-Driving side: =	"right"
-Calling code: = "+387"
+Lagu Kebangsaan: = "Lagu Kebangsaan Bosnia dan Herzegovina (Sangat Asli)"
+Populasi: = "3,4 juta (2022)"
+Luas Wilayah: = "51.229 km2 (19.780 mil2)"
+Mata Uang: = "Mark Konvertibel"
+PDB: = "$71 miliar"
+PDB per kapita: = "$20.734"
+Indeks Demokrasi: = "5,00/10 (peringkat 94)"
+Industri Terbesar: = "Sektor Jasa"
+Ibu Kota dan Kota Terbesar: = "Sarajevo"
+Sisi Mengemudi: = "kanan"
+Kode Telepon: = "+387"
+

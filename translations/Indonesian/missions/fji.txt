@@ -1,20 +1,20 @@
 [config]
-name  = fji
-guiname = "Republic of Fiji"
-description = "Fiji, officially the Republic of Fiji, is an island country in Melanesia, part of Oceania in the South Pacific Ocean. It lies about 1,100 nautical miles (2,000 km; 1,300 mi) northeast of New Zealand. Fiji consists of an archipelago of more than 330 islands—of which about 110 are permanently inhabited—and more than 500 islets, amounting to a total land area of about 18,300 square kilometres (7,100 sq mi). The most outlying island group is Ono-i-Lau. About 87% of the total population of 883,483 live on the two major islands, Viti Levu and Vanua Levu. About three-quarters of Fijians live on Viti Levu's coasts: either in the capital city of Suva; or in smaller urban centres such as Nadi—where tourism is the major local industry; or in Lautoka, where the sugar-cane industry is dominant. The interior of Viti Levu is sparsely inhabited because of its terrain."
+name = fji
+guiname = "Republik Fiji"
+description = "Fiji, secara resmi Republik Fiji, adalah sebuah negara kepulauan di Melanesia, bagian dari Oseania di Samudra Pasifik Selatan. Terletak sekitar 1.100 mil laut (2.000 km; 1.300 mil) sebelah timur laut Selandia Baru. Fiji terdiri dari gugusan lebih dari 330 pulau—sekitar 110 di antaranya berpenghuni permanen—dan lebih dari 500 pulau kecil, dengan total luas daratan sekitar 18.300 kilometer persegi (7.100 mil persegi). Kelompok pulau terluar adalah Ono-i-Lau. Sekitar 87% dari total populasi 883.483 jiwa tinggal di dua pulau utama, Viti Levu dan Vanua Levu. Sekitar tiga perempat warga Fiji tinggal di pesisir Viti Levu: baik di ibu kota Suva; atau di pusat perkotaan kecil seperti Nadi—di mana pariwisata merupakan industri lokal utama; atau di Lautoka, tempat industri tebu mendominasi. Bagian dalam Viti Levu jarang dihuni karena kondisi medan."
 
-jobtitle = "President"
+jobtitle = "Presiden"
 
 [stats]
-Motto: = "Fear God and honour the Queen"
-National Anthem: = "God Bless Fiji"
-Population: = "926,276 (2018 est)"
-Area: = "18,274 km2 (7,056 sq mi)"
-Currency: = "Fijian dollar (FJD)"
-GDP: = "$9.112 billion"
-GDP per capita: = "$10,251"
-Democracy Index: = "~5.61/10 (84th)"
-Biggest Industry: = "Tourism"
-Capital And Largest City: = "Suva"
-Driving Side: =	"Left"
-Calling Code: = "+679"
+Moto: = "Takutlah kepada Tuhan dan hormatilah Ratu"
+Lagu Kebangsaan: = "Tuhan Memberkati Fiji"
+Populasi: = "926.276 (perkiraan 2018)"
+Luas Wilayah: = "18.274 km2 (7.056 mil2)"
+Mata Uang: = "Dolar Fiji (FJD)"
+PDB: = "$9,112 miliar"
+PDB per kapita: = "$10.251"
+Indeks Demokrasi: = "~5,61/10 (peringkat 84)"
+Industri Terbesar: = "Pariwisata"
+Ibu Kota dan Kota Terbesar: = "Suva"
+Sisi Mengemudi: = "kiri"
+Kode Telepon: = "+679"

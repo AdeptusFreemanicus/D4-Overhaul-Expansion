@@ -1,20 +1,20 @@
 [config]
-name  = cub
-guiname = "Republic of Cuba"
-description = "Cuba, officially the Republic of Cuba, is a country comprising the island of Cuba, as well as Isla de la Juventud and several minor archipelagos. Cuba is located where the northern Caribbean Sea, Gulf of Mexico, and Atlantic Ocean meet. It is east of the Yucatán Peninsula (Mexico), south of both the U.S. state of Florida and the Bahamas, west of Hispaniola, and north of both Jamaica and the Cayman Islands. Havana is the largest city and capital; other major cities include Santiago de Cuba and Camagüey. The official area of the Republic of Cuba is 109,884 km2 (42,426 sq mi) (without the territorial waters). The main island of Cuba is the largest island in Cuba and in the Caribbean, with an area of 104,556 km2 (40,369 sq mi). Cuba is the second-most populous country in the Caribbean after Haiti, with over 11 million inhabitants."
+name = cub
+guiname = "Republik Kuba"
+description = "Kuba, secara resmi Republik Kuba, adalah sebuah negara yang terdiri dari pulau Kuba, serta Isla de la Juventud dan beberapa kepulauan kecil lainnya. Kuba terletak di pertemuan Laut Karibia utara, Teluk Meksiko, dan Samudra Atlantik. Negara ini berada di sebelah timur Semenanjung Yucatán (Meksiko), selatan negara bagian Florida (AS) dan Bahama, barat Hispaniola, serta utara Jamaika dan Kepulauan Cayman. Havana adalah kota terbesar sekaligus ibu kota; kota besar lainnya termasuk Santiago de Cuba dan Camagüey. Luas resmi Republik Kuba adalah 109.884 km2 (42.426 mil2) (tidak termasuk perairan teritorial). Pulau utama Kuba adalah pulau terbesar di Kuba dan di Karibia, dengan luas 104.556 km2 (40.369 mil2). Kuba adalah negara terpadat kedua di Karibia setelah Haiti, dengan lebih dari 11 juta penduduk."
 
-jobtitle = "First Secretary"
+jobtitle = "Sekretaris Pertama"
 
 [stats]
-Motto: = "Homeland or Death, We Shall Overcome"
-National Anthem: = "The Bayamo Song"
-Population: = "11 million (2020)"
-Area: = "109,884 km2 (42,426 sq mi)"
-Currency: = "Cuban peso (CUP)"
-GDP: = "$105.865 billion"
-GDP per capita: = "$22,237"
-Democracy Index: = "~7.51/10 (36th)"
-Biggest Industry: = "Agriculture"
-Capital And Largest City: = "Havana"
-Driving side: =	"right"
-Calling code: = "+53"
+Moto: = "Tanah Air atau Mati, Kita Akan Menang"
+Lagu Kebangsaan: = "Lagu Bayamo"
+Populasi: = "11 juta (2020)"
+Luas Wilayah: = "109.884 km2 (42.426 mil2)"
+Mata Uang: = "Peso Kuba (CUP)"
+PDB: = "$105,865 miliar"
+PDB per kapita: = "$22.237"
+Indeks Demokrasi: = "~7,51/10 (peringkat 36)"
+Industri Terbesar: = "Pertanian"
+Ibu Kota dan Kota Terbesar: = "Havana"
+Sisi Mengemudi: = "kanan"
+Kode Telepon: = "+53"

@@ -1,19 +1,19 @@
 [config]
-name  = cz
-guiname = "Czech Republic"
-description = "The Czech Republic, also known as Czechia, is a landlocked country in Central Europe. Historically known as Bohemia, it is bordered by Austria to the south, Germany to the west, Poland to the northeast, and Slovakia to the southeast. The Czech Republic has a hilly landscape that covers an area of 78,871 square kilometers (30,452 sq mi) with a mostly temperate continental and oceanic climate. The capital and largest city is Prague; other major cities and urban areas include Brno, Ostrava, Plzeň and Liberec."
+name = cz
+guiname = "Republik Ceko"
+description = "Republik Ceko, juga dikenal sebagai Czechia, adalah negara yang terkurung daratan di Eropa Tengah. Secara historis dikenal sebagai Bohemia, negara ini berbatasan dengan Austria di selatan, Jerman di barat, Polandia di timur laut, dan Slovakia di tenggara. Republik Ceko memiliki lanskap berbukit yang mencakup wilayah seluas 78.871 kilometer persegi (30.452 mil persegi) dengan iklim kontinental sedang dan laut yang dominan. Ibukota sekaligus kota terbesar adalah Praha; kota dan daerah perkotaan utama lainnya termasuk Brno, Ostrava, Plzeň, dan Liberec."
 
-jobtitle = "President"
+jobtitle = "Presiden"
 
 [stats]
-National Anthem: = "Where My Home is"
-Population: = "10.5 million (2021)"
-Area: = "78,871 km2 (30,452 sq mi)"
-Currency: = "Czech koruna (CZK)"
-GDP: = "$397 billion (~11,180,000,000,000 CZK)"
-GDP per capita: = "$49,025 (~1,118,000 CZK)"
-Democracy Index: = "~7.97/10 (25st)"
-Biggest Industry: = "Manufacturing"
-Capital And Largest City: = "Prague"
-Driving side: =	"right"
-Calling code: = "+420 (Based)"
+Lagu Kebangsaan: = "Di Mana Rumahku"
+Populasi: = "10,5 juta (2021)"
+Luas Wilayah: = "78.871 km2 (30.452 mil2)"
+Mata Uang: = "Koruna Ceko (CZK)"
+PDB: = "$397 miliar (~11.180.000.000.000 CZK)"
+PDB per kapita: = "$49.025 (~1.118.000 CZK)"
+Indeks Demokrasi: = "~7,97/10 (peringkat 25)"
+Industri Terbesar: = "Manufaktur"
+Ibu Kota dan Kota Terbesar: = "Praha"
+Sisi Mengemudi: = "kanan"
+Kode Telepon: = "+420 (Dasar)"

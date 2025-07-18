@@ -133,6 +133,7 @@ WorkSafetyLaw = 0.6
 
 interest_rate= 0.05
 un_nation_status= 0.8
+sharia= 0.7
 
 
 _prereq_hurricane = 1

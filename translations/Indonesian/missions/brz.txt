@@ -1,21 +1,21 @@
 [config]
-name  = brz
-guiname = "Federative Republic of Brazil"
-description = "Brazil, officially the Federative Republic of Brazil, is the largest country in both South America and Latin America. At 8.5 million square kilometers (3.2 million square miles) and with over 211 million people, Brazil is the world's fifth-largest country by area and the sixth most populous. Its capital is Brasília, and its most populous city is São Paulo. The federation is composed of the union of the 26 states and the Federal District. It is the largest country to have Portuguese as an official language and the only one in the Americas; it is also one of the most multicultural and ethnically diverse nations, due to over a century of mass immigration from around the world; as well as the most populous Roman Catholic-majority country."
+name = brz
+guiname = "Republik Federatif Brasil"
+description = "Brasil, secara resmi Republik Federatif Brasil, adalah negara terbesar di Amerika Selatan dan Amerika Latin. Dengan luas 8,5 juta kilometer persegi (3,2 juta mil persegi) dan lebih dari 211 juta penduduk, Brasil adalah negara terbesar kelima di dunia berdasarkan luas wilayah dan negara keenam dengan jumlah penduduk terbanyak. Ibukotanya adalah Brasília, dan kota terpadatnya adalah São Paulo. Federasi ini terdiri dari gabungan 26 negara bagian dan Distrik Federal. Brasil adalah negara terbesar yang menggunakan bahasa Portugis sebagai bahasa resmi dan satu-satunya di Amerika; juga merupakan salah satu negara dengan keberagaman budaya dan etnis terbesar, karena lebih dari satu abad imigrasi massal dari seluruh dunia; serta negara dengan mayoritas Katolik Roma paling padat penduduknya."
 
-jobtitle = "President"
+jobtitle = "Presiden"
 
 [stats]
-Motto: = "Order and Progress"
-National Anthem: = "Brazilian National Anthem"
-Population: = "210 million (2019)"
-Area: = "8,515,767 km2 (3,287,956 sq mi)"
-Currency: = "Real (R$) (BRL)"
-GDP: = "$3.078 trillion (~R$15,516,802,336,500.00 BRL )"
-GDP per capita: = "$6,450 (R$33,361.13 BRL )"
-Democracy Index: = "~6.86/10 (52nd)"
-Biggest Industry: = "Manufacturing Automobiles"
-Capital: = "Brasília"
-Largest City: = "São Paulo"
-Driving side: =	"right"
-Calling code: = "+55"
+Moto: = "Ordem e Progresso"
+Lagu Kebangsaan: = "Lagu Kebangsaan Brasil"
+Populasi: = "210 juta (2019)"
+Luas Wilayah: = "8.515.767 km2 (3.287.956 mil2)"
+Mata Uang: = "Real (R$) (BRL)"
+PDB: = "$3,078 triliun (~R$15.516.802.336.500,00 BRL)"
+PDB per kapita: = "$6.450 (R$33.361,13 BRL)"
+Indeks Demokrasi: = "~6,86/10 (peringkat 52)"
+Industri Terbesar: = "Manufaktur Mobil"
+Ibu Kota: = "Brasília"
+Kota Terbesar: = "São Paulo"
+Sisi Mengemudi: = "kanan"
+Kode Telepon: = "+55"

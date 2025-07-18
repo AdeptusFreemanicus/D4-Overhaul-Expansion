@@ -1,0 +1,149 @@
+[config]
+currency = "ISK"
+population = 2897
+economic_cycle_start = 0.25
+min_income = 0
+max_income = 120000
+name  = ice
+names_file = "data/names/germannames.txt"
+flag = "flag_ice.png"
+map = "map_ice.svg"
+GUID = 11
+fx_rate_to_pound = 1.0
+apathy = 0.61
+starting_debt = 22000
+min_gdp = 140000 
+max_gdp = 450000
+wealth_mod = 2.0
+minor_parties = 3
+difficulty = 2
+
+
+[policies]
+AbortionLaw = 0.75
+AdultEducationSubsidies = 0.55
+AlcoholAwarenessCampaign = 1.0
+AgricultureSubsidies = 0.7
+AirlineTax = 0.1
+AlcoholLaw = 0.25
+AlcoholTax = 1
+ArmedPolice = 0
+ArtsSubsidies = 0.75
+BorderControls = 0.35
+BusLanes = 0.5
+BusSubsidies = 0.25
+CarbonTax = 0.27
+CarEmmissionsLimits = 0.1
+CCTVCameras = 0.4
+CharityTaxRelief = 0.25
+ChildBenefit = 0.62
+CitizenshipTests = 0.65
+CommunityPolicing = 0.8
+CompulsoryForeignLanguageClasses = 1.0
+CompulsoryFoodLabelling = 0.7
+CompulsorySchoolSports = 1
+CorporationTax = 0.22
+CyclingCampaign = 0.8
+DiplomaticService = 0.97
+DisabilityBenefit = 0.48
+DrugEnforcement = 0.25
+DrugTreatment = 0.25
+EcoHomeRegulations = 0.75
+ElectricCarsInitiative = 0.24
+ExecutiveTermLength = 0.5
+ExecutiveTermLimit = 0.4
+FamilyPlanning = 0.5
+FoodStandards = 1
+ForeignAid = 0.17
+GameHunting = 0.85
+GayMarriage = 0.95
+GenderDiscriminationAct = 0.95
+GenderTransition = 0.75
+HandgunLaws = 0.78
+HealthyEatingCampaign = 0.85
+IncomeTax = 0.23
+InheritanceTax = 0.12
+IntellectualPropertyRights = 0.97
+IntelligenceServices = 0.55
+JudiciaryIndependence = 0.95
+JuryTrial = 0.6
+LabourLaws = 0.60
+LegalAid = 0.65
+LegaliseProstitution = 0.25
+LimitAutomatedTrading = 0.2
+MarriedTaxAllowance = 0.1
+MaternityLeave = 1
+MicrogenerationGrants = 0.25
+MilitarySpending = 0.1
+MinimumWage = 0.55
+Narcotics = 0.05
+NuclearFission = 0.2
+OilDrillingSubsidy = 0.35
+PayrollTax = 0.1
+PetrolTax = 0.27
+PhoneTapping = 0.15
+PoliceForce = 0.3
+PollutionControls = 0.45
+PressFreedom = 0.95
+PrisonerTagging = 0.65
+PrisonerVoting = 1.0
+PrisonRegime = 0.3
+Prisons = 0.65
+PropertyTax = 0.34
+QuantitativeEasing = 0.44
+RaceDiscriminationAct = 0.8
+RareEarthRefinement = 0.05
+Recycling = 1
+Reforestation = 0.42
+RentControls = 0.1
+RetirementAge = 0.33
+RightToPrivacy = 0.5
+RoadBuilding = 0.42
+SalesTax = 0.24
+SchoolBuses = 0.75
+ScienceFunding = 0.3
+SelectiveSchooling = 0.6
+SmartMeterProgram = 0.25
+SocialCare = 0.7
+StateBroadcaster = 0.25
+StateEnergy = 0.5
+StateHealthService = 0.7
+StatePensions = 0.65
+StatePostService = 0.8
+StateSchools = 0.5
+StateWater  = 0.67
+StemCells = 0.2
+Tasers = 0.15
+TechnologyGrants = 0.28
+TobaccoTax = 0.51
+TourismAdCampaign = 0.45
+UnemployedBenefit = 0.55
+UniversityGrants = 0.25
+WorkSafetyLaw = 0.67
+
+interest_rate= 0.02
+landvaluetax= 0.05
+un_nation_status= 0.8
+
+_prereq_has_coast = 1
+_prereq_mining_industry = 1
+_prereq_deadly_animals = 1
+_prereq_royal_family = 1
+_prereq_land_border = 1
+_prereq_poachers = 1
+_prereq_indigenous = 1
+_prereq_sovereign_currency = 1
+_prereq_nato = 1
+
+
+[options]
+MULTIPLEPARTIES
+
+
+
+
+
+
+
+
+

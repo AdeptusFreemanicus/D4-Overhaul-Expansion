@@ -1,18 +1,19 @@
 [config]
-name  = por
-guiname = "Portuguese Republic"
-description = "Portugal, officially the Portuguese Republic, is a country located on the Iberian Peninsula in southwestern Europe. It is the westernmost sovereign state of continental Europe, bordered to the west and south by the Atlantic Ocean and to the north and east by Spain, the only country to have a land border with Portugal. The territory of Portugal also includes the Atlantic archipelagos of the Azores and Madeira, both autonomous regions with their own regional governments. The official and national language is Portuguese. Lisbon is the capital and the largest city "
-jobtitle = "President"
+name = por
+guiname = "Republik Portugal"
+description = "Portugal, secara resmi Republik Portugal, adalah sebuah negara yang terletak di Semenanjung Iberia di Eropa barat daya. Ini adalah negara berdaulat paling barat di Eropa daratan, berbatasan di barat dan selatan dengan Samudra Atlantik dan di utara serta timur dengan Spanyol, satu-satunya negara yang memiliki perbatasan darat dengan Portugal. Wilayah Portugal juga mencakup kepulauan Atlantik Azores dan Madeira, keduanya merupakan wilayah otonom dengan pemerintahan regional sendiri. Bahasa resmi dan nasional adalah bahasa Portugis. Lisbon adalah ibu kota dan kota terbesar."
+
+jobtitle = "Presiden"
 
 [stats]
-National anthem: = "The Portuguese song"
-Population: = "10.3 million (2021)"
-Area: = "92,212 km2 (35,603 square miles)"
-Currency: = "Euro (€) (EUR)"
-GDP: = "$ 370.5 billion"
-GDP per capita: = "$ 36,079"
-Democracy index: = "~ 7.90 / 10 (26 °)"
-Largest Industry: = "Export and Trade"
-Capital and largest city: = "Lisbon"
-Driver side: = "Right"
-Phone prefix: = "+351"
+Lagu Kebangsaan: = "Lagu Portugis"
+Populasi: = "10,3 juta (2021)"
+Luas Wilayah: = "92.212 km2 (35.603 mil persegi)"
+Mata Uang: = "Euro (€) (EUR)"
+PDB: = "$370,5 miliar"
+PDB per kapita: = "$36.079"
+Indeks Demokrasi: = "~7,90/10 (peringkat 26)"
+Industri Terbesar: = "Ekspor dan Perdagangan"
+Ibu Kota dan Kota Terbesar: = "Lisbon"
+Sisi Mengemudi: = "kanan"
+Kode Telepon: = "+351"

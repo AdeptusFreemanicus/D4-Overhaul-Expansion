@@ -1,20 +1,20 @@
 [config]
-name  = ind
-guiname = "Republic of India"
-description = "India, officially the Republic of India, is a country in South Asia. It is the second-most populous country, the seventh-largest country by land area, and the most populous democracy in the world. Bounded by the Indian Ocean on the south, the Arabian Sea on the southwest, and the Bay of Bengal on the southeast, it shares land borders with Pakistan to the west; China, Nepal, and Bhutan to the north; and Bangladesh and Myanmar to the east. In the Indian Ocean, India is in the vicinity of Sri Lanka and the Maldives; its Andaman and Nicobar Islands share a maritime border with Thailand, Myanmar and Indonesia."
+name = ind
+guiname = "Republik India"
+description = "India, secara resmi Republik India, adalah sebuah negara di Asia Selatan. Negara ini merupakan negara terpadat kedua di dunia, negara ketujuh terbesar berdasarkan luas wilayah, dan demokrasi terpadat di dunia. Berbatasan dengan Samudra Hindia di selatan, Laut Arab di barat daya, dan Teluk Benggala di tenggara, India berbatasan darat dengan Pakistan di barat; Cina, Nepal, dan Bhutan di utara; serta Bangladesh dan Myanmar di timur. Di Samudra Hindia, India berdekatan dengan Sri Lanka dan Maladewa; Kepulauan Andaman dan Nikobar miliknya berbatasan laut dengan Thailand, Myanmar, dan Indonesia."
 
-jobtitle = "President"
+jobtitle = "Presiden"
 
 [stats]
-National Anthem: = "Truth Alone Triumphs"
-Population: = "1.352 billion (2018)"
-Area: = "3,287,263 km2 (1,269,219 sq mi)"
-Currency: = "Indian Rupee ₹"
-GDP: = "$10.2 trillion (~₹74,447,267,496,512.40 INR)"
-GDP per capita: = "$7,333 (~₹544,840.20 INR)"
-Democracy Index: = "6.61/10 (53rd)"
-Biggest Industry: = "Textiles"
-Capital: = "New Delhi"
-Largest City: = "Mumbai (City Proper) Delhi (Metropolitan Area)"
-Driving side: =	"Left"
-Calling code: = "+91"
+Lagu Kebangsaan: = "Kebenaran Saja yang Menang"
+Populasi: = "1,352 miliar (2018)"
+Luas Wilayah: = "3.287.263 km2 (1.269.219 mil2)"
+Mata Uang: = "Rupee India ₹"
+PDB: = "$10,2 triliun (₹74.447.267.496.512,40 INR)"
+PDB per kapita: = "$7.333 (₹544.840,20 INR)"
+Indeks Demokrasi: = "6,61/10 (peringkat 53)"
+Industri Terbesar: = "Tekstil"
+Ibu Kota: = "New Delhi"
+Kota Terbesar: = "Mumbai (Kota Proper) Delhi (Kawasan Metropolitan)"
+Sisi Mengemudi: = "kiri"
+Kode Telepon: = "+91"

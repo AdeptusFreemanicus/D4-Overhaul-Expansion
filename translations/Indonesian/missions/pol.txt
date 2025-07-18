@@ -1,18 +1,18 @@
 [config]
-name  = pol
-guiname = "Republic of Poland"
-description = "Poland, officially the Republic of Poland, is a country located in Central Europe. It is divided into 16 administrative provinces, covering an area of 312,696 square kilometres (120,733 sq mi), and has a largely temperate seasonal climate. With a population of nearly 38.5 million people, Poland is the fifth most populous member state of the European Union. Poland's capital and largest metropolis is Warsaw. Other major cities include Kraków, Łódź, Wrocław, Poznań, Gdańsk, and Szczecin."
+name = pol
+guiname = "Republik Polandia"
+description = "Polandia, secara resmi Republik Polandia, adalah sebuah negara yang terletak di Eropa Tengah. Negara ini terbagi menjadi 16 provinsi administratif, dengan luas wilayah 312.696 kilometer persegi (120.733 mil persegi), dan memiliki iklim musiman yang sebagian besar sedang. Dengan populasi hampir 38,5 juta jiwa, Polandia adalah negara anggota Uni Eropa dengan populasi kelima terbesar. Ibu kota dan kota terbesar Polandia adalah Warsawa. Kota-kota besar lainnya termasuk Kraków, Łódź, Wrocław, Poznań, Gdańsk, dan Szczecin."
 
-jobtitle = "President"
+jobtitle = "Presiden"
 
 [stats]
-National Anthem: = "Poland Is Not Yet Lost"
-Population: = "38.5 million people (2019)"
-Area: = "312,696 km2 (120,733 sq mi)"
-Currency: = "Złoty (PLN)"
-GDP: = "$607 billion (Zł2,259,500,538,937.90 PLN)"
-GDP per capita: = "$15,988 (Zł59,513.26 PLN)"
-Democracy Index: = "6.62/10 (57th)"
-Biggest Industry: = "Agriculture"
-Capital And Largest City: = "Warsaw"
-Driving side: =	"right"
+Lagu Kebangsaan: = "Polandia Belum Hilang"
+Populasi: = "38,5 juta jiwa (2019)"
+Luas Wilayah: = "312.696 km2 (120.733 mil2)"
+Mata Uang: = "Złoty (PLN)"
+PDB: = "$607 miliar (Zł2.259.500.538.937,90 PLN)"
+PDB per kapita: = "$15.988 (Zł59.513,26 PLN)"
+Indeks Demokrasi: = "6,62/10 (peringkat 57)"
+Industri Terbesar: = "Pertanian"
+Ibu Kota dan Kota Terbesar: = "Warsawa"
+Sisi Mengemudi: = "kanan"

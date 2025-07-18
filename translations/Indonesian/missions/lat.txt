@@ -1,19 +1,19 @@
 [config]
-name  = lat
-guiname = "Republic of Latvia"
-description = "Latvia, officially the Republic of Latvia, is a country in the Baltic region of Northern Europe. It is one of the Baltic states; and is bordered by Estonia to the north, Lithuania to the south, Russia to the east, Belarus to the southeast, and shares a maritime border with Sweden to the west. Latvia covers an area of 64,589 km2 (24,938 sq mi), with a population of 1.9 million. The country has a temperate seasonal climate. Its capital and largest city is Riga. Latvians belong to the ethno-linguistic group of the Balts; and speak Latvian, one of the only two surviving Baltic languages. Russians are the most prominent minority in the country, at almost a quarter of the population."
+name = lat
+guiname = "Republik Latvia"
+description = "Latvia, secara resmi Republik Latvia, adalah sebuah negara di wilayah Baltik di Eropa Utara. Negara ini termasuk salah satu negara Baltik; berbatasan dengan Estonia di utara, Lithuania di selatan, Rusia di timur, Belarus di tenggara, dan berbatasan laut dengan Swedia di barat. Latvia memiliki luas wilayah 64.589 km2 (24.938 mil2) dengan populasi 1,9 juta jiwa. Negara ini memiliki iklim musiman yang sedang. Ibu kota dan kota terbesarnya adalah Riga. Orang Latvia termasuk kelompok etno-linguistik Baltik dan berbicara dalam bahasa Latvia, salah satu dari dua bahasa Baltik yang masih bertahan. Orang Rusia merupakan minoritas terbesar di negara ini, hampir seperempat dari total populasi."
 
-jobtitle = "President"
+jobtitle = "Presiden"
 
 [stats]
-National Anthem: = "God Bless Latvia!"
-Population: = "1.9 million (2018)"
-Area: = "64,589 km2"
-Currency: = "Euro (€) (EUR)"
-GDP: = "$70 billion"
-GDP per capita: = "$37,009
-Democracy Index: = "~7.37/10 (38th)"
-Biggest Industry: = "Industry Sector/Agriculture Sector"
-Capital (and largest city): = "Riga"
-Driving side: =	"right"
-Calling code: = "+371"
+Lagu Kebangsaan: = "Tuhan Memberkati Latvia!"
+Populasi: = "1,9 juta (2018)"
+Luas Wilayah: = "64.589 km2"
+Mata Uang: = "Euro (€) (EUR)"
+PDB: = "$70 miliar"
+PDB per kapita: = "$37.009"
+Indeks Demokrasi: = "~7,37/10 (peringkat 38)"
+Industri Terbesar: = "Sektor Industri/Sektor Pertanian"
+Ibu Kota (dan kota terbesar): = "Riga"
+Sisi Mengemudi: = "kanan"
+Kode Telepon: = "+371"

@@ -1,19 +1,19 @@
 [config]
-name  = phi
-guiname = "Republic of the Philippines"
-description = "The Philippines, officially the Republic of the Philippines, is an archipelagic country in Southeast Asia. Situated in the western Pacific Ocean, it consists of about 7,641 islands that are broadly categorized under three main geographical divisions from north to south: Luzon, Visayas, and Mindanao. The capital city of the Philippines is Manila and the most populous city is Quezon City, both within the single urban area of Metro Manila. Bounded by the South China Sea to the west, the Philippine Sea to the east, and the Celebes Sea to the southwest, the Philippines shares maritime borders with Taiwan to the north, Japan to the northeast, Palau to the east, Indonesia to the south, Malaysia and Brunei to the southwest, Vietnam to the west, and China to the northwest."
+name = phi
+guiname = "Republik Filipina"
+description = "Filipina, secara resmi Republik Filipina, adalah sebuah negara kepulauan di Asia Tenggara. Terletak di Samudra Pasifik bagian barat, negara ini terdiri dari sekitar 7.641 pulau yang secara garis besar terbagi ke dalam tiga wilayah geografis utama dari utara ke selatan: Luzon, Visayas, dan Mindanao. Ibu kota Filipina adalah Manila dan kota terpadat adalah Quezon City, keduanya berada dalam satu wilayah metropolitan Metro Manila. Filipina berbatasan dengan Laut China Selatan di barat, Laut Filipina di timur, dan Laut Sulawesi di barat daya. Negara ini memiliki perbatasan maritim dengan Taiwan di utara, Jepang di timur laut, Palau di timur, Indonesia di selatan, Malaysia dan Brunei di barat daya, Vietnam di barat, dan China di barat laut."
 
-jobtitle = "President"
+jobtitle = "Presiden"
 
 [stats]
-Motto: = "For God, People, Nature and Country"
-National Anthem: = "Chosen Land"
-Population: = "109 Million People (2020)"
-Area: = "300,000 km2 (120,000 sq mi)"
-Currency: = "Philippine peso (₱) (PHP)"
-GDP: = "$367.362 billion"
-GDP per capita: = "$3,484"
-Democracy Index: = "6.56/10 (55th)"
-Biggest Industry: = "Agriculture"
-Capital And Largest City: = "Manila"
-Driving side: =	"right"
+Moto: = "Untuk Tuhan, Rakyat, Alam, dan Negara"
+Lagu Kebangsaan: = "Tanah Terpilih"
+Populasi: = "109 juta jiwa (2020)"
+Luas Wilayah: = "300.000 km2 (120.000 mil2)"
+Mata Uang: = "Peso Filipina (₱) (PHP)"
+PDB: = "$367,362 miliar"
+PDB per kapita: = "$3.484"
+Indeks Demokrasi: = "6,56/10 (peringkat 55)"
+Industri Terbesar: = "Pertanian"
+Ibu Kota dan Kota Terbesar: = "Manila"
+Sisi Mengemudi: = "kanan"

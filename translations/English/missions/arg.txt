@@ -1,0 +1,18 @@
+[config]
+name  = arg
+guiname = "Argentine Republic"
+description = "Argentina, officially the Argentine Republic, is a country in the southern half of South America. It covers an area of 2,780,085 km2 (1,073,397 sq mi), making it the second-largest country in South America after Brazil, the fourth-largest country in the Americas, and the eighth-largest country in the world. Argentina shares the bulk of the Southern Cone with Chile to the west, and is also bordered by Bolivia and Paraguay to the north, Brazil to the northeast, Uruguay and the South Atlantic Ocean to the east, and the Drake Passage to the south. Argentina is a federal state subdivided into twenty-three provinces, and one autonomous city, which is the federal capital and largest city of the nation, Buenos Aires. The provinces and the capital have their own constitutions, but exist under a federal system. Argentina claims sovereignty over the Falkland Islands, South Georgia and the South Sandwich Islands, the Southern Patagonian Ice Field, and a part of Antarctica."
+
+jobtitle = "President"
+
+[stats]
+Completeness: = "2/5"
+Motto: = "In Unity and Freedom"
+Population: = "44 million people (2017)"
+Area: = "2,780,085km2 (1,073,397 sq mi)"
+Currency: = "Argentine peso (ARS)"
+GDP: = "$1.354 Trillion"
+GDP per capita: = "$28,704"
+Democracy Index: = "6.51/10 (54th)"
+Biggest Industry: = "Agriculture"
+Capital And Largest City: = "Buenos Aires"

@@ -1,20 +1,20 @@
 [config]
-name  = sau
-guiname = "Kingdom of Saudi Arabia"
-description = "Saudi Arabia, officially the Kingdom of Saudi Arabia, is a country on the Arabian Peninsula in Western Asia. It has a land area of about 2,150,000 km2 (830,000 sq mi), making it the fifth-largest country in Asia, the second-largest in the Arab world, and the largest in Western Asia. It is bordered by the Red Sea to the west, Jordan, Iraq, and Kuwait to the north, the Persian Gulf, Qatar, and the United Arab Emirates to the east, Oman to the southeast, and Yemen to the south. Bahrain is an island country off the east coast. The Gulf of Aqaba in the northwest separates Saudi Arabia from Egypt. Saudi Arabia is the only country with a coastline along both the Red Sea and the Persian Gulf, and most of its terrain consists of arid desert, lowland, steppe, and mountains. Its capital and largest city is Riyadh. The country is home to Mecca and Medina, the two holiest cities in Islam."
+name = sau
+guiname = "Kerajaan Arab Saudi"
+description = "Arab Saudi, secara resmi dikenal sebagai Kerajaan Arab Saudi, adalah sebuah negara di Semenanjung Arab di Asia Barat. Memiliki luas wilayah sekitar 2.150.000 km2 (830.000 mil2), menjadikannya negara terbesar kelima di Asia, terbesar kedua di dunia Arab, dan terbesar di Asia Barat. Arab Saudi berbatasan dengan Laut Merah di barat, Yordania, Irak, dan Kuwait di utara, Teluk Persia, Qatar, dan Uni Emirat Arab di timur, Oman di tenggara, dan Yaman di selatan. Bahrain adalah sebuah negara kepulauan di lepas pantai timur. Teluk Aqaba di barat laut memisahkan Arab Saudi dari Mesir. Arab Saudi adalah satu-satunya negara yang memiliki garis pantai di Laut Merah dan Teluk Persia, dengan sebagian besar wilayahnya berupa gurun kering, dataran rendah, stepa, dan pegunungan. Ibu kota dan kota terbesarnya adalah Riyadh. Negara ini juga merupakan rumah bagi Mekah dan Madinah, dua kota paling suci dalam Islam."
 
-jobtitle = "King"
+jobtitle = "Raja"
 
 [stats]
-Motto: = "There is no god but God; Muhammad is the messenger of God."
-National Anthem: = "National Anthem of Saudi Arabia"
-Population: = "34,218,169 people (2019 est)"
-Area: = "2,149,690 km2 (830,000 sq mi)"
-Currency: = "Saudi Riyal (SR) (SAR)"
-GDP: = "$1.868 trillion"
-GDP per capita: = "$51,648"
-Democracy Index: = "2.08/10 (152th)"
-Biggest Industry: = "Oil Industry"
-Capital and Largest City: = "Riyadh"
-Driving side: =	"right"
-Calling code: = "+966"
+Moto: = "Tiada tuhan selain Allah; Muhammad adalah utusan Allah."
+Lagu Kebangsaan: = "Lagu Kebangsaan Arab Saudi"
+Populasi: = "34.218.169 jiwa (perkiraan 2019)"
+Luas Wilayah: = "2.149.690 km2 (830.000 mil2)"
+Mata Uang: = "Riyal Saudi (SR) (SAR)"
+PDB: = "$1,868 triliun"
+PDB per kapita: = "$51.648"
+Indeks Demokrasi: = "2.08/10 (peringkat 152)"
+Industri Terbesar: = "Industri Minyak"
+Ibu Kota dan Kota Terbesar: = "Riyadh"
+Sisi Mengemudi: = "kanan"
+Kode Telepon: = "+966"

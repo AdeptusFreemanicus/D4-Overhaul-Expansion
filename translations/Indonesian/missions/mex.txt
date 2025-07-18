@@ -1,19 +1,19 @@
 [config]
-name  = mex
-guiname = "United Mexican States"
-description = "Mexico, officially the United Mexican States, is a country in the southern portion of North America. It is bordered to the north by the United States; to the south and west by the Pacific Ocean; to the southeast by Guatemala, Belize, and the Caribbean Sea; and to the east by the Gulf of Mexico. Mexico covers 1,972,550 square kilometers (761,610 sq mi), making it the world's 13th-largest country by area; with approximately 126,014,024 inhabitants, it is the 10th-most-populous country and has the most Spanish-speakers. Mexico is organized as a federation comprising 31 states and Mexico City, its capital and largest metropolis. Other major urban areas include Guadalajara, Monterrey, Puebla, Toluca, Tijuana, Ciudad Juárez, and León."
+name = mex
+guiname = "Amerika Serikat Meksiko"
+description = "Meksiko, secara resmi Amerika Serikat Meksiko, adalah sebuah negara di bagian selatan Amerika Utara. Negara ini berbatasan di utara dengan Amerika Serikat; di selatan dan barat dengan Samudra Pasifik; di tenggara dengan Guatemala, Belize, dan Laut Karibia; serta di timur dengan Teluk Meksiko. Meksiko memiliki luas 1.972.550 kilometer persegi (761.610 mil persegi), menjadikannya negara terbesar ke-13 di dunia berdasarkan luas wilayah; dengan sekitar 126.014.024 jiwa, negara ini adalah negara terpadat ke-10 di dunia dan memiliki jumlah penutur bahasa Spanyol terbanyak. Meksiko terorganisir sebagai federasi yang terdiri dari 31 negara bagian dan Kota Meksiko, yang merupakan ibu kota dan kawasan metropolitan terbesarnya. Kawasan perkotaan besar lainnya termasuk Guadalajara, Monterrey, Puebla, Toluca, Tijuana, Ciudad Juárez, dan León."
 
-jobtitle = "President"
+jobtitle = "Presiden"
 
 [stats]
-National Anthem: = "The Homeland is First"
-Population: = "1.260 million (2020)"
-Area: = "1,972,550 km2 (761,610 sq mi)"
-Currency: = "Mexican peso $ (MXN)"
-GDP: = "$2.7 trillion"
-GDP per capita: = "$21,362"
-Democracy Index: = "6.07/10 (72rd)"
-Biggest Industry: = "Automotive Sector"
-Capital: = "Mexico City"
-Driving side: =	"Right"
-Calling code: = "+52"
+Lagu Kebangsaan: = "Tanah Air Terlebih Dahulu"
+Populasi: = "126.014.024 (2020)"
+Luas Wilayah: = "1.972.550 km2 (761.610 mil2)"
+Mata Uang: = "Peso Meksiko $ (MXN)"
+PDB: = "$2,7 triliun"
+PDB per kapita: = "$21.362"
+Indeks Demokrasi: = "6,07/10 (peringkat 72)"
+Industri Terbesar: = "Sektor Otomotif"
+Ibu Kota: = "Kota Meksiko"
+Sisi Mengemudi: = "kanan"
+Kode Telepon: = "+52"

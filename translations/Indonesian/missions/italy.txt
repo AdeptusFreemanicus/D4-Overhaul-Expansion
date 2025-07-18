@@ -1,5 +1,5 @@
 [config]
-name  = italia
+name  = italy
 guiname = "Italia"
 description= "Italia adalah republik parlementer dengan sistem multi-partai.Italia menjadi negara demokrasi pada tahun 1946, ketika monarki dihapuskan melalui referendum rakyat. Italia menerapkan sistem campuran, dengan 37% kursi dialokasikan menggunakan sistem first past the post electoral dan 61% menggunakan metode proporsional, dengan satu putaran pemungutan suara. Baru-baru ini pada tahun 2019, karena seringnya kegagalan koalisi, Italia dianggap sebagai negara demokrasi yang cacat."
 jobtittle = "Presiden"

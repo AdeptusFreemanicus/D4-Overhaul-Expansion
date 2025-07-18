@@ -1,18 +1,18 @@
 [config]
-name  = sco
-guiname = "Scotland"
-description = "Scotland is a country that is part of the United Kingdom. Covering the northern third of the island of Great Britain, mainland Scotland has a 96-mile (154-kilometre) border with England to the southeast and is otherwise surrounded by the Atlantic Ocean to the north and west, the North Sea to the northeast and the Irish Sea to the south. The country also contains more than 790 islands, principally in the archipelagos of the Hebrides and the Northern Isles. Most of the population, including the capital Edinburgh, is concentrated in the Central Belt – the plain between the Scottish Highlands and the Southern Uplands – in the Scottish Lowlands."
+name = sco
+guiname = "Skotlandia"
+description = "Skotlandia adalah sebuah negara yang merupakan bagian dari Britania Raya. Menutupi sepertiga utara pulau Britania Raya, daratan utama Skotlandia memiliki perbatasan sepanjang 96 mil (154 kilometer) dengan Inggris di tenggara dan dikelilingi oleh Samudra Atlantik di utara dan barat, Laut Utara di timur laut, serta Laut Irlandia di selatan. Negara ini juga memiliki lebih dari 790 pulau, terutama di kepulauan Hebrides dan Kepulauan Utara. Sebagian besar penduduk, termasuk ibu kota Edinburgh, terkonsentrasi di Central Belt — dataran antara Dataran Tinggi Skotlandia dan Southern Uplands — di Dataran Rendah Skotlandia."
 
-jobtitle = "Monarch"
+jobtitle = "Monarki"
 
 [stats]
-National Anthem: = "In my defence God me defend"
-Population: = "5,463,300 people (2019 est)"
-Area: = "77,933 km2 (30,090 sq mi)"
-Currency: = "Pound sterling (GBP; £)"
-GVA: = "£166 billion"
-GVA per capita: = "£30,560"
-Biggest Industry: = "Oil & Gas Exports"
-Capital And Largest City: = "Edinburgh"
-Driving side: =	"left"
-Calling code: = "+44"
+Lagu Kebangsaan: = "In my defence God me defend"
+Populasi: = "5.463.300 jiwa (perkiraan 2019)"
+Luas Wilayah: = "77.933 km2 (30.090 mil2)"
+Mata Uang: = "Pound sterling (GBP; £)"
+GVA: = "£166 miliar"
+GVA per kapita: = "£30.560"
+Industri Terbesar: = "Ekspor Minyak & Gas"
+Ibu Kota dan Kota Terbesar: = "Edinburgh"
+Sisi Mengemudi: = "kiri"
+Kode Telepon: = "+44"

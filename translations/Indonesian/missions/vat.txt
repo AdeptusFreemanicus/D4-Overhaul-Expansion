@@ -1,17 +1,17 @@
 [config]
-name  = vat
-guiname = "Vatican City State"
-description = "Vatican City, officially the Vatican City State, is a landlocked independent country, city-state, microstate, and enclave within Rome, Italy. It became independent from Italy in 1929 with the Lateran Treaty. With an area of 49 hectares and as of 2023 a population of about 764, it is the smallest state in the world both by area and by population. As governed by the Holy See, Vatican City State is an ecclesiastical or sacerdotal-monarchical state ruled by the Pope, who is the bishop of Rome and head of the Catholic Church. The highest state functionaries are all Catholic clergy of various origins. After the Avignon Papacy (1309–1377) the popes have mainly resided at the Apostolic Palace within what is now Vatican City, although at times residing instead in the Quirinal Palace in Rome or elsewhere. The Vatican is also a metonym for the Holy See."
+name = vat
+guiname = "Negara Kota Vatikan"
+description = "Vatikan, secara resmi Negara Kota Vatikan, adalah sebuah negara kecil merdeka, kota-negara, mikrostate, dan enklave yang terkurung di dalam kota Roma, Italia. Vatikan menjadi merdeka dari Italia pada tahun 1929 melalui Perjanjian Lateran. Dengan luas 49 hektar dan pada tahun 2023 berpopulasi sekitar 764 jiwa, Vatikan adalah negara terkecil di dunia baik berdasarkan luas maupun jumlah penduduk. Sebagai negara yang diperintah oleh Takhta Suci, Vatikan adalah negara gerejawi atau sakerdotal-monarkis yang dipimpin oleh Paus, yang juga adalah Uskup Roma dan pemimpin Gereja Katolik. Pejabat tertinggi negara ini semuanya adalah rohaniwan Katolik dari berbagai asal. Setelah masa Kepausan Avignon (1309–1377), para paus terutama berkediaman di Istana Apostolik di wilayah yang sekarang menjadi Vatikan, meski kadang menetap di Istana Quirinal di Roma atau tempat lain. Istilah “Vatikan” juga sering dipakai sebagai metonimi untuk Takhta Suci."
 
-jobtitle = "Monarch"
+jobtitle = "Monarki"
 
 [stats]
-National Anthem: = "Inno e Marcia Pontificale"
-Population: = "~764 (2023"
-Area: = "0.49km2 (0.19 sq mi)"
-Currency: = "Euro (€) (EUR)"
-Holyness: = "10/10 (1st)"
-Biggest Industry: = "God"
-Capital And Largest City: = "Vatican City"
-Driving side: =	"right"
-Calling code: = "+379"
+Lagu Kebangsaan: = "Inno e Marcia Pontificale"
+Populasi: = "~764 jiwa (2023)"
+Luas Wilayah: = "0,49 km2 (0,19 mil2)"
+Mata Uang: = "Euro (€) (EUR)"
+Kesucian: = "10/10 (peringkat 1)"
+Industri Terbesar: = "Ketuhanan"
+Ibu Kota dan Kota Terbesar: = "Vatikan"
+Sisi Mengemudi: = "kanan"
+Kode Telepon: = "+379"

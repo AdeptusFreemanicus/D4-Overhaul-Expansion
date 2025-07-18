@@ -1,19 +1,19 @@
 [config]
-name  = uae
-guiname = "United Arab Emirates"
-description = "The United Arab Emirates, or simply the Emirates, is a country in Western Asia. It is located at the eastern end of the Arabian Peninsula, and shares borders with Oman and Saudi Arabia, while having maritime borders in the Persian Gulf with Qatar and Iran. Abu Dhabi is the nation's capital, while Dubai, the most populous city, is an international hub."
+name = uae
+guiname = "Uni Emirat Arab"
+description = "Uni Emirat Arab, atau Emirat saja, adalah sebuah negara di Asia Barat. Terletak di ujung timur Semenanjung Arab, berbatasan dengan Oman dan Arab Saudi, serta memiliki batas maritim di Teluk Persia dengan Qatar dan Iran. Abu Dhabi adalah ibu kota negara, sementara Dubai, kota dengan populasi terbanyak, merupakan pusat internasional."
 
-jobtitle = "President"
+jobtitle = "Presiden"
 
 [stats]
-National Anthem: = "Long Live My Country"
-Population: = "9,282,410 people (2020 est)"
-Area: = "83,600 km2 (32,300 sq mi)"
-Currency: = "UAE dirham (AED)"
-GDP: = "$763.182 billion"
-GDP per capita: = "$59,844"
-Democracy Index: = "2.90/10 (134th)"
-Biggest Industry: = "Tourism/Oil Industry"
-Capital and Largest City: = "Abu Dhabi"
-Driving side: =	"right"
-Calling code: = "+971"
+Lagu Kebangsaan: = "Hidup Negara Ku"
+Populasi: = "9.282.410 jiwa (perkiraan 2020)"
+Luas Wilayah: = "83.600 km2 (32.300 mil2)"
+Mata Uang: = "Dirham UAE (AED)"
+PDB: = "$763,182 miliar"
+PDB per kapita: = "$59.844"
+Indeks Demokrasi: = "2,90/10 (peringkat 134)"
+Industri Terbesar: = "Pariwisata/Industri Minyak"
+Ibu Kota dan Kota Terbesar: = "Abu Dhabi"
+Sisi Mengemudi: = "kanan"
+Kode Telepon: = "+971"

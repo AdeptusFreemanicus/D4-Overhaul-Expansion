@@ -1,20 +1,20 @@
 [config]
-name  = gre
-guiname = "Hellenic Republic"
-description = "Greece, officially the Hellenic Republic, is a country located in Southeast Europe. Its population is approximately 10.7 million as of 2018; Athens is its largest and capital city, followed by Thessaloniki. Situated on the southern tip of the Balkans, Greece is located at the crossroads of Europe, Asia, and Africa. It shares land borders with Albania to the northwest, North Macedonia and Bulgaria to the north, and Turkey to the northeast. The Aegean Sea lies to the east of the mainland, the Ionian Sea to the west, the Cretan Sea and the Mediterranean Sea to the south. Greece has the longest coastline on the Mediterranean Basin and the 11th longest coastline in the world at 13,676 km (8,498 mi) in length, featuring many islands, of which 227 are inhabited. Eighty percent of Greece is mountainous, with Mount Olympus being the highest peak at 2,918 metres (9,573 ft). The country consists of nine traditional geographic regions: Macedonia, Central Greece, the Peloponnese, Thessaly, Epirus, the Aegean Islands (including the Dodecanese and Cyclades), Thrace, Crete, and the Ionian Islands."
+name = gre
+guiname = "Republik Helenik"
+description = "Yunani, secara resmi Republik Helenik, adalah sebuah negara yang terletak di Eropa Tenggara. Populasinya sekitar 10,7 juta jiwa pada tahun 2018; Athena adalah kota terbesar sekaligus ibu kota, diikuti oleh Thessaloniki. Terletak di ujung selatan Balkan, Yunani berada di persimpangan Eropa, Asia, dan Afrika. Negara ini berbatasan darat dengan Albania di barat laut, Makedonia Utara dan Bulgaria di utara, serta Turki di timur laut. Laut Aegea berada di sebelah timur daratan utama, Laut Ionia di sebelah barat, Laut Kreta dan Laut Mediterania di selatan. Yunani memiliki garis pantai terpanjang di kawasan Mediterania dan garis pantai terpanjang ke-11 di dunia sepanjang 13.676 km (8.498 mil), dengan banyak pulau, di mana 227 di antaranya berpenghuni. Delapan puluh persen wilayah Yunani berbukit dan bergunung-gunung, dengan Gunung Olympus sebagai puncak tertinggi setinggi 2.918 meter (9.573 kaki). Negara ini terdiri dari sembilan wilayah geografis tradisional: Makedonia, Yunani Tengah, Peloponnese, Tessalia, Epirus, Kepulauan Aegea (termasuk Dodekanez dan Siklad), Trakia, Kreta, dan Kepulauan Ionia."
 
-jobtitle = "President"
+jobtitle = "Presiden"
 
 [stats]
-Motto: = "Freedom or Death"
-National Anthem: = "Hymn to Liberty"
-Population: = "10.7 million (2020)"
-Area: = "131,957 km2 (50,949 sq mi)"
-Currency: = "Euro (€) (EUR)"
-GDP: = "$310.743 billion"
-GDP per capita: = "$29,045"
-Democracy Index: = "~7.39/10 (37th)"
-Biggest Industry: = "Agriculture/Tourism"
-Capital And Largest City: = "Athens"
-Driving side: =	"right"
-Calling code: = "+30"
+Moto: = "Kebebasan atau Mati"
+Lagu Kebangsaan: = "Himne untuk Kebebasan"
+Populasi: = "10,7 juta (2020)"
+Luas Wilayah: = "131.957 km2 (50.949 mil2)"
+Mata Uang: = "Euro (€) (EUR)"
+PDB: = "$310,743 miliar"
+PDB per kapita: = "$29.045"
+Indeks Demokrasi: = "~7,39/10 (peringkat 37)"
+Industri Terbesar: = "Pertanian/Pariwisata"
+Ibu Kota dan Kota Terbesar: = "Athena"
+Sisi Mengemudi: = "kanan"
+Kode Telepon: = "+30"

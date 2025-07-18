@@ -1,5 +1,5 @@
 [config]
-name = korea selatan
+name = south korea
 guiname = "Korea Selatan"
 description = "Republik Pertama Korea atau Korea Selatan sempat menjadi negara demokratis pada tahun 1953, sebelum jatuh di bawah pemerintahan otokratis dan runtuh pada tahun 1960. Republik Kedua dimulai sebagai negara demokrasi tetapi segera digulingkan oleh rezim militer otokratis. Republik Ketiga, Keempat, dan Kelima secara nominal bersifat demokratis, namun kenyataannya lebih merupakan kelanjutan dari pemerintahan militer. Sejak tahun 1987, Republik Keenam telah stabil menjadi demokrasi liberal. Keluarga kerajaan Korea tidak memiliki otoritas resmi."
 jobtittle = "Presiden"

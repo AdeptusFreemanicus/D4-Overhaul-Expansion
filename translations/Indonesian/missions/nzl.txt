@@ -1,21 +1,21 @@
 [config]
-name  = nzl
-guiname = "New Zealand"
-description = "New Zealand is an island country in the southwestern Pacific Ocean. It consists of two main landmasses—the North Island and the South Island and more than 700 smaller islands, covering a total area of 268,021 square kilometres (103,500 sq mi). New Zealand is about 2,000 kilometres (1,200 mi) east of Australia across the Tasman Sea and 1,000 kilometres (600 mi) south of the islands of New Caledonia, Fiji, and Tonga. The country's varied topography and sharp mountain peaks, including the Southern Alps, owe much to tectonic uplift and volcanic eruptions. New Zealand's capital city is Wellington, and its most populous city is Auckland."
+name = nzl
+guiname = "Selandia Baru"
+description = "Selandia Baru adalah sebuah negara kepulauan di Samudra Pasifik barat daya. Terdiri dari dua pulau utama—Pulau Utara dan Pulau Selatan—serta lebih dari 700 pulau kecil, dengan total luas 268.021 kilometer persegi (103.500 mil persegi). Selandia Baru terletak sekitar 2.000 kilometer (1.200 mil) sebelah timur Australia melintasi Laut Tasman dan 1.000 kilometer (600 mil) selatan pulau New Caledonia, Fiji, dan Tonga. Topografi negara yang beragam dan puncak gunung yang tajam, termasuk Pegunungan Alpen Selatan, banyak dipengaruhi oleh kenaikan tektonik dan letusan gunung berapi. Ibu kota Selandia Baru adalah Wellington, dan kota terpadatnya adalah Auckland."
 
-jobtitle = "Prime Minister"
+jobtitle = "Perdana Menteri"
 
 [stats]
-National Anthem: = "God Defend New Zealand"
-Royal Anthem: = "God Save the Queen"
-Population: = "5,1 million (2021 est)"
-Area: = "268,021 km2 (103,483 sq mi)"
-Currency: = "New Zealand Dollar (NZD) (NZ$)"
-GDP: = "$226.566 billion"
-GDP per capita: = "$44,226"
-Democracy Index: = "~9.25/10 (4th)"
-Biggest Industry: = "Agriculture"
-Capital: = "Wellington"
-Largest City: = "Auckland"
-Driving side: =	"Left"
-Calling code: = "+64"
+Lagu Kebangsaan: = "God Defend New Zealand"
+Lagu Kerajaan: = "God Save the Queen"
+Populasi: = "5,1 juta (perkiraan 2021)"
+Luas Wilayah: = "268.021 km2 (103.483 mil2)"
+Mata Uang: = "Dolar Selandia Baru (NZD) (NZ$)"
+PDB: = "$226,566 miliar"
+PDB per kapita: = "$44.226"
+Indeks Demokrasi: = "~9,25/10 (peringkat 4)"
+Industri Terbesar: = "Pertanian"
+Ibu Kota: = "Wellington"
+Kota Terbesar: = "Auckland"
+Sisi Mengemudi: = "kiri"
+Kode Telepon: = "+64"

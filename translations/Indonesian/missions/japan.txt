@@ -1,5 +1,5 @@
 [config]
-name  = jepang
+name  = japan
 guiname = "Jepang"
 description = "Jepang adalah negara monarki konstitusional parlementer dengan kaisar seremonial dan parlemen bikameral. Kaisar saat ini adalah Naruhito, setelah Akihito turun takhta pada tahun 2019. Dewan Perwakilan Rakyat memiliki 465 kursi dan Majelis Tinggi memiliki 245 kursi. Perwakilan harus berusia minimal 25 tahun dan anggota dewan minimal 30 tahun. Usia minimum untuk memilih dikurangi dari 20 menjadi 18 tahun pada tahun 2016. Jepang dibagi menjadi 47 prefektur, masing-masing diawasi oleh seorang gubernur terpilih."
 jobtittle = "Perdana Menteri"

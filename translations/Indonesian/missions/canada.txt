@@ -1,5 +1,5 @@
 [config]
-name  = kanada
+name  = canada
 guiname = "Kanada"
 description = "Kanada adalah negara demokrasi parlementer Federal dengan monarki konstitusional. Perdana Menteri terpilih. Kanada, yang secara resmi merupakan koloni Inggris Raya, pertama kali menjadi negara demokrasi pada tahun 1867. Pada tahun 1919 perempuan memenangkan pemilu, namun baru pada tahun 1960 semua warga negara Kanada, apa pun etnisnya, dapat memilih dan hak pilih universal menjadi undang-undang."
 jobtittle = "Perdana menteri"

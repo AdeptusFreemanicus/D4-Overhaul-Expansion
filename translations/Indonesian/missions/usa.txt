@@ -1,5 +1,5 @@
 [config]
-name  = Amerika
+name  = usa
 guiname = "Amerika Serikat"
 description = "Amerika Serikat adalah negara terbesar ketiga atau keempat di dunia berdasarkan total luas wilayah, dan negara terpadat ketiga di dunia. Orang Amerika adalah populasi yang beragam secara ras dan etnis yang terbentuk melalui imigrasi selama berabad-abad. Amerika Serikat adalah republik federal dan demokrasi perwakilan. AS adalah anggota pendiri PBB, Bank Dunia, Dana Moneter Internasional, dan NATO."
 jobtitle = "Presiden"

@@ -1,20 +1,20 @@
 [config]
-name  = sao
-guiname = "Republic of San Marino"
-description = "San Marino, officially the Republic of San Marino and also known as the Most Serene Republic of San Marino, is a European microstate and country enclaved by Italy. Located on the northeastern side of the Apennine Mountains, San Marino is the fifth-smallest country in the world and covers a land area of just over 61 km2, with a population of 33,660 as of 2022. San Marino is a landlocked country; however, its northeastern end is within ten kilometres of the Italian city of Rimini on the Adriatic coast. The nearest airport is also in Italy. The country's capital city, the City of San Marino, is located atop Monte Titano, while its largest settlement is Dogana within the largest municipality of Serravalle. San Marino's official language is Italian."
+name = sao
+guiname = "Republik San Marino"
+description = "San Marino, secara resmi Republik San Marino dan juga dikenal sebagai Republik Paling Damai San Marino, adalah sebuah negara mikro di Eropa yang terkurung oleh Italia. Terletak di sisi timur laut Pegunungan Apennina, San Marino adalah negara terkecil kelima di dunia dengan luas wilayah hanya sedikit lebih dari 61 km2, dan memiliki populasi sebanyak 33.660 jiwa pada tahun 2022. San Marino adalah negara tanpa pantai; namun ujung timur lautnya berada dalam jarak sepuluh kilometer dari kota Rimini di Italia, yang terletak di pesisir Adriatik. Bandara terdekat juga berada di Italia. Ibu kota negara ini, Kota San Marino, terletak di puncak Monte Titano, sementara pemukiman terbesarnya adalah Dogana di dalam kotamadya terbesar, Serravalle. Bahasa resmi San Marino adalah bahasa Italia."
 
-jobtitle = "Captains Regent"
+jobtitle = "Kapten Regent"
 
 [stats]
-Motto: = "Libertas."
-National Anthem: = "National Anthem of the Republic"
-Population: = "33,660 (2022)"
-Area: = "61.2 km2 (23.6 sq mi)"
-Currency: = "Euro"
-GDP: = "$2.872 billion"
-GDP per capita: = "$84,135"
-Biggest Industry: = "Manufacturing and Financial sectors"
-Capital: = "San Marino"
-Largest Settlement: = "Dogana"
-Driving side: =	"right"
-Calling code: = "+378"
+Moto: = "Libertas."
+Lagu Kebangsaan: = "Lagu Kebangsaan Republik"
+Populasi: = "33.660 (2022)"
+Luas Wilayah: = "61,2 km2 (23,6 mil2)"
+Mata Uang: = "Euro"
+PDB: = "$2,872 miliar"
+PDB per kapita: = "$84.135"
+Industri Terbesar: = "Sektor Manufaktur dan Keuangan"
+Ibu Kota: = "San Marino"
+Pemukiman Terbesar: = "Dogana"
+Sisi Mengemudi: = "kanan"
+Kode Telepon: = "+378"

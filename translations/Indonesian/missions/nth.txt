@@ -1,28 +1,19 @@
 [config]
-name  = nth
-guiname = "Netherlands"
-description = "The Netherlands, informally Holland, is a country located in Western Europe with territories in the Caribbean. It is the largest of four constituent countries of the Kingdom of the Netherlands. In Europe, the Netherlands consists of twelve provinces, bordering Germany to the east, Belgium to the south, and the North Sea to the northwest, with maritime borders in the North Sea with those countries and the United Kingdom. In the Caribbean, it consists of three special municipalities: the islands of Bonaire, Sint Eustatius and Saba."
+name = nth
+guiname = "Belanda"
+description = "Belanda, secara informal disebut Holland, adalah negara yang terletak di Eropa Barat dengan wilayah di Karibia. Ini adalah negara terbesar dari empat negara konstituen Kerajaan Belanda. Di Eropa, Belanda terdiri dari dua belas provinsi, berbatasan dengan Jerman di timur, Belgia di selatan, dan Laut Utara di barat laut, dengan batas maritim di Laut Utara bersama negara-negara tersebut dan Inggris. Di Karibia, terdiri dari tiga munisipalitas khusus: pulau Bonaire, Sint Eustatius, dan Saba."
 
-jobtitle = "Monarch"
+jobtitle = "Monarki"
 
 [stats]
-National Anthem: = "I will maintain"
-Population: = "17.4 million (2020)"	
-Area: = "41,865 km2 (16,164 sq mi)"
-Currency: = "Euro (EUR)"
-GDP: = "$1.012 (~EUR844452000000.00 EUR)"
-GDP per capita: = "$58,003 (~EUR48980.75 EUR)"
-Democracy Index: = "~9.66/10 (9st)"
-Biggest Industry: = "Agriculture And Food Industry"
-Capital And Largest City: = "Amsterdam"
-Driving side: =	"Right"
-Calling code: = "+31"
-
-
-
-
-
-
-
-
-
+Lagu Kebangsaan: = "I will maintain"
+Populasi: = "17,4 juta (2020)"
+Luas Wilayah: = "41.865 km2 (16.164 mil2)"
+Mata Uang: = "Euro (EUR)"
+PDB: = "$1,012 triliun (~EUR 844.452.000.000,00 EUR)"
+PDB per kapita: = "$58.003 (~EUR 48.980,75 EUR)"
+Indeks Demokrasi: = "~9,66/10 (peringkat 9)"
+Industri Terbesar: = "Pertanian dan Industri Makanan"
+Ibu Kota dan Kota Terbesar: = "Amsterdam"
+Sisi Mengemudi: = "kanan"
+Kode Telepon: = "+31"

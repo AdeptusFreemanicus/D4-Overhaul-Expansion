@@ -1,21 +1,21 @@
 [config]
-name  = png
-guiname = "Independent State of Papua New Guinea"
-description = "Papua New Guinea, officially the Independent State of Papua New Guinea, is a country in Oceania that comprises the eastern half of the island of New Guinea and its offshore islands in Melanesia (a region of the southwestern Pacific Ocean north of Australia). Its capital, located along its southeastern coast, is Port Moresby. It is the world's third largest island country with an area of 462,840 km2 (178,700 sq mi).
+name = png
+guiname = "Negara Merdeka Papua Nugini"
+description = "Papua Nugini, secara resmi Negara Merdeka Papua Nugini, adalah sebuah negara di Oseania yang mencakup separuh timur pulau Nugini dan pulau-pulau lepas pantainya di Melanesia (wilayah Samudra Pasifik barat daya utara Australia). Ibu kotanya, yang terletak di sepanjang pantai tenggara, adalah Port Moresby. Negara ini merupakan negara kepulauan terbesar ketiga di dunia dengan luas 462.840 km2 (178.700 mil2)."
 
-jobtitle = "Prime Minister"
+jobtitle = "Perdana Menteri"
 
 [stats]
-Motto: = "Unity in diversity"
-National Anthem: = "O Arise, All You Sons"
-Royal anthem = "God Save the Queen"
-Population: = "8.9 million (2020)"
-Area: = "462,840 km2 (178,700 sq mi)"
-Currency: = "Kina (PGK)"
-GDP: = "$32.382 billion"
-GDP per capita: = "$3,764"
-Democracy Index: = "~6.10/10 (70th)"
-Biggest Industry: = "Agriculture"
-Capital And Largest City: = "Port Moresby"
-Driving side: =	"Left"
-Calling code: = "+675"
+Moto: = "Persatuan dalam keberagaman"
+Lagu Kebangsaan: = "Bangkitlah, Hai Putra Putri"
+Lagu Kerajaan: = "God Save the Queen"
+Populasi: = "8,9 juta (2020)"
+Luas Wilayah: = "462.840 km2 (178.700 mil2)"
+Mata Uang: = "Kina (PGK)"
+PDB: = "$32,382 miliar"
+PDB per kapita: = "$3.764"
+Indeks Demokrasi: = "~6,10/10 (peringkat 70)"
+Industri Terbesar: = "Pertanian"
+Ibu Kota dan Kota Terbesar: = "Port Moresby"
+Sisi Mengemudi: = "kiri"
+Kode Telepon: = "+675"

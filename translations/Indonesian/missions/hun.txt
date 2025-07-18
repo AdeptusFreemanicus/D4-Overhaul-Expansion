@@ -1,18 +1,19 @@
 [config]
-name  = hun
-guiname = "Hungary"
-description = "Hungary is a country in Central Europe. Spanning 93,030 square kilometres (35,920 sq mi) in the Carpathian Basin, it borders Slovakia to the north, Ukraine to the northeast, Romania to the east and southeast, Serbia to the south, Croatia and Slovenia to the southwest, and Austria to the west. With about 10 million inhabitants, Hungary is a medium-sized member state of the European Union. The official language is Hungarian, which is the most widely spoken Uralic language in the world, and among the few non-Indo-European languages to be widely spoken in Europe. Hungary's capital and largest city is Budapest; other major urban areas include Debrecen, Szeged, Miskolc, Pécs, and Győr."
+name = hun
+guiname = "Hongaria"
+description = "Hongaria adalah sebuah negara di Eropa Tengah. Dengan luas 93.030 kilometer persegi (35.920 mil persegi) di Cekungan Carpathian, negara ini berbatasan dengan Slowakia di utara, Ukraina di timur laut, Rumania di timur dan tenggara, Serbia di selatan, Kroasia dan Slovenia di barat daya, serta Austria di barat. Dengan sekitar 10 juta penduduk, Hongaria adalah anggota negara berukuran sedang di Uni Eropa. Bahasa resmi adalah bahasa Hongaria, yang merupakan bahasa Uralik paling luas digunakan di dunia, dan salah satu dari sedikit bahasa non-Indo-Eropa yang banyak dipakai di Eropa. Ibu kota sekaligus kota terbesar adalah Budapest; daerah perkotaan besar lainnya termasuk Debrecen, Szeged, Miskolc, Pécs, dan Győr."
 
-jobtitle = "President"
+jobtitle = "Presiden"
 
 [stats]
-National Anthem: = "Hymn"
-Population: = "10 million (2020)"
-Area: = "93,030 km2 (35,920 sq mi)"
-Currency: = "Forint (HUF)"
-GDP: = "$149.939 billion (Ft44,158,764,279,374.45 HUF)"
-GDP per capita: = "$15,373 (Ft4,544,164.16 HUF)"
-Democracy Index: = "6.63/10 (55th)"
-Biggest Industry: = "Electronics"
-Capital And Largest City: = "Budapest"
-Driving side: =	"right"
+Lagu Kebangsaan: = "Himne"
+Populasi: = "10 juta (2020)"
+Luas Wilayah: = "93.030 km2 (35.920 mil2)"
+Mata Uang: = "Forint (HUF)"
+PDB: = "$149,939 miliar (Ft44.158.764.279.374,45 HUF)"
+PDB per kapita: = "$15.373 (Ft4.544.164,16 HUF)"
+Indeks Demokrasi: = "6,63/10 (peringkat 55)"
+Industri Terbesar: = "Elektronik"
+Ibu Kota dan Kota Terbesar: = "Budapest"
+Sisi Mengemudi: = "kanan"
+

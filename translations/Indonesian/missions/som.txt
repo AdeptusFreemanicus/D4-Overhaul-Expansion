@@ -1,18 +1,18 @@
 [config]
-name  = som
-guiname = "Federal Republic of Somalia"
-description = "Somalia, officially the Federal Republic of Somalia is a country in the Horn of Africa. It is bordered by Ethiopia to the west, Djibouti to the northwest, the Gulf of Aden to the north, the Indian Ocean to the east, and Kenya to the southwest. Somalia has the longest coastline on Africa's mainland. Its terrain consists mainly of plateaus, plains, and highlands. Hot conditions prevail year-round, with periodic monsoon winds and irregular rainfall, Somalia has an estimated population of around 15 million and has been described as Africa's most culturally homogeneous country."
+name = som
+guiname = "Republik Federal Somalia"
+description = "Somalia, secara resmi Republik Federal Somalia, adalah sebuah negara di Tanduk Afrika. Negara ini berbatasan dengan Ethiopia di barat, Djibouti di barat laut, Teluk Aden di utara, Samudra Hindia di timur, dan Kenya di barat daya. Somalia memiliki garis pantai terpanjang di daratan Afrika. Medannya terutama terdiri dari dataran tinggi, dataran, dan perbukitan. Kondisi panas berlangsung sepanjang tahun, dengan angin muson periodik dan curah hujan yang tidak teratur. Somalia diperkirakan memiliki populasi sekitar 15 juta dan dikenal sebagai negara dengan budaya paling homogen di Afrika."
 
-jobtitle = "President"
+jobtitle = "Presiden"
 
 [stats]
-National Anthem: = "Qolobaa Calankeed"
-Population: = "15 million people (2020)"
-Area: = "637,657 km2 (246,201 sq mi)"
-Currency: = "Somali shilling (SOS)"
-GDP: = "$5.218 billion"
-GDP per capita: = "$348"
-Democracy Index: = "?/10 (?th) Unknown"
-Biggest Industry: = "Agriculture"
-Capital And Largest City: = "Mogadishu"
-Driving side: =	"right"
+Lagu Kebangsaan: = "Qolobaa Calankeed"
+Populasi: = "15 juta jiwa (2020)"
+Luas Wilayah: = "637.657 km2 (246.201 mil2)"
+Mata Uang: = "Shilling Somalia (SOS)"
+PDB: = "$5,218 miliar"
+PDB per kapita: = "$348"
+Indeks Demokrasi: = "?/10 (peringkat ?), Tidak diketahui"
+Industri Terbesar: = "Pertanian"
+Ibukota dan Kota Terbesar: = "Mogadishu"
+Sisi Mengemudi: = "kanan"

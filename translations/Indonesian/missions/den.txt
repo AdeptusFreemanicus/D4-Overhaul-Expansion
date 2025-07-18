@@ -1,20 +1,20 @@
 [config]
-name  = den
-guiname = "Kingdom of Denmark"
-description = "Denmark, officially the Kingdom of Denmark, is a Nordic country in Northern Europe. European Denmark, which is the southernmost of the Scandinavian countries, consists of a peninsula, Jutland, and an archipelago of 443 named islands, with the largest being Zealand, Funen and the North Jutlandic Island. The islands are characterised by flat, arable land and sandy coasts, low elevation and a temperate climate. Denmark lies southwest of Sweden and south of Norway, and is bordered to the south by Germany. The Kingdom of Denmark is constitutionally a unitary state comprising metropolitan Denmark and the two autonomous territories in the North Atlantic Ocean: the Faroe Islands and Greenland."
+name = den
+guiname = "Kerajaan Denmark"
+description = "Denmark, secara resmi Kerajaan Denmark, adalah negara Nordik di Eropa Utara. Denmark Eropa, yang merupakan negara paling selatan di Skandinavia, terdiri dari semenanjung Jutlandia dan gugusan 443 pulau bernama, dengan yang terbesar adalah Zealand, Funen, dan Pulau Jutlandia Utara. Pulau-pulau ini memiliki ciri tanah datar yang dapat dibudidayakan dan pantai berpasir, elevasi rendah, serta iklim sedang. Denmark terletak di barat daya Swedia dan di selatan Norwegia, serta berbatasan di selatan dengan Jerman. Kerajaan Denmark secara konstitusional adalah negara kesatuan yang terdiri dari Denmark metropolitan dan dua wilayah otonom di Samudra Atlantik Utara: Kepulauan Faroe dan Greenland."
 
-jobtitle = "Monarch"
+jobtitle = "Monarki"
 
 [stats]
-National Anthem: = "There is a lovely country"
-Royal Anthem: = "King Christian stood by the lofty mast"
-Population: = "5,8 million (2021 est)"
-Area: = "42,933 km2 (16,577 sq mi)"
-Currency: = "Danish Krone (DKK)"
-GDP: = "$370 billion"
-GDP per capita: = "$63,829"
-Democracy Index: = "~9.15/10 (7th)"
-Biggest Industry: = "Agriculture/Tourism"
-Capital And Largest City: = "Copenhagen"
-Driving side: =	"Right"
-Calling code: = "+45"
+Lagu Kebangsaan: = "Ada sebuah negara yang indah"
+Lagu Kerajaan: = "Raja Christian berdiri di tiang tinggi"
+Populasi: = "5,8 juta (perkiraan 2021)"
+Luas Wilayah: = "42.933 km2 (16.577 mil2)"
+Mata Uang: = "Krone Denmark (DKK)"
+PDB: = "$370 miliar"
+PDB per kapita: = "$63.829"
+Indeks Demokrasi: = "~9,15/10 (peringkat 7)"
+Industri Terbesar: = "Pertanian/Pariwisata"
+Ibu Kota dan Kota Terbesar: = "Kopenhagen"
+Sisi Mengemudi: = "kanan"
+Kode Telepon: = "+45"

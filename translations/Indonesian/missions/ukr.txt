@@ -1,18 +1,19 @@
 [config]
-name  = ukr
-guiname = "Ukraine"
-description = "Ukraine is an Eastern European country. It is the second largest country in Europe after Russia, with which it borders to the east and north-east. Ukraine also shares borders with Belarus to the north; Poland, Slovakia and Hungary to the west; Romania and Moldova to the south; and has a coastline along the Azov and Black Seas. It covers an area of 603,628 km2 (233,062 square miles), with a population of 41.4 million, and is the eighth most populous country in Europe. "
-jobtitle = "President"
+name = ukr
+guiname = "Ukraina"
+description = "Ukraina adalah sebuah negara di Eropa Timur. Ini adalah negara terbesar kedua di Eropa setelah Rusia, yang berbatasan di sebelah timur dan timur laut. Ukraina juga berbatasan dengan Belarusia di utara; Polandia, Slowakia, dan Hungaria di barat; Rumania dan Moldova di selatan; dan memiliki garis pantai di sepanjang Laut Azov dan Laut Hitam. Luas wilayahnya adalah 603.628 km² (233.062 mil²), dengan populasi sebesar 41,4 juta jiwa, menjadikannya negara kedelapan terpadat di Eropa."
+
+jobtitle = "Presiden"
 
 [stats]
-National Anthem: = "State Anthem of Ukraine"
-Population: = "41.3 million (est 2021)"
-Area: = "603,628 km2 (233,062 square miles)"
-Currency: = "Hryvnia (₴) (UAH)"
-GDP: = "$429.947 billion"
-GDP per capita: = "$10,310"
-Democracy index: = "~5.81/10 (4th)"
-Largest Industry: = "Mining Industry"
-Capital and largest city: = "Kyiv"
-Driver side: = "right"
-Phone prefix: = "+380"
+Lagu Kebangsaan: = "Lagu Kebangsaan Negara Ukraina"
+Populasi: = "41,3 juta jiwa (perkiraan 2021)"
+Luas Wilayah: = "603.628 km² (233.062 mil²)"
+Mata Uang: = "Hryvnia (₴) (UAH)"
+PDB: = "$429,947 miliar"
+PDB per kapita: = "$10.310"
+Indeks Demokrasi: = "~5,81/10 (peringkat ke-4)"
+Industri Terbesar: = "Industri Pertambangan"
+Ibu Kota dan Kota Terbesar: = "Kyiv"
+Sisi Mengemudi: = "kanan"
+Kode Telepon: = "+380"

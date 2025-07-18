@@ -1,18 +1,19 @@
 [config]
-name  = rom
-guiname = "Romania"
-description = "Romania is a country at the confluence of Central, Eastern and South Eastern Europe. It borders Bulgaria to the south, Ukraine to the north, Hungary to the west, Serbia to the south-west, Moldova to the east and the Black Sea to the south-east. It has a predominantly temperate-continental climate and an area of 238,397 km2 (92,046 square miles), with a population of approximately 19 million. Romania is the twelfth largest country in Europe and the sixth most populous member state of the European Union. Its capital and largest city is Bucharest; other important urban areas include Cluj-Napoca, Timișoara, Iași, Constanța, Craiova, Brașov and Galați."
-jobtitle = "President"
+name = rom
+guiname = "Rumania"
+description = "Rumania adalah negara yang terletak di persimpangan Eropa Tengah, Timur, dan Tenggara. Negara ini berbatasan dengan Bulgaria di selatan, Ukraina di utara, Hungaria di barat, Serbia di barat daya, Moldova di timur, dan Laut Hitam di tenggara. Rumania memiliki iklim kontinental sedang dan luas wilayah 238.397 km2 (92.046 mil2), dengan populasi sekitar 19 juta jiwa. Rumania adalah negara terbesar kedua belas di Eropa dan negara anggota Uni Eropa dengan populasi terbanyak keenam. Ibu kota sekaligus kota terbesarnya adalah Bucharest; kota-kota penting lainnya termasuk Cluj-Napoca, Timișoara, Iași, Constanța, Craiova, Brașov, dan Galați."
+
+jobtitle = "Presiden"
 
 [stats]
-National anthem: = "Wake up, Romanian"
-Population: = "19.1 million (east 2021)"
-Area: = "238,397 km2 (92,046 sq mi)"
-Currency: = "Romanian Leu (RON)"
-GDP: = "$636.481 billion"
-GDP per capita: = "$32,950"
-Democracy index: = "~76.40 / 10 (62 °)"
-Largest Industry: = "Agriculture"
-Capital and largest city: = "Bucharest"
-Driver side: = "Right"
-Phone prefix: = "+40"
+Lagu Kebangsaan: = "Bangun, Warga Rumania"
+Populasi: = "19,1 juta (perkiraan 2021)"
+Luas Wilayah: = "238.397 km2 (92.046 mil2)"
+Mata Uang: = "Leu Rumania (RON)"
+PDB: = "$636,481 miliar"
+PDB per kapita: = "$32.950"
+Indeks Demokrasi: = "~7,64/10 (peringkat 62)"
+Industri Terbesar: = "Pertanian"
+Ibu Kota dan Kota Terbesar: = "Bucharest"
+Sisi Mengemudi: = "kanan"
+Kode Telepon: = "+40"

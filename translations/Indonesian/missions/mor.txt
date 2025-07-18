@@ -1,21 +1,21 @@
 [config]
-name  = mor
-guiname = "Kingdom of Morocco"
-description = "Morocco officially the Kingdom of Morocco, is a country in the Maghreb region of North Africa. It overlooks the Mediterranean Sea to the north and the Atlantic Ocean to the west, and has land borders with Algeria to the east, and the disputed territory of Western Sahara to the south. It spans an area of 446,300 km2 (172,300 sq mi) or 716,550 km2 (276,660 sq mi), and with a population of roughly 37 million Citizens."
+name = mor
+guiname = "Kerajaan Maroko"
+description = "Maroko, secara resmi Kerajaan Maroko, adalah sebuah negara di kawasan Maghreb Afrika Utara. Negara ini menghadap Laut Mediterania di utara dan Samudra Atlantik di barat, serta berbatasan darat dengan Aljazair di timur dan wilayah yang disengketakan Sahara Barat di selatan. Maroko memiliki luas wilayah sekitar 446.300 km2 (172.300 mil2) dan populasi sekitar 37 juta jiwa."
 
-jobtitle = "King"
+jobtitle = "Raja"
 
 [stats]
-Motto: = "God, Country, King."
-National Anthem: = "Cherifian Anthem"
-Population: = "37.9 million (2022)"
-Area: = "446,300 km2 (172,300 sq mi)"
-Currency: = "Moroccan Dirham (MAD)"
-GDP: = "$385 billion"
-GDP per capita: = "$10,408"
-Democracy Index: = "5.04/10 (93rd)"
-Biggest Industry: = "Agriculture industry"
-Capital: = "Rabat"
-Largest City: = "Casablanca"
-Driving side: =	"right"
-Calling code: = "+212"
+Moto: = "Tuhan, Tanah Air, Raja."
+Lagu Kebangsaan: = "Lagu Cherifian"
+Populasi: = "37,9 juta (2022)"
+Luas Wilayah: = "446.300 km2 (172.300 mil2)"
+Mata Uang: = "Dirham Maroko (MAD)"
+PDB: = "$385 miliar"
+PDB per kapita: = "$10.408"
+Indeks Demokrasi: = "5,04/10 (peringkat 93)"
+Industri Terbesar: = "Industri Pertanian"
+Ibu Kota: = "Rabat"
+Kota Terbesar: = "Casablanca"
+Sisi Mengemudi: = "kanan"
+Kode Telepon: = "+212"
