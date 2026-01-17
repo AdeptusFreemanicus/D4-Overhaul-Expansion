@@ -6,7 +6,7 @@ description = "Peru, officially the Republic of Peru, is a country in western So
 jobtitle = "President"
 
 [stats]
-Completeness: = "2/5"
+Completeness: = "3/5"
 Motto: = "Firm and Happy for the Union"
 National Anthem: = "National Anthem of Peru"
 Population: = "32.8 million people (2020)"

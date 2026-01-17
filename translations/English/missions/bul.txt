@@ -6,13 +6,13 @@ description = "Bulgaria, officially the Republic of Bulgaria, is a country in So
 jobtitle = "President"
 
 [stats]
-Completeness: = "2/5"
+Completeness: = "3/5"
 Population: = "6,437,360 million (2024 est)"
 Area: = "110,993.6 km2 (42,854.9 sq mi)"
 Currency: = "Tögrög (MNT)"
 GDP: = "$264 billion"
 GDP per capita: = "$41,901"
 Largest Industry: = "Services Sector"
-Capital and largest city: = "Ulaanbaatar"
+Capital and largest city: = "Sofia"
 Driving side: = "right"
 Phone prefix: = "+359"

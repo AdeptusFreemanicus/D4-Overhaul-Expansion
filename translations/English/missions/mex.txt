@@ -6,7 +6,7 @@ description = "Mexico, officially the United Mexican States, is a country in the
 jobtitle = "President"
 
 [stats]
-Completeness: = "2/5"
+Completeness: = "3/5"
 National Anthem: = "The Homeland is First"
 Population: = "1.260 million (2020)"
 Area: = "1,972,550 km2 (761,610 sq mi)"

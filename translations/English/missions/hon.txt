@@ -6,7 +6,7 @@ description = "Hong Kong, officially the Hong Kong Special Administrative Region
 jobtitle = "Chief Executive"
 
 [stats]
-Completeness: = "2/5"
+Completeness: = "3/5"
 Population: = "7,413,070 million (2021)"
 Area: = "2,754.97 km2 (1,063.70 sq mi)"
 Currency: = "Hong Kong dollar (HK$) (HKD)"

@@ -19,6 +19,14 @@ minor_parties = 3
 difficulty = 3
 
 [policies]
+_prereq_has_coast = 1
+_prereq_sovereign_currency = 1
+_prereq_eu = 1
+_prereq_nato = 1
+
+interest_rate_eu= 0.07
+un_nation_status= 0.8
+
 AbortionLaw = 0.3
 AgricultureSubsidies = 0.45
 AirlineTax = 0.2
@@ -107,14 +115,6 @@ UnemployedBenefit = 0.62
 unexplainedwealth = 0.5
 WinterFuelSubsidy = 0.55
 WorkSafetyLaw = 0.69
-
-interest_rate_eu= 0.07
-un_nation_status= 0.8
-
-_prereq_has_coast = 1
-_prereq_sovereign_currency = 1
-_prereq_eu = 1
-_prereq_nato = 1
 
 
 [options]

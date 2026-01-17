@@ -19,6 +19,15 @@ minor_parties = 3
 difficulty = 4
 
 [policies]
+_prereq_sad
+_prereq_land_border = 1
+_prereq_sovereign_currency = 1
+_prereq_has_coast = 1
+
+interest_rate= 0.09
+sad= 0.8
+un_nation_status= 0.0
+
 AbortionLaw = 0.75
 AirlineTax = 0.1
 AlcoholLaw = 0.50
@@ -71,14 +80,6 @@ StatePostService = 0.8
 StateSchools = 0.5
 StateWater  = 0.67
 WorkSafetyLaw = 0.67
-
-interest_rate= 0.09
-sad= 0.8
-un_nation_status= 0.0
-
-_prereq_sad
-_prereq_land_border = 1
-_prereq_sovereign_currency = 1
 
 [options]
 MULTIPLEPARTIES

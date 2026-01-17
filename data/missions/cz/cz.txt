@@ -20,6 +20,15 @@ difficulty = 2
 
 
 [policies]
+_prereq_mining_industry = 1
+_prereq_sovereign_currency = 1
+_prereq_eu = 1
+_prereq_nato = 1
+_prereq_has_coast = 1
+
+interest_rate_eu= 0.08
+un_nation_status= 0.8
+
 AdultEducationSubsidies = 0.5
 AgricultureSubsidies = 0.40
 AlcoholLaw = 0.4
@@ -104,14 +113,6 @@ TobaccoTax = 0.2
 UnemployedBenefit = 0.70
 UniversityGrants = 0.5
 WorkSafetyLaw = 0.6
-
-interest_rate_eu= 0.08
-un_nation_status= 0.8
-
-_prereq_mining_industry = 1
-_prereq_sovereign_currency = 1
-_prereq_eu = 1
-_prereq_nato = 1
 
 
 [options]

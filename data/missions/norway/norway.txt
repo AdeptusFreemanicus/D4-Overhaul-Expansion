@@ -18,6 +18,17 @@ wealth_mod = 3.0
 
 
 [policies]
+_prereq_has_coast = 1
+_prereq_mining_industry = 1
+_prereq_royal_family = 1
+_prereq_land_border = 1
+_prereq_sovereign_currency = 1
+_prereq_nato = 1
+
+wt = 0.05
+interest_rate= 0.02
+un_nation_status= 0.8
+
 AdultEducationSubsidies = 0.25
 AirlineTax = 0.1
 AlcoholLaw = 0.5
@@ -101,17 +112,6 @@ TollRoads = 0.57
 UnemployedBenefit = 0.5
 UniversityGrants = 0.6
 WitnessProtectionProgram = 0.25
-
-wt = 0.05
-interest_rate= 0.02
-un_nation_status= 0.8
-
-_prereq_has_coast = 1
-_prereq_mining_industry = 1
-_prereq_royal_family = 1
-_prereq_land_border = 1
-_prereq_sovereign_currency = 1
-_prereq_nato = 1
 
 
 [options]

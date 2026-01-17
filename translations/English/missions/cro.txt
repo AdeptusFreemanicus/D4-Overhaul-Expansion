@@ -6,7 +6,7 @@ description = "Croatia, officially the Republic of Croatia, is a country located
 jobtitle = "President"
 
 [stats]
-Completeness: = "2/5"
+Completeness: = "3/5"
 National Anthem: = "Our Beautiful Homeland"
 Population: = "3.8 million (2022 est)"
 Area: = "56,594 km2 (21,851 sq mi)"

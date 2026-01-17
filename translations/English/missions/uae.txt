@@ -6,7 +6,7 @@ description = "The United Arab Emirates, or simply the Emirates, is a country in
 jobtitle = "President"
 
 [stats]
-Completeness: = "2.1/5"
+Completeness: = "3/5"
 National Anthem: = "Long Live My Country"
 Population: = "9,282,410 people (2020 est)"
 Area: = "83,600 km2 (32,300 sq mi)"

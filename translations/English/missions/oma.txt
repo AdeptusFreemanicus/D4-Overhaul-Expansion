@@ -6,7 +6,7 @@ description = "Oman, officially the Sultanate of Oman, is a country located in W
 jobtitle = "Sultan"
 
 [stats]
-Completeness: = "2/5"
+Completeness: = "3/5"
 National Anthem: = "Sultanic Salutation"
 Population: = "4.5 million (2021)"
 Area: = "309,500 km2 (119,500 sq mi)"

@@ -6,7 +6,7 @@ description = "Estonia, officially the Republic of Estonia, is a country in nort
 jobtitle = "President"
 
 [stats]
-Completeness: = "2/5"
+Completeness: = "3/5"
 National Anthem: = "My Fatherland, My Happiness and Joy"
 Population: = "1.328 million (2018)"
 Area: = "47,549 km2"

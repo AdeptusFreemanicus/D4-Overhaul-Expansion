@@ -6,7 +6,7 @@ description = "Papua New Guinea, officially the Independent State of Papua New G
 jobtitle = "Prime Minister"
 
 [stats]
-Completeness: = "2/5"
+Completeness: = "3/5"
 Motto: = "Unity in diversity"
 National Anthem: = "O Arise, All You Sons"
 Royal anthem = "God Save the Queen"

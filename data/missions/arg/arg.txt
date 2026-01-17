@@ -25,6 +25,11 @@ _prereq_mining_industry = 1
 _prereq_deadly_animals = 1
 _prereq_indigenous = 1
 _prereq_sovereign_currency = 1
+_prereq_arg = 1
+_prereq_has_coast = 1
+
+un_nation_status= 0.3
+arg_retentions= 0.5
 
 AbortionLaw = 0.5
 AdultEducationSubsidies = 0.55
@@ -124,8 +129,6 @@ UnemployedBenefit = 0.6
 UniversityGrants = 0.25
 WorkSafetyLaw = 0.67
 YoungEntrepreneurScheme = 0.5
-
-un_nation_status= 0.3
 
 [options]
 MULTIPLEPARTIES

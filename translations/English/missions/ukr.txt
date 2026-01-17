@@ -5,7 +5,7 @@ description = "Ukraine is an Eastern European country. It is the second largest 
 jobtitle = "President"
 
 [stats]
-Completeness: = "2/5"
+Completeness: = "3/5"
 National Anthem: = "State Anthem of Ukraine"
 Population: = "41.3 million (est 2021)"
 Area: = "603,628 km2 (233,062 square miles)"

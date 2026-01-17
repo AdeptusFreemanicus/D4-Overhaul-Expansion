@@ -3,10 +3,10 @@ name  = sau
 guiname = "Kingdom of Saudi Arabia"
 description = "Saudi Arabia, officially the Kingdom of Saudi Arabia, is a country on the Arabian Peninsula in Western Asia. It has a land area of about 2,150,000 km2 (830,000 sq mi), making it the fifth-largest country in Asia, the second-largest in the Arab world, and the largest in Western Asia. It is bordered by the Red Sea to the west, Jordan, Iraq, and Kuwait to the north, the Persian Gulf, Qatar, and the United Arab Emirates to the east, Oman to the southeast, and Yemen to the south. Bahrain is an island country off the east coast. The Gulf of Aqaba in the northwest separates Saudi Arabia from Egypt. Saudi Arabia is the only country with a coastline along both the Red Sea and the Persian Gulf, and most of its terrain consists of arid desert, lowland, steppe, and mountains. Its capital and largest city is Riyadh. The country is home to Mecca and Medina, the two holiest cities in Islam."
 
-jobtitle = "King"
+jobtitle = "Crown Prince"
 
 [stats]
-Completeness: = "2.1/5"
+Completeness: = "3/5"
 Motto: = "There is no god but God; Muhammad is the messenger of God."
 National Anthem: = "National Anthem of Saudi Arabia"
 Population: = "34,218,169 people (2019 est)"

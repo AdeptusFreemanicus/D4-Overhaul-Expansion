@@ -6,7 +6,7 @@ description = "The Philippines, officially the Republic of the Philippines, is a
 jobtitle = "President"
 
 [stats]
-Completeness: = "2/5"
+Completeness: = "3/5"
 Motto: = "For God, People, Nature and Country"
 National Anthem: = "Chosen Land"
 Population: = "109 Million People (2020)"

@@ -25,6 +25,9 @@ _prereq_land_border = 1
 _prereq_sovereign_currency = 1
 _prereq_nuclear_tech = 1
 
+interest_rate= 0.04
+un_nation_status= 0.8
+
 AbortionLaw = 0.55
 AdultEducationSubsidies = 0.5
 AgricultureSubsidies = 0.7
@@ -155,9 +158,6 @@ UnemployedBenefit = 0.4
 WaterCannon = 0.1
 WorkSafetyLaw = 0.35
 YoungEntrepreneurScheme = 1.0
-
-interest_rate= 0.04
-un_nation_status= 0.8
 
 [options]
 

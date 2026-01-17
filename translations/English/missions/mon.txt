@@ -6,7 +6,7 @@ description = "Mongolia is a landlocked country in East Asia, bordered by Russia
 jobtitle = "President"
 
 [stats]
-Completeness: = "2/5"
+Completeness: = "3/5"
 Population: = "3,504,741 million (2023 est)"
 Area: = "1,564,116 km2 (603,909 sq mi)"
 Currency: = "Tögrög (MNT)"

@@ -2,7 +2,6 @@
 #,revenueservice,수익 서비스,"세입 서비스는 사람들이 노동자를 제때 지급하도록 합니다. 많은 사람들이 하는 중산층과 하층민에게 더 많은 배상을 주고 말하지만 다른 사람들은 그렇지 않다고 말합니다. 옵."
 #,freetaxpreparationclasses,무료 세금 준비 수업,"세금 납부 방법과 매우 모든 문제에 대해 누구에게나 강의를 제공함으로써 모든 사람과 가장 중요한 것은 청소년이 납부 방법을 알고 있어야 하며 의무적으로 납부해야 하는 문제를 끝까지 할 수 있어야 합니다."
 #,pandemicpreparationfund,PPF,"팬데믹한 기금의 PPF 약은 우리나라를 위험에 빠뜨리는 원인부터 민간인과 정부 관리를 보호하는 데 사용됩니다."
-#,sas,"주보호소", "동물보호소를 제공하면 길고양이에게 도움이 필요한 동물에게 세탁을 해주고, 기고, 훈련을 받을 수 있는 임시거처를 제공합니다.",
 #,sac,"국가 통제", "동물 통제 서비스 또는 경찰에 자금을 지원하고 운영하면 제어 책임자가 전기 자동차, 위험 자동차 및 도움이 필요한 동물을 처리하고 자동차 보호소 또는 기타 자동차 보호소로 감시할 수 있습니다. 보호 시설 .",
 #,so,"주고아원", "국가가 건설하고 관리하는 고아원은 도움과 보살핌이 필요한 고아와 노숙자 미성년자를 보육금자리를 제공합니다.",
 #,pt,"경찰 훈련", "우리가 더 나은 훈련을 제공하는 우리는 더 잘하고 있습니다!",
@@ -24,3 +23,9 @@
 #,sofaz,"State Oil Fund of Azerbaijan","The State Oil Fund of Azerbaijan (SOFAZ) was established to manage oil revenues and invest in the country’s long-term development."
 #,sharia,"Sharia Law","Sharia Law is broadly the conservative interpretation of Islamic law, such as systematic exclusion and control of women, moral policing via dedicated religious bodies, madrassas and propaganda enforcing institutions, amoung others."
 #,burj,"Burj Al-Khalifa","The Burj Khalifa is not just the tallest building in the world—it's a towering symbol of national ambition, technological prowess, and economic aspiration. Constructing or maintaining such a megastructure represents a massive investment in prestige infrastructure, tourism, and high-end urban development. While the costs—financial, environmental, and logistical—are considerable, the benefits to global reputation, immigration appeal, and high-skill job creation can be transformative."
+#,afg_opium,"Opium Production","Opium and other drugs like cannabis have long been a source of income in Afghanistan, from small individually owned poppy fields to state funded farms and logistical lines."
+#,arg_retentions,"Agricultural Exports Tax","The Argentine state relies heavily on taxing agricultural exports (like soy, wheat, corn) to fund the government and keep domestic food prices low. This creates an Argentine political loop: The government needs the money to avoid default, but increasing this tax causes massive strikes ("Tractorazos") in the countryside and stifles foreign investments."
+#,bra_amazon,"Amazon Sovereignty","Amazon Sovereignty represents the tension between using the Amazon rainforest for economic expansion (like mining, logging, cattle) versus preserving it for international approval and climate health."
+#,new_capital_city,"New Administrative Capital","Building a capital needs a large investment, both monetary and political, but once complete, the new capital will bring in cash in the form of tax and other benefits."
+#,canal_project,"Strategic Shipping Canal","A massive terraforming project to create a new trade route through your country (similar to the Panama, Suez, or the proposed Kra Isthmus canals). It destroys local ecosystems and angers farmers whose land is seized, but once finished, it generates massive transit fees and creates a trade boom."
+#,artificial_island_resort,"Artificial Island Resort","A massive reclaiming project (similar to the Palm Jumeirah in Dubai) to create luxury hotels, beaches, and high-end real estate. It creates a massive Tourism and GDP boom but is ecologically devastating and increases inequality (as it caters exclusively to the super-rich)."

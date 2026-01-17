@@ -6,7 +6,7 @@ description = "Lithuania, officially the Republic of Lithuania, is a country in 
 jobtitle = "President"
 
 [stats]
-Completeness: = "2/5"
+Completeness: = "3/5"
 National Anthem: = "National Hymn"
 Population: = "2,795,680 million (2021 est)"
 Area: = "65,300 km2 (25,200 sq mi)"

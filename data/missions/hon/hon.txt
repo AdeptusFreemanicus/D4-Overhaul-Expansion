@@ -20,6 +20,16 @@ difficulty = 2
 
 
 [policies]
+_prereq_mining_industry = 1
+_prereq_deadly_animals = 1
+_prereq_poachers = 1
+_prereq_indigenous = 1
+_prereq_sovereign_currency = 1
+_prereq_has_coast = 1
+
+interest_rate= 0.02
+un_nation_status= 0
+
 AbortionLaw = 0.75
 AdultEducationSubsidies = 0.55
 AlcoholAwarenessCampaign = 0.75
@@ -121,16 +131,6 @@ UnemployedBenefit = 0.75
 UniversityGrants = 0.25
 WorkSafetyLaw = 0.67
 YoungEntrepreneurScheme = 0.5
-
-interest_rate= 0.02
-un_nation_status= 0
-
-_prereq_mining_industry = 1
-_prereq_deadly_animals = 1
-_prereq_poachers = 1
-_prereq_indigenous = 1
-_prereq_sovereign_currency = 1
-
 
 [options]
 MULTIPLEPARTIES

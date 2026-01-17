@@ -6,7 +6,7 @@ description = "Scotland is a country that is part of the United Kingdom. Coverin
 jobtitle = "Monarch"
 
 [stats]
-Completeness: = "2/5"
+Completeness: = "3/5"
 National Anthem: = "In my defence God me defend"
 Population: = "5,463,300 people (2019 est)"
 Area: = "77,933 km2 (30,090 sq mi)"

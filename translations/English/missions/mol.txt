@@ -6,7 +6,7 @@ description = "Moldova, officially the Republic of Moldova is a country in Easte
 jobtitle = "President"
 
 [stats]
-Completeness: = "2/5"
+Completeness: = "3/5"
 National Anthem: = "Our language"
 Population: = "2,597,100 million people (2021 est)"
 Area: = "33,843.5 km2 (13,067.0 sq mi)" 

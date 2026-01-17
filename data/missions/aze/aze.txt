@@ -20,6 +20,20 @@ difficulty = 3
 
 
 [policies]
+_prereq_has_coast = 1
+_prereq_sovereign_currency = 1
+_prereq_mining_industry = 1
+_prereq_poachers = 1
+_prereq_land_border = 1
+_prereq_deadly_animals = 1
+_prereq_aze = 1
+_prereq_has_coast = 1
+
+interest_rate= 0.10
+vat= 0.10
+un_nation_status= 0.8
+sofaz= 0.5
+
 AirlineTax = 0.1
 AlcoholLaw = 1
 ArmedPolice = 1
@@ -42,7 +56,7 @@ FaithSchoolSubsidies = 0.10
 GameHunting = 0.5
 HandgunLaws = 0.2
 ImmigrationRules = 0.22
-IncomeTax = 0.40
+IncomeTax = 0.27
 JudiciaryIndependence = 0.3
 JuryTrial = 0.3
 LabourLaws = 0.30
@@ -62,7 +76,7 @@ PrisonRegime = 0.3
 Recycling = 0.3
 RetirementAge = 0.5
 RoadBuilding = 0.2
-SalesTax = 0.20
+SalesTax = 0.32	
 ScienceFunding = 0.05
 SchoolBuses = 0.10
 SocialCare = 0.3
@@ -77,20 +91,6 @@ TobaccoTax = 0.20
 TollRoads = 0.20
 UnemployedBenefit = 0.07
 UniversityGrants = 0.2
-
-interest_rate= 0.10
-vat= 0.10
-un_nation_status= 0.8
-sofaz= 0.5
-
-
-_prereq_has_coast = 1
-_prereq_sovereign_currency = 1
-_prereq_mining_industry = 1
-_prereq_poachers = 1
-_prereq_land_border = 1
-_prereq_deadly_animals = 1
-_prereq_aze
 
 [options]
 MULTIPLEPARTIES

@@ -6,7 +6,7 @@ description = "The Sahrawi Arab Democratic Republic, also known as the Sahrawi R
 jobtitle = "President"
 
 [stats]
-Completeness: = "2.5/5"
+Completeness: = "3/5"
 Motto: = "Freedom, Democracy, Unity."
 National Anthem: = "Oh, Sons of the Sahara!"
 Population: = "500 thousand"

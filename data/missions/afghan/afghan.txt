@@ -20,19 +20,31 @@ difficulty = 5
 
 
 [policies]
-AirlineTax = 0.1
+_prereq_mining_industry = 1
+_prereq_deadly_animals = 1
+_prereq_poachers = 1
+_prereq_sovereign_currency = 1
+_prereq_land_border = 1
+
+_prereq_afg = 1
+
+interest_rate= 0.06
+un_nation_status= 0.8
+afgwerights= 0.3
+sharia= 1
+afg_opium= 0.5
+vat= 0.14
+
+
 AlcoholLaw = 1
 ArmedPolice = 1
 AbortionLaw = 0
 BorderControls = 0.8
-CarTax = 0.20
-CCTVCameras = 0.10
-ChildBenefit = 0.1
+CCTVCameras = 0.2
 CitizenshipTests = 0.50
-CompulsoryFoodLabelling = 0.5
-CompulsorySchoolSports = 0.5
+CompulsoryFoodLabelling = 0.1
 ConsumerRights = 0.1
-CorporationTax = 0.56
+CorporationTax = 0.39
 DisabilityBenefit = 0.1
 DrugEnforcement = 0.7
 ExecutiveTermLength = 1
@@ -41,18 +53,15 @@ FaithSchoolSubsidies = 0.5
 GameHunting = 0.5
 HandgunLaws = 0.2
 ImmigrationRules = 0.22
-IncomeTax = 0.40
-JudiciaryIndependence = 0.1
-JuryTrial = 0.2
+IncomeTax = 0.15
+JudiciaryIndependence = 0.01
 LabourLaws = 0.30
 LegalAid = 0.20
 MaternityLeave = 0.5
-MilitarySpending = 0.7
+MilitarySpending = 0.6
 MinimumWage = 0.20
 Narcotics = 0
 Nationalanthemsinschool = 0.35
-PayrollTax = 0.40
-PetrolTax = 0.15
 PoliceForce = 1
 PollutionControls = 0
 PressFreedom = 0
@@ -60,37 +69,19 @@ PrisonRegime = 0.3
 Recycling = 0.1
 RetirementAge = 0.5
 RoadBuilding = 0.1
-SalesTax = 0.20
 ScienceFunding = 0.05
 SchoolBuses = 0.10
 SelectiveSchooling = 0
 SocialCare = 0.3
-StateBroadcaster = 0.30
-StateHealthService = 0.27
-StatePensions = 0.30
-StatePostService = 0.30
-StateRail = 0.30
+StateBroadcaster = 0.20
+StateHealthService = 0.17
+StatePensions = 0.20
+StatePostService = 0.20
+StateRail = 0.20
 StateSchools = 0.30
-StateWater = 0.30
-TobaccoTax = 0.20
-TollRoads = 0.20
+StateWater = 0.20
+TollRoads = 0.10
 UnemployedBenefit = 0.07
-UniversityGrants = 0.01
-
-interest_rate= 0.06
-un_nation_status= 0.8
-afgwerights= 0.3
-sharia= 1
-
-
-_prereq_mining_industry = 1
-_prereq_deadly_animals = 1
-_prereq_poachers = 1
-_prereq_sovereign_currency = 1
-_prereq_land_border = 1
-
-_prereq_afg
-
 
 [options]
 MULTIPLEPARTIES

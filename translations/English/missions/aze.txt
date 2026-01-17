@@ -6,7 +6,7 @@ description = "Azerbaijan, officially the Republic of Azerbaijan, is a transcont
 jobtitle = "President"
 
 [stats]
-Completeness: = "2/5"
+Completeness: = "3/5"
 National Anthem: = "March of Azerbaijan"
 Population: = "10.3 million (2022)"
 Area: = "86,600 km2 (33,400 sq mi)"

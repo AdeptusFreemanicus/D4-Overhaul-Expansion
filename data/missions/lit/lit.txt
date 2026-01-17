@@ -20,6 +20,18 @@ difficulty = 3
 
 
 [policies]
+_prereq_poachers = 1
+_prereq_has_coast = 1
+_prereq_sovereign_currency = 1
+_prereq_land_border = 1
+_prereq_deadly_animals = 1
+_prereq_eu = 1
+_prereq_nato = 1
+
+interest_rate_eu= 0.03
+landvaluetax= 0.04
+un_nation_status= 0.8
+
 AirlineTax = 0.2
 AlcoholTax = 0.68
 BodyCameras = 0.5
@@ -85,18 +97,6 @@ TobaccoTax = 0.3
 UnemployedBenefit = 0.40
 WinterFuelSubsidy = 0.10
 WorkSafetyLaw = 0.69
-
-interest_rate_eu= 0.03
-landvaluetax= 0.04
-un_nation_status= 0.8
-
-_prereq_poachers = 1
-_prereq_has_coast = 1
-_prereq_sovereign_currency = 1
-_prereq_land_border = 1
-_prereq_deadly_animals = 1
-_prereq_eu = 1
-_prereq_nato = 1
 
 
 [options]

@@ -3,10 +3,10 @@ name  = nth
 guiname = "Netherlands"
 description = "The Netherlands, informally Holland, is a country located in Western Europe with territories in the Caribbean. It is the largest of four constituent countries of the Kingdom of the Netherlands. In Europe, the Netherlands consists of twelve provinces, bordering Germany to the east, Belgium to the south, and the North Sea to the northwest, with maritime borders in the North Sea with those countries and the United Kingdom. In the Caribbean, it consists of three special municipalities: the islands of Bonaire, Sint Eustatius and Saba."
 
-jobtitle = "Monarch"
+jobtitle = "Prime Minister"
 
 [stats]
-Completeness: = "2/5"
+Completeness: = "3/5"
 National Anthem: = "I will maintain"
 Population: = "17.4 million (2020)"	
 Area: = "41,865 km2 (16,164 sq mi)"

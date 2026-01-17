@@ -6,11 +6,11 @@ description = "Israel, officially known as the State of Israel, is a country in 
 jobtitle = "President"
 
 [stats]
-Completeness: = "2/5"
+Completeness: = "3/5"
 National Anthem: = "The Hope"
 Population: = "9.3 million people (2021)"
 Area: = "20,770–22,072 km2 (8,019–8,522 sq mi)"
-Currency: = "New shekel (₪‎) (ILS)"
+Currency: = "New shekel (₪) (ILS)"
 GDP: = "$410.501 billion"
 GDP per capita: = "$44,474"
 Democracy Index: = "7.84/10 (27th)"

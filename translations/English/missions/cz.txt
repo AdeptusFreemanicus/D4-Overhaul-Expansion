@@ -6,7 +6,7 @@ description = "The Czech Republic, also known as Czechia, is a landlocked countr
 jobtitle = "President"
 
 [stats]
-Completeness: = "2/5"
+Completeness: = "3/5"
 National Anthem: = "Where My Home is"
 Population: = "10.5 million (2021)"
 Area: = "78,871 km2 (30,452 sq mi)"
@@ -17,4 +17,4 @@ Democracy Index: = "~7.97/10 (25st)"
 Biggest Industry: = "Manufacturing"
 Capital And Largest City: = "Prague"
 Driving side: =	"right"
-Calling code: = "+420 (Based)"
+Calling code: = "+420"

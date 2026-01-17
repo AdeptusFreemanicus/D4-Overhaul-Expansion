@@ -6,7 +6,7 @@ description = "Hungary is a country in Central Europe. Spanning 93,030 square ki
 jobtitle = "President"
 
 [stats]
-Completeness: = "2/5"
+Completeness: = "3/5"
 National Anthem: = "Hymn"
 Population: = "10 million (2020)"
 Area: = "93,030 km2 (35,920 sq mi)"

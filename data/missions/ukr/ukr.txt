@@ -19,6 +19,20 @@ minor_parties = 3
 difficulty = 5
 
 [policies]
+_prereq_has_coast = 1
+_prereq_sovereign_currency = 1
+_prereq_mining_industry = 1
+_prereq_poachers = 1
+_prereq_indigenous = 1
+_prereq_land_border = 1
+_prereq_deadly_animals = 1
+_prereq_reserve_currency = 1
+_prereq_nuclear_tech = 1
+
+interest_rate= 0.15
+vat= 0.17
+un_nation_status= 0.8
+
 AgricultureSubsidies = 0.25
 AirlineTax = 0.02
 AlcoholLaw = 0.3
@@ -110,20 +124,6 @@ UnemployedBenefit = 0.15
 WaterCannon = 0.1
 WitnessProtectionProgram = 0.30
 WorkSafetyLaw = 0.25
-
-interest_rate= 0.15
-vat= 0.17
-un_nation_status= 0.8
-
-_prereq_has_coast = 1
-_prereq_sovereign_currency = 1
-_prereq_mining_industry = 1
-_prereq_poachers = 1
-_prereq_indigenous = 1
-_prereq_land_border = 1
-_prereq_deadly_animals = 1
-_prereq_reserve_currency = 1
-_prereq_nuclear_tech = 1
 
 [options]
 

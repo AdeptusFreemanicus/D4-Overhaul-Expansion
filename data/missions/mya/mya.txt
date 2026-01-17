@@ -19,6 +19,16 @@ minor_parties = 3
 difficulty = 4
 
 [policies]
+_prereq_royal_family = 1
+_prereq_nuclear_tech = 1
+_prereq_hurricane = 1
+_prereq_has_coast = 1
+_prereq_land_border = 1
+_prereq_mining_industry = 1
+
+interest_rate= 0.08
+un_nation_status= 0.8
+
 AdultEducationSubsidies = 0.25
 AgricultureSubsidies = 0.65
 AirlineTax = 0.02
@@ -136,16 +146,6 @@ UnemployedBenefit = 0.3
 UniversityGrants = 0.5
 WitnessProtectionProgram = 0.5
 WorkSafetyLaw = 0.6
-
-interest_rate= 0.08
-un_nation_status= 0.8
-
-_prereq_royal_family = 1
-_prereq_nuclear_tech = 1
-_prereq_hurricane = 1
-_prereq_has_coast = 1
-_prereq_land_border = 1
-_prereq_mining_industry = 1
 
 [options]
 MULTIPLEPARTIES

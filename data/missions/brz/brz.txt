@@ -20,6 +20,18 @@ difficulty = 4
 
 
 [policies]
+_prereq_poachers = 1
+_prereq_has_coast = 1
+_prereq_sovereign_currency = 1
+_prereq_land_border = 1
+_prereq_deadly_animals = 1
+_prereq_bra
+
+interest_rate= 0.13
+vat= 0.19
+un_nation_status= 0.8
+bra_amazon= 0
+
 AirlineTax = 0.2
 AlcoholTax = 0.68
 ArmedPolice = 0.7
@@ -92,16 +104,6 @@ TobaccoTax = 0.94
 UnemployedBenefit = 0.40
 UniversityGrants = 0.34
 WorkSafetyLaw = 0.69
-
-interest_rate= 0.13
-vat= 0.19
-un_nation_status= 0.8
-
-_prereq_poachers = 1
-_prereq_has_coast = 1
-_prereq_sovereign_currency = 1
-_prereq_land_border = 1
-_prereq_deadly_animals = 1
 
 [options]
 MULTIPLEPARTIES

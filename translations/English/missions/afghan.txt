@@ -3,10 +3,10 @@ name  = afghan
 guiname = "Islamic Emirate of Afghanistan"
 description = "Afghanistan, officially the Islamic Republic of Afghanistan, is a landlocked country at the crossroads of Central and South Asia. Afghanistan is bordered by Pakistan to the east and south; Iran to the west; Turkmenistan, Uzbekistan, and Tajikistan to the north; and China to the northeast. Occupying 652,000 square kilometers (252,000 sq mi), it is a mountainous country with plains in the north and southwest. Kabul is the capital and largest city. The population is around 32 million, composed mostly of ethnic Pashtuns, Tajiks, Hazaras, and Uzbeks."
 
-jobtitle = "President"
+jobtitle = "Supreme Leader"
 
 [stats]
-Completeness: = "3/5"
+Completeness: = "4/5"
 National Anthem: = "National Anthem"
 Population: = "32.2 million (2019)"
 Area: = "652,230 km2 (251,830 sq mi)"

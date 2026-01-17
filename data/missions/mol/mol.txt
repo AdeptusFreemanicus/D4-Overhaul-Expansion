@@ -20,6 +20,17 @@ difficulty = 3
 
 
 [policies]
+_prereq_mining_industry = 1
+_prereq_deadly_animals = 1
+_prereq_poachers = 1
+_prereq_indigenous = 1
+_prereq_sovereign_currency = 1
+_prereq_nato = 1
+
+interest_rate= 0.02
+vat= 0.25
+un_nation_status= 0.8
+
 AdultEducationSubsidies = 0.25
 AgricultureSubsidies = 0.65
 AirlineTax = 0.02
@@ -139,17 +150,6 @@ UnemployedBenefit = 0.3
 UniversityGrants = 0.5
 WitnessProtectionProgram = 0.5
 WorkSafetyLaw = 0.6
-
-interest_rate= 0.02
-vat= 0.25
-un_nation_status= 0.8
-
-_prereq_mining_industry = 1
-_prereq_deadly_animals = 1
-_prereq_poachers = 1
-_prereq_indigenous = 1
-_prereq_sovereign_currency = 1
-_prereq_nato = 1
 
 [options]
 MULTIPLEPARTIES

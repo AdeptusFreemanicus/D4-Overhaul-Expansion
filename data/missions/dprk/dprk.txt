@@ -20,6 +20,17 @@ difficulty = 5
 
 
 [policies]
+_prereq_has_coast = 1
+_prereq_mining_industry = 1
+_prereq_deadly_animals = 1
+_prereq_indigenous = 1
+_prereq_sovereign_currency = 1
+_prereq_northkorea = 1
+
+interest_rate= 0.01
+dmznk= 0.5
+un_nation_status= 0.8
+
 AirlineTax = 0.1
 AlcoholLaw = 0.2
 AlcoholTax = 0.55
@@ -102,16 +113,6 @@ TobaccoTax = 0.10
 TortureUsageBySecretServices = 1
 WitnessProtectionProgram = 1
 
-interest_rate= 0.01
-dmznk= 0.5
-un_nation_status= 0.8
-
-_prereq_has_coast = 1
-_prereq_mining_industry = 1
-_prereq_deadly_animals = 1
-_prereq_indigenous = 1
-_prereq_sovereign_currency = 1
-_prereq_northkorea = 1
 
 [options]
 COMPULSORY_VOTING

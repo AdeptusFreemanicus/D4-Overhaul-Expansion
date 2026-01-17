@@ -20,6 +20,19 @@ difficulty = 4
 
 
 [policies]
+_prereq_has_coast = 1
+_prereq_sovereign_currency = 1
+_prereq_mining_industry = 1
+_prereq_poachers = 1
+_prereq_land_border = 1
+_prereq_deadly_animals = 1
+_prereq_nuclear_tech = 1
+
+interest_rate= 0.11
+vat= 0.18
+un_nation_status= 0.8
+sharia= 0.7
+
 AirlineTax = 0.1
 AlcoholLaw = 1
 ArmedPolice = 1
@@ -86,19 +99,6 @@ TollRoads = 0.20
 UnemployedBenefit = 0.07
 UniversityGrants = 0.2
 WitnessProtectionProgram = 0.25
-
-interest_rate= 0.11
-vat= 0.18
-un_nation_status= 0.8
-sharia= 0.7
-
-_prereq_has_coast = 1
-_prereq_sovereign_currency = 1
-_prereq_mining_industry = 1
-_prereq_poachers = 1
-_prereq_land_border = 1
-_prereq_deadly_animals = 1
-_prereq_nuclear_tech = 1
 
 [options]
 MULTIPLEPARTIES

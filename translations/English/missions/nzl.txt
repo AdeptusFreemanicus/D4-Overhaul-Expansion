@@ -6,7 +6,7 @@ description = "New Zealand is an island country in the southwestern Pacific Ocea
 jobtitle = "Prime Minister"
 
 [stats]
-Completeness: = "2/5"
+Completeness: = "3/5"
 National Anthem: = "God Defend New Zealand"
 Royal Anthem: = "God Save the Queen"
 Population: = "5,1 million (2021 est)"

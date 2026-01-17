@@ -20,6 +20,11 @@ difficulty = 4
 
 
 [policies]
+_prereq_mining_industry = 1
+
+landvaluetax = 0.04
+un_nation_status= 0.8
+
 AdultEducationSubsidies = 0.2
 AgricultureSubsidies = 0.1
 AirlineTax = 0.05
@@ -99,11 +104,6 @@ UnemployedBenefit = 0.4
 UniversityGrants = 0.4
 WorkersOnBoards = 0.4
 WorkSafetyLaw = 0.4
-
-landvaluetax = 0.04
-un_nation_status= 0.8
-
-_prereq_mining_industry = 1
 
 
 [options]

@@ -6,7 +6,7 @@ description = "Brunei, formally Brunei Darussalamt, is a country located on the 
 jobtitle = "Sultan"
 
 [stats]
-Completeness: = "2/5"
+Completeness: = "3/5"
 Motto: = "Always in service with God's guidance"
 National Anthem: = "God Bless the Sultan"
 Population: = "460,345 (2020 est)"

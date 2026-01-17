@@ -6,7 +6,7 @@ description = "Indonesia, officially the Republic of Indonesia, is a country in 
 jobtitle = "President"
 
 [stats]
-Completeness: = "2/5"
+Completeness: = "3/5"
 Motto: = "Unity in Diversity"
 National Anthem: = "Great Indonesia"
 Population: = "270 million (2020)"

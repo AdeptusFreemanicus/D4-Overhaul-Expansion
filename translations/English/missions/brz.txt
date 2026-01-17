@@ -6,14 +6,14 @@ description = "Brazil, officially the Federative Republic of Brazil, is the larg
 jobtitle = "President"
 
 [stats]
-Completeness: = "2/5"
+Completeness: = "3/5"
 Motto: = "Order and Progress"
 National Anthem: = "Brazilian National Anthem"
 Population: = "210 million (2019)"
 Area: = "8,515,767 km2 (3,287,956 sq mi)"
 Currency: = "Real (R$) (BRL)"
-GDP: = "$3.078 trillion (~R$15,516,802,336,500.00 BRL )"
-GDP per capita: = "$6,450 (R$33,361.13 BRL )"
+GDP: = "$3.078 trillion (~R$15,516,802,336,500.00 BRL)"
+GDP per capita: = "$6,450 (R$33,361.13 BRL)"
 Democracy Index: = "~6.86/10 (52nd)"
 Biggest Industry: = "Manufacturing Automobiles"
 Capital: = "Brasília"

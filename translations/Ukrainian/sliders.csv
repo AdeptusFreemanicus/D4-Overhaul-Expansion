@@ -120,3 +120,8 @@
 #,TaxFraudDepartment,Дуже базові операції, Основний відділ, Основні операції, Єдина слідча група, Допомога поліції, Обмін основною інформацією, Добре забезпечені агенти, Повні повноваження агента, Міжвідомча співпраця, Повний обмін інформацією, Збільшення ресурсів агентства, Внутрішні розслідування, Повністю обладнане бюро судово-медичної експертизи, Кілька слідчих груп,,
 #,UNNationStatus,Не член, держава-спостерігач, член, постійний член,,,,,,,,,,,,
 #,TheDMZ,Нормований кордон, посилена безпека, висока тривога, DMZ, надзвичайна безпека, експансивний технологічний моніторинг, нереалістичні витрати,,,,,,,,,
+#,State Opium Regulation,High Opium Regulation,Increased Opium Regulation,No Opium Regulation,State Opium Investment,Opium State Monopoly
+#,Amazon Sovereignty,Total Protection,Sustainable Exploitation,Increased Expansion,Destructive Exploitation,
+#,New Administrative Capital,Land Allocation,Basic Infrastructure,Administrative Buildings,Secondary Buildings,Uility Coverage
+#,Strategic Shipping Canal,Land Clearance,Canal Dug,Canal Infrastructure,Canal Opened
+#,Artificial Island Resort,Island Formation,Basic Infrastructure,Uility Coverage,Resort Buildings

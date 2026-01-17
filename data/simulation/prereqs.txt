@@ -5,8 +5,9 @@
 924 = _prereq_mor
 925 = _prereq_afg
 926 = _prereq_aze
+927 = _prereq_arg
 
-
+950 = _prereq_bra
 
 
 

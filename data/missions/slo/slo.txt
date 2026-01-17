@@ -20,6 +20,18 @@ difficulty = 3
 
 
 [policies]
+_prereq_has_coast = 1
+_prereq_mining_industry = 1
+_prereq_deadly_animals = 1
+_prereq_poachers = 1
+_prereq_indigenous = 1
+_prereq_sovereign_currency = 1
+_prereq_eu = 1
+_prereq_nato = 1
+
+interest_rate_eu= 0.08
+un_nation_status= 0.8
+
 AdultEducationSubsidies = 0.5
 AgricultureSubsidies = 0.45
 AirlineTax = 0.12
@@ -116,17 +128,6 @@ UniversityGrants = 1.0
 WelfareFraudDept = 0.75
 WorkersOnBoards = 0.75
 WorkSafetyLaw = 0.5
-
-interest_rate_eu= 0.08
-un_nation_status= 0.8
-
-_prereq_mining_industry = 1
-_prereq_deadly_animals = 1
-_prereq_poachers = 1
-_prereq_indigenous = 1
-_prereq_sovereign_currency = 1
-_prereq_eu = 1
-_prereq_nato = 1
 
 
 [options]

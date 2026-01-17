@@ -20,6 +20,21 @@ difficulty = 1
 
 
 [policies]
+_prereq_has_coast = 1
+_prereq_mining_industry = 1
+_prereq_deadly_animals = 1
+_prereq_royal_family = 1
+_prereq_land_border = 1
+_prereq_poachers = 1
+_prereq_sovereign_currency = 1
+
+interest_rate= 0.04
+vat= 0.05
+un_nation_status= 0.8
+sharia= 0.5
+burj= 1
+artificial_island_resort= 1
+
 AbortionLaw = 0.75
 AdultEducationSubsidies = 0.4
 AlcoholAwarenessCampaign = 1.0
@@ -104,20 +119,6 @@ TourismAdCampaign = 1
 UnemployedBenefit = 0.3
 UniversityGrants = 0.6
 WorkSafetyLaw = 0.67
-
-interest_rate= 0.04
-vat= 0.05
-un_nation_status= 0.8
-sharia= 0.5
-burj= 1
-
-_prereq_has_coast = 1
-_prereq_mining_industry = 1
-_prereq_deadly_animals = 1
-_prereq_royal_family = 1
-_prereq_land_border = 1
-_prereq_poachers = 1
-_prereq_sovereign_currency = 1
 
 [options]
 MULTIPLEPARTIES

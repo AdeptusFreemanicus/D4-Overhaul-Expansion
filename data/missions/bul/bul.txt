@@ -20,6 +20,19 @@ difficulty = 4
 
 
 [policies]
+_prereq_has_coast = 1
+_prereq_mining_industry = 1
+_prereq_land_border = 1
+_prereq_poachers = 1
+_prereq_indigenous = 1
+_prereq_sovereign_currency = 1
+_prereq_eu = 1
+_prereq_nato = 1
+
+
+interest_rate_eu= 0.04
+un_nation_status= 0.8
+
 AbortionLaw = 0.75
 AgricultureSubsidies = 0.7
 AirlineTax = 0.1
@@ -98,18 +111,6 @@ TourismAdCampaign = 0.25
 UnemployedBenefit = 0.45
 UniversityGrants = 0.25
 WorkSafetyLaw = 0.67
-
-interest_rate_eu= 0.04
-un_nation_status= 0.8
-
-_prereq_has_coast = 1
-_prereq_mining_industry = 1
-_prereq_land_border = 1
-_prereq_poachers = 1
-_prereq_indigenous = 1
-_prereq_sovereign_currency = 1
-_prereq_eu = 1
-_prereq_nato = 1
 
 
 [options]

@@ -6,7 +6,7 @@ description = "Norway, officially the Kingdom of Norway, is a Nordic country in 
 jobtitle = "Prime Minister"
 
 [stats]
-Completeness: = "2/5"
+Completeness: = "3/5"
 National Anthem: = "Yes, we love this country"
 Population: = "5.3 million (2020)"
 Area: = "385,207 km2 (148,729 sq mi)"

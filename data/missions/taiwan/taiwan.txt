@@ -19,6 +19,16 @@ minor_parties = 3
 difficulty = 4
 
 [policies]
+interest_rate= 0.01
+landvaluetax= 0.07
+vat= 0.05
+un_nation_status= 0.8
+
+_prereq_has_coast = 1
+_prereq_mining_industry = 1
+_prereq_hurricane = 1
+_prereq_sovereign_currency = 1
+
 AdultEducationSubsidies = 0.25
 AirlineTax = 0.1
 AlcoholLaw = 0.5
@@ -104,17 +114,6 @@ TollRoads = 0.57
 UnemployedBenefit = 0.5
 UniversityGrants = 0.6
 WitnessProtectionProgram = 0.25
-
-interest_rate= 0.01
-landvaluetax= 0.07
-vat= 0.05
-un_nation_status= 0.8
-
-_prereq_has_coast = 1
-_prereq_mining_industry = 1
-_prereq_hurricane = 1
-_prereq_sovereign_currency = 1
-
 
 [options]
 MULTIPLEPARTIES

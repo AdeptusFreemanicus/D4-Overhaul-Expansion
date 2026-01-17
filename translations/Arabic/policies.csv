@@ -2,7 +2,6 @@
 #,revenueservice,ايرادات الخدمة,"تضمن خدمة الإيرادات أن يدفع الأشخاص ضرائبهم في الوقت المحدد. ويقول الكثيرون إن هذا يضر بشكل غير متناسب بالطبقة المتوسطة والدنيا بشكل أكبر، لكن آخرين يقولون إن أمتنا تحتاج إلى هذه الوكالة لتأمين الضرائب الحكومية."
 #,freetaxpreparationclasses,دروس الإعداد الضريبي المجانية,"إن تقديم دروس مجانية حول كيفية دفع الضرائب يضمن أن الجميع، والأهم من ذلك دافعي الضرائب الجدد، يعرفون كيفية دفع الضرائب ويمكنهم تجنب أي مشاكل تتعلق بالقيام بها بشكل غير صحيح."
 #,pandemicpreparationfund,صندوق الاستعداد للوباء,"يتم استخدام PPF، وهو اختصار لصندوق الاستعداد للوباء، لحماية المدنيين والمسؤولين الحكوميين من الأمراض التي تعرض أمتنا للخطر."
-#,sas,"ملاجئ الحيوانات الحكومية","توفر ملاجئ الحيوانات للحيوانات الضالة منزلًا مؤقتًا حيث يتم إطعامها وغسلها وعلاجها.",
 #,sac,"مراقبة الدولة للحيوانات","سيسمح تمويل وتشغيل خدمة مراقبة الحيوانات لمسؤولي مراقبة الحيوانات بالتعامل مع الحيوانات البرية والضالة وإما وضعها أو نقلها إلى مأوى للحيوانات أو أي منشأة احتجاز أخرى.",
 #,so,"دور الأيتام الحكومية","توفر دور الأيتام التي تبنيها وتديرها الدولة دارًا للأيتام والقاصرين المشردين الذين يحتاجون إلى المساعدة والرعاية.",
 #,pt,"تدريب الشرطة","كلما كان التدريب الأفضل الذي نقدمه لضباطنا، كان أداؤهم أفضل!",
@@ -20,3 +19,9 @@
 #,sad,"قضية المغرب","نحن منطقة متنازع عليها وأمة مهددة، ولا نسيطر بشكل كامل على أراضينا، ما يقرب من 80٪ من الأراضي يسيطر عليها المغرب، يجب أن نحاول البقاء على قيد الحياة في مثل هذا الوضع السيئ",
 #,empage,"وكالة التوظيف": "تربط وكالة التوظيف بين الباحثين عن عمل وأرباب العمل، مما يسهل عملية توظيف القوى العاملة ويساهم في التنمية الاقتصادية."
 #,govbon,"السندات الحكومية","السندات الحكومية هي أوراق دين تصدرها الدولة لجمع الأموال للمشروعات العامة والنمو الاقتصادي."
+#,afg_opium,"Opium Production","Opium and other drugs like cannabis have long been a source of income in Afghanistan, from small individually owned poppy fields to state funded farms and logistical lines."
+#,arg_retentions,"Agricultural Exports Tax","The Argentine state relies heavily on taxing agricultural exports (like soy, wheat, corn) to fund the government and keep domestic food prices low. This creates an Argentine political loop: The government needs the money to avoid default, but increasing this tax causes massive strikes ("Tractorazos") in the countryside and stifles foreign investments."
+#,bra_amazon,"Amazon Sovereignty","Amazon Sovereignty represents the tension between using the Amazon rainforest for economic expansion (like mining, logging, cattle) versus preserving it for international approval and climate health."
+#,new_capital_city,"New Administrative Capital","Building a capital needs a large investment, both monetary and political, but once complete, the new capital will bring in cash in the form of tax and other benefits."
+#,canal_project,"Strategic Shipping Canal","A massive terraforming project to create a new trade route through your country (similar to the Panama, Suez, or the proposed Kra Isthmus canals). It destroys local ecosystems and angers farmers whose land is seized, but once finished, it generates massive transit fees and creates a trade boom."
+#,artificial_island_resort,"Artificial Island Resort","A massive reclaiming project (similar to the Palm Jumeirah in Dubai) to create luxury hotels, beaches, and high-end real estate. It creates a massive Tourism and GDP boom but is ecologically devastating and increases inequality (as it caters exclusively to the super-rich)."

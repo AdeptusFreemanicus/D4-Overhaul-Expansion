@@ -19,6 +19,16 @@ minor_parties = 3
 difficulty = 1
 
 [policies]
+_prereq_has_coast = 1
+_prereq_royal_family = 1
+_prereq_land_border = 1
+_prereq_eu = 1
+_prereq_nato = 1
+
+wt = 0.015
+interest_rate_eu = 0.02
+un_nation_status= 0.8
+
 AbortionLaw = 1
 AdultEducationSubsidies = 0.55
 AlcoholAwarenessCampaign = 1.0
@@ -105,16 +115,6 @@ TobaccoTax = 0.2
 UnemployedBenefit = 0.3
 UniversityGrants = 0.25
 WorkSafetyLaw = 0.5
-
-wt = 0.015
-interest_rate_eu = 0.02
-un_nation_status= 0.8
-
-_prereq_has_coast = 1
-_prereq_royal_family = 1
-_prereq_land_border = 1
-_prereq_eu = 1
-_prereq_nato = 1
 
 [options]
 MULTIPLEPARTIES

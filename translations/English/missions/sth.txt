@@ -6,7 +6,7 @@ description = "South Africa, officially the Republic of South Africa, is the sou
 jobtitle = "President"
 
 [stats]
-Completeness: = "2/5"
+Completeness: = "3/5"
 National Anthem: = "Unity in diversity"
 Population: = "66 million (2021)"
 Area: = "1,221,037 km2 (471,445 sq mi)"

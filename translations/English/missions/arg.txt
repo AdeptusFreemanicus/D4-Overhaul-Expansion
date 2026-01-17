@@ -6,7 +6,7 @@ description = "Argentina, officially the Argentine Republic, is a country in the
 jobtitle = "President"
 
 [stats]
-Completeness: = "2/5"
+Completeness: = "3/5"
 Motto: = "In Unity and Freedom"
 Population: = "44 million people (2017)"
 Area: = "2,780,085km2 (1,073,397 sq mi)"

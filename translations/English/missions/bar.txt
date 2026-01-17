@@ -6,7 +6,7 @@ description = "Barbados is an island country in the Lesser Antilles of the West 
 jobtitle = "President"
 
 [stats]
-Completeness: = "2/5"
+Completeness: = "3/5"
 Motto: = "Pride and Industry"
 National Anthem: = "In Plenty and In Time of Need"
 Population: = "287,025 (2019 est)"

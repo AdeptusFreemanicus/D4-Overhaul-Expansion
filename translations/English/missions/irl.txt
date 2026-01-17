@@ -6,7 +6,7 @@ description = "Ireland, Officially the Republic of Ireland, is a country in nort
 jobtitle = "President"
 
 [stats]
-Completeness: = "2/5"
+Completeness: = "3/5"
 National Anthem: = "The Soldiers' Song"
 Population: = "5 million (2021 est)"
 Area: = "70,273 km2 (27,133 sq mi)"

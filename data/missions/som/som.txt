@@ -20,6 +20,16 @@ difficulty = 5
 
 
 [policies]
+_prereq_has_coast = 1
+_prereq_mining_industry = 1
+_prereq_deadly_animals = 1
+_prereq_poachers = 1
+_prereq_indigenous = 1
+_prereq_sovereign_currency = 1
+
+interest_rate= 0.03
+un_nation_status= 0.8
+
 AirlineTax = 0.1
 AlcoholLaw = 1
 ArmedPolice = 0.45
@@ -78,15 +88,6 @@ TollRoads = 0.20
 UnemployedBenefit = 0.07
 UniversityGrants = 0.2
 WitnessProtectionProgram = 0.25
-
-interest_rate= 0.03
-un_nation_status= 0.8
-
-_prereq_mining_industry = 1
-_prereq_deadly_animals = 1
-_prereq_poachers = 1
-_prereq_indigenous = 1
-_prereq_sovereign_currency = 1
 
 
 [options]

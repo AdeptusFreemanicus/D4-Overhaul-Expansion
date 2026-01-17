@@ -19,6 +19,18 @@ minor_parties = 1
 difficulty = 1
 
 [policies]
+_prereq_has_coast = 1
+_prereq_royal_family = 1
+_prereq_sovereign_currency = 1
+_prereq_wmd = 1
+_prereq_nuclear_tech = 1
+_prereq_uk = 1
+_prereq_nato = 1
+
+interest_rate= 0.04
+vat= 0.20
+un_nation_status= 0.8
+
 AbortionLaw = 0.75
 AgricultureSubsidies = 0.45
 AirlineTax = 0.2
@@ -111,18 +123,6 @@ UnemployedBenefit = 0.62
 unexplainedwealth = 0.5
 WinterFuelSubsidy = 0.55
 WorkSafetyLaw = 0.69
-
-interest_rate= 0.04
-vat= 0.20
-un_nation_status= 0.8
-
-_prereq_has_coast = 1
-_prereq_royal_family = 1
-_prereq_sovereign_currency = 1
-_prereq_wmd = 1
-_prereq_nuclear_tech = 1
-_prereq_uk = 1
-_prereq_nato = 1
 
 [options]
 MULTIPLEPARTIES

@@ -6,7 +6,7 @@ description = "Greece, officially the Hellenic Republic, is a country located in
 jobtitle = "President"
 
 [stats]
-Completeness: = "2/5"
+Completeness: = "3/5"
 Motto: = "Freedom or Death"
 National Anthem: = "Hymn to Liberty"
 Population: = "10.7 million (2020)"
